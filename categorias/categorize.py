@@ -2,14 +2,13 @@ import nltk
 import json
 from nltk.corpus import wordnet
 
-with open('./ficheiros/dicionario_final.json', 'r', encoding="utf8") as file:
+with open('./ficheiros_TP1/dicionario_final.json', 'r', encoding="utf8") as file:
     dic = dict(json.load(file))
 
 new_dic = {}
 # Get synsets for the word
 for word in dic.keys():
     print("----")
-    print("Key:", word)
     # Print synonyms for each synset and their categories
     synsets = wordnet.synsets(word, lang='por')  # Specify the language as 'por' for Portuguese
 
@@ -32,7 +31,7 @@ for word in dic.keys():
             else:
                 new_dic[hypernym_name] = [{word:dic[word]}]
 
-file = open("output/dic_categorias.json","w", encoding="utf8")
+file = open("./output/dic_categorias.json","w", encoding="utf8")
 json.dump(new_dic,file, ensure_ascii=False, indent = 4)
 file.close()
 
