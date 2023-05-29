@@ -1,5 +1,8 @@
 import json
 from deep_translator import GoogleTranslator
+import locale
+
+locale.setlocale(locale.LC_ALL, '')
 
 with open('ficheiros_TP1/glossario_exppop.json', 'r', encoding="utf8") as file:
     exps = dict(json.load(file))
@@ -179,7 +182,7 @@ for key, value in covid.items():
                         'Traduções':{'en':value['en'],
                                      'fr':value['fr']}}
 
-dic_uniao = sorted(dic_uniao.items())
+dic_uniao = dict(sorted(dic_uniao.items(), key=lambda x: locale.strxfrm(x[0])))
 
 with open('ficheiros_TP1/dicionario_final.json', 'w', encoding="utf8") as file:
     json.dump(dict(dic_uniao), file, ensure_ascii=False, indent=4)
