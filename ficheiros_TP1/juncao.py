@@ -154,7 +154,7 @@ for key, value in obg.items():
         dic_uniao[key] = {'Descrições': {"desc_pt" : covid[key]['desc_pt'],
                                         "exp pop" : exps[key]['Descrições']['exp pop'],
                                         "desc_en" : covid[key]['desc_en']},
-                        'Traduções': {"en" : [covid[key]['en'], value['en']],
+                        'Traduções': {"en" : value['en'],
                                     "es" :  value['es'],
                                     "fr" : covid[key]['fr']}}
     elif key in exps.keys() and key not in covid.keys():
@@ -164,8 +164,8 @@ for key, value in obg.items():
     elif key in covid.keys() and key not in exps.keys():
         dic_uniao[key] = {'Descrições':{"desc_pt" : covid[key]['desc_pt'],
                                         "desc_en": covid[key]['desc_en']},
-                            'Traduções':{"en" : [value['en'], covid[key]['en']],
-                                        "es" : [value['es'], covid[key]['en']],
+                            'Traduções':{"en" : value['en'],
+                                        "es" : value['es'],
                                         "fr" : covid[key]['fr']}}
     elif key not in covid.keys() and key not in exps.keys():
         dic_uniao[key] = {'Traduções':{"en" : value['en'],

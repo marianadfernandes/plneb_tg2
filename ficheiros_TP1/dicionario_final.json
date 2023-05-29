@@ -783,10 +783,7 @@
             "desc_en": "Suspension of solid or liquid particles in a gas."
         },
         "Traduções": {
-            "en": [
-                "aerosol",
-                "aerosol"
-            ],
+            "en": "aerosol",
             "es": "aerosol",
             "fr": "aérosol"
         }
@@ -2086,10 +2083,7 @@
             "desc_en": "Disorder characterized by loss of smell."
         },
         "Traduções": {
-            "en": [
-                "anosmia",
-                "anosmia"
-            ],
+            "en": "anosmia",
             "es": "anosmia",
             "fr": "anosmie"
         }
@@ -2279,10 +2273,7 @@
             "desc_en": "Protein produced by B lymphocytes that can recognize and neutralize an antigen."
         },
         "Traduções": {
-            "en": [
-                "antibody",
-                "antibody"
-            ],
+            "en": "antibody",
             "es": "anticuerpo",
             "fr": "anticorps"
         }
@@ -5119,14 +5110,8 @@
             "desc_en": "Person who is diagnosed as having a disease."
         },
         "Traduções": {
-            "en": [
-                "case",
-                "case"
-            ],
-            "es": [
-                "caso",
-                "case"
-            ],
+            "en": "case",
+            "es": "caso",
             "fr": "cas"
         }
     },
@@ -10252,14 +10237,8 @@
             "desc_en": "Abnormal condition that has a negative impact on the structure or function of all or part of an organism, generally associated with certain signs and symptoms."
         },
         "Traduções": {
-            "en": [
-                "illness, sickness, disorder, disease",
-                "disease"
-            ],
-            "es": [
-                "enfermedad",
-                "disease"
-            ],
+            "en": "illness, sickness, disorder, disease",
+            "es": "enfermedad",
             "fr": "maladie"
         }
     },
@@ -11811,10 +11790,7 @@
             "desc_en": "Disease for which there are many more cases than would be expected at a given time in a given population and which can be ascribed to the same cause."
         },
         "Traduções": {
-            "en": [
-                "epidemic disease",
-                "epidemic (disease)"
-            ],
+            "en": "epidemic (disease)",
             "es": "epidemia",
             "fr": "épidémie"
         }
@@ -11831,14 +11807,8 @@
             "desc_en": "Scientific study of the occurrence of a disease or other health-related event in specified populations, and its application to the control of health problems."
         },
         "Traduções": {
-            "en": [
-                "epidemiology",
-                "epidemiology"
-            ],
-            "es": [
-                "epidemiología",
-                "epidemiology"
-            ],
+            "en": "epidemiology",
+            "es": "epidemiología",
             "fr": "épidémiologie"
         }
     },
@@ -12450,14 +12420,8 @@
             "desc_en": "Method of collecting a sample of organic material for diagnostic purposes by inserting a swab into a person’s body orifices, e.g. nose, mouth, etc."
         },
         "Traduções": {
-            "en": [
-                "swab, smear",
-                "swab test"
-            ],
-            "es": [
-                "frotis",
-                "swab test"
-            ],
+            "en": "swab, smear",
+            "es": "frotis",
             "fr": "écouvillonnage"
         }
     },
@@ -14111,14 +14075,8 @@
             "desc_en": "Innate immune response mechanism that increases a person’s body temperature above the normal level."
         },
         "Traduções": {
-            "en": [
-                "fever",
-                "fever"
-            ],
-            "es": [
-                "fiebre",
-                "fever"
-            ],
+            "en": "fever",
+            "es": "fiebre",
             "fr": "fièvre"
         }
     },
@@ -15266,14 +15224,8 @@
             "desc_en": "Sequence of DNA that carries the required information for making a specific molecule, typically a protein."
         },
         "Traduções": {
-            "en": [
-                "gene, factor",
-                "gene"
-            ],
-            "es": [
-                "gen",
-                "gene"
-            ],
+            "en": "gene, factor",
+            "es": "gen",
             "fr": "gène"
         }
     },
@@ -15333,14 +15285,8 @@
             "desc_en": "Complete set of DNA of a living organism, including all of its genes."
         },
         "Traduções": {
-            "en": [
-                "genom(e)",
-                "genome"
-            ],
-            "es": [
-                "genoma",
-                "genome"
-            ],
+            "en": "genom(e)",
+            "es": "genoma",
             "fr": "génome"
         }
     },
@@ -17972,10 +17918,7 @@
             "desc_en": "New cases of a disease arising in a given period in a population at risk."
         },
         "Traduções": {
-            "en": [
-                "incidence",
-                "incidence"
-            ],
+            "en": "incidence",
             "es": "incidencia",
             "fr": "incidence"
         }
@@ -18379,10 +18322,7 @@
             "desc_en": "Series of innate immunity processes initiated by the body in response to an injury."
         },
         "Traduções": {
-            "en": [
-                "inflammation",
-                "inflammation"
-            ],
+            "en": "inflammation",
             "es": "inflamación",
             "fr": "inflammation"
         }
@@ -19011,10 +18951,7 @@
             "desc_en": "Invasive lung ventilation method in which a tube is inserted into the patient’s trachea through the mouth or nose."
         },
         "Traduções": {
-            "en": [
-                "intubation",
-                "intubation"
-            ],
+            "en": "intubation",
             "es": "intubación , entubación",
             "fr": "intubation"
         }
@@ -22026,14 +21963,8 @@
             "desc_en": "Means by which an infectious agent spreads from one host to another."
         },
         "Traduções": {
-            "en": [
-                "mode of transmission",
-                "mode of transmission"
-            ],
-            "es": [
-                "modo de transmisión",
-                "mode of transmission"
-            ],
+            "en": "mode of transmission",
+            "es": "modo de transmisión",
             "fr": "mode de transmission"
         }
     },
@@ -24483,14 +24414,8 @@
             "desc_en": "Epidemic disease that has spread to different countries and continents."
         },
         "Traduções": {
-            "en": [
-                "pandemia, pandemic",
-                "pandemic"
-            ],
-            "es": [
-                "pandemia",
-                "pandemic"
-            ],
+            "en": "pandemia, pandemic",
+            "es": "pandemia",
             "fr": "pandémie"
         }
     },
@@ -25572,14 +25497,8 @@
             "desc_en": "Lapse of time between the exposure to an infectious agent and the onset of the symptoms of a disease."
         },
         "Traduções": {
-            "en": [
-                "incubation period",
-                "incubation period"
-            ],
-            "es": [
-                "período de incubación",
-                "incubation period"
-            ],
+            "en": "incubation period",
+            "es": "período de incubación",
             "fr": "période d'incubation"
         }
     },
@@ -27062,14 +26981,8 @@
             "desc_en": "All cases of a disease observed at a given point in time in a population at risk."
         },
         "Traduções": {
-            "en": [
-                "prevalence",
-                "prevalence"
-            ],
-            "es": [
-                "prevalencia",
-                "prevalence"
-            ],
+            "en": "prevalence",
+            "es": "prevalencia",
             "fr": "prévalence"
         }
     },
@@ -30436,14 +30349,8 @@
             "desc_en": "Organ dysfunction syndrome caused by an impairment of the physiological regulatory mechanisms via which a host responds to infection."
         },
         "Traduções": {
-            "en": [
-                "sepsis, septicemia",
-                "sepsis"
-            ],
-            "es": [
-                "sepsis",
-                "sepsis"
-            ],
+            "en": "sepsis, septicemia",
+            "es": "sepsis",
             "fr": "sepsis"
         }
     },
@@ -31008,10 +30915,7 @@
             "desc_en": "Manifestation of a disease that is perceptible to only the patient (subjective symptom) or to the patient and others (objective symptom or sign)."
         },
         "Traduções": {
-            "en": [
-                "symptom",
-                "symptom, sign"
-            ],
+            "en": "symptom, sign",
             "es": "síntoma",
             "fr": "symptôme"
         }
@@ -31729,14 +31633,8 @@
             "desc_en": "Cluster of a disease with a common cause and an overall number of cases that is inferior to that of an epidemic."
         },
         "Traduções": {
-            "en": [
-                "discharge",
-                "disease outbreak"
-            ],
-            "es": [
-                "descarga",
-                "disease outbreak"
-            ],
+            "en": "discharge",
+            "es": "descarga",
             "fr": "flambée épidémique"
         }
     },
@@ -33672,14 +33570,8 @@
             "desc_en": "Hospital facility that provides critical care and life support for acutely ill or injured patients."
         },
         "Traduções": {
-            "en": [
-                "intensive care unit",
-                "intensive care unit"
-            ],
-            "es": [
-                "unidad de cuidados intensivos (UVI)",
-                "intensive care unit"
-            ],
+            "en": "intensive care unit",
+            "es": "unidad de cuidados intensivos (UVI)",
             "fr": "unité de soins intensifs"
         }
     },
@@ -34630,14 +34522,8 @@
             "desc_en": "Microscopic infectious agent that can multiply only in living cells of animals, plants, or bacteria, consisting of genetic material, either DNA or RNA, housed inside a capsid."
         },
         "Traduções": {
-            "en": [
-                "virus",
-                "virus"
-            ],
-            "es": [
-                "virus",
-                "virus"
-            ],
+            "en": "virus",
+            "es": "virus",
             "fr": "virus"
         }
     },

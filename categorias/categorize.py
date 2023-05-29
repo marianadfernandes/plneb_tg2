@@ -3,26 +3,24 @@ import json
 from nltk.corpus import wordnet
 import locale
 
+# definir localização/internacionalização 
 locale.setlocale(locale.LC_ALL, '')
 
 with open('./ficheiros_TP1/dicionario_final.json', 'r', encoding="utf8") as file:
     dic = dict(json.load(file))
 
 new_dic = {}
-# Get synsets for the word
 for word in dic.keys():
     print("----")
-    # Print synonyms for each synset and their categories
-    synsets = wordnet.synsets(word, lang='por')  # Specify the language as 'por' for Portuguese
+    synsets = wordnet.synsets(word, lang='por')
 
-    # Print synonyms and hypernyms for each synset
     for synset in synsets:
         print("Word:", word)
         print("Synset:", synset.name())
         print("Definition:", synset.definition())
         print("Synonyms:", synset.lemma_names())
 
-        # Get hypernyms (superordinate categories) for the synset
+        # ir buscar categoria associada ao termo
         hypernyms = synset.hypernyms()
         print("Hypernyms:")
         for hypernym in hypernyms:
@@ -30,7 +28,10 @@ for word in dic.keys():
 
             hypernym_name = hypernym.name().split('.')[0]
             if hypernym_name in new_dic:
-                new_dic[hypernym_name].append({word:dic[word]})
+                # verifica se o termo já lá está para não duplicar
+                existing_words = [item for item in new_dic[hypernym_name] if word in item]
+                if not existing_words:
+                    new_dic[hypernym_name].append({word: dic[word]})
             else:
                 new_dic[hypernym_name] = [{word:dic[word]}]
 
