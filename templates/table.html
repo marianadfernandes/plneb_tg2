@@ -1,0 +1,84 @@
+{% extends 'layout.html' %}
+
+
+{% block body %}
+
+<div class="container p-4">
+<h3>Tabela Resumo</h3>
+<table id="example" class="display" style="width:100%;">
+    <thead>
+        <tr>
+            <th>Termo</th>
+            <th>Traduções</th>
+            <th>Expressão popular</th>
+            <th>Descrições</th>
+        </tr>
+    </thead>
+    <tbody>
+        {% for key, d in designations %}
+        <tr>
+            <!-- DESIGNAÇÃO -->
+            <td>{{ key }}</td>
+            
+            <!-- TRADUÇÕES -->
+            {% if d['Traduções'] %}
+                {% if d['Traduções']["en"] and d['Traduções']["es"] and d['Traduções']["fr"] %}
+                    <td style="width: 25%;">EN: {{ d['Traduções']["en"] }}
+                        <p>ES: {{ d['Traduções']["es"] }}</p>
+                        <p>FR: {{ d['Traduções']["fr"] }}</p>
+                    </td>
+                {% endif %}
+            
+                {% if d['Traduções']["en"] and d['Traduções']["es"] and not d['Traduções']["fr"] %}
+                    <td style="width: 25%;">EN: {{ d['Traduções']["en"] }}
+                        <p>ES: {{ d['Traduções']["es"] }}</p>
+                    </td>
+                {% endif %}
+
+                {% if d['Traduções']["en"] and not d['Traduções']["es"] and d['Traduções']["fr"] %}
+                    <td style="width: 25%;">EN: {{ d['Traduções']["en"] }}
+                    </td>
+                {% endif %}
+            
+            {% else %}
+                <td>-</td>
+            {% endif %}
+            
+            
+            {% if d['Descrições'] %}
+                <!-- EXPRESSÃO POPULAR -->
+                {% if d['Descrições']["exp pop"] %}
+                    <td>{{ d['Descrições']["exp pop"] }}</td>
+                {% else %}
+                    <td>-</td>
+                {% endif %}
+
+                <!-- DESCRIÇÕES -->
+                {% if d['Descrições']["desc_pt"] and d['Descrições']["desc_en"] %}
+                    <td>PT: {{ d['Descrições']["desc_pt"] }}
+                        <p>EN: {{ d['Descrições']["desc_en"] }}</p>
+                    </td>
+                {% else %}
+                    <td>-</td>
+                {% endif %}
+            
+            {% else %}
+                <td>-</td>
+                <td>-</td>
+            {% endif %}
+            
+        </tr>
+        {% endfor %}
+    </tbody>
+    <tfoot>
+        <tr>
+            <th>Termo</th>
+            <th>Traduções</th>
+            <th>Expressão popular</th>
+            <th>Descrições</th>
+        </tr>
+    </tfoot>
+</table>
+</div>
+
+{% endblock %}

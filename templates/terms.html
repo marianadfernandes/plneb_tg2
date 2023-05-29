@@ -1,0 +1,66 @@
+{% extends 'layout.html' %}
+
+{% block body %}
+
+<div class="container p-4 w-50">
+    <h3>Termos</h3>
+    <div class="list-group">
+        {% for d in designations %}
+        <li class="list-group-item d-flex justify-content-between align-items-center">
+            <a href="/term/{{d}}" class="list-group-item list-group-item-light btn-outline-secondary w-75" id="section-{{ d[0] }}">{{d}}</a> 
+            <div>
+            <button type="button" class="btn btn-danger" onclick="deleteTerm('{{d}}')"> Apagar </button> 
+            </div>
+        </li>
+        {% endfor %}
+    </div>
+</div>
+
+<style>
+    .dictionary-sidebar {
+      position: fixed;
+      top: 10%;
+      bottom: 0;
+      left: 3%;
+      width: 1%;
+      box-sizing: border-box;
+    }
+    
+    .dictionary-sidebar a {
+        text-decoration: none;
+        font-weight: 700;
+        color: black;
+        border-bottom: 1px solid black;
+    }
+</style>
+  
+<div class="dictionary-sidebar">
+    <a href="#section-a">A</a>
+    <a href="#section-b">B</a>
+    <a href="#section-c">C</a>
+    <a href="#section-d">D</a>
+    <a href="#section-e">E</a>
+    <a href="#section-f">F</a>
+    <a href="#section-g">G</a>
+    <a href="#section-h">H</a>
+    <a href="#section-i">I</a>
+    <a href="#section-j">J</a>
+    <a href="#section-k">K</a>
+    <a href="#section-l">L</a>
+    <a href="#section-m">M</a>
+    <a href="#section-n">N</a>
+    <a href="#section-o">O</a>
+    <a href="#section-p">P</a>
+    <a href="#section-q">Q</a>
+    <a href="#section-r">R</a>
+    <a href="#section-s">S</a>
+    <a href="#section-t">T</a>
+    <a href="#section-u">U</a>
+    <a href="#section-v">V</a>
+    <a href="#section-w">W</a>
+    <a href="#section-x">X</a>
+    <a href="#section-y">Y</a>
+    <a href="#section-z">Z</a>
+</div>  
+
+{% endblock %}
