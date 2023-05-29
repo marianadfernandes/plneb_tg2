@@ -31,6 +31,8 @@ for word in dic.keys():
             else:
                 new_dic[hypernym_name] = [{word:dic[word]}]
 
+new_dic = sorted(new_dic.items())
+
 file = open("./output/dic_categorias.json","w", encoding="utf8")
 json.dump(new_dic,file, ensure_ascii=False, indent = 4)
 file.close()

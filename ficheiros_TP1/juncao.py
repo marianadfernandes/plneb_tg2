@@ -12,11 +12,10 @@ with open('ficheiros_TP1/dicionario_obrigatorio.json', 'r', encoding="utf8") as 
     
 # formatação do dicionário glossário de expressões de populares
 for key, value in exps.items():
-    exps[key] = {"exp pop" : value}
+    exps[key] = {"Descrições": {"exp pop" : value}}
 
 # formatação do dicionário de covid - chave em pt
 covid = {}
-
 for key, value in covid_original.items():
     pt_value = value.pop("pt")
     value["en"] = key
@@ -36,7 +35,7 @@ for key, value in covid.items():
     if (key in exps.keys()):
         count += 1
         exps_covid[key] = {'Descrições:':{"desc_pt" : value['desc_pt'],
-                                        "exp pop" : exps[key]['exp pop'],
+                                        "exp pop" : exps[key]['Descrições']['exp pop'],
                                         "desc_en": value['desc_en']},
                         'Traduções':{"en" : key,
                                     "fr" : value['fr']}}
@@ -52,7 +51,7 @@ count = 0
 for key, value in exps.items():
     if key in obg.keys():
         count += 1
-        exps_enpt[key] = {'Descrições':{"exp pop" : value['exp pop']},
+        exps_enpt[key] = {'Descrições':{"exp pop" : value['Descrições']['exp pop']},
                           'Traduções':{"en" : obg[key]['en'],
                                         "es" : obg[key]['es']}}
         
@@ -96,19 +95,20 @@ for key, value in covid.items():
 # with open('int_3.json', 'w', encoding="utf8") as file:
 #     json.dump(exps_enpt, file, ensure_ascii=False, indent=4)
         
-""" # união do dicionário de expressões populares com o de covid
+# união do dicionário de expressões populares com o de covid
 for key, value in covid.items():
     if key in exps_copia.keys():
-        exps_copia[key] = {"desc_pt" :  value['desc_pt'],
-                            "exp pop": exps_copia[key]['exp pop'],
-                            "en" : key,
-                            "desc_en": value['desc_en'],
-                            "fr" : value['fr']}
+        exps_copia[key] = {"Descrições": {"desc_pt" :  value['desc_pt'],
+                                        "exp pop": exps_copia[key]['Descrições']['exp pop'],
+                                        "desc_en": value['desc_en']},
+                            'Traduções':{
+                                        "en" : key,
+                                        "fr" : value['fr']}}
     else: 
-        exps_copia[key] = {"desc_pt" :  value['desc_pt'],
-                            "en" : key,
-                            "desc_en": value['desc_en'],
-                            "fr" : value['fr']} """
+        exps_copia[key] = {'Descrições':{"desc_pt" :  value['desc_pt'],
+                                    "desc_en": value['desc_en']},
+                            'Traduções':{"en" : key,
+                                        "fr" : value['fr']}}
         
 # exps2 = sorted(exps_copia.items())
 
@@ -142,5 +142,44 @@ dic_final = sorted(dic_final.items())
 
 # print(dic_final)
 
+# união dos três dicionários
+dic_uniao = {}
+count = 0
+for key, value in obg.items():
+    # união do dicionário do dicionário obrigatório com os outros dois
+    if key in exps.keys() and key in covid.keys():
+        dic_uniao[key] = {'Descrições': {"desc_pt" : covid[key]['desc_pt'],
+                                        "exp pop" : exps[key]['Descrições']['exp pop'],
+                                        "desc_en" : covid[key]['desc_en']},
+                        'Traduções': {"en" : [covid[key]['en'], value['en']],
+                                    "es" :  value['es'],
+                                    "fr" : covid[key]['fr']}}
+    elif key in exps.keys() and key not in covid.keys():
+        dic_uniao[key] = {'Descrições':{"exp pop" : exps[key]['Descrições']['exp pop']},
+                          'Traduções':{"en" : value['en'],
+                                        "es" : value['es']}}
+    elif key in covid.keys() and key not in exps.keys():
+        dic_uniao[key] = {'Descrições':{"desc_pt" : covid[key]['desc_pt'],
+                                        "desc_en": covid[key]['desc_en']},
+                            'Traduções':{"en" : [value['en'], covid[key]['en']],
+                                        "es" : [value['es'], covid[key]['en']],
+                                        "fr" : covid[key]['fr']}}
+    elif key not in covid.keys() and key not in exps.keys():
+        dic_uniao[key] = {'Traduções':{"en" : value['en'],
+                                        "es" : value['es']}}  
+        
+for key, value in exps.items():
+    if key not in dic_uniao.keys():
+        dic_uniao[key] = {"Descrições": {'exp pop':value['Descrições']['exp pop']}}
+
+for key, value in covid.items():
+    if key not in dic_uniao.keys():
+        dic_uniao[key] = {'Descrições':{'desc_pt':value['desc_pt'],
+                                        'desc_en':value['desc_en']},
+                        'Traduções':{'en':value['en'],
+                                     'fr':value['fr']}}
+
+dic_uniao = sorted(dic_uniao.items())
+
 with open('ficheiros_TP1/dicionario_final.json', 'w', encoding="utf8") as file:
-    json.dump(dict(dic_final), file, ensure_ascii=False, indent=4)
+    json.dump(dict(dic_uniao), file, ensure_ascii=False, indent=4)
