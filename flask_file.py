@@ -74,23 +74,6 @@ def search():
     return render_template("search.html", matched = lista, matched_cat = cat_dic, message = msg)
 
 
-@app.route("/terms/search")
-def search_cat():
-    
-    category = request.args.get("category")
-    cat_dic = {}
-    msg1 = ""
-
-    if category:
-        if category in cat:
-            cat_dic[category] = cat[category]
-
-    if cat_dic == {}:
-        msg1 = "O conteúdo pesquisado não existe. Pesquise de novo"
-
-    return render_template("search.html", matched_cat = cat_dic, message1 = msg1)
-
-
 
 @app.route("/term", methods=["POST"])
 def addTerm():
