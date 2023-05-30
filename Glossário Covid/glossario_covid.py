@@ -12,9 +12,11 @@ lines = re.sub(r'(<b> </b>)?<\/?i.*?>', "", lines)
 lines = re.sub(r'<fontspec[^>]*>',"", lines)
 
 #eliminar todo o texto até à página em que começa o glossário
-eliminar = lines.find('<b>A </b>')
-if eliminar != -1:
-    lines=lines[eliminar:]
+inicio = lines.find('<b>A </b>')
+fim = lines.find('World Intellectual')
+
+if inicio != -1 and fim != -1:
+    lines = lines[inicio:fim]
 
 lines= re.sub(r"<b>[A-Z] </b>", "", lines)
 

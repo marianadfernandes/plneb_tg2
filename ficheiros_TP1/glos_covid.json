@@ -519,7 +519,7 @@
     },
     "deoxyribonucleic acid": {
         "syn": "",
-        "desc_pt": "(sin.) DNA Ácido nucléico de fita dupla cujos nucleotídeos consistem em um esqueleto formado por um açúcar modificado, chamado desoxirribose, uma base nitrogenada, ou seja, adenina, guanina, citosina e timina, e um grupo fosfato. SCIE, Bioquímica",
+        "desc_pt": "(sin.) DNA Ácido nucléico de fita dupla cujos nucleotídeos consistem em uma estrutura composta por um açúcar modificado, chamado desoxirribose, uma base nitrogenada, ou seja, adenina, guanina, citosina e timina, e um grupo fosfato. SCIE, Bioquímica",
         "desc_en": "(syn.) DNA   Double-stranded nucleic acid whose nucleotides consist of a backbone made up by a modified sugar, called deoxyribose, a nitrogenous base, i.e. adenine, guanine, cytosine, and thymine, and a phosphate group. SCIE, Biochemistry",
         "ar": "ضمح يوون صوقنم نيجسكلأا، (syn.) اند",
         "de": "Desoxyribonukleinsäure, (syn.) Desoxyribonucleinsäure, DNA, DNS",
@@ -715,7 +715,7 @@
     },
     "full face shield": {
         "syn": "",
-        "desc_pt": "(sin.) protetor facial (sin.) viseira de rosto inteiro (sin.) viseira Equipamento de proteção individual que protege os olhos e o rosto do usuário contra sprays, respingos e gotículas de partículas grandes e evita a propagação de gotículas respiratórias do usuário para outros. ENVR, equipamento de proteção individual",
+        "desc_pt": "(sin.) protetor facial (sin.) viseira de rosto inteiro (sin.) viseira Equipamento de proteção pessoal que protege os olhos e o rosto do usuário contra sprays, respingos e gotículas de partículas grandes e evita a propagação de gotículas respiratórias do usuário para outros. ENVR, equipamento de proteção individual",
         "desc_en": "(syn.) face shield (syn.) full-face visor (syn.) visor   Personal protective equipment that protects the wearer’s eyes and face from sprays, splashes, and large-particle droplets, and prevents the spread of respiratory droplets from the wearer to others. ENVR, Personal protective equipment",
         "ar": "عانق قاو، (syn.) عانق هجو",
         "de": "Gesichtsschutz",
@@ -1079,7 +1079,7 @@
     },
     "intubation": {
         "syn": "",
-        "desc_pt": "(sin.) intubação endotraqueal Método de ventilação pulmonar invasiva no qual um tubo é inserido na traquéia do paciente pela boca ou nariz. MEDICINA, CIRURGIA",
+        "desc_pt": "(sin.) intubação endotraqueal Método de ventilação pulmonar invasiva no qual um tubo é inserido na traqueia do paciente pela boca ou nariz. MEDICINA, CIRURGIA",
         "desc_en": "(syn.) endotracheal intubation   Invasive lung ventilation method in which a tube is inserted into the patient’s trachea through the mouth or nose. MEDI, Surgery",
         "ar": "بيبنت",
         "de": "Intubation, (syn.) Intubierung",
@@ -1107,7 +1107,7 @@
     },
     "lockdown": {
         "syn": "",
-        "desc_pt": "(sin.) confinamento Estratégia adotada por um órgão público em caso de emergência que exige a permanência de pessoas em determinado local, do qual não podem sair a não ser por motivos excepcionais. MEDI, Saúde pública e higiene",
+        "desc_pt": "(sin.) confinamento Estratégia adotada por um órgão público em caso de emergência que obrigue a permanência de pessoas em determinado local do qual não podem sair a não ser por motivos excepcionais. MEDI, Saúde pública e higiene",
         "desc_en": "(syn.) confinement   Strategy adopted by a public body because of an emergency that requires people to remain in a certain location which they may not leave other than for exceptional reasons.   MEDI, Public health & hygiene",
         "ar": "قلاغإ",
         "de": "Massenquarantäne",
@@ -1779,7 +1779,7 @@
     },
     "suspected case": {
         "syn": "",
-        "desc_pt": "Caso compatível com uma definição de caso clínico, mas sem confirmação laboratorial ou forte evidência epidemiológica, por exemplo, a pessoa não é um contato de um caso confirmado. MEDI, Saúde pública e higiene",
+        "desc_pt": "Caso compatível com uma definição de caso clínico, mas sem confirmação laboratorial ou forte evidência epidemiológica, por ex. a pessoa não é um contato de um caso confirmado. MEDI, Saúde pública e higiene",
         "desc_en": "Case that is compatible with a clinical case definition but there is no laboratory test confirmation or strong epidemiological evidence, e.g. the person is not a contact of a confirmed case.   MEDI, Public health & hygiene",
         "ar": "ةلاح هبتشم اهب، (syn.) ةلاح ةهبتشم",
         "de": "Verdachtsfall",
@@ -1821,7 +1821,7 @@
     },
     "symptom": {
         "syn": "",
-        "desc_pt": "Manifestação de uma doença que é perceptível apenas para o paciente (sintoma subjetivo) ou para o paciente e outros (sinal ou sinal objetivo). MEDICINA, Patologia",
+        "desc_pt": "Manifestação de uma doença que é perceptível apenas para o paciente (sintoma subjetivo) ou para o paciente e outros (sintoma ou sinal objetivo). MEDICINA, Patologia",
         "desc_en": "Manifestation of a disease that is perceptible to only the patient (subjective symptom) or to the patient and others (objective symptom or sign). MEDI, Pathology",
         "ar": "ضرع",
         "de": "Symptom",
@@ -1933,7 +1933,7 @@
     },
     "vaccine": {
         "syn": "",
-        "desc_pt": "Preparação terapêutica contendo um antígeno, ou seja, um vírus ou um segmento de um vírus ou uma toxina gerada por bactérias, que pode ter sido atenuado, inativado ou morto e que é capaz de desencadear a resposta imune e gerar imunidade em um organismo. MEDI, Terapêutica",
+        "desc_pt": "Preparação terapêutica contendo um antígeno, ou seja, um vírus ou um segmento de vírus ou uma toxina gerada por bactérias, que pode ter sido atenuado, inativado ou morto e que é capaz de desencadear a resposta imune e gerar imunidade em um organismo. MEDI, Terapêutica",
         "desc_en": "Therapeutic preparation containing an antigen, i.e. a virus or a segment of a virus or a toxin generated by bacteria, that may have been attenuated, inactivated or killed and which is able to trigger the immune response and generate immunity in an organism. MEDI, Therapeutics",
         "ar": "حاقل",
         "de": "Impfstoff, (syn.) Vakzine",
@@ -2027,6 +2027,6 @@
         "ko": "인수공통전염병",
         "pt": "zoonose",
         "ru": "зооноз",
-        "zh": "人畜共患病   \t\tWorld Intellectual Property Organization34, chemin des ColombettesP.O. Box 18CH-1211 Geneva 20SwitzerlandTel:  + 41 22 338 91 11Fax:  + 41 22 733 54 28For contact details of WIPO’s  External Offices visit:<a href=\"https://www.wipo.int/about-wipo/en/offices\">www.wipo.int/about-wipo/en/offices</a>© WIPO, 2020Attribution 3.0 IGO (CC BY 3.0 IGO)The CC license does not apply to non-WIPO content in this publication.Cover: © Getty Images / WIPOPrinted in SwitzerlandWIPO Reference No. RN2020/4E<outline>WIPO Pearl_COVID-19_Glossary_draft_20200824-CB_modified_CV_27082020-FINAL.pdf<outline>A<outline>acute respiratory distress syndromeadaptive immunityaerosolageusiaairborne transmissionangiotensin-converting enzymeanosmiaantibodyantigenasymptomatic transmissionattack rate</outline>B<outline>basic reproduction numberbiostatisticsblood plasma</outline>C<outline>casecase definitioncase fatality ratecasual contactchain of infectionchloroquineclose contactclustercomputed tomographyconfirmed casecontactcontact follow-upcontact identificationcontact tracingcontainmentconvalescent plasma therapycoronaviruscoronavirus disease 2019cough reflexcytokine release syndrome</outline>D<outline>death-to-case ratiodiseasedisease outbreakdeoxyribonucleic aciddrive-through testingdroplet nucleusdroplet transmission</outline>E<outline>eliminationendemic diseaseenvironmental cleaningepidemic curveepidemic diseaseepidemic thresholdepidemiology</outline>F<outline>feverfiltering facepiece respiratorfomitefull face shield</outline>G<outline>genegene therapygenome</outline>H<outline>hand sanitizerhand washingherd immunityhigh-risk grouphospital gownhospitalizationhosthygiene</outline>I<outline>immune responseimmune systemimmunityimported caseincidenceincubation periodindex caseindirect contact transmissioninfection fatality rateinfectious agentinfectious diseaseinfectivityinflammationintensive care unitintubation</outline>L<outline>laboratory testlockdown</outline>M<outline>magnetic resonance imagingmaskmechanical ventilationmechanical ventilatormedical caremedical glovemitigationmode of transmissionmonoclonal antibodymorbiditymultiple organ failure</outline>N<outline>nasopharyngeal swab testnon-invasive ventilationnucleotide sequence</outline>P<outline>pandemicpandemic preparednesspathogenpersonal protective equipmentpharmacoepidemiologypoint-of-care testingpolymerase chain reactionportal of entryportal of exitpre-symptomatic transmissionprevalenceprimary caseprobable casepublic healthpublic health surveillance</outline>Q<outline>quarantine</outline>R<outline>real-time reverse transcription-polymerase chain reactionreservoirrespiratory diseaserespiratory dropletrespiratory hygienerespiratory protective equipmentrisk factorribonucleic acid</outline>S<outline>self-isolationsepsisseptic shockserologic testsevere acute respiratory syndromesevere acute respiratory syndrome coronavirus 2social distancingspike glycoproteinsuper-spreadersurgical masksuspected caseswabswab testsymptomsymptomatic transmissionsystemic inflammatory response syndrome</outline>T<outline>telehealththrombosistriage</outline>U<outline>urgent careurgent care facility</outline>V<outline>vaccinevectorviral loadviral vectorvirus</outline>X<outline>X-ray image</outline>Z<outline>zoonosis</outline></outline></outline></pdf2xml>"
+        "zh": "人畜共患病"
     }
 }

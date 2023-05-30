@@ -9,11 +9,12 @@ with open ("url_cruzverde.json", "r", encoding="UTF8") as file:
 with open ("ficheiros_TP1/dicionario_final.json", "r", encoding="UTF8") as file:
     dic = json.load(file)
 
+count = 0
 for key, value in dic.items():
-    if (value.get('Descrições') is None or value['Descrições'].get('desc_pt') is None) and key in cv.keys():
+    if value.get('Descrições') is None and key in cv.keys():
         value['Descrições'] = {'desc_pt':"Cruz Verde - " + cv[key]}
-
-
+    elif value.get('Descrições') is not None and key in cv.keys():
+        value['Descrições']['desc_pt'] = "Cruz Verde - " + cv[key]
 
 dic = dict(sorted(dic.items(), key=lambda x: locale.strxfrm(x[0])))
 

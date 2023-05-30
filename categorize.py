@@ -7,9 +7,8 @@ from deep_translator import GoogleTranslator
 # definir localização/internacionalização 
 locale.setlocale(locale.LC_ALL, '')
 
-with open('./ficheiros_TP1/dicionario_final.json', 'r', encoding="utf8") as file:
+with open('./output/novo_dic.json', 'r', encoding="utf8") as file:
     dic = dict(json.load(file))
-
 
 new_dic = {}
 for word in dic.keys():
@@ -29,7 +28,7 @@ for word in dic.keys():
         for hypernym in hypernyms:
             print(hypernym.name())
 
-            hypernym_name = hypernym.name().split('.')[0]
+            hypernym_name = GoogleTranslator(source='en', target='pt').translate(hypernym.name().split('.')[0])
             if hypernym_name in new_dic:
                 # verifica se o termo já lá está para não duplicar
                 existing_words = [item for item in new_dic[hypernym_name] if word in item]
