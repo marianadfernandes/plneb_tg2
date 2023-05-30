@@ -41,7 +41,15 @@ for key, value in covid.items():
                                         "exp pop" : exps[key]['Descrições']['exp pop'],
                                         "desc_en": value['desc_en']},
                         'Traduções':{"en" : key,
-                                    "fr" : value['fr']}}
+                                    "fr" : value['fr'],
+                                    "ar" :  value['ar'],
+                                    "de" :  value['de'],
+                                    "es" :  value['es'],
+                                    "fr" :  value['fr'],
+                                    "ja" :  value['ja'],
+                                    "ko" :  value['ko'],
+                                    "ru" :  value['ru'],
+                                    "zh" :  value['zh']}}
             
 # print(count)
 
@@ -91,7 +99,15 @@ for key, value in covid.items():
                                         "desc_en" : covid[key]['desc_en']},
                     'Traduções':{"en" : exps_enpt[key]['Traduções']['en'],
                                 "es" : exps_enpt[key]['Traduções']['es'],
-                                "fr" : covid[key]['fr']}}
+                                "fr" : covid[key]['fr'],
+                                "ar" :  covid[key]['ar'],
+                                "de" :  covid[key]['de'],
+                                "es" :  covid[key]['es'],
+                                "fr" :  covid[key]['fr'],
+                                "ja" :  covid[key]['ja'],
+                                "ko" :  covid[key]['ko'],
+                                "ru" :  covid[key]['ru'],
+                                "zh" :  covid[key]['zh']}}
                     
 # print(count)
 
@@ -151,36 +167,58 @@ count = 0
 for key, value in obg.items():
     # união do dicionário do dicionário obrigatório com os outros dois
     if key in exps.keys() and key in covid.keys():
-        dic_uniao[key] = {'Descrições': {"desc_pt" : covid[key]['desc_pt'],
-                                        "exp pop" : exps[key]['Descrições']['exp pop'],
+        dic_uniao[key] = {'Descrições': {"desc_pt" : "Google Translator - " + covid[key]['desc_pt'],
+                                        "exp pop" : "Expressão Popular - " + exps[key]['Descrições']['exp pop'],
                                         "desc_en" : covid[key]['desc_en']},
                         'Traduções': {"en" : value['en'],
                                     "es" :  value['es'],
-                                    "fr" : covid[key]['fr']}}
+                                    "fr" : covid[key]['fr'],
+                                    "ar" :  covid[key]['ar'],
+                                    "de" :  covid[key]['de'],
+                                    "fr" :  covid[key]['fr'],
+                                    "ja" :  covid[key]['ja'],
+                                    "ko" :  covid[key]['ko'],
+                                    "ru" :  covid[key]['ru'],
+                                    "zh" :  covid[key]['zh']}}
     elif key in exps.keys() and key not in covid.keys():
-        dic_uniao[key] = {'Descrições':{"exp pop" : exps[key]['Descrições']['exp pop']},
+        dic_uniao[key] = {'Descrições':{"exp pop" : "Expressão Popular - " + exps[key]['Descrições']['exp pop']},
                           'Traduções':{"en" : value['en'],
                                         "es" : value['es']}}
     elif key in covid.keys() and key not in exps.keys():
-        dic_uniao[key] = {'Descrições':{"desc_pt" : covid[key]['desc_pt'],
+        dic_uniao[key] = {'Descrições':{"desc_pt" : "Google Translator - "+ covid[key]['desc_pt'],
                                         "desc_en": covid[key]['desc_en']},
                             'Traduções':{"en" : value['en'],
                                         "es" : value['es'],
-                                        "fr" : covid[key]['fr']}}
+                                        "fr" : covid[key]['fr'],
+                                        "ar" :  covid[key]['ar'],
+                                        "de" :  covid[key]['de'],
+                                        "fr" :  covid[key]['fr'],
+                                        "ja" :  covid[key]['ja'],
+                                        "ko" :  covid[key]['ko'],
+                                        "ru" :  covid[key]['ru'],
+                                        "zh" :  covid[key]['zh']}}
     elif key not in covid.keys() and key not in exps.keys():
         dic_uniao[key] = {'Traduções':{"en" : value['en'],
                                         "es" : value['es']}}  
         
 for key, value in exps.items():
     if key not in dic_uniao.keys():
-        dic_uniao[key] = {"Descrições": {'exp pop':value['Descrições']['exp pop']}}
+        dic_uniao[key] = {"Descrições": {'exp pop': "Expressão Popular - " + value['Descrições']['exp pop']}}
 
 for key, value in covid.items():
     if key not in dic_uniao.keys():
-        dic_uniao[key] = {'Descrições':{'desc_pt':value['desc_pt'],
+        dic_uniao[key] = {'Descrições':{'desc_pt': "Google Translator - " + covid[key]['desc_pt'],
                                         'desc_en':value['desc_en']},
                         'Traduções':{'en':value['en'],
-                                     'fr':value['fr']}}
+                                     'fr':value['fr'],
+                                     "ar" :  value['ar'],
+                                    "de" :  value['de'],
+                                    "es" :  value['es'],
+                                    "fr" :  value['fr'],
+                                    "ja" :  value['ja'],
+                                    "ko" :  value['ko'],
+                                    "ru" :  value['ru'],
+                                    "zh" :  value['zh']}}
 
 dic_uniao = dict(sorted(dic_uniao.items(), key=lambda x: locale.strxfrm(x[0])))
 

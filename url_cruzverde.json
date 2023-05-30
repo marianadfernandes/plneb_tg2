@@ -1,1277 +1,427 @@
-[
-    {
-        "Abartrose": "Articulação deficiente, mole. Ocorre quando há escorregamento das superfícies articulares. Diartrose."
-    },
-    {
-        "Abcesso/Abscesso": "Foco de pus no interior de um tecido, órgão ou região do corpo."
-    },
-    {
-        "Acne": "Doença de pele, vulgar na adolescência, pensa-se que devido a alterações hormonais que surgem naquela fase da vida. Caracteriza-se pelo aparecimento de pequenas elevações vermelhas, hemisféricas ou cónicas por inflamação das glândulas sebáceas. O acne localiza-se preferencialmente na cara e nas costas, distinguindo-se diferentes variedades: simples, pustuloso, varioliforme, papuloso, hipertrófico, etc."
-    },
-    {
-        "Acufeno": "Sensação auditiva anormal. Zumbidos."
-    },
-    {
-        "Afagia": "Dificuldade na deglutição."
-    },
-    {
-        "Afasia": "Perturbação da linguagem causada por lesão adquirida no Sistema Nervoso Central, representada por alterações diversas da compreensão auditiva, expressão verbal, leitura e escrita."
-    },
-    {
-        "Afonia": "Incapacidade de falar, com lesão no órgãos vocais."
-    },
-    {
-        "Alergénio": "Substância (antigénio) capaz de provocar uma reação alérgica. Ex.: o pólen das gramíneas que provoca a febre-dos-fenos."
-    },
-    {
-        "Alergia": "Hipersensibilidade adquirida pelo organismo relativamente a uma substância estranha (alergénio), quer se trate de uma substância normalmente inofensiva (pelos, poeiras, pólen, leite, etc.) quer de um produto medicamentoso ou bacteriano. Traduz-se por uma reação imediata de tipos diversos (eczema, urticária, febre-dos-fenos, asma)."
-    },
-    {
-        "Alergologia": "Estudo da alergia e das suas manifestações patológicas. O especialista chama-se alergologista."
-    },
-    {
-        "Alopecia": "Queda total ou parcial de cabelos."
-    },
-    {
-        "Alzheimer": "Doença que se inicia na meia idade e que se caracteriza por deterioração mental manifestada por perda de memória, perda da capacidade de orientação espacial e visual, confusão e desorientação. Evolui para a morte num período desde os 5 aos 10 anos. A sua causa concreta é ainda desconhecida."
-    },
-    {
-        "Ambliopia": "Diminuição da acuidade visual em um ou ambos os olhos; visão fraca."
-    },
-    {
-        "Ameba": "Protozoários parasitas que são patogénicas para o homem."
-    },
-    {
-        "Amenorreia": "Ausência ou supressão anormal da menstruação."
-    },
-    {
-        "Amiloidose": "Conjunto de afeções diversas, inflamatórias, hereditárias ou neoplásicas, caracterizadas pela acumulação nos tecidos de proteínas fibrosas que podem pôr em causa funções vitais."
-    },
-    {
-        "Amputação": "Operação que consiste em separar do corpo um membro ou parte dele (por meio de instrumento cortante)."
-    },
-    {
-        "Anafilaxia": "Estado de hipersensibilidade ou de reação exagerada a nova introdução de substância estranha, que ao ser administrada pela primeira vez, não provocou, ou provocou pequena, reação."
-    },
-    {
-        "Análise Clínica": "Exame laboratorial destinado a facilitar o diagnóstico médico, o tratamento ou a profilaxia das doenças humanas."
-    },
-    {
-        "Anamnese": "História detalhada de todos os sintomas e eventos relacionados a tais sintomas, relatada pelo paciente."
-    },
-    {
-        "Anatomia": "Ciência que estuda a estrutura e a morfologia do homem ou dos animais. O especialista nesta disciplina chama-se anatomista."
-    },
-    {
-        "Anemia": "Diminuição no número de glóbulos vermelhos do sangue circulante, geralmente acompanhada dos seguintes sintomas: tontura, fraqueza e fadiga."
-    },
-    {
-        "Aneurisma": "Dilatação localizada da parede de uma artéria ou coração devido a uma lesão, malformação ou traumatismo."
-    },
-    {
-        "Angina": "Inflamação aguda e difusa da mucosa da orofaringe. Correntemente, designa-se muitas vezes por este nome a amigdalite aguda."
-    },
-    {
-        "Angioma": "Tumor circunscrito formado por uma aglomeração de vasos sanguíneos ou linfáticos. Com localização variável, é na maior parte das vezes de origem congénita."
-    },
-    {
-        "Anorexia": "Redução ou falta de apetite."
-    },
-    {
-        "Anoxia": "Deficiência de oxigenação nos órgãos ou nos tecidos."
-    },
-    {
-        "Anti-histamínico": "Diz-se de uma substância que atenua ou suprime os efeitos da histamina ou que bloqueia a sua produção durante as manifestações alérgicas e que é prescrita no tratamento das alergias."
-    },
-    {
-        "Anti-inflamatório": "Que combate a inflamação."
-    },
-    {
-        "Anticorpo": "Qualquer substância presente naturalmente ou produzida no organismo (sangue ou tecidos) sob a ação de um antigénio e que possui a propriedade de reagir especificamente, in vivo ou in vitro, com o antigénio correspondente. A produção de anticorpos intervém no desenvolvimento da imunidade."
-    },
-    {
-        "Antídoto": "Substância capaz de neutralizar um veneno ou de combater os seus efeitos no organismo."
-    },
-    {
-        "Antifúngico": "Que inibe o desenvolvimento dos fungos. O mesmo que Antimicótico."
-    },
-    {
-        "Antígeno / Antigénio": "Substância que provoca a formação de um anticorpo específico."
-    },
-    {
-        "Antipirético": "Que previne ou combate a febre."
-    },
-    {
-        "Antisséptico": "Que destrói os germes patogénicos, nomeadamente por aplicação externa."
-    },
-    {
-        "Antitússico": "Que acalma a tosse."
-    },
-    {
-        "Anúria": "Ausência da produção de urina."
-    },
-    {
-        "Aorta": "Grande artéria que sai do ventrículo esquerdo do coração e que é o tronco comum das artérias que levam o sangue arterial a todas as partes do corpo."
-    },
-    {
-        "Apneia": "Ausência temporária da respiração."
-    },
-    {
-        "Apneia do Sono": "Síndrome caracterizada por episódios repetitivos de completo ou parcial fechamento das vias aéreas superiores levando à fragmentação do sono noturno."
-    },
-    {
-        "Arritmia": "Perturbação ou irregularidade do ritmo dos batimentos cardíacos."
-    },
-    {
-        "Artrite": "Inflamação das articulações."
-    },
-    {
-        "Artrose": "Afeção degenerativa das articulações."
-    },
-    {
-        "Ascite": "Acumulação de líquido na zona abdominal."
-    },
-    {
-        "Asfixia": "Estado resultante da supressão da respiração e circulação do sangue."
-    },
-    {
-        "Astenia": "Debilidade, fraqueza física."
-    },
-    {
-        "Atrofia": "Diminuição na quantidade de tecido após o crescimento normal ter sido alcançado."
-    },
-    {
-        "Autoimune": "Que produz reação imunológica contra o próprio corpo (ex.: doença autoimune)."
-    },
-    {
-        "Bacia": "Pélvis."
-    },
-    {
-        "Bacilar": "Relativo aos bacilos."
-    },
-    {
-        "Bacilemia": "Presença de bacilos no sangue."
-    },
-    {
-        "Bacilos": "Microrganismos do género Bacillus;  bactérias em forma de bastonete."
-    },
-    {
-        "Bactéria": "Microrganismo unicelular que se reproduz por divisão. Os cocos e os bacilos são exemplos de bactérias. As bactérias e os vírus constituem as duas causas mais frequentes de infeções."
-    },
-    {
-        "Bacteriano": "Relativo a ou causado por bactéria."
-    },
-    {
-        "Basófilo": "Leucócito com grânulos que se coram com corantes básicos."
-    },
-    {
-        "Behçet": "Doença crónica caracterizada por aftas bucais e genitais, associadas a afeção ocular (uveíte) muitas vezes grave, a lesões venosas e arteriais que provocam tromboses periféricas e viscerais e a erupção do tipo eritema (que constitui muitas vezes a primeira manifestação da doença). De causa não esclarecida, esta doença integra-se no grupo das vasculites sistémicas."
-    },
-    {
-        "Bílis": "Líquido amarelado e amargo segregado pelo fígado para auxiliar na digestão."
-    },
-    {
-        "Biliúria": "Presença de bílis ou sais biliares na urina."
-    },
-    {
-        "Biópsia": "Remoção e exame de tecido do organismo para fins de diagnóstico."
-    },
-    {
-        "Bradicardia": "Diminuição do ritmo cardíaco."
-    },
-    {
-        "Bradifasia": "Lentidão na pronúncia das palavras."
-    },
-    {
-        "Bradipepsia": "Digestão lenta e difícil; digestão incompleta."
-    },
-    {
-        "Broncopneumonia": "Doença infeciosa aguda dos pulmões que atinge simultaneamente os alvéolos e os pequenos brônquios."
-    },
-    {
-        "Bronquiectasia": "Dilatação dos brônquios."
-    },
-    {
-        "Brônquio": "Canal que se segue à traqueia, através do qual o ar chega aos alvéolos pulmonares."
-    },
-    {
-        "Bronquite": "Inflamação aguda ou crónica, da mucosa dos brônquios."
-    },
-    {
-        "Bulimia": "Apetite insaciável e devorador que pode surgir em certas doenças, como a diabetes, e algumas neuropatias."
-    },
-    {
-        "Bypass": "Termo inglês utlizado que se refere a um desvio do fluxo sanguíneo para evitar um vaso lesado ou deficiente ou para efetuar cirurgia cardíaca."
-    },
-    {
-        "Cãibra": "Contração muscular espasmódica, involuntária e dolorosa, que ocorre no tecido muscular."
-    },
-    {
-        "Cálculo": "Formação sólida causada pela acumulação de sais minerais ou substâncias orgânicas. Ocorrem nos rins, bexiga, vesícula, fígado, etc."
-    },
-    {
-        "Campo Visual": "Extensão de espaço que o olhar abrange, mantendo-se o olho imóvel."
-    },
-    {
-        "Candida": "Género de fungos microscópicos que se apresentam sob a forma de leveduras, largamente presentes na natureza. Certas espécies são responsáveis por manifestações patológicas."
-    },
-    {
-        "Candidíase": "Afeção aguda, subaguda ou crónica, causada por leveduras pertencentes ao género Candida (sobretudo Candida albicans). A infeção atinge sobretudo a pele e as mucosas e manifesta-se por uma erupção de pequenas pústulas esbranquiçadas."
-    },
-    {
-        "Carcinoma": "Qualquer tumor maligno desenvolvido a partir de um tecido epitelial."
-    },
-    {
-        "Cardíaco": "1) Relativo ao coração. 2) Pessoa que sofre de doença do coração."
-    },
-    {
-        "Cardiopulmonar": "Relativo ao coração e aos pulmões."
-    },
-    {
-        "Cardiovascular": "Relativo ao coração e aos vasos sanguíneos."
-    },
-    {
-        "Cárie": "Degradação do tecido ósseo e dentes, que provoca o seu amolecimento e destruição."
-    },
-    {
-        "Carótida": "Cada uma das artérias que transportam o sangue da aorta até à cabeça."
-    },
-    {
-        "Cartilagem": "Tecido muscular, flexível e duro, que reveste as articulações."
-    },
-    {
-        "Cava": "Cada uma das duas veias principais (veia cava inferior e veia cava superior) que transportam o sangue venoso de todo o corpo até à aurícula direita do coração."
-    },
-    {
-        "Cefaleia": "Dor de cabeça."
-    },
-    {
-        "Celíaca (doença)": "A doença celíaca é uma intolerância alimentar ao glúten (complexo de proteínas existente em quatro cereais: trigo, aveia, centeio e cevada) que se manifesta de forma permanente e definitiva."
-    },
-    {
-        "Cervical": "1) Relacionado com a cerviz. 2) Relativo ao colo do útero. 3) Parte da coluna vertebral constituída pelas sete vértebras da zona do pescoço."
-    },
-    {
-        "Cervix": "Colo do útero."
-    },
-    {
-        "Cerviz": "Parte posterior do pescoço."
-    },
-    {
-        "Cesariana": "Operação cirúrgica que consiste em extrair um feto por meio de uma incisão no ventre e no útero da mãe, geralmente quando o parto natural não é possível."
-    },
-    {
-        "Choque Anafilático": "Conjunto de reações agudas (colapso, asma, urticária generalizada) que se manifesta alguns minutos após a introdução no organismo de uma substância estranha, à qual este foi sensibilizado anteriormente. Estas manifestações são muitas vezes secundárias a injeções de soros terapêuticos, penicilina e picadas de insetos em indivíduos sensibilizados."
-    },
-    {
-        "Cianose": "Coloração azulada ou roxa da pele, nas extremidades e mucosas, em decorrência da falta de oxigênio."
-    },
-    {
-        "Ciática": "Afeção dolorosa do nervo ciático, geralmente devida à compressão das suas raízes."
-    },
-    {
-        "Clister": "Introdução de líquido (água ou medicamento) no intestino através do ânus, por meio de seringa ou irrigador."
-    },
-    {
-        "Cólica": "Dor aguda no cólon ou outra parte da cavidade abdominal."
-    },
-    {
-        "Coma": "Estado patológico em que há perda de consciência, ausência ou redução das reações a estímulos e eventual alteração de funções vitais."
-    },
-    {
-        "Congénito": "Que foi gerado ou nasceu com o indivíduo; inato."
-    },
-    {
-        "Contágio": "Transmissão de enfermidade pelo contacto imediato ou indireto que se tem com o doente."
-    },
-    {
-        "Contusão": "Lesão associada a um traumatismo que pode produzir desvitalização de tecidos profundos."
-    },
-    {
-        "Convulsão": "Episódio agudo caracterizado pela presença de contrações musculares espasmódicas permanentes e/ou repetitivas. Em geral está associada à perda de consciência e relaxamento dos esfíncteres. Pode dever-se  a medicamentos ou doenças."
-    },
-    {
-        "Degeneração": "Alteração na estrutura ou na composição química de um tecido ou órgão, resultando na perda das suas características genéricas e na aquisição de formas e propriedades novas."
-    },
-    {
-        "Deglutição": "Passagem dos alimentos desde a boca até ao esófago. É um mecanismo em parte voluntário e em parte automático (reflexo), que envolve a musculatura faríngea e o esfíncter esofágico superior."
-    },
-    {
-        "Delírio": "Alteração aguda da consciência ou da lucidez mental, provocado por uma causa orgânica (por exemplo, febre)."
-    },
-    {
-        "Demência": "Deterioração irreversível e crónica das faculdades intelectuais de uma pessoa."
-    },
-    {
-        "Dengue": "Doença infeciosa febril, acompanhada de dores articulares e musculares, dores de cabeça, por vezes com erupções cutâneas, causada por um vírus e transmitida ao homem pelo mosquito do género Aedes. Tem um período de incubação de três a seis dias. A doença evolui por um período de três a cinco dias, seguindo-se depois grande astenia. Após alguns dias pode seguir-se uma recaída com sintomas semelhantes."
-    },
-    {
-        "Dermatite": "Inflamação das camadas superficiais da pele, que pode apresentar-se de formas variadas e é produzida pela agressão direta de microrganismos, substância tóxica ou por uma resposta imunológica inadequada (alergias, doenças autoimunes)."
-    },
-    {
-        "Diabetes": "Doenças caracterizadas por diurese excessiva. A mais frequente é o Diabetes Mellitus ainda que existam outras variantes (ex.: Diabetes Insipidus), nas quais o transtorno principal é a incapacidade dos rins de concentrar a urina."
-    },
-    {
-        "Diagnóstico": "Determinação de uma doença pelos sintomas e/ou mediante exames diversos."
-    },
-    {
-        "Diálise": "Método que imita a função normal dos rins, eliminando do sangue os compostos tóxicos produzidos pelo metabolismo, assim como também diferentes fármacos e drogas. Utiliza uma membrana através da qual estes compostos se difundem para um líquido (líquido de diálise), a partir do qual são eliminados."
-    },
-    {
-        "Dispepsia": "Nome genérico aplicado a diferentes sintomas do aparelho digestivo, como acidez, ardor, dor, etc. Podem traduzir um distúrbio funcional, gastrite, úlcera péptica, etc."
-    },
-    {
-        "Distensão": "Deslocamento, torção ou tensão exercida num tecido ou num órgão, que provoca geralmente o aumento do seu volume ou da sua superfície (ex.: distensão muscular)."
-    },
-    {
-        "DIU": "Dispositivo intrauterino; método contracetivo."
-    },
-    {
-        "Diurese": "Excreção abundante de urina"
-    },
-    {
-        "ECG": "Abreviatura de eletrocardiograma."
-    },
-    {
-        "Ecocardiograma": "Método de diagnóstico não invasivo que permite visualizar a morfologia e o funcionamento cardíaco, através da emissão e captação de ultrassons."
-    },
-    {
-        "Ectopia": "Anomalia, congénita ou não, relacionada à posição ou localização de um órgão, como na gravidez ectópica em que o produto da conceção se localiza fora do útero."
-    },
-    {
-        "Edema": "Inchaço devido à acumulação anormal de líquido nos espaços intercelulares dos tecidos ou em diferentes cavidades corporais."
-    },
-    {
-        "EEG": "Abreviatura de eletroencefalograma."
-    },
-    {
-        "Embolia": "Obstrução de um vaso sanguíneo, geralmente uma artéria secundária, devido a coagulação fibrinosa ou outro corpo estranho trazido pela corrente sanguínea desde um vaso maior. O mesmo que Embolismo."
-    },
-    {
-        "Êmbolo": "Corpo que provoca a obstrução de um vaso sanguíneo."
-    },
-    {
-        "Emplastro": "Medicamento ou preparação terapêutica adesiva destinada a uso externo."
-    },
-    {
-        "Encefalite": "Inflamação do tecido encefálico produzida por uma infeção viral, bacteriana ou micótica (fungos)."
-    },
-    {
-        "Entorse": "Distensão traumática de um ligamento que produz alongamento ou rutura do mesmo, acompanhada de dor, hematoma e dificuldade em movimentar a articulação afetada."
-    },
-    {
-        "Enxaqueca": "Dores de cabeça recorrentes e intensas, localizadas a uma metade da cabeça, acompanhadas de náuseas, perturbações oculares (fotopsia) e, por vezes, vómitos. Inicia-se geralmente na puberdade sendo a sua causa desconhecida. Contudo, nos indivíduos suscetíveis, pode ser desencadeada por fadiga física ou psíquica, certos alimentos ou excessos alimentares, luminosidade intensa ou súbita e menstruação."
-    },
-    {
-        "Enxerto": "Inserção de pedaço de pele ou osso para corrigir defeito ou falha em órgão ou tecido."
-    },
-    {
-        "Epiderme": "Camada mais exterior da pele."
-    },
-    {
-        "Epidural": "1) Que pertence ao canal sacro situado entre as vertebras e a dura-máter. 2) Anestesia que se realiza na superfície da dura-máter."
-    },
-    {
-        "Eritema": "Vermelhidão cutânea."
-    },
-    {
-        "Escoliose": "Deformidade no alinhamento da coluna vertebral, que produz uma curvatura da mesma para um dos lados. Pode ser devido a distúrbios ósseos e a problemas posturais."
-    },
-    {
-        "Espasmo": "Contração súbita e involuntária de um músculo ou grupo muscular. Este pode situar-se em qualquer região do organismo e produzir diferentes alterações."
-    },
-    {
-        "Estetoscópio": "Instrumento acústico utilizado para amplificar os sons emitidos por órgãos do corpo humano; por exemplo: coração e pulmões."
-    },
-    {
-        "Estomatite": "Processo inflamatório que acomete a cavidade oral e a laringe."
-    },
-    {
-        "Estrabismo": "Desvio da posição de um dos olhos em relação ao outro que pode dever-se a uma alteração no sistema de músculos, tendões e nervos encarregados do movimento normal dos olhos."
-    },
-    {
-        "Estria": "Risca na pele provocada por perda de elasticidade e/ou atrofia da pele e que inicialmente surge como linha vermelha e, posteriormente, como linha lustrosa, deprimida, podendo apresentar comprimento e largura diversa."
-    },
-    {
-        "Eutanásia": "Conjunto de procedimentos que proporcionam a morte sem sofrimento, por critério próprio de quem atua (médico, enfermeiro, familiar, etc.) ou por solicitação de quem sofre."
-    },
-    {
-        "Evaginação": "Protusão de um órgão ou de parte de um órgão para fora da sua localização normal."
-    },
-    {
-        "Excreção": "Eliminação para o exterior do organismo de secreções ou de produtos residuais pelos canais excretores ou pelas vias naturais."
-    },
-    {
-        "Expetoração": "Expulsão, com tosse, das secreções provenientes das vias respiratórias; material expulso do peito; escarro."
-    },
-    {
-        "Expetorante": "Medicamento ou qualquer outro meio que provoca expetoração."
-    },
-    {
-        "Fadiga": "Sensação sentida no corpo ou em parte do corpo após esforço exagerado; cansaço."
-    },
-    {
-        "Fármaco": "O mesmo que medicamento."
-    },
-    {
-        "Fáscia": "Bainha ou membrana de tecido conjuntivo fibroso que envolve, cobre ou separa os músculos ou outras estruturas do organismo."
-    },
-    {
-        "Fasciculação": "Contração involuntária e indolor de um grupo ou fascículo de fibras musculares."
-    },
-    {
-        "Fasciite": "Afeção inflamatória de uma ou mais aponevroses (fáscias)."
-    },
-    {
-        "Febre": "Elevação da temperatura corporal acima de um valor normal, normalmente 37ºC, quando medida na boca."
-    },
-    {
-        "Febril": "Caracterizado pela presença de febre."
-    },
-    {
-        "Fibroma": "Tumor benigno constituído por proliferação do tecido fibroso. geralmente bem delimitado, pode desenvolver-se nas localizações mais diversas: pele, tecidos moles, rim, ovário, rinofaringe, etc."
-    },
-    {
-        "Fibrose": "Formação patológica de tecido fibroso."
-    },
-    {
-        "Fimose": "Aperto mais ou menos acentuado do anel cutâneo do prepúcio, que impede que a glande se descubra.  É, na maioria dos casos, congénita."
-    },
-    {
-        "Fístula": "Orifício ou canal patológico que permite a passagem de matérias orgânicas, como pus, urina ou fezes."
-    },
-    {
-        "Flato": "Ar ou gases no estômago ou intestinos."
-    },
-    {
-        "Flatulência": "1) Acumulação de gases no estômago e nos intestinos, provocando distensão abdominal que, por vezes, se torna incómoda. 2) Expulsão mais ou menos ruidosa de gases acumulados nos intestinos pelo ânus."
-    },
-    {
-        "Flebite": "Inflamação da parede interna de uma veia. Pode ser acompanhada ou não de trombose da mesma."
-    },
-    {
-        "Flora Intestinal": "Bactérias presentes no intestino animal."
-    },
-    {
-        "Foliculite": "Inflamação dos folículos pilosos."
-    },
-    {
-        "Folículo": "Saco ou glândula excretória ou secretória de pequenas dimensões."
-    },
-    {
-        "Fratura": "Traumatismo que consiste na rutura parcial ou total de um osso ou de uma cartilagem dura."
-    },
-    {
-        "Frieira": "Inflamação da pele produzida pelo frio, acompanhada de inchaço, prurido e ardor, afetando geralmente os dedos das mãos e dos pés, o nariz e as orelhas."
-    },
-    {
-        "Fungicida": "Que destrói os fungos. Antifúngico."
-    },
-    {
-        "Fúngico": "Relativo aos fungos ou a eles devido. Ex.: intoxicação fúngica."
-    },
-    {
-        "Fungo": "Forma de vida simples (cogumelo comestível, cogumelo venenoso, bolor) que pode ser saprófita ou parasita. Existem muitas espécies de fungos, alguns dos quais podem ser patogénicos, provocando doenças da pele ou de outros órgãos (micoses ou alergias)."
-    },
-    {
-        "Furúnculo": "Pequeno nódulo doloroso que se forma em torno da raiz de um pelo ou de uma glândula sudorípara, devido a inflamação do tecido celular situado debaixo da pele."
-    },
-    {
-        "Gâmeta": "Cada uma das duas células que se unem durante a fecundação para formar o ovo (ou zigoto)."
-    },
-    {
-        "Gânglio": "Pequena estrutura ou corpo arredondado existente no trajeto de um nervo ou de um vaso linfático."
-    },
-    {
-        "Gangrena": "Necrose dos tecidos, em consequência da interrupção local da circulação sanguínea, de origem diversa: embolia, aterosclerose, etc.; por vezes, complica-se de uma superinfecção por germes anaeróbios (gangrena gasosa)."
-    },
-    {
-        "Gastralgia": "Dor no estomago."
-    },
-    {
-        "Gastrenterite": "Inflamação aguda da mucosa do estômago e do intestino (geralmente de causa infeciosa), caracterizada por febre, vómitos, diarreia (mais ou menos profusa) e mal-estar geral."
-    },
-    {
-        "Gástrico": "Relativo ao estômago."
-    },
-    {
-        "Gastrintestinal": "Referente ao estômago e ao intestino."
-    },
-    {
-        "Gastrite": "Inflamação aguda ou crónica da mucosa do estômago."
-    },
-    {
-        "Gene": "Partícula elementar de um cromossoma, constituída essencialmente por ácido desoxirribonucleico (ADN) e que é responsável pela transmissão hereditária de um carácter. O gene está localizado num ponto definido (locus) de um cromossoma. Os genes são suscetíveis de sofrer mutações."
-    },
-    {
-        "Genérico": "Medicamento cuja fórmula caiu no domínio público e que é vendido sob a denominação comum a um preço inferior ao da especialidade correspondente."
-    },
-    {
-        "Genética": "Ciência da hereditariedade cujas primeiras leis foram descritas por Mendel em 1865, e que estuda a transformação dos caracteres anatómicos, citológicos e funcionais dos pais para os filhos."
-    },
-    {
-        "Gengival": "Relativo às gengivas."
-    },
-    {
-        "Gengivite": "Inflamação das gengivas."
-    },
-    {
-        "Genital": "Relativo à reprodução sexuada ou aos órgãos sexuais."
-    },
-    {
-        "Genoma": "Conjunto dos cromossomas de um gâmeta (célula sexual), cujo número é característico de cada espécie. Nos humanos, o genoma é formado por 23 cromossomas."
-    },
-    {
-        "Geriatria": "Parte da Medicina que se ocupa das doenças dos idosos."
-    },
-    {
-        "Germe": "Microrganismo, sobretudo os que são suscetíveis de causar uma doença."
-    },
-    {
-        "Glândula": "Estrutura do organismo especializada na produção de substâncias que podem ser lançadas na corrente sanguínea (glândulas endócrinas) ou superfícies mucosas ou cutâneas (glândulas exócrinas). A saliva, o suor e o muco são exemplos de produtos de glândulas."
-    },
-    {
-        "Glaucoma": "Aumento da pressão intraocular que se manifesta por dor de cabeça, olhos vermelhos e, quando não tratado, pode levar à perda de visão a longo prazo."
-    },
-    {
-        "Glicemia": "Presença de glicose no sangue."
-    },
-    {
-        "Glicose": "Açúcar simples abundante na natureza (sob a forma de dextrose), que serve de referência à classe dos glícidos. Alimento energético essencial, constitui a forma principal sob a qual os açúcares podem ser utilizados pelo organismo."
-    },
-    {
-        "Glóbulo": "Partícula ou célula livre com forma mais ou menos esférica. Ex.: glóbulo branco (leucócito); glóbulo vermelho (eritrócito)."
-    },
-    {
-        "Glúten": "Mistura de proteínas presente nas farinhas de cereais (sobretudo na farinha de trigo). A intolerância ao glúten é a causa da doença celíaca."
-    },
-    {
-        "Gónada": "Glândula genital que produz os gâmetas; nos animais superiores e no ser humano, o testículo e o ovário."
-    },
-    {
-        "Gota": "Afeção devida a perturbação do metabolismo do ácido úrico, que ocorre quase exclusivamente no homem. Manifesta- se por crises de artrite aguda localizada especialmente na articulação do dedo grande do pé e por depósitos de uratos (tofos) subcutâneos. A concentração de ácido úrico do sangue encontra-se aumentada (hiperuricemia)."
-    },
-    {
-        "Gram (coloração ou método de)": "Método de coloração para distinguir as bactérias e em que se faz uma primeira coloração com violeta de genciana. Depois faz-se a descoloração pelo álcool e, em seguida, nova coloração com fucsina. Com este método classificam-se as bactérias em gram-positivas (que mantêm a coloração violeta) e gram-negativas (depois de descoradas ficam coradas de rosa pela fucsina)."
-    },
-    {
-        "Gram-negativo": "Diz-se de um microrganismo que fica corado de rosa pelo método de coloração de Gram."
-    },
-    {
-        "Gram-positivo": "Diz-se de um microrganismo que fica corado de violeta pelo método de coloração de Gram."
-    },
-    {
-        "Granuloma": "Tumor ou nódulo que se encontra em processos infeciosos e outras doenças. É, na maioria das vezes, uma reação a algum tipo de agressão (corpo estranho, ferimentos, parasitas, etc.)."
-    },
-    {
-        "Gravidez ectópica": "Implantação do produto da fecundação fora da cavidade uterina."
-    },
-    {
-        "Greta": "Fenda na pele."
-    },
-    {
-        "Habituação": "Estado do organismo que se habitua progressivamente à ação de um medicamento ou de uma droga, cujos efeitos diminuem pouco a pouco, o que obriga a aumentar as doses."
-    },
-    {
-        "Halitose": "Mau hálito."
-    },
-    {
-        "Hematoma": "Tumefação sanguínea resultante da rutura de um vaso."
-    },
-    {
-        "Hematúria": "Presença anormal de sangue na urina."
-    },
-    {
-        "Hemodiálise": "Processo terapêutico em que o sangue, através de equipamento especial, é depurado de diversas substâncias nocivas."
-    },
-    {
-        "Hemofilia": "Doença hereditária familiar que afeta essencialmente pessoas do sexo masculino, e que se caracteriza por problemas de coagulação do sangue e propensão para hemorragias graves."
-    },
-    {
-        "Hemofílico": "Pessoa que sofre de hemofilia."
-    },
-    {
-        "Hemoglobina": "Proteína que contém ferro sob a forma de uma fração designada heme, contida nos glóbulos vermelhos, aos quais confere a cor. A hemoglobina é o veículo do oxigénio no sangue."
-    },
-    {
-        "Hemograma": "Exame ao sangue, realizado em laboratório, para classificação e contagem dos elementos do sangue e respetivas percentagens."
-    },
-    {
-        "Hemorragia": "Perda de sangue para um órgão interno (tubo digestivo, cavidade abdominal) ou para o exterior (ferimento arterial). De acordo com o volume e velocidade com a qual se produz o sangramento, uma hemorragia pode produzir diferentes manifestações nas pessoas, desde taquicardia, sudorese, palidez cutânea e até choque."
-    },
-    {
-        "Hemorroidas": "Dilatações anormais das veias superficiais que se encontram na última porção do intestino grosso, reto e região perianal. Pode produzir sangramento junto com a defecação e dor."
-    },
-    {
-        "Hepatite": "Inflamação do fígado, caracterizada por coloração amarela da pele e mucosas (icterícia), dor na região superior direita do abdómen, cansaço generalizado, aumento do tamanho do fígado, etc. Pode ser produzida por múltiplas causas como infeções virais, toxicidade por drogas, doenças imunológicas, etc."
-    },
-    {
-        "Hérnia": "Tumor mole, que se forma com a saída total ou parcial de uma víscera para fora da membrana que a reveste, através de uma rotura da mesma."
-    },
-    {
-        "Herpes": "Afeção cutânea, aguda, caracterizada por grupos de vesículas amarelas que formam crostas no período de cura."
-    },
-    {
-        "Hiperglicemia": "Excesso de açúcar no sangue."
-    },
-    {
-        "Hipertensão": "Tensão das artérias superior à normal."
-    },
-    {
-        "Hipoglicemia": "Insuficiência de açúcar no sangue."
-    },
-    {
-        "HIV": "Abreviatura em inglês do vírus da imunodeficiência humana. É o agente causador da SIDA."
-    },
-    {
-        "Hormona": "Designação das substâncias provenientes das glândulas endócrinas, que desempenham ações das mais importantes num organismo."
-    },
-    {
-        "Icterícia": "Coloração amarela mais ou menos intensa da pele e das mucosas, devida à impregnação dos tecidos por pigmentos biliares. As suas causas principais são: afeção das células hepáticas (icterícia das hepatites, das cirroses, de certas intoxicações), a obstrução das vias biliares extra-hepáticas e a destruição maciça dos glóbulos vermelhos (hemólise)."
-    },
-    {
-        "Idiopático": "Que existe por si mesmo; de origem desconhecida. Ex.: nevralgia idiopática."
-    },
-    {
-        "Impetigo": "Infeção cutânea superficial, contagiosa, devida a germes piogénicos (estafilococos ou estreptococos), caracterizada por pústulas de tendência extensiva que se cobrem de crostas amareladas e espessas."
-    },
-    {
-        "Imunidade": "Estado de resistência de um organismo relativamente a um fator patogénico (geralmente um germe infecioso), com o qual já esteve em contacto. Este estado de resistência é então, na maioria dos casos, devido à presença de anticorpos circulantes no organismo imunizado."
-    },
-    {
-        "Imunitário": "1) Relativo à imunidade. 2) Que se caracteriza pela imunidade."
-    },
-    {
-        "Imunizante": "Que proporciona ou confere imunidade."
-    },
-    {
-        "Imunodeficiência": "Ausência ou diminuição das reações imunitárias."
-    },
-    {
-        "Imunodepressão": "Diminuição ou supressão das reações imunitárias do organismo que pode ter origem infeciosa ou ser obtida por meios terapêuticos (nomeadamente pelos medicamentos imunossupressores)."
-    },
-    {
-        "Imunoglobulina": "Qualquer globulina plasmática dotada de propriedades imunitárias e que tem uma função de anticorpo no organismo. As imunoglobulinas subdividem-se, por ordem de importância e em função da sua estrutura e da sua atividade, em cinco categorias: imunoglobulinas G, imunoglobulinas A, imunoglobulinas M, imunoglobulinas D e imunoglobulinas E. Símbolo: Ig, seguido do seu índice específico: IgA, IgG, IgM."
-    },
-    {
-        "Incontinência": "Incapacidade de controlar voluntariamente a emissão da urina ou das fezes."
-    },
-    {
-        "Indigestão": "Termo que designa uma perturbação gastrointestinal passageira que se traduz por sensação de mal-estar, de peso epigástrico, acompanhada por vezes por náuseas e vómitos."
-    },
-    {
-        "Infecioso": "Que produz infeção, que hospeda um microrganismo que possui o poder de provocar uma infeção ou que é devido a uma infeção."
-    },
-    {
-        "Inflamação": "Conjunto das reações que se produzem no organismo em resposta à ação irritante ou à perturbação criadas por diversos fatores (microrganismos patogénicos, agentes físicos ou químicos, etc.). Os seus sinais principais são calor, dor, rubor e tumefação."
-    },
-    {
-        "Inflamatório": "Relativo à inflamação, ou que é caracterizado por uma inflamação. Ex.: edema inflamatório, reação inflamatória."
-    },
-    {
-        "Influenza": "O mesmo que gripe."
-    },
-    {
-        "Inoculação": "1) Ação de introduzir um germe num organismo vivo por injeção; 2) Penetração no organismo de um microrganismo patogénico através de uma ferida cutânea ou mucosa."
-    },
-    {
-        "Insuficiência": "Estado deficitário de um órgão ou de uma glândula, que não é capaz de realizar normalmente as suas funções."
-    },
-    {
-        "Insulina": "Hormona do pâncreas, segregada pelas células beta dos ilhéus de Langerhans. Favorece a utilização do açúcar pelos tecidos e reduz a glicemia."
-    },
-    {
-        "Jejum": "Privação de alimentos; abstinência; estômago vazio."
-    },
-    {
-        "Jugular": "1) Relativo à garganta. 2) Cada uma das veias jugulares. A veia jugular externa é uma veia volumosa formada pela confluência das veias temporais superficiais e maxilar interna. A veia jugular interna é um tronco volumoso que recebe o sangue venoso da cavidade craniana, de uma parte da face e da região anterior do pescoço."
-    },
-    {
-        "Lactação": "1) Elaboração e secreção do leite pelas glândulas mamárias. 2) Aleitamento, amamentação."
-    },
-    {
-        "Laqueação": "Ato ou efeito de laquear ou apertar um vaso, um canal ou afim (ex.: laqueação das trompas de Falópio)."
-    },
-    {
-        "Leucemia": "Doença neoplásica aguda ou crónica caracterizada pela proliferação anormal e geralmente intensa dos leucócitos e das suas células de origem na medula óssea, por vezes associada à proliferação dos eritroblastos. É acompanhada habitualmente por alterações quantitativas e qualitativas dos leucócitos no sangue periférico."
-    },
-    {
-        "Leucócito": "Célula sanguínea nucleada, com aspeto esbranquiçado quando não está corada, de dimensões variáveis conforme o seu tipo e forma geralmente arredondada. Distinguem-se: os granulócitos (neutrófilos, basófilos e eosinófilos), os linfócitos e os monócitos."
-    },
-    {
-        "Ligamento": "1) Feixe fibroso, com forma e tamanho variáveis, resistente e pouco extensível, que liga entre si duas peças ósseas, sobretudo ao nível de uma articulação (ligamento articular), ou diversos órgãos ou partes do corpo."
-    },
-    {
-        "Linfa": "Líquido claro, transparente, amarelo-pálido, alcalino, que circula nos vasos linfáticos ou que ocupa os espaços intercelulares. A linfa contém normalmente linfócitos e as mesmas substâncias que o soro sanguíneo, mas em menor quantidade."
-    },
-    {
-        "Linfático": "1) Relativo à linfa ou à sua secreção. 2) Vaso linfático: vaso que transporta a linfa."
-    },
-    {
-        "Linfócito": "Pequeno leucócito mononucleado presente no sangue, na medula e nos tecidos linfoides. Os linfócitos desempenham uma função essencial nas reações imunitárias do organismo."
-    },
-    {
-        "Linfoma": "Designação de qualquer tipo de tumor, frequentemente maligno, constituído por proliferação de um tecido linfoide (doença de Burkitt, doença de Hodgkin, macromaglobulinemia primária de Waldenström, linfoma mediterrânico). Atualmente, um grande número de linfomas tem tratamento eficaz."
-    },
-    {
-        "Lombalgia": "Qualquer dor da região lombar, seja de origem vertebral, muscular, urogenital ou ginecológica."
-    },
-    {
-        "Lyme (Doença de)": "Doença endémica inflamatória causada por um microrganismo espiralado (Borrelia burgdorferi) transmitido por carraças do género Ixodes, caracterizada por eritema crónico migratório, artrites com localizações diversas, neuropatias e meningencefalite."
-    },
-    {
-        "Malabsorção": "Defeito da absorção digestiva das gorduras, das proteínas, dos glícidos e das vitaminas (nomeadamente da vitamina B12). O conjunto das diversas perturbações que dela resultam, bem como as suas manifestações clínicas, são por vezes designadas por síndrome de malabsorção."
-    },
-    {
-        "Malformação": "Modificação patológica congénita e permanente de um órgão, de uma parte do corpo ou de todo o organismo."
-    },
-    {
-        "Malnutrição": "Estado de nutrição insatisfatório que resulta da subalimentação, de superalimentação, alimentação desequilibrada ou assimilação imperfeita (malabsorção)."
-    },
-    {
-        "Mamografia": "Radiografia da glândula mamária, sem qualquer preparação prévia (sem opacificação por meio de contraste)."
-    },
-    {
-        "Mastectomia": "Extração cirúrgica, total ou parcial, da mama."
-    },
-    {
-        "Matriz Ungueal": "Zona na qual se gera a unha, constituída pela derme onde se implanta a raiz ungueal."
-    },
-    {
-        "Medula Óssea": "Tecido de consistência mole que preenche a parte central dos ossos longos e as diferentes cavidades e aréolas dos ossos esponjosos. A sua coloração e composição variam essencialmente com a idade do indivíduo. A medula vermelha, presente no feto e na criança, é rica em células conjuntivas jovens (entre elas as que estão na origem das células sanguíneas) e em vasos sanguíneos; tem um papel importante na ossificação e na hematopoiese. A medula amarela do adulto, rica em células adiposas, preenche o canal central da diáfise dos ossos longos."
-    },
-    {
-        "Melanina": "Pigmento castanho-escuro ou negro, presente normalmente na pele, cabelos, membranas do olho, certas regiões do cérebro e, patologicamente, em certos tumores (nevos, melanomas) e na urina. É elaborado pelas células da camada basal da epiderme."
-    },
-    {
-        "Melanoma": "O melanoma surge quando os melanócitos (células pigmentares ou sinais) se tornam malignos. Quando o melanoma tem início na pele, a doença chama-se melanoma cutâneo. O melanoma pode, também, ocorrer nos olhos (melanoma ocular ou melanoma intra-ocular)."
-    },
-    {
-        "Meninges": "Conjunto das três membranas que envolvem inteiramente o eixo cerebrospinal. São, de fora para dentro, a dura-máter, a aracnóide e a pia-máter."
-    },
-    {
-        "Meningite": "Inflamação, aguda ou crónica, das meninges cerebrais (meningite cerebral), das meninges espinhais (meningite espinhal) ou das meninges com ambas as localizações (meningite cerebroespinhal). Manifesta-se por sintomas como febre, cefaleias, vómitos, convulsões, rigidez da nuca, delírio, estrabismo, sonolência, paralisias, etc.). A causa das meningites é muito variada, podendo ser traumática, infeciosa (bacteriana, viral, parasitária), etc."
-    },
-    {
-        "Meningococo": "Diplococo Gram-negativo, em forma de grão de café, agente da meningite cerebrospinal. Pode subsistir nos portadores de germes (especialmente na faringe), sem provocar a doença."
-    },
-    {
-        "Menopausa": "Paragem da função ovárica que ocorre por volta dos 50 anos e após a qual deixam de existir a ovulação, a fecundação e a menstruação. Nome popular: idade crítica."
-    },
-    {
-        "Menstruação": "Corrimento fisiológico de sangue pela vagina, que ocorre periodicamente com intervalos de 25 a 31 dias (em média 28 dias) na mulher em estado de saúde normal, desde a puberdade até à menopausa. A menstruação dura normalmente 3 a 6 dias; está ausente durante a gravidez e muitas vezes também durante o período de aleitamento."
-    },
-    {
-        "Metabolismo": "Conjunto das transformações químicas e físico-químicas que ocorrerem em todos os tecidos do organismo, sofridas pelos constituintes da matéria viva."
-    },
-    {
-        "Metástase": "Foco de células cancerosas, relacionado com um cancro preexistente, chamado «primitivo», mas que se desenvolve à distância deste último e sem continuidade com ele. Ordinariamente, é produzido pela proliferação de células provenientes do tumor primitivo que chegam a um ponto determinado do organismo, quer por um canal natural (ex.: brônquios, canal biliar), quer por via vascular sanguínea ou linfática, o que é muito mais frequente."
-    },
-    {
-        "Mialgia": "Dor muscular."
-    },
-    {
-        "Micção": "Ação de urinar."
-    },
-    {
-        "Micose": "Qualquer afeção parasitária provocada por um fungo."
-    },
-    {
-        "Micróbio": "Nome dado a qualquer organismo invisível a olho nu e mais especialmente aos que são suscetíveis de provocar infeções."
-    },
-    {
-        "Microrganismo": "Organismo vivo, invisível a olho nu devido às suas pequenas dimensões."
-    },
-    {
-        "Miocárdio": "Músculo estriado reticulado espesso, que constitui a quase totalidade da parede do coração. É revestido interiormente pelo endocárdio e exteriormente pelo epicárdio e pericárdio."
-    },
-    {
-        "Monócito": "Tipo de glóbulo branco de grandes dimensões, mononuclear, que se origina na medula óssea e se desloca pela corrente sanguínea até aos tecidos."
-    },
-    {
-        "Mórbido": "Relativo a doença."
-    },
-    {
-        "Muco": "Produto de secreção das glândulas mucosas e que contém, para além de outros constituintes, água, sais, células descamadas e leucócitos. O muco exerce uma função protetora das mucosas que cobre."
-    },
-    {
-        "Mucosa": "Membrana de revestimento das cavidades naturais do organismo, cuja superfície está sempre ligeiramente húmida."
-    },
-    {
-        "Músculo": "Órgão dotado da propriedade de se contrair. Os músculos são classificados em dois grupos: músculos lisos e músculos estriados."
-    },
-    {
-        "Mutação": "Mudança brusca e permanente de um ou mais caracteres hereditários que ocorre espontaneamente ou provocada por diversos agentes. O mecanismo pode ser cromossómico: modificação do número, da distribuição ou da estrutura dos cromossomas; ou génico: modificação de um só gene ou de um pequeno número de genes."
-    },
-    {
-        "Narcolepsia": "Acesso súbito, de curta duração, de uma necessidade irresistível de dormir. A narcolepsia pode ocorrer em diversas doenças (epilepsia, tumor cerebral) ou na ausência de qualquer outra doença."
-    },
-    {
-        "Narcose": "Estado de sono provocado por medicamentos, na maior parte dos casos durante uma anestesia geral: por extensão, designa a própria anestesia geral."
-    },
-    {
-        "Narcótico": "1) Que produz narcose. 2) Diz-se de certos estupefacientes com efeito sedativo, euforizante ou ansiolítico, tais como os opiáceos."
-    },
-    {
-        "Náusea": "Vontade de vomitar, concretizada ou não. É acompanhada por contração involuntária dos músculos da faringe, do esófago e do estômago."
-    },
-    {
-        "Necrose": "Morte de um tecido ou de parte de um tecido (ósseo, cutâneo, vascular, etc.) de causa infeciosa."
-    },
-    {
-        "Nefralgia": "Dor renal."
-    },
-    {
-        "Nefrologia": "Ramo da medicina que compreende o estudo do rim e o tratamento das doenças renais. O médico especialista chama-se nefrologista."
-    },
-    {
-        "Neonatologia": "Ramo da medicina que trata dos cuidados médicos e preventivos relativos ao recém- nascido e à mãe, desde o nascimento até ao 28.º dia de vida da criança."
-    },
-    {
-        "Neoplasia": "Formação de um tumor."
-    },
-    {
-        "Nervo": "Cada um dos filamentos que servem de órgãos à sensação e ao movimento animal (ex.: nervo ciático, nervo facial)."
-    },
-    {
-        "Neurologia": "1) Ramo da medicina que trata das doenças do sistema nervoso. O especialista chama-se neurologista ou neurólogo. 2) Estudo da anatomia e da fisiologia do sistema nervoso central."
-    },
-    {
-        "Neuropatia": "Afeção do sistema nervoso, central ou periférico."
-    },
-    {
-        "Neurose": "Perturbação psíquica caracterizada por comportamento anormal, da qual o doente está consciente sem, todavia, a poder dominar. A neurose perturba a afetividade e a emotividade, mas não afeta as faculdades intelectuais."
-    },
-    {
-        "Nevo": "1) Malformação, sob a forma de mancha ou tumor, que alguns recém-nascidos trazem na pele. 2) Mancha na pele, sinal."
-    },
-    {
-        "Nevralgia": "Dor que se manifesta por acessos, sentida no trajeto de um nervo sensitivo ou no território que este inerva."
-    },
-    {
-        "Nevrite": "Lesão inflamatória de um nervo."
-    },
-    {
-        "Nódulo": "1) Estrutura anatómica formada por uma massa de células que exerce determinada função. 2) Em anatomia e em patologia, designa um pequeno inchaço ou saliência em forma de nó."
-    },
-    {
-        "Nosocomial": "Que tem a sua origem em meio hospitalar, ex.:. infeção nosocomial."
-    },
-    {
-        "Obesidade": "Excesso mórbido de peso."
-    },
-    {
-        "Obeso": "Que tem obesidade."
-    },
-    {
-        "Obstetrícia": "Ramo da medicina que trata da gravidez e do parto. O especialista é o obstetra (em linguagem corrente parteiro)."
-    },
-    {
-        "Obstipação": "Aumento no intervalo entre as evacuações, acompanhada de fezes impactadas e dificuldade na eliminação das mesmas. É definida como uma alteração do hábito intestinal na qual o indivíduo fica sem defecar por mais de 3 dias. Também conhecida como prisão de ventre."
-    },
-    {
-        "Odontologia": "Estudo dos dentes e das suas doença. Medicina Dentária."
-    },
-    {
-        "Oftalmia": "Afeção inflamatória do olho."
-    },
-    {
-        "Oftalmologia": "Parte da medicina que trata dos olhos e dos seus anexos, do ponto de vista médico e cirúrgico."
-    },
-    {
-        "Oncologia": "Estudo dos tumores e, por extensão, dos cancros. O especialista chama-se oncologista."
-    },
-    {
-        "Organismo": "Ser vivo, animal ou vegetal, que nasce, se desenvolve e é normalmente capaz de se reproduzir."
-    },
-    {
-        "Ortopedia": "Dirige-se ao tratamento das afeções congénitas ou adquiridas dos ossos, das articulações, dos músculos e dos tendões."
-    },
-    {
-        "Osteoartrite": "Artrite complicada por lesões ósseas das extremidades articulares."
-    },
-    {
-        "Osteoporose": "Alteração óssea, localizada ou difusa, que se caracteriza pelo adelgaçamento dos espaços ósseos. Pode surgir com a idade (osteoporose senil) ou por traumatismos, doenças endócrinas, menopausa, imobilização prolongada, etc."
-    },
-    {
-        "Otite": "Qualquer inflamação do ouvido, que afete a caixa do tímpano (otite média) ou o canal auditivo externo (otite externa)."
-    },
-    {
-        "Ovário": "Cada uma das duas glândulas genitais femininas, situadas na bacia atrás dos ligamentos largos, à face do pavilhão da trompa. Produzem os óvulos e segregam uma parte das hormonas sexuais da mulher (estrogénio, progesterona)."
-    },
-    {
-        "Ovulação": "Fenómeno fisiológico pelo qual o óvulo, que atingiu a maturidade, se destaca do ovário, é normalmente captado pelo pavilhão da trompa uterina (onde pode ser fecundado por um espermatozoide) e passa para o útero."
-    },
-    {
-        "Óvulo": "Gâmeta feminino maduro, derivado do oócito, que é suscetível de ser fecundado por um gâmeta masculino (espermatozoide)."
-    },
-    {
-        "Pacemaker": "Estimulador cardíaco."
-    },
-    {
-        "Paliativo": "Que suprime ou atenua os sintomas sem atuar diretamente na doença que os provoca. Ex.: cuidados paliativos."
-    },
-    {
-        "Palpitação": "Sensação mais ou menos desagradável devidas à perceção não habitual dos batimentos cardíacos."
-    },
-    {
-        "Panaceia": "Nome dado antigamente a certos remédios que passavam por ser eficazes em qualquer doença."
-    },
-    {
-        "Pancardite": "Inflamação global do coração que afeta o pericárdio, o miocárdio e o endocárdio."
-    },
-    {
-        "Pancreatite": "Inflamação do pâncreas."
-    },
-    {
-        "Pandemia": "Epidemia que se estende a quase todos os habitantes de uma região e que pode afetar uma zona geográfica muito extensa. Trata-se geralmente de uma doença grave, como a cólera, a peste ou a SIDA."
-    },
-    {
-        "Papeira": "Doença infeciosa, contagiosa e epidémica, causada por um mixovírus da família dos Paramyxovirideae que tem uma afinidade especial para as glândulas salivares, testículos e sistema nervoso. Manifesta-se por tumefação dolorosa, em geral das duas glândulas parótidas, por vezes de outras glândulas salivares, e por febre habitualmente pouco elevada. O período de incubação é de 12 a 26 dias. A transmissão faz-se por contacto direto com um doente ou com objetos recentemente contaminados pelas secreções nasofaríngeas."
-    },
-    {
-        "Papiloma": "Tumor benigno, habitualmente de tamanho reduzido, desenvolvido na pele ou numa mucosa, e caracterizado pela hipertrofia das papilas da derme."
-    },
-    {
-        "Pápula": "Pequena lesão cutânea, bem circunscrita e firme, que não deixa cicatriz. As pápulas são as lesões elementares de numerosas afeções cutâneas: urticária, febres eruptivas, líquen, etc."
-    },
-    {
-        "Paralisia": "Perda passageira ou definitiva da função motora de um músculo, de um grupo muscular ou de uma parte do corpo, devida geralmente a uma lesão nervosa central ou periférica."
-    },
-    {
-        "Paralisia cerebral": "Conjunto das manifestações neurológicas devidas a lesões cerebrais congénitas (anomalia do desenvolvimento durante o primeiro trimestre da gravidez) ou adquiridas (ocasionadas por um parto difícil ou por traumatismos acidentais durante os primeiros meses de vida)."
-    },
-    {
-        "Paraplegia": "Paralisia dos dois membros inferiores, muitas vezes associada à dos esfíncteres; é em geral devida a lesão da medula espinal."
-    },
-    {
-        "Parasita": "Organismo animal ou vegetal que, durante uma parte ou a totalidade da sua existência, se nutre permanente ou temporariamente com substâncias produzidas por outro ser vivo, sem destruir este último, exceto nos casos relativamente raros em que os parasitas são excessivamente numerosos."
-    },
-    {
-        "Paresia": "Paralisia ligeira ou incompleta, que se traduz por diminuição da força muscular."
-    },
-    {
-        "Parestesia": "Qualquer sensação anormal de picadas, formigueiro, impressão na pele, etc. Em geral associada a lesões dos nervos periféricos ou da medula espinal."
-    },
-    {
-        "Parkinson (doença de)": "Afeção neurológica devida a lesões degenerativas do corpo estriado e do locus niger, caracterizada clinicamente por tremor lento, que persiste em repouso."
-    },
-    {
-        "Pasteurização": "Processo para a conservação temporária de certos produtos alimentares (leite, cerveja, vinho, etc.) pela eliminação relativa de germes só por meio de aquecimento a uma temperatura sempre inferior a 100°C. A pasteurização do leite faz-se atualmente a 90°C durante 30 segundos, seguida por arrefecimento brusco a 10°C. A pasteurização não assegura uma esterilização eficaz porque não destrói os esporos e não mata todos os micróbios."
-    },
-    {
-        "Patologia": "Parte da medicina que estuda as doenças do ponto de vista clínico e anatómico. O especialista chama-se patologista."
-    },
-    {
-        "Patológico": "Relativo à patologia ou a um estado mórbido (a uma doença)."
-    },
-    {
-        "Pediatria": "Ramo da medicina que trata das doenças da infância. O especialista chama-se pediatra."
-    },
-    {
-        "Penicilina": "Qualquer antibiótico proveniente originalmente de fungos Penicillium notatum e Penicillium chrysogenum, ativo contra grande número de bactérias Gram-positivas (estafilococo, pneumococo, estreptococo) ou Gram-negativas (gonococo, meningococo), os treponemas e certas leptospiras. Descoberta por Sir Alexander Fleming em 1929. Geralmente bem tolerada, pode, não obstante, provocar sensibilizações, por vezes muito graves. Um certo número de microrganismos, primitivamente sensíveis à penicilina, podem desenvolver resistência contra ela e tornarem-se penicilinorresistentes."
-    },
-    {
-        "Péptico": "Relativo ou que é devido à digestão. Ex.: úlcera péptica."
-    },
-    {
-        "Percutâneo": "Que se faz através da pele (falando da absorção de uma substância através da pele intacta)."
-    },
-    {
-        "Pericárdio": "Saco que envolve o coração."
-    },
-    {
-        "Perspiração": "Eliminação da água por evaporação contínua, impercetível, à superfície da pele (perspiração insensível) ou pela evaporação do suor acumulado."
-    },
-    {
-        "Petéquia": "Pequena mancha hemorrágica cutânea, punctiforme ou lenticular, devida à rutura dos capilares. É o elemento eruptivo característico da púrpura."
-    },
-    {
-        "Pia-máter": "Fina lâmina de tecido conjuntivo laxo e transparente que cobre toda a superfície externa do eixo nervoso cerebrospinal."
-    },
-    {
-        "Placebo": "Substância desprovida de eficácia terapêutica, mas que pode atuar através de um mecanismo psicológico (efeito placebo) se o indivíduo julga estar a receber uma substância ativa (efeito placebo)."
-    },
-    {
-        "Placenta": "Anexo do feto que assegura as trocas nutritivas entre este e o organismo materno. Desenvolve-se durante a gravidez a partir da membrana externa do ovo. A placenta tem igualmente a função de glândula endócrina, segregando as hormonas esteroides (estrona, progesterona), que mantêm a mucosa uterina no seu estado gestativo e cuja abundância na urina permite fazer o diagnóstico biológico da gravidez."
-    },
-    {
-        "Plaqueta": "Elemento, sem núcleo, constituinte do sangue, em forma de disco bicôncavo oval ou redondo de cerca de 3 micras de diâmetro e em número de 200.000 a 300.000 por mm3. As plaquetas desempenham um papel importante na coagulação do sangue. Sinónimo de trombócito."
-    },
-    {
-        "Plasma": "Parte líquida do sangue na qual se encontram em suspensão diversos elementos (glóbulos vermelhos, glóbulos brancos, plaquetas) e o fibrinogénio. O plasma pode ser utilizado com fins terapêuticos para substituir perdas sanguíneas ou líquidas."
-    },
-    {
-        "Pneumonia": "Inflamação do pulmão devida a germes infeciosos, que se manifesta através de um foco único ou de focos múltiplos, e mais especialmente a pneumonia lobar, provocada pelo pneumococo (Streptococcus pneumoniae)."
-    },
-    {
-        "Pólipo": "Tumor que se forma nas cavidades que constituem as mucosas (ex.: pólipo hiperplásico; pólipos uterinos).\r\nPosologia: Quantidade (dose) total de um medicamento, estimada de acordo com a idade e o peso do doente, que deve administrar-se de uma vez em doses parciais, para tratamento de uma doença."
-    },
-    {
-        "Profilaxia": "Método de proteção ou de prevenção dirigido contra uma doença."
-    },
-    {
-        "Prostatite": "Inflamação da próstata."
-    },
-    {
-        "Prurido": "Sensação de comichão cutânea, que pode ser devida a doença da pele ou afeção geral, ou não ter causa aparente."
-    },
-    {
-        "Psicomotor": "Relativo às funções motoras integradas e coordenadas pelas funções psíquicas. Ex.: desenvolvimento psicomotor, atraso psicomotor."
-    },
-    {
-        "Psicose": "Afeção mental caracterizada por desintegração geralmente profunda da personalidade, com perturbações da perceção, do julgamento, do raciocínio e do comportamento, das quais o doente não tem consciência."
-    },
-    {
-        "Psicossomático": "Que é relativo às influências do psiquismo nas funções do organismo, em especial perturbações ou doenças corporais."
-    },
-    {
-        "Psicótico": "Relativo à psicose ou que sofre de psicose."
-    },
-    {
-        "Psique": "A mente considerada enquanto órgão, de mesma forma que qualquer outro órgão."
-    },
-    {
-        "Puericultura": "Conjunto dos meios e métodos suscetíveis de assegurarem um desenvolvimento físico e psíquico normal da criança pequena, do nascimento até aos 4 ou 5 anos de idade."
-    },
-    {
-        "Pueril": "Que é próprio da infância. Por extensão, diz-se de certos caracteres de um adulto que se assemelham aos de uma criança. Ex.: comportamento pueril. V. infantil."
-    },
-    {
-        "Punção": "Intervenção que consiste em introduzir uma agulha, um trocarte, a ponta de um bisturi ou qualquer outro instrumento pontiagudo numa cavidade natural ou patológica, para recolher uma parte do seu conteúdo com finalidade diagnóstica ou terapêutica. Ex:. Punção lombar."
-    },
-    {
-        "Púrpura": "Manchas cutâneas com forma e extensão variáveis, devidas à passagem do sangue para fora dos capilares da pele. Vermelho-vivas ou violáceas, estas manchas não desaparecem à pressão."
-    },
-    {
-        "Purulento": "Que contém pus."
-    },
-    {
-        "Pus": "Líquido amarelado que se forma nos pontos de infeção e que é constituído por resíduos de leucócitos e de micróbios."
-    },
-    {
-        "Quarentena": "Denominação dada ao método de evitar a propagação de doenças infeciosas por isolamento das pessoas, mercadorias, animais, aviões, barcos e outros veículos provenientes de regiões infetadas com determinadas doenças contagiosas. De início, a quarentena correspondia a quarenta dias de isolamento (daí a denominação), mas os atuais conhecimentos sanitários permitem que esse período de tempo seja limitado ao tempo de incubação da doença suspeita."
-    },
-    {
-        "Queratina": "Proteína dura, rica em enxofre, que se forma na camada córnea da pele, nos pelos e nas unhas."
-    },
-    {
-        "Queratose": "Espessamento patológico da camada córnea da epiderme, em especial da palma das mãos e da planta dos pés. Pode ser de origem congénita ou como consequência de outras patologias (sífilis, psoríase, eczema, radiodermite, etc.)."
-    },
-    {
-        "Quimioterapia": "Administração de uma substância química com a finalidade de curar uma doença ou de impedir a sua progressão."
-    },
-    {
-        "Quisto": "Tumor benigno formado num órgão por uma cavidade delimitada por uma parede e cheio de uma substância líquida, mole ou, raramente, sólida."
-    },
-    {
-        "Quociente de inteligência (QI)": "Relação entre a idade mental determinada através de uma série de testes psicológicos padronizadas e a idade real. O quociente de inteligência permite avaliar o grau de desenvolvimento intelectual. Na criança normal, com inteligência média, é igual a 100."
-    },
-    {
-        "Rabdomiólise": "1) Rutura de células musculares estriadas por esmagamento mecânico, libertando enzimas, eletrólitos e mioglobina para o sangue. Constitui um dos elementos principais da síndrome de esmagamento. 2) Necrose das fibras musculares característica das miopatias primitivas. 3) Também pode ocorrer como efeito adverso de alguns medicamentos."
-    },
-    {
-        "Radioatividade": "Propriedade que certos elementos (rádio, urânio, etc.) possuem de emitir espontaneamente e de forma contínua radiações ionizantes. Pode obter-se uma radioatividade artificial bombardeando átomos com partículas (protões, neutrões, etc.) ou com radiações eletromagnéticas."
-    },
-    {
-        "Radioativo": "Que é dotado de radioatividade. Ex.: contaminação radioativa, elemento radioativo."
-    },
-    {
-        "Radiografia": "Técnica de registo, numa superfície fotográfica sensível, de uma parte do corpo exposta aos raios X."
-    },
-    {
-        "Radiologia": "Ciência que trata dos raios X e das radiações ionizantes em geral, nomeadamente no que toca às suas aplicações práticas em medicina. O especialista é o radiologista."
-    },
-    {
-        "Raios X": "Radiações eletromagnéticas penetrantes, de comprimento de onda muito mais curto do que o da luz visível. Os raios X impressionam as chapas fotográficas; a sua absorção depende da densidade e do peso atómico da substância que atravessam. Estas propriedades estão na base das técnicas radiográficas."
-    },
-    {
-        "Rastreio": "Atividade para identificar por meio de provas, de exames ou de outras técnicas, os indivíduos portadores de uma doença ou anomalia até então desconhecida."
-    },
-    {
-        "Refluxo": "Deslocação do conteúdo líquido de um conduto orgânico no sentido contrário ao normal. Ex.: refluxo gástrico."
-    },
-    {
-        "Remissão": "Estádio de uma doença ou de uma manifestação patológica durante a qual os sintomas se atenuam temporariamente."
-    },
-    {
-        "Reumatismo": "Termo relativo a um grupo de afeções, agudas ou crónicas, com origens diversas e muitas vezes desconhecidas, geralmente dolorosas, acompanhadas por tumefação das partes moles e que atinge essencialmente as articulações."
-    },
-    {
-        "Reumatoide": "Que se assemelha a qualquer tipo de reumatismo."
-    },
-    {
-        "Rinite": "Inflamação aguda ou crónica da mucosa das fossas nasais."
-    },
-    {
-        "Seborreia": "Doença dermatológica caracterizada por aumento na produção das glândulas sebáceas, juntamente com descamação aumentada da área afetada, prurido e eritema."
-    },
-    {
-        "Secreção": "Destilação, filtração e segregação de líquidos orgânicos pelas glândulas; o líquido segregado, excreção."
-    },
-    {
-        "Sepsis/Sepse": "Estado infecioso grave caracterizado pela disseminação e existência de microrganismos patogénicos, ou das suas toxinas, no sangue circulante ou nos tecidos."
-    },
-    {
-        "Septicemia": "Estado clínico de grande gravidade, caracterizado pela rápida e constante multiplicação de bactérias e pela presença de toxinas no sangue circulante. A septicemia surge como resultado da saída das bactérias patogénicas de um foco infecioso localizado em qualquer parte do organismo (feridas cutâneas, furúnculos ou infeções em órgãos internos), mais frequentemente em indivíduos com as defesas diminuídas."
-    },
-    {
-        "SIDA": "Abreviatura de Síndrome da Imunodeficiência Adquirida. Doença infeciosa produzida pelo vírus da imunodeficiência humana (VIH) caracterizada pela diminuição da capacidade imunológica da pessoa, o que a põe sob risco de contrair infeções graves ou neoplasias."
-    },
-    {
-        "Sífilis": "Doença infeciosa, aguda ou crónica, provocada pelo Treponemapallidum e que se transmite por contactos sexuais diretos ou por hereditariedade. Tem um período de incubação de 12 a 30 dias, após o qual, se não for tratada, surge o cancro sifilítico ou cancro duro, seguido de febre ligeira e sintomas gerais (sífilis primária). Posteriormente, lesões cutâneas multiformes (sifílides e roséola) e adenopatias generalizadas (sifílis secundária). Num período evolutivo mais avançado surgem gomas e manifestações cardiovasculares e do sistema nervoso central (sífilis terciária)."
-    },
-    {
-        "Síndrome": "Conjunto de sinais e sintomas que se encontram associados a uma entidade conhecida ou não."
-    },
-    {
-        "Sintoma": "Manifestação espontânea, sentida pelo doente, provocada pelo organismo ou por uma doença. Os sintomas são subjetivos, no caso de serem apenas sentidos pelos doentes, mas em alguns casos esses sintomas podem ser objetivados por um observador (febre, por exemplo) e, nestes casos, consideram-se também sinais."
-    },
-    {
-        "Sonda": "Tubo, flexível ou rígido, que se introduz em canal, natural ou não, do organismo com o fim de reconhecer-lhe o estado ou de extrair ou introduzir algum tipo de matéria."
-    },
-    {
-        "Sucedâneo": "Produto substituto de um alimento ou de um fármaco, com propriedades e ações semelhantes."
-    },
-    {
-        "Sudação": "Produção ou secreção, fisiológica ou artificial, de suor. Sudorese."
-    },
-    {
-        "Sutura": "Operação que consiste em coser os lábios de uma ferida para, geralmente, juntá-los."
-    },
-    {
-        "Tabagismo": "Dependência do tabaco e intoxicação pelos seus componentes, entre eles a nicotina."
-    },
-    {
-        "Taquicardia": "Pulsação cardíaca muito acelerada (acima das 100 pulsações por minuto)."
-    },
-    {
-        "Tecido": "Conjunto de células do mesmo tipo e que têm uma determinada atividade e função específica (tecido conjuntivo, tecido epitelial, tecido muscular, tecido nervoso, etc.)."
-    },
-    {
-        "Têmpora": "Região lateral da cabeça situada entre o olho e o ouvido."
-    },
-    {
-        "Tendão": "Cordão fibroso que liga extremidades musculares e ossos."
-    },
-    {
-        "Tendinite": "Inflamação de um tendão."
-    },
-    {
-        "Terapêutica": "Ramo da Medicina que trata da cura das doenças."
-    },
-    {
-        "Tétano": "Doença infeciosa aguda e grave, provocada pelo Clostridium tetani, que penetra no organismo através de uma ferida cutânea (mesmo que pequena ou apenas uma escoriação) após contacto com terra onde o bacilo sobrevive. Após um período de incubação de 5 dias a 3 semanas, a doença é caracterizada por espasmos musculares no pescoço, nuca, tronco e  membros. A doença costuma acompanhar-se de sintomas gerais, como febre elevada, taquicardia, cansaço e respiração acelerada e torna-se particularmente grave quando são atingidos os músculos respiratórios, com eventual paragem respiratória."
-    },
-    {
-        "Tomografia": "Técnica radiológica que permite obter radiografias seriadas em cortes ou planos paralelos."
-    },
-    {
-        "Tópico": "Fármaco ou outra substância que se aplica diretamente sobre uma determinada região do corpo."
-    },
-    {
-        "Toxina": "Designação geral dada às substâncias segregadas por organismos vivos (animais ou vegetais) com capacidade de produzirem efeitos tóxicos ou de exercerem ações antigénicas."
-    },
-    {
-        "Toxoplasmose": "Doença que se pode manifestar de forma aguda ou crónica, provocada pelo Toxoplasmagondii. Pode atacar o feto no útero, por transmissão da mãe que, ainda que infetada, pode não ter qualquer manifestação clínica. A toxoplasmose adquirida que pode atingir crianças mais velhas e adultos é uma doença, em regra benigna, ainda que muito raramente possa manifestar-se como encefalite grave. Adquire-se através da ingestão de alimentos ou de substâncias que contenham fezes de gatos com oocistos."
-    },
-    {
-        "Transfusão": "Introdução na corrente sanguínea de sangue ou algum dos seus componentes. Podem ser transfundidos, separadamente, glóbulos vermelhos, plaquetas, plasma, fatores de coagulação, etc."
-    },
-    {
-        "Transplante": "Transporte de tecido vivo ou órgão de um local ou corpo para outro; enxerto."
-    },
-    {
-        "Traumatismo": "Designação genérica dada a todas as lesões ou alterações orgânicas provocadas por uma violência exterior."
-    },
-    {
-        "Trombo": "Coágulo de sangue que se forma no interior de um vaso."
-    },
-    {
-        "Trombose": "Formação de um trombo ou coágulo no interior de um vaso ou de uma cavidade cardíaca."
-    },
-    {
-        "Tumor": "Termo que literalmente significa massa ou formação de tecido. É utilizado em geral para referir-se a uma formação neoplásica."
-    },
-    {
-        "Vacina": "Substância que possui a propriedade de imunizar o organismo contra uma doença infeciosa. Pode ser preparada a partir de microrganismos mortos ou inativos ou a partir de microrganismos vivos mas atenuados pelo formol, por outra substância ou pelo calor."
-    },
-    {
-        "Vacinação": "Administração de uma vacina, por via oral, parenteral ou por escarificação, com a finalidade de proteger contra uma doença infeciosa. Sinónimo de imunização."
-    },
-    {
-        "Varicela": "Doença viral aguda febril, contagiosa e epidémica, habitualmente benigna, caracterizada essencialmente por uma erupção cutânea com acessos sucessivos. Normalmente, as vesículas secam sem deixar cicatriz e a doença cura-se em cerca de 15 dias."
-    },
-    {
-        "Varicoso": "1) Relativo às varizes. 2) Que apresenta varizes."
-    },
-    {
-        "Varizes": "Dilatações venosas patológicas, permanentes, ao nível da rede superficial dos membros inferiores."
-    },
-    {
-        "Vascular": "Relativo aos vasos, principalmente os sanguíneos."
-    },
-    {
-        "Vasectomia": "Método de esterilização do homem efetuada por laqueação dos canais deferentes. Esta laqueação pode ser temporária ou definitiva."
-    },
-    {
-        "Vaso": "Em anatomia, canal pelo qual circula o sangue ou a linfa: artéria, veia, capilar, linfático."
-    },
-    {
-        "Venéreo": "Relativo ou que é devido às relações sexuais."
-    },
-    {
-        "Venoso": "Relativo às veias."
-    },
-    {
-        "Ventrículo": "Cavidade do coração, de paredes musculosas, cujas contrações enviam o sangue para as artérias."
-    },
-    {
-        "Verruga": "Pequeno tumor cutâneo irregular, de origem viral, de tamanho variável, constituído por hipertrofia das papilas da derme; localiza-se especialmente nas mãos, nos pés e na face."
-    },
-    {
-        "Vertigem": "Sensação subjetiva de deslocamento, de rotação do corpo ou do meio ambiente, acompanhada por perturbações do equilíbrio."
-    },
-    {
-        "Vesícula": "Qualquer órgão que tenha a forma de um pequeno saco."
-    },
-    {
-        "Vesícula biliar": "Vesícula situada junto à superfície inferior do fígado. A vesícula biliar acumula bílis que expele para o duodeno durante a digestão."
-    },
-    {
-        "Viral (ou vírico)": "Relativo aos vírus. Ex.: infeção vírica."
-    },
-    {
-        "Viremia": "Presença de vírus no sangue circulante."
-    },
-    {
-        "Virose": "Doença provocada por vírus."
-    },
-    {
-        "Virulência": "Capacidade que os germes infeciosos têm de se desenvolverem num organismo e aí provocarem um estado patológico."
-    },
-    {
-        "Vírus": "Nome genérico dos agentes infeciosos parasitas das células, que se reproduzem só a partir do seu material genético."
-    },
-    {
-        "Víscera": "Qualquer órgão existente numa cavidade do corpo; cavidade torácica (pulmão, coração), cavidade abdominal (fígado, estômago, baço, etc.), caixa craniana (cérebro)."
-    },
-    {
-        "Vitamina": "Nome genérico das substâncias indispensáveis ao crescimento e ao funcionamento dos órgãos, fornecidas, na sua maioria, em pequena quantidade pela alimentação, que o organismo não é capaz de sintetizar."
-    },
-    {
-        "Vulva": "Conjunto dos órgãos genitais externos da mulher."
-    },
-    {
-        "Zigoto": "Célula que resulta da fecundação do gâmeta feminino pelo gâmeta masculino."
-    },
-    {
-        "Zona": "Dermatose aguda devida a um vírus idêntico ao da varicela, caracterizada por uma erupção quase sempre unilateral dispostas em grupos no trajeto de um nervo sensitivo. A erupção pode ser precedida ou acompanhada por dores nevrálgicas, que persistem durante muito tempo após a cura."
-    },
-    {
-        "Zoonose": "Doença infeciosa transmissível, em condições naturais, dos animais vertebrados ao homem e vice-versa."
-    },
-    {
-        "Zumbido": "Ruído percebido pelo ouvido e que não corresponde a qualquer fenómeno objetivo. Ocorre muitas vezes na surdez. Acufeno."
-    }
-]
+{
+    "abartrose": "Articulação deficiente, mole. Ocorre quando há escorregamento das superfícies articulares. Diartrose.",
+    "abcesso/abscesso": "Foco de pus no interior de um tecido, órgão ou região do corpo.",
+    "acne": "Doença de pele, vulgar na adolescência, pensa-se que devido a alterações hormonais que surgem naquela fase da vida. Caracteriza-se pelo aparecimento de pequenas elevações vermelhas, hemisféricas ou cónicas por inflamação das glândulas sebáceas. O acne localiza-se preferencialmente na cara e nas costas, distinguindo-se diferentes variedades: simples, pustuloso, varioliforme, papuloso, hipertrófico, etc.",
+    "acufeno": "Sensação auditiva anormal. Zumbidos.",
+    "afagia": "Dificuldade na deglutição.",
+    "afasia": "Perturbação da linguagem causada por lesão adquirida no Sistema Nervoso Central, representada por alterações diversas da compreensão auditiva, expressão verbal, leitura e escrita.",
+    "afonia": "Incapacidade de falar, com lesão no órgãos vocais.",
+    "alergénio": "Substância (antigénio) capaz de provocar uma reação alérgica. Ex.: o pólen das gramíneas que provoca a febre-dos-fenos.",
+    "alergia": "Hipersensibilidade adquirida pelo organismo relativamente a uma substância estranha (alergénio), quer se trate de uma substância normalmente inofensiva (pelos, poeiras, pólen, leite, etc.) quer de um produto medicamentoso ou bacteriano. Traduz-se por uma reação imediata de tipos diversos (eczema, urticária, febre-dos-fenos, asma).",
+    "alergologia": "Estudo da alergia e das suas manifestações patológicas. O especialista chama-se alergologista.",
+    "alopecia": "Queda total ou parcial de cabelos.",
+    "alzheimer": "Doença que se inicia na meia idade e que se caracteriza por deterioração mental manifestada por perda de memória, perda da capacidade de orientação espacial e visual, confusão e desorientação. Evolui para a morte num período desde os 5 aos 10 anos. A sua causa concreta é ainda desconhecida.",
+    "ambliopia": "Diminuição da acuidade visual em um ou ambos os olhos; visão fraca.",
+    "ameba": "Protozoários parasitas que são patogénicas para o homem.",
+    "amenorreia": "Ausência ou supressão anormal da menstruação.",
+    "amiloidose": "Conjunto de afeções diversas, inflamatórias, hereditárias ou neoplásicas, caracterizadas pela acumulação nos tecidos de proteínas fibrosas que podem pôr em causa funções vitais.",
+    "amputação": "Operação que consiste em separar do corpo um membro ou parte dele (por meio de instrumento cortante).",
+    "anafilaxia": "Estado de hipersensibilidade ou de reação exagerada a nova introdução de substância estranha, que ao ser administrada pela primeira vez, não provocou, ou provocou pequena, reação.",
+    "análise clínica": "Exame laboratorial destinado a facilitar o diagnóstico médico, o tratamento ou a profilaxia das doenças humanas.",
+    "anamnese": "História detalhada de todos os sintomas e eventos relacionados a tais sintomas, relatada pelo paciente.",
+    "anatomia": "Ciência que estuda a estrutura e a morfologia do homem ou dos animais. O especialista nesta disciplina chama-se anatomista.",
+    "anemia": "Diminuição no número de glóbulos vermelhos do sangue circulante, geralmente acompanhada dos seguintes sintomas: tontura, fraqueza e fadiga.",
+    "aneurisma": "Dilatação localizada da parede de uma artéria ou coração devido a uma lesão, malformação ou traumatismo.",
+    "angina": "Inflamação aguda e difusa da mucosa da orofaringe. Correntemente, designa-se muitas vezes por este nome a amigdalite aguda.",
+    "angioma": "Tumor circunscrito formado por uma aglomeração de vasos sanguíneos ou linfáticos. Com localização variável, é na maior parte das vezes de origem congénita.",
+    "anorexia": "Redução ou falta de apetite.",
+    "anoxia": "Deficiência de oxigenação nos órgãos ou nos tecidos.",
+    "anti-histamínico": "Diz-se de uma substância que atenua ou suprime os efeitos da histamina ou que bloqueia a sua produção durante as manifestações alérgicas e que é prescrita no tratamento das alergias.",
+    "anti-inflamatório": "Que combate a inflamação.",
+    "anticorpo": "Qualquer substância presente naturalmente ou produzida no organismo (sangue ou tecidos) sob a ação de um antigénio e que possui a propriedade de reagir especificamente, in vivo ou in vitro, com o antigénio correspondente. A produção de anticorpos intervém no desenvolvimento da imunidade.",
+    "antídoto": "Substância capaz de neutralizar um veneno ou de combater os seus efeitos no organismo.",
+    "antifúngico": "Que inibe o desenvolvimento dos fungos. O mesmo que Antimicótico.",
+    "antígeno / antigénio": "Substância que provoca a formação de um anticorpo específico.",
+    "antipirético": "Que previne ou combate a febre.",
+    "antisséptico": "Que destrói os germes patogénicos, nomeadamente por aplicação externa.",
+    "antitússico": "Que acalma a tosse.",
+    "anúria": "Ausência da produção de urina.",
+    "aorta": "Grande artéria que sai do ventrículo esquerdo do coração e que é o tronco comum das artérias que levam o sangue arterial a todas as partes do corpo.",
+    "apneia": "Ausência temporária da respiração.",
+    "apneia do sono": "Síndrome caracterizada por episódios repetitivos de completo ou parcial fechamento das vias aéreas superiores levando à fragmentação do sono noturno.",
+    "arritmia": "Perturbação ou irregularidade do ritmo dos batimentos cardíacos.",
+    "artrite": "Inflamação das articulações.",
+    "artrose": "Afeção degenerativa das articulações.",
+    "ascite": "Acumulação de líquido na zona abdominal.",
+    "asfixia": "Estado resultante da supressão da respiração e circulação do sangue.",
+    "astenia": "Debilidade, fraqueza física.",
+    "atrofia": "Diminuição na quantidade de tecido após o crescimento normal ter sido alcançado.",
+    "autoimune": "Que produz reação imunológica contra o próprio corpo (ex.: doença autoimune).",
+    "bacia": "Pélvis.",
+    "bacilar": "Relativo aos bacilos.",
+    "bacilemia": "Presença de bacilos no sangue.",
+    "bacilos": "Microrganismos do género Bacillus;  bactérias em forma de bastonete.",
+    "bactéria": "Microrganismo unicelular que se reproduz por divisão. Os cocos e os bacilos são exemplos de bactérias. As bactérias e os vírus constituem as duas causas mais frequentes de infeções.",
+    "bacteriano": "Relativo a ou causado por bactéria.",
+    "basófilo": "Leucócito com grânulos que se coram com corantes básicos.",
+    "behçet": "Doença crónica caracterizada por aftas bucais e genitais, associadas a afeção ocular (uveíte) muitas vezes grave, a lesões venosas e arteriais que provocam tromboses periféricas e viscerais e a erupção do tipo eritema (que constitui muitas vezes a primeira manifestação da doença). De causa não esclarecida, esta doença integra-se no grupo das vasculites sistémicas.",
+    "bílis": "Líquido amarelado e amargo segregado pelo fígado para auxiliar na digestão.",
+    "biliúria": "Presença de bílis ou sais biliares na urina.",
+    "biópsia": "Remoção e exame de tecido do organismo para fins de diagnóstico.",
+    "bradicardia": "Diminuição do ritmo cardíaco.",
+    "bradifasia": "Lentidão na pronúncia das palavras.",
+    "bradipepsia": "Digestão lenta e difícil; digestão incompleta.",
+    "broncopneumonia": "Doença infeciosa aguda dos pulmões que atinge simultaneamente os alvéolos e os pequenos brônquios.",
+    "bronquiectasia": "Dilatação dos brônquios.",
+    "brônquio": "Canal que se segue à traqueia, através do qual o ar chega aos alvéolos pulmonares.",
+    "bronquite": "Inflamação aguda ou crónica, da mucosa dos brônquios.",
+    "bulimia": "Apetite insaciável e devorador que pode surgir em certas doenças, como a diabetes, e algumas neuropatias.",
+    "bypass": "Termo inglês utlizado que se refere a um desvio do fluxo sanguíneo para evitar um vaso lesado ou deficiente ou para efetuar cirurgia cardíaca.",
+    "cãibra": "Contração muscular espasmódica, involuntária e dolorosa, que ocorre no tecido muscular.",
+    "cálculo": "Formação sólida causada pela acumulação de sais minerais ou substâncias orgânicas. Ocorrem nos rins, bexiga, vesícula, fígado, etc.",
+    "campo visual": "Extensão de espaço que o olhar abrange, mantendo-se o olho imóvel.",
+    "candida": "Género de fungos microscópicos que se apresentam sob a forma de leveduras, largamente presentes na natureza. Certas espécies são responsáveis por manifestações patológicas.",
+    "candidíase": "Afeção aguda, subaguda ou crónica, causada por leveduras pertencentes ao género Candida (sobretudo Candida albicans). A infeção atinge sobretudo a pele e as mucosas e manifesta-se por uma erupção de pequenas pústulas esbranquiçadas.",
+    "carcinoma": "Qualquer tumor maligno desenvolvido a partir de um tecido epitelial.",
+    "cardíaco": "1) Relativo ao coração. 2) Pessoa que sofre de doença do coração.",
+    "cardiopulmonar": "Relativo ao coração e aos pulmões.",
+    "cardiovascular": "Relativo ao coração e aos vasos sanguíneos.",
+    "cárie": "Degradação do tecido ósseo e dentes, que provoca o seu amolecimento e destruição.",
+    "carótida": "Cada uma das artérias que transportam o sangue da aorta até à cabeça.",
+    "cartilagem": "Tecido muscular, flexível e duro, que reveste as articulações.",
+    "cava": "Cada uma das duas veias principais (veia cava inferior e veia cava superior) que transportam o sangue venoso de todo o corpo até à aurícula direita do coração.",
+    "cefaleia": "Dor de cabeça.",
+    "celíaca (doença)": "A doença celíaca é uma intolerância alimentar ao glúten (complexo de proteínas existente em quatro cereais: trigo, aveia, centeio e cevada) que se manifesta de forma permanente e definitiva.",
+    "cervical": "1) Relacionado com a cerviz. 2) Relativo ao colo do útero. 3) Parte da coluna vertebral constituída pelas sete vértebras da zona do pescoço.",
+    "cervix": "Colo do útero.",
+    "cerviz": "Parte posterior do pescoço.",
+    "cesariana": "Operação cirúrgica que consiste em extrair um feto por meio de uma incisão no ventre e no útero da mãe, geralmente quando o parto natural não é possível.",
+    "choque anafilático": "Conjunto de reações agudas (colapso, asma, urticária generalizada) que se manifesta alguns minutos após a introdução no organismo de uma substância estranha, à qual este foi sensibilizado anteriormente. Estas manifestações são muitas vezes secundárias a injeções de soros terapêuticos, penicilina e picadas de insetos em indivíduos sensibilizados.",
+    "cianose": "Coloração azulada ou roxa da pele, nas extremidades e mucosas, em decorrência da falta de oxigênio.",
+    "ciática": "Afeção dolorosa do nervo ciático, geralmente devida à compressão das suas raízes.",
+    "clister": "Introdução de líquido (água ou medicamento) no intestino através do ânus, por meio de seringa ou irrigador.",
+    "cólica": "Dor aguda no cólon ou outra parte da cavidade abdominal.",
+    "coma": "Estado patológico em que há perda de consciência, ausência ou redução das reações a estímulos e eventual alteração de funções vitais.",
+    "congénito": "Que foi gerado ou nasceu com o indivíduo; inato.",
+    "contágio": "Transmissão de enfermidade pelo contacto imediato ou indireto que se tem com o doente.",
+    "contusão": "Lesão associada a um traumatismo que pode produzir desvitalização de tecidos profundos.",
+    "convulsão": "Episódio agudo caracterizado pela presença de contrações musculares espasmódicas permanentes e/ou repetitivas. Em geral está associada à perda de consciência e relaxamento dos esfíncteres. Pode dever-se  a medicamentos ou doenças.",
+    "degeneração": "Alteração na estrutura ou na composição química de um tecido ou órgão, resultando na perda das suas características genéricas e na aquisição de formas e propriedades novas.",
+    "deglutição": "Passagem dos alimentos desde a boca até ao esófago. É um mecanismo em parte voluntário e em parte automático (reflexo), que envolve a musculatura faríngea e o esfíncter esofágico superior.",
+    "delírio": "Alteração aguda da consciência ou da lucidez mental, provocado por uma causa orgânica (por exemplo, febre).",
+    "demência": "Deterioração irreversível e crónica das faculdades intelectuais de uma pessoa.",
+    "dengue": "Doença infeciosa febril, acompanhada de dores articulares e musculares, dores de cabeça, por vezes com erupções cutâneas, causada por um vírus e transmitida ao homem pelo mosquito do género Aedes. Tem um período de incubação de três a seis dias. A doença evolui por um período de três a cinco dias, seguindo-se depois grande astenia. Após alguns dias pode seguir-se uma recaída com sintomas semelhantes.",
+    "dermatite": "Inflamação das camadas superficiais da pele, que pode apresentar-se de formas variadas e é produzida pela agressão direta de microrganismos, substância tóxica ou por uma resposta imunológica inadequada (alergias, doenças autoimunes).",
+    "diabetes": "Doenças caracterizadas por diurese excessiva. A mais frequente é o Diabetes Mellitus ainda que existam outras variantes (ex.: Diabetes Insipidus), nas quais o transtorno principal é a incapacidade dos rins de concentrar a urina.",
+    "diagnóstico": "Determinação de uma doença pelos sintomas e/ou mediante exames diversos.",
+    "diálise": "Método que imita a função normal dos rins, eliminando do sangue os compostos tóxicos produzidos pelo metabolismo, assim como também diferentes fármacos e drogas. Utiliza uma membrana através da qual estes compostos se difundem para um líquido (líquido de diálise), a partir do qual são eliminados.",
+    "dispepsia": "Nome genérico aplicado a diferentes sintomas do aparelho digestivo, como acidez, ardor, dor, etc. Podem traduzir um distúrbio funcional, gastrite, úlcera péptica, etc.",
+    "distensão": "Deslocamento, torção ou tensão exercida num tecido ou num órgão, que provoca geralmente o aumento do seu volume ou da sua superfície (ex.: distensão muscular).",
+    "diu": "Dispositivo intrauterino; método contracetivo.",
+    "diurese": "Excreção abundante de urina",
+    "ecg": "Abreviatura de eletrocardiograma.",
+    "ecocardiograma": "Método de diagnóstico não invasivo que permite visualizar a morfologia e o funcionamento cardíaco, através da emissão e captação de ultrassons.",
+    "ectopia": "Anomalia, congénita ou não, relacionada à posição ou localização de um órgão, como na gravidez ectópica em que o produto da conceção se localiza fora do útero.",
+    "edema": "Inchaço devido à acumulação anormal de líquido nos espaços intercelulares dos tecidos ou em diferentes cavidades corporais.",
+    "eeg": "Abreviatura de eletroencefalograma.",
+    "embolia": "Obstrução de um vaso sanguíneo, geralmente uma artéria secundária, devido a coagulação fibrinosa ou outro corpo estranho trazido pela corrente sanguínea desde um vaso maior. O mesmo que Embolismo.",
+    "êmbolo": "Corpo que provoca a obstrução de um vaso sanguíneo.",
+    "emplastro": "Medicamento ou preparação terapêutica adesiva destinada a uso externo.",
+    "encefalite": "Inflamação do tecido encefálico produzida por uma infeção viral, bacteriana ou micótica (fungos).",
+    "entorse": "Distensão traumática de um ligamento que produz alongamento ou rutura do mesmo, acompanhada de dor, hematoma e dificuldade em movimentar a articulação afetada.",
+    "enxaqueca": "Dores de cabeça recorrentes e intensas, localizadas a uma metade da cabeça, acompanhadas de náuseas, perturbações oculares (fotopsia) e, por vezes, vómitos. Inicia-se geralmente na puberdade sendo a sua causa desconhecida. Contudo, nos indivíduos suscetíveis, pode ser desencadeada por fadiga física ou psíquica, certos alimentos ou excessos alimentares, luminosidade intensa ou súbita e menstruação.",
+    "enxerto": "Inserção de pedaço de pele ou osso para corrigir defeito ou falha em órgão ou tecido.",
+    "epiderme": "Camada mais exterior da pele.",
+    "epidural": "1) Que pertence ao canal sacro situado entre as vertebras e a dura-máter. 2) Anestesia que se realiza na superfície da dura-máter.",
+    "eritema": "Vermelhidão cutânea.",
+    "escoliose": "Deformidade no alinhamento da coluna vertebral, que produz uma curvatura da mesma para um dos lados. Pode ser devido a distúrbios ósseos e a problemas posturais.",
+    "espasmo": "Contração súbita e involuntária de um músculo ou grupo muscular. Este pode situar-se em qualquer região do organismo e produzir diferentes alterações.",
+    "estetoscópio": "Instrumento acústico utilizado para amplificar os sons emitidos por órgãos do corpo humano; por exemplo: coração e pulmões.",
+    "estomatite": "Processo inflamatório que acomete a cavidade oral e a laringe.",
+    "estrabismo": "Desvio da posição de um dos olhos em relação ao outro que pode dever-se a uma alteração no sistema de músculos, tendões e nervos encarregados do movimento normal dos olhos.",
+    "estria": "Risca na pele provocada por perda de elasticidade e/ou atrofia da pele e que inicialmente surge como linha vermelha e, posteriormente, como linha lustrosa, deprimida, podendo apresentar comprimento e largura diversa.",
+    "eutanásia": "Conjunto de procedimentos que proporcionam a morte sem sofrimento, por critério próprio de quem atua (médico, enfermeiro, familiar, etc.) ou por solicitação de quem sofre.",
+    "evaginação": "Protusão de um órgão ou de parte de um órgão para fora da sua localização normal.",
+    "excreção": "Eliminação para o exterior do organismo de secreções ou de produtos residuais pelos canais excretores ou pelas vias naturais.",
+    "expetoração": "Expulsão, com tosse, das secreções provenientes das vias respiratórias; material expulso do peito; escarro.",
+    "expetorante": "Medicamento ou qualquer outro meio que provoca expetoração.",
+    "fadiga": "Sensação sentida no corpo ou em parte do corpo após esforço exagerado; cansaço.",
+    "fármaco": "O mesmo que medicamento.",
+    "fáscia": "Bainha ou membrana de tecido conjuntivo fibroso que envolve, cobre ou separa os músculos ou outras estruturas do organismo.",
+    "fasciculação": "Contração involuntária e indolor de um grupo ou fascículo de fibras musculares.",
+    "fasciite": "Afeção inflamatória de uma ou mais aponevroses (fáscias).",
+    "febre": "Elevação da temperatura corporal acima de um valor normal, normalmente 37ºC, quando medida na boca.",
+    "febril": "Caracterizado pela presença de febre.",
+    "fibroma": "Tumor benigno constituído por proliferação do tecido fibroso. geralmente bem delimitado, pode desenvolver-se nas localizações mais diversas: pele, tecidos moles, rim, ovário, rinofaringe, etc.",
+    "fibrose": "Formação patológica de tecido fibroso.",
+    "fimose": "Aperto mais ou menos acentuado do anel cutâneo do prepúcio, que impede que a glande se descubra.  É, na maioria dos casos, congénita.",
+    "fístula": "Orifício ou canal patológico que permite a passagem de matérias orgânicas, como pus, urina ou fezes.",
+    "flato": "Ar ou gases no estômago ou intestinos.",
+    "flatulência": "1) Acumulação de gases no estômago e nos intestinos, provocando distensão abdominal que, por vezes, se torna incómoda. 2) Expulsão mais ou menos ruidosa de gases acumulados nos intestinos pelo ânus.",
+    "flebite": "Inflamação da parede interna de uma veia. Pode ser acompanhada ou não de trombose da mesma.",
+    "flora intestinal": "Bactérias presentes no intestino animal.",
+    "foliculite": "Inflamação dos folículos pilosos.",
+    "folículo": "Saco ou glândula excretória ou secretória de pequenas dimensões.",
+    "fratura": "Traumatismo que consiste na rutura parcial ou total de um osso ou de uma cartilagem dura.",
+    "frieira": "Inflamação da pele produzida pelo frio, acompanhada de inchaço, prurido e ardor, afetando geralmente os dedos das mãos e dos pés, o nariz e as orelhas.",
+    "fungicida": "Que destrói os fungos. Antifúngico.",
+    "fúngico": "Relativo aos fungos ou a eles devido. Ex.: intoxicação fúngica.",
+    "fungo": "Forma de vida simples (cogumelo comestível, cogumelo venenoso, bolor) que pode ser saprófita ou parasita. Existem muitas espécies de fungos, alguns dos quais podem ser patogénicos, provocando doenças da pele ou de outros órgãos (micoses ou alergias).",
+    "furúnculo": "Pequeno nódulo doloroso que se forma em torno da raiz de um pelo ou de uma glândula sudorípara, devido a inflamação do tecido celular situado debaixo da pele.",
+    "gâmeta": "Cada uma das duas células que se unem durante a fecundação para formar o ovo (ou zigoto).",
+    "gânglio": "Pequena estrutura ou corpo arredondado existente no trajeto de um nervo ou de um vaso linfático.",
+    "gangrena": "Necrose dos tecidos, em consequência da interrupção local da circulação sanguínea, de origem diversa: embolia, aterosclerose, etc.; por vezes, complica-se de uma superinfecção por germes anaeróbios (gangrena gasosa).",
+    "gastralgia": "Dor no estomago.",
+    "gastrenterite": "Inflamação aguda da mucosa do estômago e do intestino (geralmente de causa infeciosa), caracterizada por febre, vómitos, diarreia (mais ou menos profusa) e mal-estar geral.",
+    "gástrico": "Relativo ao estômago.",
+    "gastrintestinal": "Referente ao estômago e ao intestino.",
+    "gastrite": "Inflamação aguda ou crónica da mucosa do estômago.",
+    "gene": "Partícula elementar de um cromossoma, constituída essencialmente por ácido desoxirribonucleico (ADN) e que é responsável pela transmissão hereditária de um carácter. O gene está localizado num ponto definido (locus) de um cromossoma. Os genes são suscetíveis de sofrer mutações.",
+    "genérico": "Medicamento cuja fórmula caiu no domínio público e que é vendido sob a denominação comum a um preço inferior ao da especialidade correspondente.",
+    "genética": "Ciência da hereditariedade cujas primeiras leis foram descritas por Mendel em 1865, e que estuda a transformação dos caracteres anatómicos, citológicos e funcionais dos pais para os filhos.",
+    "gengival": "Relativo às gengivas.",
+    "gengivite": "Inflamação das gengivas.",
+    "genital": "Relativo à reprodução sexuada ou aos órgãos sexuais.",
+    "genoma": "Conjunto dos cromossomas de um gâmeta (célula sexual), cujo número é característico de cada espécie. Nos humanos, o genoma é formado por 23 cromossomas.",
+    "geriatria": "Parte da Medicina que se ocupa das doenças dos idosos.",
+    "germe": "Microrganismo, sobretudo os que são suscetíveis de causar uma doença.",
+    "glândula": "Estrutura do organismo especializada na produção de substâncias que podem ser lançadas na corrente sanguínea (glândulas endócrinas) ou superfícies mucosas ou cutâneas (glândulas exócrinas). A saliva, o suor e o muco são exemplos de produtos de glândulas.",
+    "glaucoma": "Aumento da pressão intraocular que se manifesta por dor de cabeça, olhos vermelhos e, quando não tratado, pode levar à perda de visão a longo prazo.",
+    "glicemia": "Presença de glicose no sangue.",
+    "glicose": "Açúcar simples abundante na natureza (sob a forma de dextrose), que serve de referência à classe dos glícidos. Alimento energético essencial, constitui a forma principal sob a qual os açúcares podem ser utilizados pelo organismo.",
+    "glóbulo": "Partícula ou célula livre com forma mais ou menos esférica. Ex.: glóbulo branco (leucócito); glóbulo vermelho (eritrócito).",
+    "glúten": "Mistura de proteínas presente nas farinhas de cereais (sobretudo na farinha de trigo). A intolerância ao glúten é a causa da doença celíaca.",
+    "gónada": "Glândula genital que produz os gâmetas; nos animais superiores e no ser humano, o testículo e o ovário.",
+    "gota": "Afeção devida a perturbação do metabolismo do ácido úrico, que ocorre quase exclusivamente no homem. Manifesta- se por crises de artrite aguda localizada especialmente na articulação do dedo grande do pé e por depósitos de uratos (tofos) subcutâneos. A concentração de ácido úrico do sangue encontra-se aumentada (hiperuricemia).",
+    "gram (coloração ou método de)": "Método de coloração para distinguir as bactérias e em que se faz uma primeira coloração com violeta de genciana. Depois faz-se a descoloração pelo álcool e, em seguida, nova coloração com fucsina. Com este método classificam-se as bactérias em gram-positivas (que mantêm a coloração violeta) e gram-negativas (depois de descoradas ficam coradas de rosa pela fucsina).",
+    "gram-negativo": "Diz-se de um microrganismo que fica corado de rosa pelo método de coloração de Gram.",
+    "gram-positivo": "Diz-se de um microrganismo que fica corado de violeta pelo método de coloração de Gram.",
+    "granuloma": "Tumor ou nódulo que se encontra em processos infeciosos e outras doenças. É, na maioria das vezes, uma reação a algum tipo de agressão (corpo estranho, ferimentos, parasitas, etc.).",
+    "gravidez ectópica": "Implantação do produto da fecundação fora da cavidade uterina.",
+    "greta": "Fenda na pele.",
+    "habituação": "Estado do organismo que se habitua progressivamente à ação de um medicamento ou de uma droga, cujos efeitos diminuem pouco a pouco, o que obriga a aumentar as doses.",
+    "halitose": "Mau hálito.",
+    "hematoma": "Tumefação sanguínea resultante da rutura de um vaso.",
+    "hematúria": "Presença anormal de sangue na urina.",
+    "hemodiálise": "Processo terapêutico em que o sangue, através de equipamento especial, é depurado de diversas substâncias nocivas.",
+    "hemofilia": "Doença hereditária familiar que afeta essencialmente pessoas do sexo masculino, e que se caracteriza por problemas de coagulação do sangue e propensão para hemorragias graves.",
+    "hemofílico": "Pessoa que sofre de hemofilia.",
+    "hemoglobina": "Proteína que contém ferro sob a forma de uma fração designada heme, contida nos glóbulos vermelhos, aos quais confere a cor. A hemoglobina é o veículo do oxigénio no sangue.",
+    "hemograma": "Exame ao sangue, realizado em laboratório, para classificação e contagem dos elementos do sangue e respetivas percentagens.",
+    "hemorragia": "Perda de sangue para um órgão interno (tubo digestivo, cavidade abdominal) ou para o exterior (ferimento arterial). De acordo com o volume e velocidade com a qual se produz o sangramento, uma hemorragia pode produzir diferentes manifestações nas pessoas, desde taquicardia, sudorese, palidez cutânea e até choque.",
+    "hemorroidas": "Dilatações anormais das veias superficiais que se encontram na última porção do intestino grosso, reto e região perianal. Pode produzir sangramento junto com a defecação e dor.",
+    "hepatite": "Inflamação do fígado, caracterizada por coloração amarela da pele e mucosas (icterícia), dor na região superior direita do abdómen, cansaço generalizado, aumento do tamanho do fígado, etc. Pode ser produzida por múltiplas causas como infeções virais, toxicidade por drogas, doenças imunológicas, etc.",
+    "hérnia": "Tumor mole, que se forma com a saída total ou parcial de uma víscera para fora da membrana que a reveste, através de uma rotura da mesma.",
+    "herpes": "Afeção cutânea, aguda, caracterizada por grupos de vesículas amarelas que formam crostas no período de cura.",
+    "hiperglicemia": "Excesso de açúcar no sangue.",
+    "hipertensão": "Tensão das artérias superior à normal.",
+    "hipoglicemia": "Insuficiência de açúcar no sangue.",
+    "hiv": "Abreviatura em inglês do vírus da imunodeficiência humana. É o agente causador da SIDA.",
+    "hormona": "Designação das substâncias provenientes das glândulas endócrinas, que desempenham ações das mais importantes num organismo.",
+    "icterícia": "Coloração amarela mais ou menos intensa da pele e das mucosas, devida à impregnação dos tecidos por pigmentos biliares. As suas causas principais são: afeção das células hepáticas (icterícia das hepatites, das cirroses, de certas intoxicações), a obstrução das vias biliares extra-hepáticas e a destruição maciça dos glóbulos vermelhos (hemólise).",
+    "idiopático": "Que existe por si mesmo; de origem desconhecida. Ex.: nevralgia idiopática.",
+    "impetigo": "Infeção cutânea superficial, contagiosa, devida a germes piogénicos (estafilococos ou estreptococos), caracterizada por pústulas de tendência extensiva que se cobrem de crostas amareladas e espessas.",
+    "imunidade": "Estado de resistência de um organismo relativamente a um fator patogénico (geralmente um germe infecioso), com o qual já esteve em contacto. Este estado de resistência é então, na maioria dos casos, devido à presença de anticorpos circulantes no organismo imunizado.",
+    "imunitário": "1) Relativo à imunidade. 2) Que se caracteriza pela imunidade.",
+    "imunizante": "Que proporciona ou confere imunidade.",
+    "imunodeficiência": "Ausência ou diminuição das reações imunitárias.",
+    "imunodepressão": "Diminuição ou supressão das reações imunitárias do organismo que pode ter origem infeciosa ou ser obtida por meios terapêuticos (nomeadamente pelos medicamentos imunossupressores).",
+    "imunoglobulina": "Qualquer globulina plasmática dotada de propriedades imunitárias e que tem uma função de anticorpo no organismo. As imunoglobulinas subdividem-se, por ordem de importância e em função da sua estrutura e da sua atividade, em cinco categorias: imunoglobulinas G, imunoglobulinas A, imunoglobulinas M, imunoglobulinas D e imunoglobulinas E. Símbolo: Ig, seguido do seu índice específico: IgA, IgG, IgM.",
+    "incontinência": "Incapacidade de controlar voluntariamente a emissão da urina ou das fezes.",
+    "indigestão": "Termo que designa uma perturbação gastrointestinal passageira que se traduz por sensação de mal-estar, de peso epigástrico, acompanhada por vezes por náuseas e vómitos.",
+    "infecioso": "Que produz infeção, que hospeda um microrganismo que possui o poder de provocar uma infeção ou que é devido a uma infeção.",
+    "inflamação": "Conjunto das reações que se produzem no organismo em resposta à ação irritante ou à perturbação criadas por diversos fatores (microrganismos patogénicos, agentes físicos ou químicos, etc.). Os seus sinais principais são calor, dor, rubor e tumefação.",
+    "inflamatório": "Relativo à inflamação, ou que é caracterizado por uma inflamação. Ex.: edema inflamatório, reação inflamatória.",
+    "influenza": "O mesmo que gripe.",
+    "inoculação": "1) Ação de introduzir um germe num organismo vivo por injeção; 2) Penetração no organismo de um microrganismo patogénico através de uma ferida cutânea ou mucosa.",
+    "insuficiência": "Estado deficitário de um órgão ou de uma glândula, que não é capaz de realizar normalmente as suas funções.",
+    "insulina": "Hormona do pâncreas, segregada pelas células beta dos ilhéus de Langerhans. Favorece a utilização do açúcar pelos tecidos e reduz a glicemia.",
+    "jejum": "Privação de alimentos; abstinência; estômago vazio.",
+    "jugular": "1) Relativo à garganta. 2) Cada uma das veias jugulares. A veia jugular externa é uma veia volumosa formada pela confluência das veias temporais superficiais e maxilar interna. A veia jugular interna é um tronco volumoso que recebe o sangue venoso da cavidade craniana, de uma parte da face e da região anterior do pescoço.",
+    "lactação": "1) Elaboração e secreção do leite pelas glândulas mamárias. 2) Aleitamento, amamentação.",
+    "laqueação": "Ato ou efeito de laquear ou apertar um vaso, um canal ou afim (ex.: laqueação das trompas de Falópio).",
+    "leucemia": "Doença neoplásica aguda ou crónica caracterizada pela proliferação anormal e geralmente intensa dos leucócitos e das suas células de origem na medula óssea, por vezes associada à proliferação dos eritroblastos. É acompanhada habitualmente por alterações quantitativas e qualitativas dos leucócitos no sangue periférico.",
+    "leucócito": "Célula sanguínea nucleada, com aspeto esbranquiçado quando não está corada, de dimensões variáveis conforme o seu tipo e forma geralmente arredondada. Distinguem-se: os granulócitos (neutrófilos, basófilos e eosinófilos), os linfócitos e os monócitos.",
+    "ligamento": "1) Feixe fibroso, com forma e tamanho variáveis, resistente e pouco extensível, que liga entre si duas peças ósseas, sobretudo ao nível de uma articulação (ligamento articular), ou diversos órgãos ou partes do corpo.",
+    "linfa": "Líquido claro, transparente, amarelo-pálido, alcalino, que circula nos vasos linfáticos ou que ocupa os espaços intercelulares. A linfa contém normalmente linfócitos e as mesmas substâncias que o soro sanguíneo, mas em menor quantidade.",
+    "linfático": "1) Relativo à linfa ou à sua secreção. 2) Vaso linfático: vaso que transporta a linfa.",
+    "linfócito": "Pequeno leucócito mononucleado presente no sangue, na medula e nos tecidos linfoides. Os linfócitos desempenham uma função essencial nas reações imunitárias do organismo.",
+    "linfoma": "Designação de qualquer tipo de tumor, frequentemente maligno, constituído por proliferação de um tecido linfoide (doença de Burkitt, doença de Hodgkin, macromaglobulinemia primária de Waldenström, linfoma mediterrânico). Atualmente, um grande número de linfomas tem tratamento eficaz.",
+    "lombalgia": "Qualquer dor da região lombar, seja de origem vertebral, muscular, urogenital ou ginecológica.",
+    "lyme (doença de)": "Doença endémica inflamatória causada por um microrganismo espiralado (Borrelia burgdorferi) transmitido por carraças do género Ixodes, caracterizada por eritema crónico migratório, artrites com localizações diversas, neuropatias e meningencefalite.",
+    "malabsorção": "Defeito da absorção digestiva das gorduras, das proteínas, dos glícidos e das vitaminas (nomeadamente da vitamina B12). O conjunto das diversas perturbações que dela resultam, bem como as suas manifestações clínicas, são por vezes designadas por síndrome de malabsorção.",
+    "malformação": "Modificação patológica congénita e permanente de um órgão, de uma parte do corpo ou de todo o organismo.",
+    "malnutrição": "Estado de nutrição insatisfatório que resulta da subalimentação, de superalimentação, alimentação desequilibrada ou assimilação imperfeita (malabsorção).",
+    "mamografia": "Radiografia da glândula mamária, sem qualquer preparação prévia (sem opacificação por meio de contraste).",
+    "mastectomia": "Extração cirúrgica, total ou parcial, da mama.",
+    "matriz ungueal": "Zona na qual se gera a unha, constituída pela derme onde se implanta a raiz ungueal.",
+    "medula óssea": "Tecido de consistência mole que preenche a parte central dos ossos longos e as diferentes cavidades e aréolas dos ossos esponjosos. A sua coloração e composição variam essencialmente com a idade do indivíduo. A medula vermelha, presente no feto e na criança, é rica em células conjuntivas jovens (entre elas as que estão na origem das células sanguíneas) e em vasos sanguíneos; tem um papel importante na ossificação e na hematopoiese. A medula amarela do adulto, rica em células adiposas, preenche o canal central da diáfise dos ossos longos.",
+    "melanina": "Pigmento castanho-escuro ou negro, presente normalmente na pele, cabelos, membranas do olho, certas regiões do cérebro e, patologicamente, em certos tumores (nevos, melanomas) e na urina. É elaborado pelas células da camada basal da epiderme.",
+    "melanoma": "O melanoma surge quando os melanócitos (células pigmentares ou sinais) se tornam malignos. Quando o melanoma tem início na pele, a doença chama-se melanoma cutâneo. O melanoma pode, também, ocorrer nos olhos (melanoma ocular ou melanoma intra-ocular).",
+    "meninges": "Conjunto das três membranas que envolvem inteiramente o eixo cerebrospinal. São, de fora para dentro, a dura-máter, a aracnóide e a pia-máter.",
+    "meningite": "Inflamação, aguda ou crónica, das meninges cerebrais (meningite cerebral), das meninges espinhais (meningite espinhal) ou das meninges com ambas as localizações (meningite cerebroespinhal). Manifesta-se por sintomas como febre, cefaleias, vómitos, convulsões, rigidez da nuca, delírio, estrabismo, sonolência, paralisias, etc.). A causa das meningites é muito variada, podendo ser traumática, infeciosa (bacteriana, viral, parasitária), etc.",
+    "meningococo": "Diplococo Gram-negativo, em forma de grão de café, agente da meningite cerebrospinal. Pode subsistir nos portadores de germes (especialmente na faringe), sem provocar a doença.",
+    "menopausa": "Paragem da função ovárica que ocorre por volta dos 50 anos e após a qual deixam de existir a ovulação, a fecundação e a menstruação. Nome popular: idade crítica.",
+    "menstruação": "Corrimento fisiológico de sangue pela vagina, que ocorre periodicamente com intervalos de 25 a 31 dias (em média 28 dias) na mulher em estado de saúde normal, desde a puberdade até à menopausa. A menstruação dura normalmente 3 a 6 dias; está ausente durante a gravidez e muitas vezes também durante o período de aleitamento.",
+    "metabolismo": "Conjunto das transformações químicas e físico-químicas que ocorrerem em todos os tecidos do organismo, sofridas pelos constituintes da matéria viva.",
+    "metástase": "Foco de células cancerosas, relacionado com um cancro preexistente, chamado «primitivo», mas que se desenvolve à distância deste último e sem continuidade com ele. Ordinariamente, é produzido pela proliferação de células provenientes do tumor primitivo que chegam a um ponto determinado do organismo, quer por um canal natural (ex.: brônquios, canal biliar), quer por via vascular sanguínea ou linfática, o que é muito mais frequente.",
+    "mialgia": "Dor muscular.",
+    "micção": "Ação de urinar.",
+    "micose": "Qualquer afeção parasitária provocada por um fungo.",
+    "micróbio": "Nome dado a qualquer organismo invisível a olho nu e mais especialmente aos que são suscetíveis de provocar infeções.",
+    "microrganismo": "Organismo vivo, invisível a olho nu devido às suas pequenas dimensões.",
+    "miocárdio": "Músculo estriado reticulado espesso, que constitui a quase totalidade da parede do coração. É revestido interiormente pelo endocárdio e exteriormente pelo epicárdio e pericárdio.",
+    "monócito": "Tipo de glóbulo branco de grandes dimensões, mononuclear, que se origina na medula óssea e se desloca pela corrente sanguínea até aos tecidos.",
+    "mórbido": "Relativo a doença.",
+    "muco": "Produto de secreção das glândulas mucosas e que contém, para além de outros constituintes, água, sais, células descamadas e leucócitos. O muco exerce uma função protetora das mucosas que cobre.",
+    "mucosa": "Membrana de revestimento das cavidades naturais do organismo, cuja superfície está sempre ligeiramente húmida.",
+    "músculo": "Órgão dotado da propriedade de se contrair. Os músculos são classificados em dois grupos: músculos lisos e músculos estriados.",
+    "mutação": "Mudança brusca e permanente de um ou mais caracteres hereditários que ocorre espontaneamente ou provocada por diversos agentes. O mecanismo pode ser cromossómico: modificação do número, da distribuição ou da estrutura dos cromossomas; ou génico: modificação de um só gene ou de um pequeno número de genes.",
+    "narcolepsia": "Acesso súbito, de curta duração, de uma necessidade irresistível de dormir. A narcolepsia pode ocorrer em diversas doenças (epilepsia, tumor cerebral) ou na ausência de qualquer outra doença.",
+    "narcose": "Estado de sono provocado por medicamentos, na maior parte dos casos durante uma anestesia geral: por extensão, designa a própria anestesia geral.",
+    "narcótico": "1) Que produz narcose. 2) Diz-se de certos estupefacientes com efeito sedativo, euforizante ou ansiolítico, tais como os opiáceos.",
+    "náusea": "Vontade de vomitar, concretizada ou não. É acompanhada por contração involuntária dos músculos da faringe, do esófago e do estômago.",
+    "necrose": "Morte de um tecido ou de parte de um tecido (ósseo, cutâneo, vascular, etc.) de causa infeciosa.",
+    "nefralgia": "Dor renal.",
+    "nefrologia": "Ramo da medicina que compreende o estudo do rim e o tratamento das doenças renais. O médico especialista chama-se nefrologista.",
+    "neonatologia": "Ramo da medicina que trata dos cuidados médicos e preventivos relativos ao recém- nascido e à mãe, desde o nascimento até ao 28.º dia de vida da criança.",
+    "neoplasia": "Formação de um tumor.",
+    "nervo": "Cada um dos filamentos que servem de órgãos à sensação e ao movimento animal (ex.: nervo ciático, nervo facial).",
+    "neurologia": "1) Ramo da medicina que trata das doenças do sistema nervoso. O especialista chama-se neurologista ou neurólogo. 2) Estudo da anatomia e da fisiologia do sistema nervoso central.",
+    "neuropatia": "Afeção do sistema nervoso, central ou periférico.",
+    "neurose": "Perturbação psíquica caracterizada por comportamento anormal, da qual o doente está consciente sem, todavia, a poder dominar. A neurose perturba a afetividade e a emotividade, mas não afeta as faculdades intelectuais.",
+    "nevo": "1) Malformação, sob a forma de mancha ou tumor, que alguns recém-nascidos trazem na pele. 2) Mancha na pele, sinal.",
+    "nevralgia": "Dor que se manifesta por acessos, sentida no trajeto de um nervo sensitivo ou no território que este inerva.",
+    "nevrite": "Lesão inflamatória de um nervo.",
+    "nódulo": "1) Estrutura anatómica formada por uma massa de células que exerce determinada função. 2) Em anatomia e em patologia, designa um pequeno inchaço ou saliência em forma de nó.",
+    "nosocomial": "Que tem a sua origem em meio hospitalar, ex.:. infeção nosocomial.",
+    "obesidade": "Excesso mórbido de peso.",
+    "obeso": "Que tem obesidade.",
+    "obstetrícia": "Ramo da medicina que trata da gravidez e do parto. O especialista é o obstetra (em linguagem corrente parteiro).",
+    "obstipação": "Aumento no intervalo entre as evacuações, acompanhada de fezes impactadas e dificuldade na eliminação das mesmas. É definida como uma alteração do hábito intestinal na qual o indivíduo fica sem defecar por mais de 3 dias. Também conhecida como prisão de ventre.",
+    "odontologia": "Estudo dos dentes e das suas doença. Medicina Dentária.",
+    "oftalmia": "Afeção inflamatória do olho.",
+    "oftalmologia": "Parte da medicina que trata dos olhos e dos seus anexos, do ponto de vista médico e cirúrgico.",
+    "oncologia": "Estudo dos tumores e, por extensão, dos cancros. O especialista chama-se oncologista.",
+    "organismo": "Ser vivo, animal ou vegetal, que nasce, se desenvolve e é normalmente capaz de se reproduzir.",
+    "ortopedia": "Dirige-se ao tratamento das afeções congénitas ou adquiridas dos ossos, das articulações, dos músculos e dos tendões.",
+    "osteoartrite": "Artrite complicada por lesões ósseas das extremidades articulares.",
+    "osteoporose": "Alteração óssea, localizada ou difusa, que se caracteriza pelo adelgaçamento dos espaços ósseos. Pode surgir com a idade (osteoporose senil) ou por traumatismos, doenças endócrinas, menopausa, imobilização prolongada, etc.",
+    "otite": "Qualquer inflamação do ouvido, que afete a caixa do tímpano (otite média) ou o canal auditivo externo (otite externa).",
+    "ovário": "Cada uma das duas glândulas genitais femininas, situadas na bacia atrás dos ligamentos largos, à face do pavilhão da trompa. Produzem os óvulos e segregam uma parte das hormonas sexuais da mulher (estrogénio, progesterona).",
+    "ovulação": "Fenómeno fisiológico pelo qual o óvulo, que atingiu a maturidade, se destaca do ovário, é normalmente captado pelo pavilhão da trompa uterina (onde pode ser fecundado por um espermatozoide) e passa para o útero.",
+    "óvulo": "Gâmeta feminino maduro, derivado do oócito, que é suscetível de ser fecundado por um gâmeta masculino (espermatozoide).",
+    "pacemaker": "Estimulador cardíaco.",
+    "paliativo": "Que suprime ou atenua os sintomas sem atuar diretamente na doença que os provoca. Ex.: cuidados paliativos.",
+    "palpitação": "Sensação mais ou menos desagradável devidas à perceção não habitual dos batimentos cardíacos.",
+    "panaceia": "Nome dado antigamente a certos remédios que passavam por ser eficazes em qualquer doença.",
+    "pancardite": "Inflamação global do coração que afeta o pericárdio, o miocárdio e o endocárdio.",
+    "pancreatite": "Inflamação do pâncreas.",
+    "pandemia": "Epidemia que se estende a quase todos os habitantes de uma região e que pode afetar uma zona geográfica muito extensa. Trata-se geralmente de uma doença grave, como a cólera, a peste ou a SIDA.",
+    "papeira": "Doença infeciosa, contagiosa e epidémica, causada por um mixovírus da família dos Paramyxovirideae que tem uma afinidade especial para as glândulas salivares, testículos e sistema nervoso. Manifesta-se por tumefação dolorosa, em geral das duas glândulas parótidas, por vezes de outras glândulas salivares, e por febre habitualmente pouco elevada. O período de incubação é de 12 a 26 dias. A transmissão faz-se por contacto direto com um doente ou com objetos recentemente contaminados pelas secreções nasofaríngeas.",
+    "papiloma": "Tumor benigno, habitualmente de tamanho reduzido, desenvolvido na pele ou numa mucosa, e caracterizado pela hipertrofia das papilas da derme.",
+    "pápula": "Pequena lesão cutânea, bem circunscrita e firme, que não deixa cicatriz. As pápulas são as lesões elementares de numerosas afeções cutâneas: urticária, febres eruptivas, líquen, etc.",
+    "paralisia": "Perda passageira ou definitiva da função motora de um músculo, de um grupo muscular ou de uma parte do corpo, devida geralmente a uma lesão nervosa central ou periférica.",
+    "paralisia cerebral": "Conjunto das manifestações neurológicas devidas a lesões cerebrais congénitas (anomalia do desenvolvimento durante o primeiro trimestre da gravidez) ou adquiridas (ocasionadas por um parto difícil ou por traumatismos acidentais durante os primeiros meses de vida).",
+    "paraplegia": "Paralisia dos dois membros inferiores, muitas vezes associada à dos esfíncteres; é em geral devida a lesão da medula espinal.",
+    "parasita": "Organismo animal ou vegetal que, durante uma parte ou a totalidade da sua existência, se nutre permanente ou temporariamente com substâncias produzidas por outro ser vivo, sem destruir este último, exceto nos casos relativamente raros em que os parasitas são excessivamente numerosos.",
+    "paresia": "Paralisia ligeira ou incompleta, que se traduz por diminuição da força muscular.",
+    "parestesia": "Qualquer sensação anormal de picadas, formigueiro, impressão na pele, etc. Em geral associada a lesões dos nervos periféricos ou da medula espinal.",
+    "parkinson (doença de)": "Afeção neurológica devida a lesões degenerativas do corpo estriado e do locus niger, caracterizada clinicamente por tremor lento, que persiste em repouso.",
+    "pasteurização": "Processo para a conservação temporária de certos produtos alimentares (leite, cerveja, vinho, etc.) pela eliminação relativa de germes só por meio de aquecimento a uma temperatura sempre inferior a 100°C. A pasteurização do leite faz-se atualmente a 90°C durante 30 segundos, seguida por arrefecimento brusco a 10°C. A pasteurização não assegura uma esterilização eficaz porque não destrói os esporos e não mata todos os micróbios.",
+    "patologia": "Parte da medicina que estuda as doenças do ponto de vista clínico e anatómico. O especialista chama-se patologista.",
+    "patológico": "Relativo à patologia ou a um estado mórbido (a uma doença).",
+    "pediatria": "Ramo da medicina que trata das doenças da infância. O especialista chama-se pediatra.",
+    "penicilina": "Qualquer antibiótico proveniente originalmente de fungos Penicillium notatum e Penicillium chrysogenum, ativo contra grande número de bactérias Gram-positivas (estafilococo, pneumococo, estreptococo) ou Gram-negativas (gonococo, meningococo), os treponemas e certas leptospiras. Descoberta por Sir Alexander Fleming em 1929. Geralmente bem tolerada, pode, não obstante, provocar sensibilizações, por vezes muito graves. Um certo número de microrganismos, primitivamente sensíveis à penicilina, podem desenvolver resistência contra ela e tornarem-se penicilinorresistentes.",
+    "péptico": "Relativo ou que é devido à digestão. Ex.: úlcera péptica.",
+    "percutâneo": "Que se faz através da pele (falando da absorção de uma substância através da pele intacta).",
+    "pericárdio": "Saco que envolve o coração.",
+    "perspiração": "Eliminação da água por evaporação contínua, impercetível, à superfície da pele (perspiração insensível) ou pela evaporação do suor acumulado.",
+    "petéquia": "Pequena mancha hemorrágica cutânea, punctiforme ou lenticular, devida à rutura dos capilares. É o elemento eruptivo característico da púrpura.",
+    "pia-máter": "Fina lâmina de tecido conjuntivo laxo e transparente que cobre toda a superfície externa do eixo nervoso cerebrospinal.",
+    "placebo": "Substância desprovida de eficácia terapêutica, mas que pode atuar através de um mecanismo psicológico (efeito placebo) se o indivíduo julga estar a receber uma substância ativa (efeito placebo).",
+    "placenta": "Anexo do feto que assegura as trocas nutritivas entre este e o organismo materno. Desenvolve-se durante a gravidez a partir da membrana externa do ovo. A placenta tem igualmente a função de glândula endócrina, segregando as hormonas esteroides (estrona, progesterona), que mantêm a mucosa uterina no seu estado gestativo e cuja abundância na urina permite fazer o diagnóstico biológico da gravidez.",
+    "plaqueta": "Elemento, sem núcleo, constituinte do sangue, em forma de disco bicôncavo oval ou redondo de cerca de 3 micras de diâmetro e em número de 200.000 a 300.000 por mm3. As plaquetas desempenham um papel importante na coagulação do sangue. Sinónimo de trombócito.",
+    "plasma": "Parte líquida do sangue na qual se encontram em suspensão diversos elementos (glóbulos vermelhos, glóbulos brancos, plaquetas) e o fibrinogénio. O plasma pode ser utilizado com fins terapêuticos para substituir perdas sanguíneas ou líquidas.",
+    "pneumonia": "Inflamação do pulmão devida a germes infeciosos, que se manifesta através de um foco único ou de focos múltiplos, e mais especialmente a pneumonia lobar, provocada pelo pneumococo (Streptococcus pneumoniae).",
+    "pólipo": "Tumor que se forma nas cavidades que constituem as mucosas (ex.: pólipo hiperplásico; pólipos uterinos).\r\nPosologia: Quantidade (dose) total de um medicamento, estimada de acordo com a idade e o peso do doente, que deve administrar-se de uma vez em doses parciais, para tratamento de uma doença.",
+    "profilaxia": "Método de proteção ou de prevenção dirigido contra uma doença.",
+    "prostatite": "Inflamação da próstata.",
+    "prurido": "Sensação de comichão cutânea, que pode ser devida a doença da pele ou afeção geral, ou não ter causa aparente.",
+    "psicomotor": "Relativo às funções motoras integradas e coordenadas pelas funções psíquicas. Ex.: desenvolvimento psicomotor, atraso psicomotor.",
+    "psicose": "Afeção mental caracterizada por desintegração geralmente profunda da personalidade, com perturbações da perceção, do julgamento, do raciocínio e do comportamento, das quais o doente não tem consciência.",
+    "psicossomático": "Que é relativo às influências do psiquismo nas funções do organismo, em especial perturbações ou doenças corporais.",
+    "psicótico": "Relativo à psicose ou que sofre de psicose.",
+    "psique": "A mente considerada enquanto órgão, de mesma forma que qualquer outro órgão.",
+    "puericultura": "Conjunto dos meios e métodos suscetíveis de assegurarem um desenvolvimento físico e psíquico normal da criança pequena, do nascimento até aos 4 ou 5 anos de idade.",
+    "pueril": "Que é próprio da infância. Por extensão, diz-se de certos caracteres de um adulto que se assemelham aos de uma criança. Ex.: comportamento pueril. V. infantil.",
+    "punção": "Intervenção que consiste em introduzir uma agulha, um trocarte, a ponta de um bisturi ou qualquer outro instrumento pontiagudo numa cavidade natural ou patológica, para recolher uma parte do seu conteúdo com finalidade diagnóstica ou terapêutica. Ex:. Punção lombar.",
+    "púrpura": "Manchas cutâneas com forma e extensão variáveis, devidas à passagem do sangue para fora dos capilares da pele. Vermelho-vivas ou violáceas, estas manchas não desaparecem à pressão.",
+    "purulento": "Que contém pus.",
+    "pus": "Líquido amarelado que se forma nos pontos de infeção e que é constituído por resíduos de leucócitos e de micróbios.",
+    "quarentena": "Denominação dada ao método de evitar a propagação de doenças infeciosas por isolamento das pessoas, mercadorias, animais, aviões, barcos e outros veículos provenientes de regiões infetadas com determinadas doenças contagiosas. De início, a quarentena correspondia a quarenta dias de isolamento (daí a denominação), mas os atuais conhecimentos sanitários permitem que esse período de tempo seja limitado ao tempo de incubação da doença suspeita.",
+    "queratina": "Proteína dura, rica em enxofre, que se forma na camada córnea da pele, nos pelos e nas unhas.",
+    "queratose": "Espessamento patológico da camada córnea da epiderme, em especial da palma das mãos e da planta dos pés. Pode ser de origem congénita ou como consequência de outras patologias (sífilis, psoríase, eczema, radiodermite, etc.).",
+    "quimioterapia": "Administração de uma substância química com a finalidade de curar uma doença ou de impedir a sua progressão.",
+    "quisto": "Tumor benigno formado num órgão por uma cavidade delimitada por uma parede e cheio de uma substância líquida, mole ou, raramente, sólida.",
+    "quociente de inteligência (qi)": "Relação entre a idade mental determinada através de uma série de testes psicológicos padronizadas e a idade real. O quociente de inteligência permite avaliar o grau de desenvolvimento intelectual. Na criança normal, com inteligência média, é igual a 100.",
+    "rabdomiólise": "1) Rutura de células musculares estriadas por esmagamento mecânico, libertando enzimas, eletrólitos e mioglobina para o sangue. Constitui um dos elementos principais da síndrome de esmagamento. 2) Necrose das fibras musculares característica das miopatias primitivas. 3) Também pode ocorrer como efeito adverso de alguns medicamentos.",
+    "radioatividade": "Propriedade que certos elementos (rádio, urânio, etc.) possuem de emitir espontaneamente e de forma contínua radiações ionizantes. Pode obter-se uma radioatividade artificial bombardeando átomos com partículas (protões, neutrões, etc.) ou com radiações eletromagnéticas.",
+    "radioativo": "Que é dotado de radioatividade. Ex.: contaminação radioativa, elemento radioativo.",
+    "radiografia": "Técnica de registo, numa superfície fotográfica sensível, de uma parte do corpo exposta aos raios X.",
+    "radiologia": "Ciência que trata dos raios X e das radiações ionizantes em geral, nomeadamente no que toca às suas aplicações práticas em medicina. O especialista é o radiologista.",
+    "raios x": "Radiações eletromagnéticas penetrantes, de comprimento de onda muito mais curto do que o da luz visível. Os raios X impressionam as chapas fotográficas; a sua absorção depende da densidade e do peso atómico da substância que atravessam. Estas propriedades estão na base das técnicas radiográficas.",
+    "rastreio": "Atividade para identificar por meio de provas, de exames ou de outras técnicas, os indivíduos portadores de uma doença ou anomalia até então desconhecida.",
+    "refluxo": "Deslocação do conteúdo líquido de um conduto orgânico no sentido contrário ao normal. Ex.: refluxo gástrico.",
+    "remissão": "Estádio de uma doença ou de uma manifestação patológica durante a qual os sintomas se atenuam temporariamente.",
+    "reumatismo": "Termo relativo a um grupo de afeções, agudas ou crónicas, com origens diversas e muitas vezes desconhecidas, geralmente dolorosas, acompanhadas por tumefação das partes moles e que atinge essencialmente as articulações.",
+    "reumatoide": "Que se assemelha a qualquer tipo de reumatismo.",
+    "rinite": "Inflamação aguda ou crónica da mucosa das fossas nasais.",
+    "seborreia": "Doença dermatológica caracterizada por aumento na produção das glândulas sebáceas, juntamente com descamação aumentada da área afetada, prurido e eritema.",
+    "secreção": "Destilação, filtração e segregação de líquidos orgânicos pelas glândulas; o líquido segregado, excreção.",
+    "sepsis/sepse": "Estado infecioso grave caracterizado pela disseminação e existência de microrganismos patogénicos, ou das suas toxinas, no sangue circulante ou nos tecidos.",
+    "septicemia": "Estado clínico de grande gravidade, caracterizado pela rápida e constante multiplicação de bactérias e pela presença de toxinas no sangue circulante. A septicemia surge como resultado da saída das bactérias patogénicas de um foco infecioso localizado em qualquer parte do organismo (feridas cutâneas, furúnculos ou infeções em órgãos internos), mais frequentemente em indivíduos com as defesas diminuídas.",
+    "sida": "Abreviatura de Síndrome da Imunodeficiência Adquirida. Doença infeciosa produzida pelo vírus da imunodeficiência humana (VIH) caracterizada pela diminuição da capacidade imunológica da pessoa, o que a põe sob risco de contrair infeções graves ou neoplasias.",
+    "sífilis": "Doença infeciosa, aguda ou crónica, provocada pelo Treponemapallidum e que se transmite por contactos sexuais diretos ou por hereditariedade. Tem um período de incubação de 12 a 30 dias, após o qual, se não for tratada, surge o cancro sifilítico ou cancro duro, seguido de febre ligeira e sintomas gerais (sífilis primária). Posteriormente, lesões cutâneas multiformes (sifílides e roséola) e adenopatias generalizadas (sifílis secundária). Num período evolutivo mais avançado surgem gomas e manifestações cardiovasculares e do sistema nervoso central (sífilis terciária).",
+    "síndrome": "Conjunto de sinais e sintomas que se encontram associados a uma entidade conhecida ou não.",
+    "sintoma": "Manifestação espontânea, sentida pelo doente, provocada pelo organismo ou por uma doença. Os sintomas são subjetivos, no caso de serem apenas sentidos pelos doentes, mas em alguns casos esses sintomas podem ser objetivados por um observador (febre, por exemplo) e, nestes casos, consideram-se também sinais.",
+    "sonda": "Tubo, flexível ou rígido, que se introduz em canal, natural ou não, do organismo com o fim de reconhecer-lhe o estado ou de extrair ou introduzir algum tipo de matéria.",
+    "sucedâneo": "Produto substituto de um alimento ou de um fármaco, com propriedades e ações semelhantes.",
+    "sudação": "Produção ou secreção, fisiológica ou artificial, de suor. Sudorese.",
+    "sutura": "Operação que consiste em coser os lábios de uma ferida para, geralmente, juntá-los.",
+    "tabagismo": "Dependência do tabaco e intoxicação pelos seus componentes, entre eles a nicotina.",
+    "taquicardia": "Pulsação cardíaca muito acelerada (acima das 100 pulsações por minuto).",
+    "tecido": "Conjunto de células do mesmo tipo e que têm uma determinada atividade e função específica (tecido conjuntivo, tecido epitelial, tecido muscular, tecido nervoso, etc.).",
+    "têmpora": "Região lateral da cabeça situada entre o olho e o ouvido.",
+    "tendão": "Cordão fibroso que liga extremidades musculares e ossos.",
+    "tendinite": "Inflamação de um tendão.",
+    "terapêutica": "Ramo da Medicina que trata da cura das doenças.",
+    "tétano": "Doença infeciosa aguda e grave, provocada pelo Clostridium tetani, que penetra no organismo através de uma ferida cutânea (mesmo que pequena ou apenas uma escoriação) após contacto com terra onde o bacilo sobrevive. Após um período de incubação de 5 dias a 3 semanas, a doença é caracterizada por espasmos musculares no pescoço, nuca, tronco e  membros. A doença costuma acompanhar-se de sintomas gerais, como febre elevada, taquicardia, cansaço e respiração acelerada e torna-se particularmente grave quando são atingidos os músculos respiratórios, com eventual paragem respiratória.",
+    "tomografia": "Técnica radiológica que permite obter radiografias seriadas em cortes ou planos paralelos.",
+    "tópico": "Fármaco ou outra substância que se aplica diretamente sobre uma determinada região do corpo.",
+    "toxina": "Designação geral dada às substâncias segregadas por organismos vivos (animais ou vegetais) com capacidade de produzirem efeitos tóxicos ou de exercerem ações antigénicas.",
+    "toxoplasmose": "Doença que se pode manifestar de forma aguda ou crónica, provocada pelo Toxoplasmagondii. Pode atacar o feto no útero, por transmissão da mãe que, ainda que infetada, pode não ter qualquer manifestação clínica. A toxoplasmose adquirida que pode atingir crianças mais velhas e adultos é uma doença, em regra benigna, ainda que muito raramente possa manifestar-se como encefalite grave. Adquire-se através da ingestão de alimentos ou de substâncias que contenham fezes de gatos com oocistos.",
+    "transfusão": "Introdução na corrente sanguínea de sangue ou algum dos seus componentes. Podem ser transfundidos, separadamente, glóbulos vermelhos, plaquetas, plasma, fatores de coagulação, etc.",
+    "transplante": "Transporte de tecido vivo ou órgão de um local ou corpo para outro; enxerto.",
+    "traumatismo": "Designação genérica dada a todas as lesões ou alterações orgânicas provocadas por uma violência exterior.",
+    "trombo": "Coágulo de sangue que se forma no interior de um vaso.",
+    "trombose": "Formação de um trombo ou coágulo no interior de um vaso ou de uma cavidade cardíaca.",
+    "tumor": "Termo que literalmente significa massa ou formação de tecido. É utilizado em geral para referir-se a uma formação neoplásica.",
+    "vacina": "Substância que possui a propriedade de imunizar o organismo contra uma doença infeciosa. Pode ser preparada a partir de microrganismos mortos ou inativos ou a partir de microrganismos vivos mas atenuados pelo formol, por outra substância ou pelo calor.",
+    "vacinação": "Administração de uma vacina, por via oral, parenteral ou por escarificação, com a finalidade de proteger contra uma doença infeciosa. Sinónimo de imunização.",
+    "varicela": "Doença viral aguda febril, contagiosa e epidémica, habitualmente benigna, caracterizada essencialmente por uma erupção cutânea com acessos sucessivos. Normalmente, as vesículas secam sem deixar cicatriz e a doença cura-se em cerca de 15 dias.",
+    "varicoso": "1) Relativo às varizes. 2) Que apresenta varizes.",
+    "varizes": "Dilatações venosas patológicas, permanentes, ao nível da rede superficial dos membros inferiores.",
+    "vascular": "Relativo aos vasos, principalmente os sanguíneos.",
+    "vasectomia": "Método de esterilização do homem efetuada por laqueação dos canais deferentes. Esta laqueação pode ser temporária ou definitiva.",
+    "vaso": "Em anatomia, canal pelo qual circula o sangue ou a linfa: artéria, veia, capilar, linfático.",
+    "venéreo": "Relativo ou que é devido às relações sexuais.",
+    "venoso": "Relativo às veias.",
+    "ventrículo": "Cavidade do coração, de paredes musculosas, cujas contrações enviam o sangue para as artérias.",
+    "verruga": "Pequeno tumor cutâneo irregular, de origem viral, de tamanho variável, constituído por hipertrofia das papilas da derme; localiza-se especialmente nas mãos, nos pés e na face.",
+    "vertigem": "Sensação subjetiva de deslocamento, de rotação do corpo ou do meio ambiente, acompanhada por perturbações do equilíbrio.",
+    "vesícula": "Qualquer órgão que tenha a forma de um pequeno saco.",
+    "vesícula biliar": "Vesícula situada junto à superfície inferior do fígado. A vesícula biliar acumula bílis que expele para o duodeno durante a digestão.",
+    "viral (ou vírico)": "Relativo aos vírus. Ex.: infeção vírica.",
+    "viremia": "Presença de vírus no sangue circulante.",
+    "virose": "Doença provocada por vírus.",
+    "virulência": "Capacidade que os germes infeciosos têm de se desenvolverem num organismo e aí provocarem um estado patológico.",
+    "vírus": "Nome genérico dos agentes infeciosos parasitas das células, que se reproduzem só a partir do seu material genético.",
+    "víscera": "Qualquer órgão existente numa cavidade do corpo; cavidade torácica (pulmão, coração), cavidade abdominal (fígado, estômago, baço, etc.), caixa craniana (cérebro).",
+    "vitamina": "Nome genérico das substâncias indispensáveis ao crescimento e ao funcionamento dos órgãos, fornecidas, na sua maioria, em pequena quantidade pela alimentação, que o organismo não é capaz de sintetizar.",
+    "vulva": "Conjunto dos órgãos genitais externos da mulher.",
+    "zigoto": "Célula que resulta da fecundação do gâmeta feminino pelo gâmeta masculino.",
+    "zona": "Dermatose aguda devida a um vírus idêntico ao da varicela, caracterizada por uma erupção quase sempre unilateral dispostas em grupos no trajeto de um nervo sensitivo. A erupção pode ser precedida ou acompanhada por dores nevrálgicas, que persistem durante muito tempo após a cura.",
+    "zoonose": "Doença infeciosa transmissível, em condições naturais, dos animais vertebrados ao homem e vice-versa.",
+    "zumbido": "Ruído percebido pelo ouvido e que não corresponde a qualquer fenómeno objetivo. Ocorre muitas vezes na surdez. Acufeno."
+}

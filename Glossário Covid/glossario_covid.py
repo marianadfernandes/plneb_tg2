@@ -59,20 +59,23 @@ alt.close()
 
 
 # obtenção dos tuplos para posterior criação do dicionário
-entries = re.findall(r"<b>\s*(.*?)\s*<\/b>(.*?)<b>\s*AR\s*<\/b>\s*(.*?)\s*<b>DE\s*<\/b>\s*(.*?)<b>ES\s*<\/b>\s*(.*?)<b>FR\s*<\/b>\s*(.*?)<b>JA\s*<\/b>\s*(.*?)<b>KO\s*<\/b>\s*(.*?)<b>PT\s*<\/b>\s*(.*?)<b>RU\s*<\/b>\s*(.*?)<b>ZH\s*<\/b>\s*(.*?)(?=<b>|\Z)", lines, re.DOTALL)
+# <b>\s*(.*?)\s*<\/b>(\s\(syn\.\)\s.*?\s{3})?(.*?)<b>\s*AR\s*<\/b>\s*(.*?)\s*<b>DE\s*<\/b>\s*(.*?)<b>ES\s*<\/b>\s*(.*?)<b>FR\s*<\/b>\s*(.*?)<b>JA\s*<\/b>\s*(.*?)<b>KO\s*<\/b>\s*(.*?)<b>PT\s*<\/b>\s*(.*?)<b>RU\s*<\/b>\s*(.*?)<b>ZH\s*<\/b>\s*(.*?)(?=<b>|\Z)
+# solução sem syn: <b>\s*(.*?)\s*<\/b>(.*?)<b>\s*AR\s*<\/b>\s*(.*?)\s*<b>DE\s*<\/b>\s*(.*?)<b>ES\s*<\/b>\s*(.*?)<b>FR\s*<\/b>\s*(.*?)<b>JA\s*<\/b>\s*(.*?)<b>KO\s*<\/b>\s*(.*?)<b>PT\s*<\/b>\s*(.*?)<b>RU\s*<\/b>\s*(.*?)<b>ZH\s*<\/b>\s*(.*?)(?=<b>|\Z)
+entries = re.findall(r"<b>\s*(.*?)\s*<\/b>(\s\(syn\.\)\s.*?\s{3})?(.*?)<b>\s*AR\s*<\/b>\s*(.*?)\s*<b>DE\s*<\/b>\s*(.*?)<b>ES\s*<\/b>\s*(.*?)<b>FR\s*<\/b>\s*(.*?)<b>JA\s*<\/b>\s*(.*?)<b>KO\s*<\/b>\s*(.*?)<b>PT\s*<\/b>\s*(.*?)<b>RU\s*<\/b>\s*(.*?)<b>ZH\s*<\/b>\s*(.*?)(?=<b>|\Z)", lines, re.DOTALL)
 
-entries = [(term.strip(), desc.strip(), ar.strip().rstrip(), de.strip().rstrip(), es.strip().rstrip(), fr.strip().rstrip(), ja.strip().rstrip(), ko.strip().rstrip(), pt.strip().rstrip(), ru.strip().rstrip(), zh.strip().rstrip(),) for term, desc, ar, de, es, fr, ja, ko, pt, ru, zh in entries]
+entries = [(term.strip(), syn.strip(), desc.strip(), ar.strip().rstrip(), de.strip().rstrip(), es.strip().rstrip(), fr.strip().rstrip(), ja.strip().rstrip(), ko.strip().rstrip(), pt.strip().rstrip(), ru.strip().rstrip(), zh.strip().rstrip(),) for term, syn, desc, ar, de, es, fr, ja, ko, pt, ru, zh in entries]
 
 
 # formatação das entries para o dicionário
-new_entries = [(term, ({"desc": desc, "ar": ar, "de": de, "es": es, "fr": fr, "ja": ja, "ko": ko, "pt": pt, "ru": ru, "zh": zh}))
-                for term, desc, ar, de, es, fr, ja, ko, pt, ru, zh in entries]
+new_entries = [(term, ({"syn": syn, "desc": desc, "ar": ar, "de": de, "es": es, "fr": fr, "ja": ja, "ko": ko, "pt": pt, "ru": ru, "zh": zh}))
+                for term, syn, desc, ar, de, es, fr, ja, ko, pt, ru, zh in entries]
 
 dic = dict(new_entries)
 
 for key, value in dic.items():
-    dic[key] = {"desc_pt" : GoogleTranslator(source='en', target='pt').translate(value['desc']),
-                  "desc_en" : value['desc'],
+    dic[key] = {"syn": value['syn'],
+                "desc_pt" : GoogleTranslator(source='en', target='pt').translate(value['desc']),
+                "desc_en" : value['desc'],
                 "ar" : value['ar'],
                 "de" : value['de'],
                 "es" : value['es'],

@@ -8,7 +8,7 @@ html = requests.get(url).text
 soup = BeautifulSoup(html, "html.parser")
 divs = soup.find_all("div", class_="tab-content")
 
-lista = []
+lista = {}
 for div in divs:
     terms = div.find_all("h2") # Obter todos os elementos h2 que estão dentro da div
 
@@ -19,7 +19,7 @@ for div in divs:
         title = term.text.strip() # Termo
         description = term.find_next("p").text.strip() # Descrição
 
-        lista.append({title: description})
+        lista[title.lower()] = description
 
 #print(lista)
 

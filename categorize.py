@@ -2,6 +2,7 @@ import nltk
 import json
 from nltk.corpus import wordnet
 import locale
+from deep_translator import GoogleTranslator
 
 # definir localização/internacionalização 
 locale.setlocale(locale.LC_ALL, '')
@@ -9,10 +10,12 @@ locale.setlocale(locale.LC_ALL, '')
 with open('./ficheiros_TP1/dicionario_final.json', 'r', encoding="utf8") as file:
     dic = dict(json.load(file))
 
+
 new_dic = {}
 for word in dic.keys():
     print("----")
-    synsets = wordnet.synsets(word, lang='por')
+    trans_key = GoogleTranslator(source='pt', target='en').translate(word)
+    synsets = wordnet.synsets(trans_key, lang='eng')
 
     for synset in synsets:
         print("Word:", word)
