@@ -1,0 +1,26 @@
+{% extends 'layout.html' %}
+
+
+{% block body %}
+
+<div class="container p-4 w-50">
+    <h3>Categorias de termos</h3>
+    <div class="list-group">
+        {% for category, terms in categories %}
+        <button class="btn btn-light dropdown-toggle nav-link active" type="button" id="dropdownMenuButton1" data-bs-toggle="dropdown" aria-expanded="false">
+            {{category}}
+          </button>
+          <p><ul class="dropdown-menu" aria-labelledby="dropdownMenuButton1" style="width: 47%;">
+          {% for term in terms %}
+            {% for key in term.keys() %}
+                <li><a class="dropdown-item" style="text-align: center;" href="/term/{{key}}">{{ key }}</a></li>
+            {% endfor %}
+          {% endfor %}
+          </ul></p>
+        {% endfor %}
+    </div>
+
+</div>
+
+
+{% endblock %}

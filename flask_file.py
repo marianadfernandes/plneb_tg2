@@ -46,11 +46,9 @@ def search():
     text = request.args.get("text")
     lista = []
     msg = ""
+
     if text:
         for designation, description in db.items():
-            # print(len(description))
-            # print(description[list(description.keys())[0]])
-            # print(description.keys())
             if re.search(text, designation, flags=re.I):
                 lista.append((designation, description))
             
@@ -60,11 +58,20 @@ def search():
                     for item in list(value.values()):
                         if re.search(text, item, flags=re.I):
                             lista.append((designation, description))
-        
-        if len(lista) == 0:
-            msg = "O conteúdo pesquisado não existe. Pesquise de novo"
+    
+    category = request.args.get("category")
+    cat_dic = {}
 
-    return render_template("search.html", matched = lista, message = msg)
+    if category:
+        for key in cat:
+            if re.search(category, key, flags=re.I):
+                cat_dic[key] = cat[key]
+
+
+    if (len(lista) == 0 and cat_dic == {}) and (text or category):
+        msg = "O conteúdo pesquisado não existe. Pesquise de novo"
+    
+    return render_template("search.html", matched = lista, matched_cat = cat_dic, message = msg)
 
 
 
@@ -95,6 +102,7 @@ def addTerm():
     return render_template("terms.html", designations=sorted_db.keys(), message = info_message)
 
 
+
 @app.route("/term/<designation>", methods=["DELETE"])
 def deleteTerm(designation):
     desc = db[designation]
@@ -108,6 +116,11 @@ def deleteTerm(designation):
         
     return {designation: {"exp pop": desc['exp pop']}}
 
+
+
+@app.route("/categories")
+def categories():
+    return render_template("categories.html", categories=cat.items())
 
 
 app.run(host="localhost", port=4000, debug=True)

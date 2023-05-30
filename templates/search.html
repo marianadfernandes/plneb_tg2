@@ -3,6 +3,7 @@
 
 {% block body %}
 
+<!-- PESQUISA POR TERMOS, ETC -->
 <form action="/terms/search" method="GET">
   <div class="container p-4 w-50">
     <h3>Pesquisar Termo/Traduções/Exp. popular/Descrições</h3>
@@ -23,9 +24,46 @@
     {% endfor %}
     </ul>
   {% endif %}
+</div>
+
+
+
+<!-- PESQUISA POR CATEGORIA -->
+<form action="/terms/search" method="GET">
+  <div class="container p-4 w-50">
+    <h3>Pesquisar Categoria</h3>
+    <label class="form-label">Inserir texto:</label>
+    <input type="text" class="form-control" name="category">
+  </div>
+  <div class="container w-50">
+    <button type="submit" class="btn btn-primary">Pesquisar</button>
+  </div>
+</form>
+
+<div class="container p-4 w-50">
+  {% if matched_cat %}
+    <h3>Resultados:</h3>
+    <ul>
+        {% for category in matched_cat %}
+        <button class="btn btn-light dropdown-toggle nav-link active w-100 mt-4" type="button" id="dropdownMenuButton1" data-bs-toggle="dropdown" aria-expanded="false">
+            {{category}}
+          </button>
+          <p><ul class="dropdown-menu" aria-labelledby="dropdownMenuButton1" style="width: 45%;">
+          {% for term in matched_cat.get(category) %}
+            {% for key in term.keys() %}
+                <li><a class="dropdown-item" style="text-align: center;" href="/term/{{key}}">{{ key }}</a></li>
+            {% endfor %}
+          {% endfor %}
+          </ul></p>
+        {% endfor %}
+      <!-- <li> <b><a href="/term/{{designation}}" class="list-group-item list-group-item-light btn-outline-secondary">{{category}}</a></b> </li> -->
+    </ul>
+  {% endif %}
+
   {% if message %}
     <h6 style="color: red;">{{ message }}</h6>
   {% endif %}
+  
 </div>
 
 {% endblock %}
