@@ -322,14 +322,14 @@
             "es": "ácido desoxiribonucleico (ADN, DNA)"
         }
     },
-    "ácido desoxirribonucleico": {
+    "ácido desoxirribonucleico, (syn.) ADN": {
         "Descrições": {
-            "desc_pt": "Ácido nucléico de fita dupla cujos nucleotídeos consistem em um esqueleto formado por um açúcar modificado, denominado desoxirribose, uma base nitrogenada, ou seja, adenina, guanina, citosina e timina, e um grupo fosfato.",
-            "desc_en": "Double-stranded nucleic acid whose nucleotides consist of a backbone made up by a modified sugar, called deoxyribose, a nitrogenous base, i.e. adenine, guanine, cytosine, and thymine, and a phosphate group."
+            "desc_pt": "(sin.) DNA Ácido nucléico de fita dupla cujos nucleotídeos consistem em um esqueleto formado por um açúcar modificado, chamado desoxirribose, uma base nitrogenada, ou seja, adenina, guanina, citosina e timina, e um grupo fosfato. SCIE, Bioquímica",
+            "desc_en": "(syn.) DNA   Double-stranded nucleic acid whose nucleotides consist of a backbone made up by a modified sugar, called deoxyribose, a nitrogenous base, i.e. adenine, guanine, cytosine, and thymine, and a phosphate group. SCIE, Biochemistry"
         },
         "Traduções": {
             "en": "deoxyribonucleic acid",
-            "fr": "acide désoxyribonucléique"
+            "fr": "acide désoxyribonucléique, (syn.) ADN"
         }
     },
     "ácido fólico": {
@@ -344,20 +344,20 @@
             "es": "ácido gástrico"
         }
     },
-    "ácido ribonucleico": {
-        "Descrições": {
-            "desc_pt": "Ácido nucléico de fita simples cujos nucleotídeos consistem em uma estrutura composta por um açúcar simples, chamado ribose, um grupo fosfato e uma base nitrogenada, ou seja, adenina, guanina, citosina e uracila.",
-            "desc_en": "Single-stranded nucleic acid whose nucleotides consist of a backbone made up by a simple sugar, called ribose, a phosphate group, and a nitrogenous base, i.e. adenine, guanine, cytosine, and uracil."
-        },
-        "Traduções": {
-            "en": "ribonucleic acid",
-            "fr": "acide ribonucléique"
-        }
-    },
     "ácido ribonucléico (RNA)": {
         "Traduções": {
             "en": "ribonucleic acid (RNA)",
             "es": "ácido ribonucleico (ARN, RNA)"
+        }
+    },
+    "ácido ribonucleico, (syn.) RNA, ARN": {
+        "Descrições": {
+            "desc_pt": "(sin.) RNA Ácido nucléico de fita simples cujos nucleotídeos consistem em uma estrutura composta por um açúcar simples, chamado ribose, um grupo fosfato e uma base nitrogenada, ou seja, adenina, guanina, citosina e uracila. SCIE, Bioquímica",
+            "desc_en": "(syn.) RNA   Single-stranded nucleic acid whose nucleotides consist of a backbone made up by a simple sugar, called ribose, a phosphate group, and a nitrogenous base, i.e. adenine, guanine, cytosine, and uracil. SCIE, Biochemistry"
+        },
+        "Traduções": {
+            "en": "ribonucleic acid",
+            "fr": "acide ribonucléique, (syn.) ARN"
         }
     },
     "ácido salicílico": {
@@ -778,9 +778,9 @@
     },
     "aerossol": {
         "Descrições": {
-            "desc_pt": "Suspensão de partículas sólidas ou líquidas em um gás.",
+            "desc_pt": "Suspensão de partículas sólidas ou líquidas em um gás. QUÍMICA, Elementos e compostos químicos",
             "exp pop": "solução de um produto destinado à inalação",
-            "desc_en": "Suspension of solid or liquid particles in a gas."
+            "desc_en": "Suspension of solid or liquid particles in a gas. CHEM, Chemical elements & compounds"
         },
         "Traduções": {
             "en": "aerosol",
@@ -885,8 +885,8 @@
     },
     "agente infeccioso": {
         "Descrições": {
-            "desc_pt": "Agente biológico que pode ou não causar uma doença infecciosa.",
-            "desc_en": "Biological agent that may or may not cause an infectious disease."
+            "desc_pt": "Agente biológico que pode ou não causar uma doença infecciosa. MEDICINA, Patologia",
+            "desc_en": "Biological agent that may or may not cause an infectious disease. MEDI, Pathology"
         },
         "Traduções": {
             "en": "infectious agent",
@@ -895,8 +895,8 @@
     },
     "ageusia": {
         "Descrições": {
-            "desc_pt": "Distúrbio caracterizado pela perda do paladar.",
-            "desc_en": "Disorder characterized by loss of taste."
+            "desc_pt": "Distúrbio caracterizado pela perda do paladar. MEDICINA, Patologia",
+            "desc_en": "Disorder characterized by loss of taste. MEDI, Pathology"
         },
         "Traduções": {
             "en": "ageusia",
@@ -2078,9 +2078,9 @@
     },
     "anosmia": {
         "Descrições": {
-            "desc_pt": "Distúrbio caracterizado pela perda do olfato.",
+            "desc_pt": "Distúrbio caracterizado pela perda do olfato. MEDICINA, Patologia",
             "exp pop": "falta de cheiro",
-            "desc_en": "Disorder characterized by loss of smell."
+            "desc_en": "Disorder characterized by loss of smell. MEDI, Pathology"
         },
         "Traduções": {
             "en": "anosmia",
@@ -2268,24 +2268,31 @@
     },
     "anticorpo": {
         "Descrições": {
-            "desc_pt": "Proteína produzida por linfócitos B que podem reconhecer e neutralizar um antígeno.",
-            "exp pop": "anti-soma, anti-substância, corpo imune, antítropo",
-            "desc_en": "Protein produced by B lymphocytes that can recognize and neutralize an antigen."
+            "exp pop": "anti-soma, anti-substância, corpo imune, antítropo"
         },
         "Traduções": {
             "en": "antibody",
-            "es": "anticuerpo",
-            "fr": "anticorps"
+            "es": "anticuerpo"
         }
     },
     "anticorpo monoclonal": {
         "Descrições": {
-            "desc_pt": "Molécula produzida em laboratório que visa e ataca antígenos específicos, desencadeando assim uma resposta imune específica.",
-            "desc_en": "Laboratory-produced molecule that targets and attacks specific antigens, thereby triggering a specific immune response."
+            "desc_pt": "Molécula produzida em laboratório que visa e ataca antígenos específicos, desencadeando assim uma resposta imune específica. SCIE, Terapêutica",
+            "desc_en": "Laboratory-produced molecule that targets and attacks specific antigens, thereby triggering a specific immune response. SCIE, Therapeutics"
         },
         "Traduções": {
             "en": "monoclonal antibody",
             "fr": "anticorps monoclonal"
+        }
+    },
+    "anticorpo, (syn.) imunoglobulina": {
+        "Descrições": {
+            "desc_pt": "(sin.) imunoglobulina Proteína produzida por linfócitos B que pode reconhecer e neutralizar um antígeno. CIEE, Biologia",
+            "desc_en": "(syn.) immunoglobulin   Protein produced by B lymphocytes that can recognize and neutralize an antigen. SCIE, Biology"
+        },
+        "Traduções": {
+            "en": "antibody",
+            "fr": "anticorps, (syn.) immunoglobuline"
         }
     },
     "antidepressivo": {
@@ -3626,10 +3633,10 @@
             "exp pop": "reacção anormal do organismo contra um dos seus próprios tecidos"
         }
     },
-    "autoisolamento": {
+    "autoisolamento, (syn.) auto-isolamento": {
         "Descrições": {
-            "desc_pt": "Medida tomada por um indivíduo para evitar o contato com outras pessoas e, assim, ajudar a prevenir a propagação de uma doença infecciosa.",
-            "desc_en": "Measure taken by an individual in order to avoid contact with other people and thus help to prevent the spread of an infectious disease."
+            "desc_pt": "(sin.) auto-quarentena Medida tomada por um indivíduo para evitar o contato com outras pessoas e, assim, ajudar a prevenir a propagação de uma doença infecciosa. MEDI, Saúde pública e higiene",
+            "desc_en": "(syn.) self-quarantine   Measure taken by an individual in order to avoid contact with other people and thus help to prevent the spread of an infectious disease. MEDI, Public health & hygiene"
         },
         "Traduções": {
             "en": "self-isolation",
@@ -3900,8 +3907,8 @@
     },
     "bata hospitalar": {
         "Descrições": {
-            "desc_pt": "Vestuário de equipamento de proteção individual usado em ambientes de saúde para reduzir o risco de exposição a agentes infecciosos.",
-            "desc_en": "Garment of personal protective equipment worn in healthcare settings to reduce the risk of exposure to infectious agents."
+            "desc_pt": "Vestuário de equipamento de proteção individual usado em ambientes de saúde para reduzir o risco de exposição a agentes infecciosos. MEDI, equipamento médico",
+            "desc_en": "Garment of personal protective equipment worn in healthcare settings to reduce the risk of exposure to infectious agents. MEDI, Medical equipment"
         },
         "Traduções": {
             "en": "hospital gown",
@@ -4046,8 +4053,8 @@
     },
     "bioestatística": {
         "Descrições": {
-            "desc_pt": "Aplicação de métodos e ferramentas estatísticas nas áreas de ciências biológicas e medicina, incluindo desenho de estudo, coleta e análise de dados e interpretação de descobertas.",
-            "desc_en": "Application of statistical methods and tools to the fields of biological sciences and medicine, including study design, data collection and analysis, and interpretation of findings."
+            "desc_pt": "Aplicação de métodos e ferramentas estatísticas nas áreas de ciências biológicas e medicina, incluindo desenho de estudo, coleta e análise de dados e interpretação de descobertas. MEDI, Saúde pública e higiene",
+            "desc_en": "Application of statistical methods and tools to the fields of biological sciences and medicine, including study design, data collection and analysis, and interpretation of findings.   MEDI, Public health & hygiene"
         },
         "Traduções": {
             "en": "biostatistics",
@@ -4503,8 +4510,8 @@
     },
     "cadeia de transmissão": {
         "Descrições": {
-            "desc_pt": "Processo no qual um agente infeccioso deixa seu reservatório ou hospedeiro por uma porta de saída, é transportado por um modo de transmissão e entra em um hospedeiro suscetível por uma porta de entrada.",
-            "desc_en": "Process in which an infectious agent leaves its reservoir or host through a portal of exit, is conveyed by a mode of transmission, and enters a susceptible host through a portal of entry."
+            "desc_pt": "Processo no qual um agente infeccioso deixa seu reservatório ou hospedeiro por uma porta de saída, é transportado por um modo de transmissão e entra em um hospedeiro suscetível por uma porta de entrada. CIEE, Biologia",
+            "desc_en": "Process in which an infectious agent leaves its reservoir or host through a portal of exit, is conveyed by a mode of transmission, and enters a susceptible host through a portal of entry.   SCIE, Biology"
         },
         "Traduções": {
             "en": "chain of infection",
@@ -5027,8 +5034,8 @@
     },
     "carga viral": {
         "Descrições": {
-            "desc_pt": "Quantidade de partículas virais presentes em um mililitro de uma amostra de fluido, por ex. sangue.",
-            "desc_en": "Amount of viral particles present in a millilitre of a fluid sample, e.g. blood."
+            "desc_pt": "Quantidade de partículas virais presentes em um mililitro de uma amostra de fluido, por ex. sangue. MEDI, Equipamentos e procedimentos de diagnóstico",
+            "desc_en": "Amount of viral particles present in a millilitre of a fluid sample, e.g. blood. MEDI, Diagnostic equipment & procedures"
         },
         "Traduções": {
             "en": "viral load",
@@ -5106,8 +5113,8 @@
     },
     "caso": {
         "Descrições": {
-            "desc_pt": "Pessoa que é diagnosticada como portadora de uma doença.",
-            "desc_en": "Person who is diagnosed as having a disease."
+            "desc_pt": "Pessoa que é diagnosticada como portadora de uma doença. MEDI, Saúde pública e higiene",
+            "desc_en": "Person who is diagnosed as having a disease.   MEDI, Public health & hygiene"
         },
         "Traduções": {
             "en": "case",
@@ -5117,8 +5124,8 @@
     },
     "caso confirmado": {
         "Descrições": {
-            "desc_pt": "Caso confirmado por exame laboratorial.",
-            "desc_en": "Case that is confirmed by a laboratory test."
+            "desc_pt": "Caso confirmado por exame laboratorial. MEDI, Saúde pública e higiene",
+            "desc_en": "Case that is confirmed by a laboratory test.   MEDI, Public health & hygiene"
         },
         "Traduções": {
             "en": "confirmed case",
@@ -5127,8 +5134,8 @@
     },
     "caso importado": {
         "Descrições": {
-            "desc_pt": "Caso que tenha histórico de viagem de uma área afetada algum tempo antes do início da doença e não possa ser relacionado à transmissão local.",
-            "desc_en": "Case who has a history of travel from an affected area some time before the onset of the disease and cannot be linked to local transmission."
+            "desc_pt": "Caso que tenha histórico de viagem de uma área afetada algum tempo antes do início da doença e não possa ser relacionado à transmissão local. MEDI, Saúde pública e higiene",
+            "desc_en": "Case who has a history of travel from an affected area some time before the onset of the disease and cannot be linked to local transmission.     MEDI, Public health & hygiene"
         },
         "Traduções": {
             "en": "imported case",
@@ -5137,8 +5144,8 @@
     },
     "caso índice": {
         "Descrições": {
-            "desc_pt": "O primeiro caso conhecido do surto de uma doença em um cluster.",
-            "desc_en": "The first known case of the outbreak of a disease in a cluster."
+            "desc_pt": "(sin.) paciente índice O primeiro caso conhecido do surto de uma doença em um cluster. MEDI, Saúde pública e higiene",
+            "desc_en": "(syn.) index patient   The first known case of the outbreak of a disease in a cluster. MEDI, Public health & hygiene"
         },
         "Traduções": {
             "en": "index case",
@@ -5147,8 +5154,8 @@
     },
     "caso primário": {
         "Descrições": {
-            "desc_pt": "Caso a quem o início do surto de uma doença pode ser rastreado.",
-            "desc_en": "Case to whom the onset of the outbreak of a disease can be traced back."
+            "desc_pt": "(sin.) paciente zero Caso a quem o início do surto de uma doença pode ser rastreado. MEDI, Saúde pública e higiene",
+            "desc_en": "(syn.) patient zero   Case to whom the onset of the outbreak of a disease can be traced back. MEDI, Public health & hygiene"
         },
         "Traduções": {
             "en": "primary case",
@@ -5157,8 +5164,8 @@
     },
     "caso provável": {
         "Descrições": {
-            "desc_pt": "Caso que seja compatível com uma definição de caso clínico e para o qual haja forte evidência epidemiológica da doença, por ex. a pessoa é um contato de um caso confirmado, mas nenhuma confirmação de teste de laboratório está disponível.",
-            "desc_en": "Case that is compatible with a clinical case definition and for whom there is strong epidemiological evidence of disease, e.g. the person is a contact of a confirmed case but no laboratory test confirmation is available."
+            "desc_pt": "Caso que seja compatível com uma definição de caso clínico e para o qual haja forte evidência epidemiológica da doença, por ex. a pessoa é um contato de um caso confirmado, mas nenhuma confirmação de teste de laboratório está disponível. MEDI, Saúde pública e higiene",
+            "desc_en": "Case that is compatible with a clinical case definition and for whom there is strong epidemiological evidence of disease, e.g. the person is a contact of a confirmed case but no laboratory test confirmation is available. MEDI, Public health & hygiene"
         },
         "Traduções": {
             "en": "probable case",
@@ -5167,8 +5174,8 @@
     },
     "caso suspeito": {
         "Descrições": {
-            "desc_pt": "Caso compatível com uma definição de caso clínico, mas sem confirmação laboratorial ou forte evidência epidemiológica, por ex. a pessoa não é um contato de um caso confirmado.",
-            "desc_en": "Case that is compatible with a clinical case definition but there is no laboratory test confirmation or strong epidemiological evidence, e.g. the person is not a contact of a confirmed case."
+            "desc_pt": "Caso compatível com uma definição de caso clínico, mas sem confirmação laboratorial ou forte evidência epidemiológica, por exemplo, a pessoa não é um contato de um caso confirmado. MEDI, Saúde pública e higiene",
+            "desc_en": "Case that is compatible with a clinical case definition but there is no laboratory test confirmation or strong epidemiological evidence, e.g. the person is not a contact of a confirmed case.   MEDI, Public health & hygiene"
         },
         "Traduções": {
             "en": "suspected case",
@@ -5650,10 +5657,10 @@
             "es": "shock (hipovolémico)"
         }
     },
-    "choque séptico": {
+    "choque séptico, (syn.) choque sético (pt-PT)": {
         "Descrições": {
-            "desc_pt": "Classe de sepse na qual as anormalidades da circulação, ou seja, hipotensão persistente apesar da ressuscitação fluídica e/ou do metabolismo celular são graves o suficiente para aumentar substancialmente a mortalidade.",
-            "desc_en": "Class of sepsis in which abnormalities of circulation, i.e. persistent hypotension despite fluid resuscitation, and/or of cellular metabolism are serious enough to increase mortality substantially."
+            "desc_pt": "Classe de sepse na qual as anormalidades da circulação, ou seja, hipotensão persistente apesar da ressuscitação com fluidos e/ou do metabolismo celular são graves o suficiente para aumentar substancialmente a mortalidade. MEDICINA, Patologia",
+            "desc_en": "Class of sepsis in which abnormalities of circulation, i.e. persistent hypotension despite fluid resuscitation, and/or of cellular metabolism are serious enough to increase mortality substantially. MEDI, Pathology"
         },
         "Traduções": {
             "en": "septic shock",
@@ -6164,8 +6171,8 @@
     },
     "cloroquina": {
         "Descrições": {
-            "desc_pt": "Quinolina que é substituída na posição 4 por um grupo [5-(dietilamino)pentan-2-il]amino e na posição 7 por cloro e é utilizada para o tratamento de e. malária, lúpus eritematoso e artrite reumatoide.",
-            "desc_en": "Quinoline that is substituted at position 4 by a [5-(diethylamino)pentan-2-yl]amino group and at position 7 by chlorine and is used for the treatment of e.g. malaria, lupus erythematosus, and rheumatoid arthritis."
+            "desc_pt": "Quinolina que é substituída na posição 4 por um grupo [5-(dietilamino)pentan-2-il]amino e na posição 7 por cloro e é utilizada para o tratamento de e. malária, lúpus eritematoso e artrite reumatoide. MEDI, Farmacologia",
+            "desc_en": "Quinoline that is substituted at position 4 by a [5-(diethylamino)pentan-2-yl]amino group and at position 7 by chlorine and is used for the treatment of e.g. malaria, lupus erythematosus, and rheumatoid arthritis. MEDI, Pharmacology"
         },
         "Traduções": {
             "en": "chloroquine",
@@ -6976,8 +6983,8 @@
     },
     "confinamento": {
         "Descrições": {
-            "desc_pt": "Estratégia adotada por um órgão público em caso de emergência que obrigue a permanência de pessoas em determinado local, do qual não podem sair a não ser por motivos excepcionais.",
-            "desc_en": "Strategy adopted by a public body because of an emergency that requires people to remain in a certain location which they may not leave other than for exceptional reasons."
+            "desc_pt": "(sin.) confinamento Estratégia adotada por um órgão público em caso de emergência que exige a permanência de pessoas em determinado local, do qual não podem sair a não ser por motivos excepcionais. MEDI, Saúde pública e higiene",
+            "desc_en": "(syn.) confinement   Strategy adopted by a public body because of an emergency that requires people to remain in a certain location which they may not leave other than for exceptional reasons.   MEDI, Public health & hygiene"
         },
         "Traduções": {
             "en": "lockdown",
@@ -7039,8 +7046,8 @@
     },
     "conglomerado": {
         "Descrições": {
-            "desc_pt": "Agregação de casos de uma doença em um determinado local e tempo.",
-            "desc_en": "Aggregation of cases of a disease within a given place and time."
+            "desc_pt": "(sin.) disease cluster Agregação de casos de uma doença em um determinado local e tempo. MEDI, Saúde pública e higiene",
+            "desc_en": "(syn.) disease cluster   Aggregation of cases of a disease within a given place and time.   MEDI, Public health & hygiene"
         },
         "Traduções": {
             "en": "cluster",
@@ -7274,40 +7281,40 @@
             "es": "contaminado"
         }
     },
-    "contato": {
+    "contato casual, (syn.) contacto casual (pt-PT)": {
         "Descrições": {
-            "desc_pt": "Pessoa que esteve na proximidade de outra pessoa afetada por uma doença infecciosa e que corre o risco de contrair esta doença.",
-            "desc_en": "Person who has been in the proximity of another person affected by an infectious disease and who is at risk of having contracted this disease."
-        },
-        "Traduções": {
-            "en": "contact",
-            "fr": "contact"
-        }
-    },
-    "contato casual": {
-        "Descrições": {
-            "desc_pt": "Pessoa que esteve na proximidade de uma pessoa afetada por uma doença infecciosa, mas não vive ou cuida da pessoa infectada.",
-            "desc_en": "Person who has been in the proximity of a person affected by an infectious disease but does not live with or care for the infected person."
+            "desc_pt": "Pessoa que esteve na proximidade de uma pessoa afetada por uma doença infecciosa, mas não vive ou cuida da pessoa infectada. MEDI, Saúde pública e higiene",
+            "desc_en": "Person who has been in the proximity of a person affected by an infectious disease but does not live with or care for the infected person. MEDI, Public health & hygiene"
         },
         "Traduções": {
             "en": "casual contact",
             "fr": "contact occasionnel"
         }
     },
-    "contato próximo": {
+    "contato próximo, (syn.) contacto próximo (pt-PT)": {
         "Descrições": {
-            "desc_pt": "Pessoa que convive, cuida ou tem contato direto com as secreções respiratórias ou fluidos corporais de uma pessoa afetada por uma doença infecciosa.",
-            "desc_en": "Person who lives with, cares for, or has direct contact with the respiratory secretions or body fluids of, a person affected by an infectious disease."
+            "desc_pt": "Pessoa que vive, cuida ou tem contato direto com as secreções respiratórias ou fluidos corporais de uma pessoa afetada por uma doença infecciosa. MEDI, Saúde pública e higiene",
+            "desc_en": "Person who lives with, cares for, or has direct contact with the respiratory secretions or body fluids of, a person affected by an infectious disease. MEDI, Public health & hygiene"
         },
         "Traduções": {
             "en": "close contact",
             "fr": "contact étroit"
         }
     },
+    "contato, (syn.) contacto (pt-PT)": {
+        "Descrições": {
+            "desc_pt": "Pessoa que esteve na proximidade de outra pessoa afetada por uma doença infecciosa e que corre o risco de contrair esta doença. MEDI, Saúde pública e higiene",
+            "desc_en": "Person who has been in the proximity of another person affected by an infectious disease and who is at risk of having contracted this disease.   MEDI, Public health & hygiene"
+        },
+        "Traduções": {
+            "en": "contact",
+            "fr": "contact, (syn.) personne contact"
+        }
+    },
     "contenção": {
         "Descrições": {
-            "desc_pt": "Estratégia adotada por um órgão público para interromper a transmissão de uma doença.",
-            "desc_en": "Strategy adopted by a public body to cut off transmission of a disease."
+            "desc_pt": "Estratégia adotada por um órgão público para interromper a transmissão de uma doença. MEDI, Saúde pública e higiene",
+            "desc_en": "Strategy adopted by a public body to cut off transmission of a disease.   MEDI, Public health & hygiene"
         },
         "Traduções": {
             "en": "containment",
@@ -7675,24 +7682,24 @@
             "es": "coronariopatía"
         }
     },
-    "coronavírus da síndrome respiratória aguda grave 2": {
+    "coronavírus da síndrome respiratória aguda grave 2, (syn.) coronavírus 2 da síndrome respiratória aguda grave, SARS-CoV-2": {
         "Descrições": {
-            "desc_pt": "Coronavírus que causa o COVID-19.",
-            "desc_en": "Coronavirus that causes COVID-19."
+            "desc_pt": "(sin.) SARS-CoV-2 Coronavírus que causa a COVID-19. CIEE, Biologia",
+            "desc_en": "(syn.) SARS-CoV-2   Coronavirus that causes COVID-19. SCIE, Biology"
         },
         "Traduções": {
             "en": "severe acute respiratory syndrome coronavirus 2",
             "fr": "SARS-CoV-2"
         }
     },
-    "coronavírusCoV": {
+    "coronavírus, (syn.) CoV": {
         "Descrições": {
-            "desc_pt": "CoV Família de vírus que consiste em um núcleo que compreende um RNA de fita simples de sentido positivo, um envelope, um capsídeo e picos.",
-            "desc_en": "CoV   Family of viruses that consist of a core comprising a positive-sense single-stranded RNA, an envelope, a capsid, and spikes."
+            "desc_pt": "(sin.) CoV Família de vírus que consiste em um núcleo que compreende um RNA de fita simples de sentido positivo, um envelope, um capsídeo e picos. CIEE, Biologia",
+            "desc_en": "(syn.) CoV   Family of viruses that consist of a core comprising a positive-sense single-stranded RNA, an envelope, a capsid, and spikes. SCIE, Biology"
         },
         "Traduções": {
             "en": "coronavirus",
-            "fr": "coronavirusCoV"
+            "fr": "coronavirus, (syn.) CoV"
         }
     },
     "corpo": {
@@ -8132,8 +8139,8 @@
     },
     "cuidado médico": {
         "Descrições": {
-            "desc_pt": "Administração e prestação de cuidados de saúde por profissionais.",
-            "desc_en": "Administration and delivery of healthcare by professionals."
+            "desc_pt": "Administração e prestação de cuidados de saúde por profissionais. MEDI, Saúde pública e higiene",
+            "desc_en": "Administration and delivery of healthcare by professionals.   \t  MEDI, Public health & hygiene"
         },
         "Traduções": {
             "en": "medical care",
@@ -8215,10 +8222,10 @@
             "exp pop": "diagrama"
         }
     },
-    "curva epidêmica": {
+    "curva epidêmica, (syn.) curva epidémica (pt-PT)": {
         "Descrições": {
-            "desc_pt": "Representação gráfica da incidência de uma doença ou outro evento relacionado à saúde plotado ao longo do tempo.",
-            "desc_en": "Graphical representation of the incidence of a disease or other health-related event plotted over time."
+            "desc_pt": "Representação gráfica da incidência de uma doença ou outro evento relacionado à saúde plotado ao longo do tempo. MEDI, Saúde pública e higiene",
+            "desc_en": "Graphical representation of the incidence of a disease or other health-related event plotted over time.   MEDI, Public health & hygiene"
         },
         "Traduções": {
             "en": "epidemic curve",
@@ -8524,8 +8531,8 @@
     },
     "definição de caso": {
         "Descrições": {
-            "desc_pt": "Conjunto de critérios usados ​​para decidir se uma pessoa contraiu uma doença específica.",
-            "desc_en": "Set of criteria used to decide whether a person has contracted a specific disease."
+            "desc_pt": "Conjunto de critérios usados ​​para decidir se uma pessoa contraiu uma doença específica. MEDI, Saúde pública e higiene",
+            "desc_en": "Set of criteria used to decide whether a person has contracted a specific disease.   MEDI, Public health & hygiene"
         },
         "Traduções": {
             "en": "case definition",
@@ -10024,8 +10031,8 @@
     },
     "distanciamento social": {
         "Descrições": {
-            "desc_pt": "Estratégia adotada por um órgão público para reduzir o contato físico e a proximidade entre indivíduos em uma comunidade, a fim de reduzir o risco de transmissão de uma doença infecciosa, por exemplo, instruindo ou aconselhando os indivíduos a manter certa distância uns dos outros ou proibindo reuniões de mais do que um certo número de pessoas.",
-            "desc_en": "Strategy adopted by a public body to reduce physical contact and proximity between individuals in a community in order to reduce the risk of transmission of an infectious disease, for example by instructing or advising individuals to maintain a certain distance from each other or by prohibiting gatherings of more than a certain number of people."
+            "desc_pt": "Estratégia adotada por um órgão público para reduzir o contato físico e a proximidade entre os indivíduos de uma comunidade, a fim de reduzir o risco de transmissão de uma doença infecciosa, por exemplo, instruindo ou aconselhando os indivíduos a manter certa distância uns dos outros ou proibindo reuniões de mais do que um certo número de pessoas. MEDI, Saúde pública e higiene",
+            "desc_en": "Strategy adopted by a public body to reduce physical contact and proximity between individuals in a community in order to reduce the risk of transmission of an infectious disease, for example by instructing or advising individuals to maintain a certain distance from each other or by prohibiting gatherings of more than a certain number of people.   MEDI, Public health & hygiene"
         },
         "Traduções": {
             "en": "social distancing",
@@ -10233,8 +10240,8 @@
     },
     "doença": {
         "Descrições": {
-            "desc_pt": "Condição anormal que tem um impacto negativo na estrutura ou função de todo ou parte de um organismo, geralmente associada a certos sinais e sintomas.",
-            "desc_en": "Abnormal condition that has a negative impact on the structure or function of all or part of an organism, generally associated with certain signs and symptoms."
+            "desc_pt": "Condição anormal que tem um impacto negativo na estrutura ou função de todo ou parte de um organismo, geralmente associada a certos sinais e sintomas. MEDICINA, Patologia",
+            "desc_en": "Abnormal condition that has a negative impact on the structure or function of all or part of an organism, generally associated with certain signs and symptoms. MEDI, Pathology"
         },
         "Traduções": {
             "en": "illness, sickness, disorder, disease",
@@ -10304,14 +10311,14 @@
             "exp pop": "gangrena simétrica das extremidades"
         }
     },
-    "doença do coronavírus 2019": {
+    "doença do coronavírus 2019, (syn.) COVID-19": {
         "Descrições": {
-            "desc_pt": "Doença infecciosa causada pelo SARS-CoV-2.",
-            "desc_en": "Infectious disease caused by SARS-CoV-2."
+            "desc_pt": "(sin.) COVID-19 Doença infecciosa causada por SARS-CoV-2. MEDICINA, Patologia",
+            "desc_en": "(syn.) COVID-19   Infectious disease caused by SARS-CoV-2.   MEDI, Pathology"
         },
         "Traduções": {
             "en": "coronavirus disease 2019",
-            "fr": "COVID-19Covid-19, covid-19"
+            "fr": "COVID-19, (syn.) Covid-19, covid-19"
         }
     },
     "doença do soro": {
@@ -10332,10 +10339,10 @@
             "es": "enfermedad de los pequeños vasos"
         }
     },
-    "doença endêmica": {
+    "doença endêmica, (syn.) doença endémica (pt-PT)": {
         "Descrições": {
-            "desc_pt": "Doença para a qual existem tantos casos quanto seriam esperados em uma determinada população em um determinado momento.",
-            "desc_en": "Disease for which there are as many cases as would be expected in a given population at a given time."
+            "desc_pt": "Doença para a qual existem tantos casos quanto seriam esperados em uma determinada população em um determinado momento. MEDI, Saúde pública e higiene Saúde pública e higiene",
+            "desc_en": "Disease for which there are as many cases as would be expected in a given population at a given time. MEDI, Public health & hygiene Public health & hygiene"
         },
         "Traduções": {
             "en": "endemic disease",
@@ -10350,8 +10357,8 @@
     },
     "doença infecciosa": {
         "Descrições": {
-            "desc_pt": "Doença causada por um patógeno.",
-            "desc_en": "Disease caused by a pathogen."
+            "desc_pt": "Doença causada por um patógeno. MEDICINA, Patologia",
+            "desc_en": "Disease caused by a pathogen. MEDI, Pathology"
         },
         "Traduções": {
             "en": "infectious disease",
@@ -10378,8 +10385,8 @@
     },
     "doença respiratória": {
         "Descrições": {
-            "desc_pt": "Doença que afeta as vias aéreas e os pulmões e dificulta a respiração normal, que pode ser causada por, por exemplo, infecção, poluição do ar ou exposição a substâncias nocivas.",
-            "desc_en": "Disease affecting the airways and the lungs and hindering normal breathing, which may be caused by, e.g., infection, air pollution, or exposure to noxious substances."
+            "desc_pt": "Doença que afeta as vias aéreas e os pulmões e dificulta a respiração normal, que pode ser causada por, por exemplo, infecção, poluição do ar ou exposição a substâncias nocivas. MEDI, Patologia",
+            "desc_en": "Disease affecting the airways and the lungs and hindering normal breathing, which may be caused by, e.g., infection, air pollution, or exposure to noxious substances. MEDI, Pathologyogy"
         },
         "Traduções": {
             "en": "respiratory disease",
@@ -11731,14 +11738,14 @@
             "es": "enzima"
         }
     },
-    "enzima conversora de angiotensina": {
+    "enzima conversora de angiotensina, (syn.) ECA": {
         "Descrições": {
-            "desc_pt": "Classe de ectoenzimas encontradas, por exemplo, nos pulmões, coração, pele ou vasos sanguíneos, cuja função é clivar peptídeos circulantes, entre os quais o angiotensinogênio, que são então usados ​​para regular funções celulares específicas.",
-            "desc_en": "Class of ectoenzymes found in, e.g., the lungs, heart, skin, or blood vessels, whose function is to cleave circulating peptides, among which angiotensinogen, which are then used to regulate specific cell functions."
+            "desc_pt": "(sin.) ECA Classe de ectoenzimas encontradas, por exemplo, nos pulmões, coração, pele ou vasos sanguíneos, cuja função é clivar peptídeos circulantes, entre os quais o angiotensinogênio, que são então usados ​​para regular funções celulares específicas. SCIE, Bioquímica",
+            "desc_en": "(syn.) ACE   Class of ectoenzymes found in, e.g., the lungs, heart, skin, or blood vessels, whose function is to cleave circulating peptides, among which angiotensinogen, which are then used to regulate specific cell functions. SCIE, Biochemistry"
         },
         "Traduções": {
             "en": "angiotensin-converting enzyme",
-            "fr": "enzyme de conversion de l'angiotensine"
+            "fr": "enzyme de conversion de l'angiotensine, (syn.) ECA"
         }
     },
     "eosinofilia": {
@@ -11785,13 +11792,20 @@
     },
     "epidemia": {
         "Descrições": {
-            "desc_pt": "Doença para a qual há muito mais casos do que seria esperado em um determinado momento em uma determinada população e que pode ser atribuída à mesma causa.",
-            "exp pop": "epidemia",
-            "desc_en": "Disease for which there are many more cases than would be expected at a given time in a given population and which can be ascribed to the same cause."
+            "exp pop": "epidemia"
         },
         "Traduções": {
             "en": "epidemic (disease)",
-            "es": "epidemia",
+            "es": "epidemia"
+        }
+    },
+    "epidemia, (syn.) doença epidêmica, doença epidémica (pt-PT)": {
+        "Descrições": {
+            "desc_pt": "Doença para a qual há muito mais casos do que seria esperado em um determinado momento em uma determinada população e que pode ser atribuída à mesma causa. MEDI, Saúde pública e higiene",
+            "desc_en": "Disease for which there are many more cases than would be expected at a given time in a given population and which can be ascribed to the same cause. MEDI, Public health & hygiene"
+        },
+        "Traduções": {
+            "en": "epidemic disease",
             "fr": "épidémie"
         }
     },
@@ -11803,8 +11817,8 @@
     },
     "epidemiologia": {
         "Descrições": {
-            "desc_pt": "Estudo científico da ocorrência de uma doença ou outro evento relacionado à saúde em populações específicas e sua aplicação no controle de problemas de saúde.",
-            "desc_en": "Scientific study of the occurrence of a disease or other health-related event in specified populations, and its application to the control of health problems."
+            "desc_pt": "Estudo científico da ocorrência de uma doença ou outro evento relacionado à saúde em populações específicas e sua aplicação no controle de problemas de saúde. MEDI, Saúde pública e higiene",
+            "desc_en": "Scientific study of the occurrence of a disease or other health-related event in specified populations, and its application to the control of health problems.   MEDI, Public health & hygiene"
         },
         "Traduções": {
             "en": "epidemiology",
@@ -12035,24 +12049,24 @@
             "es": "equinococo"
         }
     },
-    "equipamento de proteção individual": {
+    "equipamento de proteção individual, (syn.) EPI": {
         "Descrições": {
-            "desc_pt": "Equipamento usado por um indivíduo que fornece proteção contra um ou mais riscos à saúde e segurança de uma pessoa.",
-            "desc_en": "Gear worn by an individual that provides protection against one or more risks to a person’s health and safety."
+            "desc_pt": "(sin.) EPI Equipamento usado por um indivíduo que fornece proteção contra um ou mais riscos à saúde e segurança de uma pessoa. ENVR, equipamento de proteção individual",
+            "desc_en": "(syn.) PPE   Gear worn by an individual that provides protection against one or more risks to a person’s health and safety.     ENVR, Personal protective equipment"
         },
         "Traduções": {
             "en": "personal protective equipment",
-            "fr": "équipement de protection individuelle"
+            "fr": "équipement de protection individuelle, (syn.) EPI"
         }
     },
-    "equipamento de proteção respiratória": {
+    "equipamento de proteção respiratória, (syn.) EPR, respirador": {
         "Descrições": {
-            "desc_pt": "Equipamento de proteção individual que protege o usuário contra a inalação de substâncias perigosas no ar, como poeira, fumaça, gases ou substâncias biológicas.",
-            "desc_en": "Personal protective equipment that protects the wearer against inhalation of hazardous substances in the air, such as dust, fumes, gases, or biological substances."
+            "desc_pt": "(sin.) respirator (en-US), RPE Equipamento de proteção pessoal que protege o usuário contra a inalação de substâncias perigosas no ar, como poeira, fumaça, gases ou substâncias biológicas. ENVR, equipamento de proteção individual",
+            "desc_en": "(syn.) respirator (en-US), RPE Personal protective equipment that protects the wearer against inhalation of hazardous substances in the air, such as dust, fumes, gases, or biological substances. ENVR, Personal protective equipment"
         },
         "Traduções": {
             "en": "respiratory protective equipment",
-            "fr": "appareil de protection respiratoire"
+            "fr": "appareil de protection respiratoire, (syn.) APR"
         }
     },
     "equivalente": {
@@ -12416,8 +12430,8 @@
     },
     "esfregaço": {
         "Descrições": {
-            "desc_pt": "Método de coleta de uma amostra de material orgânico para fins de diagnóstico, inserindo um cotonete nos orifícios do corpo de uma pessoa, por ex. nariz, boca, etc.",
-            "desc_en": "Method of collecting a sample of organic material for diagnostic purposes by inserting a swab into a person’s body orifices, e.g. nose, mouth, etc."
+            "desc_pt": "Método de coleta de uma amostra de material orgânico para fins de diagnóstico, inserindo um cotonete nos orifícios do corpo de uma pessoa, por ex. nariz, boca, etc. <b>MEDI, </b>Equipamentos e procedimentos de diagnóstico",
+            "desc_en": "Method of collecting a sample of organic material for diagnostic purposes by inserting a swab into a person’s body orifices, e.g. nose, mouth, etc. <b>MEDI, </b>Diagnostic equipment & procedures"
         },
         "Traduções": {
             "en": "swab, smear",
@@ -12431,10 +12445,10 @@
             "es": "frotis de sangre (periférico)"
         }
     },
-    "esfregaço nasofaríngeo": {
+    "esfregaço nasofaríngeo, (syn.) exsudado nasofaríngeo": {
         "Descrições": {
-            "desc_pt": "Método de coleta de uma amostra de secreção nasal para fins de diagnóstico, inserindo um swab em cada narina, estendendo-o de volta à nasofaringe, deixando-o no local por alguns segundos e retirando-o lentamente com um movimento de rotação.",
-            "desc_en": "Method of collecting a specimen of nasal secretions for diagnostic purposes by inserting a swab into each nostril, extending it back into the nasopharynx, leaving it in place for a few seconds, and slowly withdrawing it with a rotating motion."
+            "desc_pt": "Método de coleta de uma amostra de secreção nasal para fins de diagnóstico, inserindo um swab em cada narina, estendendo-o de volta à nasofaringe, deixando-o no local por alguns segundos e retirando-o lentamente com um movimento de rotação. MEDI, Equipamentos e procedimentos de diagnóstico",
+            "desc_en": "Method of collecting a specimen of nasal secretions for diagnostic purposes by inserting a swab into each nostril, extending it back into the nasopharynx, leaving it in place for a few seconds, and slowly withdrawing it with a rotating motion. MEDI, Diagnostic equipment & procedures"
         },
         "Traduções": {
             "en": "nasopharyngeal swab test",
@@ -13909,12 +13923,12 @@
     },
     "falência multiorgânica": {
         "Descrições": {
-            "desc_pt": "Incapacidade de dois ou mais órgãos ou sistemas de órgãos desempenharem suas funções.",
-            "desc_en": "Inability of two or more organs or organ systems to perform their function."
+            "desc_pt": "(sin.) falência de múltiplos órgãos, MOF Incapacidade de dois ou mais órgãos ou sistemas de órgãos desempenharem suas funções. MEDICINA, Patologia",
+            "desc_en": "(syn.) multiorgan failure, MOF   Inability of two or more organs or organ systems to perform their function. MEDI, Pathology"
         },
         "Traduções": {
             "en": "multiple organ failure",
-            "fr": "défaillance multiviscérale"
+            "fr": "défaillance multiviscérale, (syn.) défaillance polyviscérale"
         }
     },
     "fálico": {
@@ -13995,8 +14009,8 @@
     },
     "farmacoepidemiologia": {
         "Descrições": {
-            "desc_pt": "Estudo do uso e efeitos de drogas em grande número de pessoas, cujo objetivo é estimar a probabilidade de efeitos positivos ou negativos de uma droga.",
-            "desc_en": "Study of the use and effects of drugs in large numbers of people, the aim of which is to estimate the probability of positive or negative effects of a drug."
+            "desc_pt": "Estudo do uso e efeitos de drogas em grande número de pessoas, cujo objetivo é estimar a probabilidade de efeitos positivos ou negativos de uma droga. MEDI, Farmacologia",
+            "desc_en": "Study of the use and effects of drugs in large numbers of people, the aim of which is to estimate the probability of positive or negative effects of a drug. MEDI, Pharmacology"
         },
         "Traduções": {
             "en": "pharmacoepidemiology",
@@ -14043,8 +14057,8 @@
     },
     "fator de risco": {
         "Descrições": {
-            "desc_pt": "Característica, condição ou comportamento que aumenta a probabilidade de uma pessoa contrair uma doença ou sofrer uma lesão.",
-            "desc_en": "Characteristic, condition, or behaviour that increases the likelihood that a person will contract a disease or sustain an injury."
+            "desc_pt": "Característica, condição ou comportamento que aumenta a probabilidade de uma pessoa contrair uma doença ou sofrer uma lesão. MEDI, Saúde pública e higiene",
+            "desc_en": "Characteristic, condition, or behaviour that increases the likelihood that a person will contract a disease or sustain an injury. MEDI, Public health & hygiene"
         },
         "Traduções": {
             "en": "risk factor",
@@ -14071,8 +14085,8 @@
     },
     "febre": {
         "Descrições": {
-            "desc_pt": "Mecanismo de resposta imune inata que aumenta a temperatura corporal de uma pessoa acima do nível normal.",
-            "desc_en": "Innate immune response mechanism that increases a person’s body temperature above the normal level."
+            "desc_pt": "(sin.) pirexia Mecanismo de resposta imune inata que aumenta a temperatura corporal de uma pessoa acima do nível normal. MEDI, Anatomia e Fisiologia",
+            "desc_en": "(syn.) pyrexia   Innate immune response mechanism that increases a person’s body temperature above the normal level.   MEDI, Anatomy & physiology"
         },
         "Traduções": {
             "en": "fever",
@@ -14703,10 +14717,10 @@
             "es": "hambre"
         }
     },
-    "fômite": {
+    "fômite, (syn.) fómite (pt-PT)": {
         "Descrições": {
-            "desc_pt": "Objeto inanimado contaminado por um agente infeccioso que pode transmitir indiretamente uma doença infecciosa.",
-            "desc_en": "Inanimate object contaminated by an infectious agent that can indirectly transmit an infectious disease."
+            "desc_pt": "Objeto inanimado contaminado por um agente infeccioso que pode transmitir indiretamente uma doença infecciosa. MEDICINA, Patologia",
+            "desc_en": "Inanimate object contaminated by an infectious agent that can indirectly transmit an infectious disease.   MEDI, Pathology"
         },
         "Traduções": {
             "en": "fomite",
@@ -15196,10 +15210,10 @@
             "es": "gasa"
         }
     },
-    "gel desinfetante": {
+    "gel desinfetante, (syn.) álcool-gel": {
         "Descrições": {
-            "desc_pt": "Gel, espuma ou líquido para lavagem das mãos que pode ou não conter álcool.",
-            "desc_en": "Gel, foam, or liquid used for handwashing that may or may not contain alcohol."
+            "desc_pt": "Gel, espuma ou líquido para lavagem das mãos que pode ou não conter álcool. CHEM, Detergentes e agentes de limpeza",
+            "desc_en": "Gel, foam, or liquid used for handwashing that may or may not contain alcohol. CHEM, Detergents & cleaning agents"
         },
         "Traduções": {
             "en": "hand sanitizer",
@@ -15220,8 +15234,8 @@
     },
     "gene": {
         "Descrições": {
-            "desc_pt": "Sequência de DNA que carrega as informações necessárias para fazer uma molécula específica, geralmente uma proteína.",
-            "desc_en": "Sequence of DNA that carries the required information for making a specific molecule, typically a protein."
+            "desc_pt": "Sequência de DNA que carrega as informações necessárias para fazer uma molécula específica, geralmente uma proteína. SCIE, Genética",
+            "desc_en": "Sequence of DNA that carries the required information for making a specific molecule, typically a protein. SCIE, Genetics"
         },
         "Traduções": {
             "en": "gene, factor",
@@ -15281,8 +15295,8 @@
     },
     "genoma": {
         "Descrições": {
-            "desc_pt": "Conjunto completo de DNA de um organismo vivo, incluindo todos os seus genes.",
-            "desc_en": "Complete set of DNA of a living organism, including all of its genes."
+            "desc_pt": "Conjunto completo de DNA de um organismo vivo, incluindo todos os seus genes. SCIE, Genética",
+            "desc_en": "Complete set of DNA of a living organism, including all of its genes. SCIE, Genetics"
         },
         "Traduções": {
             "en": "genom(e)",
@@ -15460,14 +15474,14 @@
             "es": "glucógeno"
         }
     },
-    "glicoproteína de espícula": {
+    "glicoproteína de espícula, (syn.) espícula": {
         "Descrições": {
-            "desc_pt": "Complexo glicoprotéico formado por três protômeros e localizado no envelope dos coronavírus, que permite que o vírus se ligue ao sítio receptor das células hospedeiras.",
-            "desc_en": "Glycoprotein complex made up of three protomers and located on the envelope of coronaviruses, which enables the virus to bind to the receptor site of the host cells."
+            "desc_pt": "(sin.) spike Complexo glicoproteico formado por três protômeros e localizado no envelope dos coronavírus, que permite que o vírus se ligue ao sítio receptor das células hospedeiras. SCIE, Bioquímica",
+            "desc_en": "(syn.) spike   Glycoprotein complex made up of three protomers and located on the envelope of coronaviruses, which enables the virus to bind to the receptor site of the host cells. SCIE, Biochemistry"
         },
         "Traduções": {
             "en": "spike glycoprotein",
-            "fr": "glycoprotéine de spicule"
+            "fr": "glycoprotéine de spicule, (syn.) spicule"
         }
     },
     "glicose": {
@@ -15639,10 +15653,10 @@
             "es": "gotas oftalmológicas"
         }
     },
-    "gotícula respiratória": {
+    "gotícula respiratória, (syn.) gotícula": {
         "Descrições": {
-            "desc_pt": "Partícula feita de água, proteínas, RNA viral e metabólitos não voláteis, que tem > 5-10 μm de diâmetro e é exalada do nariz e da boca de uma pessoa enquanto, por exemplo, tossir, espirrar, respirar ou falar.",
-            "desc_en": "Particle made of water, proteins, viral RNA, and non-volatile metabolites, which is >5-10 μm in diameter and is exhaled from the nose and mouth of a person whilst e.g. coughing, sneezing breathing, or talking."
+            "desc_pt": "(sin.) gotícula Partícula feita de água, proteínas, RNA viral e metabólitos não voláteis, que tem > 5-10 μm de diâmetro e é exalada do nariz e da boca de uma pessoa enquanto, por exemplo, tossir, espirrar, respirar ou falar. MEDI, Anatomia e Fisiologia",
+            "desc_en": "(syn.) droplet   Particle made of water, proteins, viral RNA, and non-volatile metabolites, which is >5-10 μm in diameter and is exhaled from the nose and mouth of a person whilst e.g. coughing, sneezing breathing, or talking. MEDI, Anatomy & physiology"
         },
         "Traduções": {
             "en": "respiratory droplet",
@@ -15768,8 +15782,8 @@
     },
     "grupo de alto risco": {
         "Descrições": {
-            "desc_pt": "Parte de uma população em risco que tem prevalência, incidência ou gravidade de uma doença acima da média.",
-            "desc_en": "Part of a population at risk that has higher than average prevalence, incidence or severity of a disease."
+            "desc_pt": "Parte de uma população em risco que tem prevalência, incidência ou gravidade de uma doença acima da média. MEDI, Saúde pública e higiene",
+            "desc_en": "Part of a population at risk that has higher than average prevalence, incidence or severity of a disease.   MEDI, Public health & hygiene"
         },
         "Traduções": {
             "en": "high-risk group",
@@ -16444,8 +16458,8 @@
     },
     "higiene": {
         "Descrições": {
-            "desc_pt": "Conjunto de práticas que ajudam a manter a saúde e prevenir a propagação de doenças.",
-            "desc_en": "Set of practices that help to maintain health and prevent the spread of diseases."
+            "desc_pt": "Conjunto de práticas que ajudam a manter a saúde e prevenir a propagação de doenças. MEDI, Saúde pública e higiene",
+            "desc_en": "Set of practices that help to maintain health and prevent the spread of diseases. MEDI, Public health & hygiene"
         },
         "Traduções": {
             "en": "hygiene",
@@ -16454,8 +16468,8 @@
     },
     "higiene respiratória": {
         "Descrições": {
-            "desc_pt": "Conjunto de práticas e comportamentos adotados por um indivíduo com o objetivo de prevenir a propagação de doenças respiratórias.",
-            "desc_en": "Set of practices and behaviours adopted by an individual with the aim of preventing the spread of respiratory diseases."
+            "desc_pt": "(sin.) etiqueta da tosse Conjunto de práticas e comportamentos adotados por um indivíduo com o objetivo de prevenir a propagação de doenças respiratórias. MEDI, Saúde pública e higiene",
+            "desc_en": "(syn.) cough etiquette   Set of practices and behaviours adopted by an individual with the aim of preventing the spread of respiratory diseases. MEDI, Public health & hygiene"
         },
         "Traduções": {
             "en": "respiratory hygiene",
@@ -17281,8 +17295,8 @@
     },
     "hospedeiro": {
         "Descrições": {
-            "desc_pt": "Pessoa ou animal infectado por um agente infeccioso.",
-            "desc_en": "Person or animal infected by an infectious agent."
+            "desc_pt": "Pessoa ou animal infectado por um agente infeccioso. CIEE, Biologia",
+            "desc_en": "Person or animal infected by an infectious agent. SCIE, Biology"
         },
         "Traduções": {
             "en": "host",
@@ -17429,10 +17443,10 @@
             "exp pop": "assimilação inconsciente com outra pessoa"
         }
     },
-    "identificação de contatos": {
+    "identificação de contatos, (syn.) identificação de contactos (pt-PT)": {
         "Descrições": {
-            "desc_pt": "Processo destinado a identificar todos os contatos de um caso, perguntando sobre as atividades do caso e as atividades e papéis das pessoas ao redor do caso desde o início da doença.",
-            "desc_en": "Process aimed at identifying all contacts of a case by asking about the activities of the case and the activities and roles of the people around the case since the onset of the disease."
+            "desc_pt": "Processo destinado a identificar todos os contatos de um caso, perguntando sobre as atividades do caso e as atividades e papéis das pessoas ao redor do caso desde o início da doença. MEDI, Saúde pública e higiene",
+            "desc_en": "Process aimed at identifying all contacts of a case by asking about the activities of the case and the activities and roles of the people around the case since the onset of the disease. MEDI, Public health & hygiene"
         },
         "Traduções": {
             "en": "contact identification",
@@ -17527,20 +17541,30 @@
             "es": "ilusión"
         }
     },
+    "imagem radiográfica": {
+        "Descrições": {
+            "desc_pt": "Imagem formada pelas sombras dos objetos dentro do corpo de um paciente quando os raios X passam por ele e passam por um detector de raios X do outro lado do paciente. MEDI, Equipamentos e procedimentos de diagnóstico",
+            "desc_en": "Image formed by the shadows of the objects inside a patient’s body when x-rays travel through it and pass through an x-ray detector on the other side of the patient. MEDI, Diagnostic equipment & procedures"
+        },
+        "Traduções": {
+            "en": "X-ray image",
+            "fr": "cliché radiographique"
+        }
+    },
     "imagiologia": {
         "Traduções": {
             "en": "imaging procedure",
             "es": "imagiología , radiología"
         }
     },
-    "imagiologia por ressonância magnética": {
+    "imagiologia por ressonância magnética, (syn.) IRM": {
         "Descrições": {
-            "desc_pt": "Técnica de imagiologia médica pela qual são obtidas imagens tridimensionais do corpo pela excitação de prótons presentes na água de tecidos vivos e pela detecção da mudança na direção de seu eixo de rotação por meio de um scanner de ressonância magnética.",
-            "desc_en": "Medical imaging technique by which three-dimensional images of the body are obtained by exciting protons present in the water of living tissues and detecting the change in the direction of their rotational axis by means of a magnetic resonance imaging scanner."
+            "desc_pt": "(sin.) tomografia por ressonância magnética, imagem por ressonância magnética nuclear, MRI, MRT, NMRI Técnica de imagem médica pela qual imagens tridimensionais do corpo são obtidas por prótons excitantes presentes na água de tecidos vivos e detectando a mudança na direção de seu eixo de rotação por meio de um scanner de ressonância magnética. <b>MEDI, </b>Equipamentos e procedimentos de diagnóstico",
+            "desc_en": "(syn.) magnetic resonance tomography, nuclear magnetic resonance imaging, MRI, MRT, NMRI   Medical imaging technique by which three-dimensional images of the body are obtained by exciting protons present in the water of living tissues and detecting the change in the direction of their rotational axis by means of a magnetic resonance imaging scanner. <b>MEDI, </b>Diagnostic equipment & procedures"
         },
         "Traduções": {
             "en": "magnetic resonance imaging",
-            "fr": "imagerie par résonance magnétique"
+            "fr": "imagerie par résonance magnétique, (syn.) imagerie par résonance magnétique nucléaire, IRM"
         }
     },
     "imaturidade": {
@@ -17714,20 +17738,20 @@
             "es": "inmunidad (a…)"
         }
     },
-    "imunidade adquirida": {
+    "imunidade adquirida, (syn.) imunidade adaptativa": {
         "Descrições": {
-            "desc_pt": "Imunidade adquirida durante a vida de uma pessoa após a exposição a um agente infeccioso por infecção prévia ou imunização.",
-            "desc_en": "Immunity acquired during a person’s lifetime upon exposure to an infectious agent either by previous infection or immunization."
+            "desc_pt": "(sin.) imunidade adquirida Imunidade adquirida durante a vida de uma pessoa após exposição a um agente infeccioso por infecção prévia ou imunização. MEDI, Anatomia e Fisiologia",
+            "desc_en": "(syn.) acquired immunity   Immunity acquired during a person’s lifetime upon exposure to an infectious agent either by previous infection or immunization. MEDI, Anatomy & physiology"
         },
         "Traduções": {
             "en": "adaptive immunity",
-            "fr": "immunité acquise"
+            "fr": "immunité acquise, (syn.) immunité adaptative"
         }
     },
-    "imunidade de grupo": {
+    "imunidade de grupo, (syn.) imunidade comunitária": {
         "Descrições": {
-            "desc_pt": "A proteção indireta contra um agente infeccioso é alcançada em uma população em risco quando uma proporção suficientemente grande de indivíduos na população mostra uma imunidade adquirida a esse agente infeccioso.",
-            "desc_en": "Indirect protection from an infectious agent achieved in a population at risk when a sufficiently large proportion of individuals in the population show an acquired immunity to that infectious agent."
+            "desc_pt": "(sin.) imunidade da comunidade Proteção indireta contra um agente infeccioso alcançada em uma população em risco quando uma proporção suficientemente grande de indivíduos na população mostra uma imunidade adquirida a esse agente infeccioso. MEDI, Saúde pública e higiene",
+            "desc_en": "(syn.) community immunity   Indirect protection from an infectious agent achieved in a population at risk when a sufficiently large proportion of individuals in the population show an acquired immunity to that infectious agent. MEDI, Public health & hygiene"
         },
         "Traduções": {
             "en": "herd immunity",
@@ -17913,9 +17937,9 @@
     },
     "incidência": {
         "Descrições": {
-            "desc_pt": "Novos casos de uma doença surgidos em um determinado período em uma população de risco.",
+            "desc_pt": "Novos casos de uma doença surgidos em um determinado período em uma população de risco. MEDI, Saúde pública e higiene",
             "exp pop": "incidência",
-            "desc_en": "New cases of a disease arising in a given period in a population at risk."
+            "desc_en": "New cases of a disease arising in a given period in a population at risk. MEDI, Public health & hygiene"
         },
         "Traduções": {
             "en": "incidence",
@@ -18248,10 +18272,10 @@
             "exp pop": "contágio mútuo entre duas pessoas por doenças infecciosas diferentes"
         }
     },
-    "infecciosidade": {
+    "infecciosidade, (syn.) infectividade": {
         "Descrições": {
-            "desc_pt": "Capacidade de um agente infeccioso entrar, sobreviver e se multiplicar em um hospedeiro.",
-            "desc_en": "Ability of an infectious agent to enter, survive, and multiply in a host."
+            "desc_pt": "Capacidade de um agente infeccioso entrar, sobreviver e se multiplicar em um hospedeiro. CIEE, Biologia",
+            "desc_en": "Ability of an infectious agent to enter, survive, and multiply in a host. SCIE, Biology"
         },
         "Traduções": {
             "en": "infectivity",
@@ -18317,9 +18341,9 @@
     },
     "inflamação": {
         "Descrições": {
-            "desc_pt": "Série de processos de imunidade inata iniciados pelo corpo em resposta a uma lesão.",
+            "desc_pt": "Série de processos de imunidade inata iniciados pelo corpo em resposta a uma lesão. MEDI, Anatomia e Fisiologia",
             "exp pop": "inflamação",
-            "desc_en": "Series of innate immunity processes initiated by the body in response to an injury."
+            "desc_en": "Series of innate immunity processes initiated by the body in response to an injury. MEDI, Anatomy & physiology"
         },
         "Traduções": {
             "en": "inflammation",
@@ -18946,9 +18970,9 @@
     },
     "intubação": {
         "Descrições": {
-            "desc_pt": "Método de ventilação pulmonar invasiva no qual um tubo é inserido na traquéia do paciente pela boca ou nariz.",
+            "desc_pt": "(sin.) intubação endotraqueal Método de ventilação pulmonar invasiva no qual um tubo é inserido na traquéia do paciente pela boca ou nariz. MEDICINA, CIRURGIA",
             "exp pop": "introdução de um tubo num órgão oco",
-            "desc_en": "Invasive lung ventilation method in which a tube is inserted into the patient’s trachea through the mouth or nose."
+            "desc_en": "(syn.) endotracheal intubation   Invasive lung ventilation method in which a tube is inserted into the patient’s trachea through the mouth or nose. MEDI, Surgery"
         },
         "Traduções": {
             "en": "intubation",
@@ -19539,8 +19563,8 @@
     },
     "lavagem das mãos": {
         "Descrições": {
-            "desc_pt": "Ação de remover qualquer substância indesejável ou microrganismo das mãos de uma pessoa com água ou outro líquido, com ou sem sabão ou outros detergentes.",
-            "desc_en": "Action of removing any unwanted substance or microorganism from a person's hands using water or another liquid, with or without soap or other detergents."
+            "desc_pt": "Ação de remover qualquer substância indesejável ou microorganismo das mãos de uma pessoa com água ou outro líquido, com ou sem sabão ou outros detergentes. MEDI, Saúde pública e higiene",
+            "desc_en": "Action of removing any unwanted substance or microorganism from a person's hands using water or another liquid, with or without soap or other detergents. MEDI, Public health & hygiene"
         },
         "Traduções": {
             "en": "hand washing",
@@ -19870,10 +19894,10 @@
             "es": "limitación de los movimientos"
         }
     },
-    "limite epidêmico": {
+    "limite epidêmico, (syn.) limiar epidêmico, limiar epidémico (pt-PT)": {
         "Descrições": {
-            "desc_pt": "Número de indivíduos em uma população em risco que é necessário para que uma epidemia ocorra.",
-            "desc_en": "Number of individuals within a population at risk that is required for an epidemic to occur."
+            "desc_pt": "Número de indivíduos em uma população em risco que é necessário para que uma epidemia ocorra. MEDI, Saúde pública e higiene",
+            "desc_en": "Number of individuals within a population at risk that is required for an epidemic to occur. MEDI, Public health & hygiene"
         },
         "Traduções": {
             "en": "epidemic threshold",
@@ -19888,8 +19912,8 @@
     },
     "limpeza ambiental": {
         "Descrições": {
-            "desc_pt": "Conjunto de ações e processos, incluindo limpeza, desinfecção e monitoramento, implementados em locais com risco de propagação de agente infeccioso por meio de objetos contaminados.",
-            "desc_en": "Set of actions and processes, including cleaning, disinfecting and monitoring, implemented in places at risk of spread of an infectious agent through contaminated objects."
+            "desc_pt": "Conjunto de ações e processos, incluindo limpeza, desinfecção e monitoramento, implementados em locais com risco de propagação de agente infeccioso por meio de objetos contaminados. MEDI, Saúde pública e higiene",
+            "desc_en": "Set of actions and processes, including cleaning, disinfecting and monitoring, implemented in places at risk of spread of an infectious agent through contaminated objects. MEDI, Public health & hygiene"
         },
         "Traduções": {
             "en": "environmental cleaning",
@@ -20331,8 +20355,8 @@
     },
     "luva médica": {
         "Descrições": {
-            "desc_pt": "Equipamento de proteção individual para as mãos normalmente usado por profissionais de saúde para se proteger da exposição a agentes infecciosos ou outros perigos biológicos, químicos ou físicos.",
-            "desc_en": "Personal protective equipment for the hands typically worn by healthcare professionals to protect themselves from exposure to infectious agents or other biological, chemical or physical hazards."
+            "desc_pt": "Equipamento de proteção individual para as mãos normalmente usado por profissionais de saúde para se proteger da exposição a agentes infecciosos ou outros perigos biológicos, químicos ou físicos. MEDI, equipamento médico",
+            "desc_en": "Personal protective equipment for the hands typically worn by healthcare professionals to protect themselves from exposure to infectious agents or other biological, chemical or physical hazards.   MEDI, Medical equipment"
         },
         "Traduções": {
             "en": "medical glove",
@@ -20674,8 +20698,8 @@
     },
     "máscara": {
         "Descrições": {
-            "desc_pt": "Cobertura produzida comercialmente ou caseira para nariz e boca usada para reduzir a propagação de gotículas respiratórias do usuário para outras pessoas.",
-            "desc_en": "Commercially produced or homemade covering for nose and mouth used to reduce the spread of respiratory droplets from the wearer to others."
+            "desc_pt": "Cobertura produzida comercialmente ou caseira para nariz e boca usada para reduzir a propagação de gotículas respiratórias do usuário para outras pessoas. MEDI, Saúde pública e higiene",
+            "desc_en": "Commercially produced or homemade covering for nose and mouth used to reduce the spread of respiratory droplets from the wearer to others.     MEDI, Public health & hygiene"
         },
         "Traduções": {
             "en": "mask",
@@ -20684,18 +20708,18 @@
     },
     "máscara autofiltrante": {
         "Descrições": {
-            "desc_pt": "Equipamento de proteção respiratória que utiliza filtros para remover substâncias perigosas do ar respirado pelo usuário.",
-            "desc_en": "Respiratory protective equipment that uses filters to remove hazardous substances from the air being breathed by the wearer."
+            "desc_pt": "(sin.) máscara facial com filtro, FFR Equipamento de proteção respiratória que usa filtros para remover substâncias perigosas do ar respirado pelo usuário. ENVR, equipamento de proteção individual",
+            "desc_en": "(syn.) filtering face-piece respirator, FFR Respiratory protective equipment that uses filters to remove hazardous substances from the air being breathed by the wearer. ENVR, Personal protective equipment"
         },
         "Traduções": {
             "en": "filtering facepiece respirator",
-            "fr": "masque de protection respiratoire"
+            "fr": "masque de protection respiratoire, (syn.) masque FFP"
         }
     },
     "máscara cirúrgica": {
         "Descrições": {
-            "desc_pt": "Máscara meia-face, plana e retangular, confeccionada em tecido não tecido e composta por camadas filtrantes, com dobras e faixas elásticas ou longas tiras retas que podem ser colocadas atrás das orelhas ou amarradas na cabeça, que são usadas para proteger a usuário de sprays, respingos e gotículas de partículas grandes e para evitar a propagação de gotículas respiratórias do usuário para outras pessoas.",
-            "desc_en": "Half-face mask, flat and rectangular in shape, made of nonwoven fabric and comprising filtration layers, with folds and elastic bands or long straight ties that can be looped behind a person’s ears or tied around a person’s head, which is used to protect the wearer from sprays, splashes, and large-particle droplets and to prevent the spread of respiratory droplets from the wearer to others."
+            "desc_pt": "Máscara meia-face, plana e retangular, confeccionada em tecido não tecido e composta por camadas filtrantes, com dobras e faixas elásticas ou longas tiras retas que podem ser colocadas atrás das orelhas ou amarradas na cabeça, que são usadas para proteger a usuário de sprays, respingos e gotículas de partículas grandes e para evitar a propagação de gotículas respiratórias do usuário para outras pessoas. MEDI, equipamento médico",
+            "desc_en": "Half-face mask, flat and rectangular in shape, made of nonwoven fabric and comprising filtration layers, with folds and elastic bands or long straight ties that can be looped behind a person’s ears or tied around a person’s head, which is used to protect the wearer from sprays, splashes, and large-particle droplets and to prevent the spread of respiratory droplets from the wearer to others. MEDI, Medical equipment"
         },
         "Traduções": {
             "en": "surgical mask",
@@ -21883,8 +21907,8 @@
     },
     "mitigação": {
         "Descrições": {
-            "desc_pt": "Estratégia adotada por um órgão público para reduzir o número de pessoas infectadas em uma determinada área geográfica e limitar o impacto no sistema de saúde de um surto de doença.",
-            "desc_en": "Strategy adopted by a public body to reduce the number of infected people in a given geographical area and limit the impact on the health system of a disease outbreak."
+            "desc_pt": "Estratégia adotada por um órgão público para reduzir o número de pessoas infectadas em uma determinada área geográfica e limitar o impacto no sistema de saúde de um surto de doença. MEDI, Saúde pública e higiene",
+            "desc_en": "Strategy adopted by a public body to reduce the number of infected people in a given geographical area and limit the impact on the health system of a disease outbreak. MEDI, Public health & hygiene"
         },
         "Traduções": {
             "en": "mitigation",
@@ -21959,8 +21983,8 @@
     },
     "modo de transmissão": {
         "Descrições": {
-            "desc_pt": "Meio pelo qual um agente infeccioso se espalha de um hospedeiro para outro.",
-            "desc_en": "Means by which an infectious agent spreads from one host to another."
+            "desc_pt": "(sin.) rota de transmissão Meio pelo qual um agente infeccioso se espalha de um hospedeiro para outro. MEDICINA, Patologia",
+            "desc_en": "(syn.) route of transmission   Means by which an infectious agent spreads from one host to another. MEDI, Pathology"
         },
         "Traduções": {
             "en": "mode of transmission",
@@ -22049,8 +22073,8 @@
     },
     "morbidade": {
         "Descrições": {
-            "desc_pt": "Nível de saúde e bem-estar de um indivíduo.",
-            "desc_en": "Level of health and well-being of an individual."
+            "desc_pt": "Nível de saúde e bem-estar de um indivíduo. MEDI, Saúde pública e higiene",
+            "desc_en": "Level of health and well-being of an individual.   MEDI, Public health & hygiene"
         },
         "Traduções": {
             "en": "morbidity",
@@ -23205,8 +23229,8 @@
     },
     "núcleo goticular": {
         "Descrições": {
-            "desc_pt": "Resíduo seco, de aproximadamente ≤ 5 μm de diâmetro, que resulta da evaporação de gotículas tossidas ou espirradas para o ar.",
-            "desc_en": "Dried residue, approximately ≤ 5 μm in diameter, which results from the evaporation of droplets coughed or sneezed into the air."
+            "desc_pt": "Resíduo seco, de aproximadamente ≤ 5 μm de diâmetro, que resulta da evaporação de gotículas tossidas ou espirradas para o ar. MEDI, Anatomia e Fisiologia",
+            "desc_en": "Dried residue, approximately ≤ 5 μm in diameter, which results from the evaporation of droplets coughed or sneezed into the air. MEDI, Anatomy & physiology"
         },
         "Traduções": {
             "en": "droplet nucleus",
@@ -23246,14 +23270,14 @@
             "es": "nulípara"
         }
     },
-    "número básico de reprodução": {
+    "número básico de reprodução, (syn.) 𝑅₀": {
         "Descrições": {
-            "desc_pt": "Número médio de casos secundários que um caso produz em uma população de risco.",
-            "desc_en": "Average number of secondary cases that one case produces in a population at risk."
+            "desc_pt": "(sin.) taxa de reprodução básica, taxa de reprodução básica, 𝑅₀ Número médio de casos secundários que um caso produz em uma população em risco. MEDI, Saúde pública e higiene",
+            "desc_en": "(syn.) basic reproduction ratio, basic reproductive ratio, 𝑅₀   Average number of secondary cases that one case produces in a population at risk. MEDI, Public health & hygiene"
         },
         "Traduções": {
             "en": "basic reproduction number",
-            "fr": "taux de reproduction de base"
+            "fr": "taux de reproduction de base, (syn.) 𝑅₀"
         }
     },
     "numular": {
@@ -24410,8 +24434,8 @@
     },
     "pandemia": {
         "Descrições": {
-            "desc_pt": "Doença epidêmica que se espalhou para diferentes países e continentes.",
-            "desc_en": "Epidemic disease that has spread to different countries and continents."
+            "desc_pt": "(sin.) doença pandêmica Doença epidêmica que se espalhou para diferentes países e continentes. MEDI, Saúde pública e higiene",
+            "desc_en": "(syn.) pandemic disease   Epidemic disease that has spread to different countries and continents. MEDI, Public health & hygiene"
         },
         "Traduções": {
             "en": "pandemia, pandemic",
@@ -25493,8 +25517,8 @@
     },
     "período de incubação": {
         "Descrições": {
-            "desc_pt": "Intervalo de tempo entre a exposição a um agente infeccioso e o aparecimento dos sintomas de uma doença.",
-            "desc_en": "Lapse of time between the exposure to an infectious agent and the onset of the symptoms of a disease."
+            "desc_pt": "Intervalo de tempo entre a exposição a um agente infeccioso e o aparecimento dos sintomas de uma doença. MEDICINA, Patologia",
+            "desc_en": "Lapse of time between the exposure to an infectious agent and the onset of the symptoms of a disease. MEDI, Pathology"
         },
         "Traduções": {
             "en": "incubation period",
@@ -26113,14 +26137,14 @@
             "es": "plasma (sanguíneo)"
         }
     },
-    "plasma sanguíneo": {
+    "plasma sanguíneo, (syn.) plasma": {
         "Descrições": {
-            "desc_pt": "Parte líquida do sangue na qual os glóbulos vermelhos, brancos e plaquetas estão suspensos e que transporta essas células sanguíneas, bem como proteínas, sais minerais, açúcares, gorduras e hormônios por todo o corpo.",
-            "desc_en": "Liquid part of the blood in which red and white blood cells and platelets are suspended and which carries such blood cells as well as proteins, mineral salts, sugars, fats, and hormones throughout the body."
+            "desc_pt": "(sin.) plasma Parte líquida do sangue na qual os glóbulos vermelhos, brancos e plaquetas estão suspensos e que transporta essas células sanguíneas, bem como proteínas, sais minerais, açúcares, gorduras e hormônios por todo o corpo. MEDI, Anatomia e Fisiologia",
+            "desc_en": "(syn.) plasma   Liquid part of the blood in which red and white blood cells and platelets are suspended and which carries such blood cells as well as proteins, mineral salts, sugars, fats, and hormones throughout the body. MEDI, Anatomy & physiology"
         },
         "Traduções": {
             "en": "blood plasma",
-            "fr": "plasma sanguin"
+            "fr": "plasma sanguin, (syn.) plasma"
         }
     },
     "plasmaferese": {
@@ -26521,20 +26545,20 @@
             "es": "poro"
         }
     },
-    "porta de entrada": {
+    "porta de entrada, (syn.) via de entrada": {
         "Descrições": {
-            "desc_pt": "Local anatômico no qual um agente infeccioso entra em um hospedeiro.",
-            "desc_en": "Anatomical site at which an infectious agent enters a host."
+            "desc_pt": "Local anatômico no qual um agente infeccioso entra em um hospedeiro. MEDICINA, Patologia",
+            "desc_en": "Anatomical site at which an infectious agent enters a host. MEDI, Pathology"
         },
         "Traduções": {
             "en": "portal of entry",
             "fr": "porte d'entrée"
         }
     },
-    "porta de saída": {
+    "porta de saída, (syn.) via de saída": {
         "Descrições": {
-            "desc_pt": "Local anatômico no qual um agente infeccioso deixa um hospedeiro.",
-            "desc_en": "Anatomical site at which an infectious agent leaves a host."
+            "desc_pt": "Local anatômico no qual um agente infeccioso deixa um hospedeiro. MEDICINA, Patologia",
+            "desc_en": "Anatomical site at which an infectious agent leaves a host. MEDI, Pathology"
         },
         "Traduções": {
             "en": "portal of exit",
@@ -26848,8 +26872,8 @@
     },
     "preparação para pandemia": {
         "Descrições": {
-            "desc_pt": "Capacidade de um órgão público de lidar com uma ameaça à saúde humana causada por uma pandemia, garantindo que planos de resposta apropriados sejam implementados.",
-            "desc_en": "Ability of a public body to deal with a threat to human health caused by a pandemic by ensuring that appropriate response plans are in place."
+            "desc_pt": "Capacidade de um órgão público de lidar com uma ameaça à saúde humana causada por uma pandemia, garantindo que planos de resposta apropriados sejam implementados. MEDI, Saúde pública e higiene",
+            "desc_en": "Ability of a public body to deal with a threat to human health caused by a pandemic by ensuring that appropriate response plans are in place. MEDI, Public health & hygiene"
         },
         "Traduções": {
             "en": "pandemic preparedness",
@@ -26977,8 +27001,8 @@
     },
     "prevalência": {
         "Descrições": {
-            "desc_pt": "Todos os casos de uma doença observados em um determinado momento em uma população em risco.",
-            "desc_en": "All cases of a disease observed at a given point in time in a population at risk."
+            "desc_pt": "Todos os casos de uma doença observados em um determinado momento em uma população em risco. MEDI, Saúde pública e higiene",
+            "desc_en": "All cases of a disease observed at a given point in time in a population at risk.   MEDI, Public health & hygiene"
         },
         "Traduções": {
             "en": "prevalence",
@@ -27283,10 +27307,10 @@
             "es": "pronación"
         }
     },
-    "pronto atendimento": {
+    "pronto atendimento, (syn.) serviço de urgência básica, serviço de atendimento permanente, SAP, SUB": {
         "Descrições": {
-            "desc_pt": "Cuidados médicos prestados para doenças ou lesões que requerem atenção imediata, mas normalmente não são tão graves a ponto de exigir os serviços de uma sala de emergência.",
-            "desc_en": "Medical care provided for illnesses or injuries that require prompt attention but are typically not so serious as to require the services of an emergency room."
+            "desc_pt": "Cuidados médicos prestados para doenças ou lesões que requerem atenção imediata, mas normalmente não são tão graves a ponto de exigir os serviços de uma sala de emergência. MEDI, cuidados médicos",
+            "desc_en": "Medical care provided for illnesses or injuries that require prompt attention but are typically not so serious as to require the services of an emergency room. MEDI, Medical care"
         },
         "Traduções": {
             "en": "urgent care",
@@ -27915,8 +27939,8 @@
     },
     "quarentena": {
         "Descrições": {
-            "desc_pt": "Estratégia adotada por órgão público para manter afastado da população em geral, por determinado período de tempo, todos os indivíduos suspeitos de contato com pessoa acometida por doença infectocontagiosa ou procedente de área afetada, até que se confirme que não contraíram a doença doença.",
-            "desc_en": "Strategy adopted by a public body to keep apart from the general population for a certain period of time all individuals suspected of having contact with a person affected by an infectious disease or coming from an affected area, until it is confirmed that they have not contracted the disease."
+            "desc_pt": "Estratégia adotada por órgão público para manter afastado da população em geral, por determinado período de tempo, todos os indivíduos suspeitos de contato com pessoa acometida por doença infecciosa ou procedente de área afetada, até que se confirme que não contraíram a doença doença. MEDI, Saúde pública e higiene",
+            "desc_en": "Strategy adopted by a public body to keep apart from the general population for a certain period of time all individuals suspected of having contact with a person affected by an infectious disease or coming from an affected area, until it is confirmed that they have not contracted the disease. MEDI, Public health & hygiene"
         },
         "Traduções": {
             "en": "quarantine",
@@ -28302,10 +28326,10 @@
             "es": "rastrillar"
         }
     },
-    "rastreamento de contatos": {
+    "rastreamento de contatos, (syn.) rastreamento de contactos (pt-PT)": {
         "Descrições": {
-            "desc_pt": "Processo de identificação, listagem e seguimento de contactos.",
-            "desc_en": "Process of identification, listing and follow-up of contacts."
+            "desc_pt": "Processo de identificação, listagem e seguimento de contactos. MEDI, Saúde pública e higiene",
+            "desc_en": "Process of identification, listing and follow-up of contacts.   MEDI, Public health & hygiene"
         },
         "Traduções": {
             "en": "contact tracing",
@@ -28314,8 +28338,8 @@
     },
     "rastreio drive-through": {
         "Descrições": {
-            "desc_pt": "Método de realização de testes de swab em pessoas enquanto elas permanecem em seus veículos.",
-            "desc_en": "Method of performing swab tests on people whilst they remain in their vehicles."
+            "desc_pt": "Método de realização de testes de swab em pessoas enquanto elas permanecem em seus veículos. MEDI, cuidados médicos",
+            "desc_en": "Method of performing swab tests on people whilst they remain in their vehicles. MEDI, Medical care"
         },
         "Traduções": {
             "en": "drive-through testing",
@@ -28361,24 +28385,24 @@
             "es": "reabsorber"
         }
     },
-    "reação em cadeia da polimerase": {
+    "reação em cadeia da polimerase da transcrição reversa em tempo real, (syn.) RT-PCR em tempo real, rRT-PCR": {
         "Descrições": {
-            "desc_pt": "Técnica de biologia molecular que aplica alta temperatura e uma DNA polimerase a uma amostra de DNA contendo a sequência alvo, produzindo assim cópias de pequenos segmentos do DNA original para uso em análises moleculares e genéticas posteriores.",
-            "desc_en": "Molecular biology technique that applies high temperature and a DNA polymerase to a sample of DNA containing the target sequence, thereby producing copies of small segments of the original DNA for use in further molecular and genetic analysis."
-        },
-        "Traduções": {
-            "en": "polymerase chain reaction",
-            "fr": "amplification en chaîne par polymérase"
-        }
-    },
-    "reação em cadeia da polimerase da transcrição reversa em tempo real": {
-        "Descrições": {
-            "desc_pt": "Reação em cadeia da polimerase com transcrição reversa na qual a detecção e quantificação de sequências de DNA amplificadas são realizadas após cada ciclo de PCR.",
-            "desc_en": "Reverse transcription polymerase chain reaction in which detection and quantification of amplified DNA sequences are performed after each PCR cycle."
+            "desc_pt": "(sin.) RT-PCR em tempo real, rRT-PCR Reação em cadeia da polimerase com transcrição reversa na qual a detecção e quantificação de sequências de DNA amplificadas são realizadas após cada ciclo de PCR. MEDI, Equipamentos e procedimentos de diagnóstico",
+            "desc_en": "(syn.) real-time RT-PCR, rRT-PCR   Reverse transcription polymerase chain reaction in which detection and quantification of amplified DNA sequences are performed after each PCR cycle. MEDI, Diagnostic equipment & procedures"
         },
         "Traduções": {
             "en": "real-time reverse transcription-polymerase chain reaction",
-            "fr": "RT-PCR en temps reel"
+            "fr": "RT-PCR en temps reel, (syn.) RT-PCR temps reel"
+        }
+    },
+    "reação em cadeia da polimerase, (syn.) PCR": {
+        "Descrições": {
+            "desc_pt": "(sin.) PCR Técnica de biologia molecular que aplica alta temperatura e uma DNA polimerase a uma amostra de DNA contendo a sequência alvo, produzindo assim cópias de pequenos segmentos do DNA original para uso em análises moleculares e genéticas adicionais. SCIE, Genética",
+            "desc_en": "(syn.) PCR   Molecular biology technique that applies high temperature and a DNA polymerase to a sample of DNA containing the target sequence, thereby producing copies of small segments of the original DNA for use in further molecular and genetic analysis. SCIE, Genetics"
+        },
+        "Traduções": {
+            "en": "polymerase chain reaction",
+            "fr": "amplification en chaîne par polymérase, (syn.) réaction en chaîne par polymérase, réaction en chaîne à la polymérase, ACP, PCR"
         }
     },
     "reacção": {
@@ -28756,8 +28780,8 @@
     },
     "reflexo de tosse": {
         "Descrições": {
-            "desc_pt": "A resposta natural do corpo para ajudar a eliminar substâncias irritantes das vias respiratórias.",
-            "desc_en": "Body's natural response to help clear irritants from the airways."
+            "desc_pt": "A resposta natural do corpo para ajudar a eliminar substâncias irritantes das vias respiratórias. MEDI, Anatomia e Fisiologia",
+            "desc_en": "Body's natural response to help clear irritants from the airways. MEDI, Anatomy & physiology"
         },
         "Traduções": {
             "en": "cough reflex",
@@ -29274,14 +29298,14 @@
             "es": "respuesta (al tratamiento)"
         }
     },
-    "resposta imunitária": {
+    "resposta imunitária,(syn.) resposta imune, resposta imunológica": {
         "Descrições": {
-            "desc_pt": "Reação do sistema imunológico de um organismo a estímulos potencialmente nocivos.",
-            "desc_en": "Reaction of the immune system of an organism to potentially harmful stimuli."
+            "desc_pt": "Reação do sistema imunológico de um organismo a estímulos potencialmente nocivos. MEDI, Anatomia e Fisiologia",
+            "desc_en": "Reaction of the immune system of an organism to potentially harmful stimuli. MEDI, Anatomy & physiology"
         },
         "Traduções": {
             "en": "immune response",
-            "fr": "réponse immunitaire"
+            "fr": "réponse immunitaire, (syn.) réaction immunitaire"
         }
     },
     "ressecção": {
@@ -30012,8 +30036,8 @@
     },
     "saúde pública": {
         "Descrições": {
-            "desc_pt": "Ciência de proteger e melhorar a saúde das pessoas por meio dos esforços organizados da sociedade, promovendo um estilo de vida saudável, prevenindo lesões e prevenindo, detectando e respondendo a doenças infecciosas.",
-            "desc_en": "Science of protecting and improving the health of people through the organized efforts of society by promoting a healthy lifestyle, preventing injuries, and preventing, detecting and responding to infectious diseases."
+            "desc_pt": "Ciência de proteger e melhorar a saúde das pessoas por meio dos esforços organizados da sociedade, promovendo um estilo de vida saudável, prevenindo lesões e prevenindo, detectando e respondendo a doenças infecciosas. MEDI, Saúde pública e higiene",
+            "desc_en": "Science of protecting and improving the health of people through the organized efforts of society by promoting a healthy lifestyle, preventing injuries, and preventing, detecting and responding to infectious diseases. MEDI, Public health & hygiene"
         },
         "Traduções": {
             "en": "public health",
@@ -30140,10 +30164,10 @@
             "es": "seropositivo"
         }
     },
-    "seguimento de contatos": {
+    "seguimento de contatos, (syn.) acompanhamento de contatos": {
         "Descrições": {
-            "desc_pt": "Processo de monitoramento dos contatos de um caso quanto a sintomas da doença.",
-            "desc_en": "Process of monitoring the contacts of a case for symptoms of the disease."
+            "desc_pt": "Processo de monitoramento dos contatos de um caso quanto a sintomas da doença. MEDI, Saúde pública e higiene",
+            "desc_en": "Process of monitoring the contacts of a case for symptoms of the disease. MEDI, Public health & hygiene"
         },
         "Traduções": {
             "en": "contact follow-up",
@@ -30344,13 +30368,18 @@
         }
     },
     "sepsis": {
-        "Descrições": {
-            "desc_pt": "Síndrome de disfunção orgânica causada por um comprometimento dos mecanismos reguladores fisiológicos por meio dos quais um hospedeiro responde à infecção.",
-            "desc_en": "Organ dysfunction syndrome caused by an impairment of the physiological regulatory mechanisms via which a host responds to infection."
-        },
         "Traduções": {
             "en": "sepsis, septicemia",
-            "es": "sepsis",
+            "es": "sepsis"
+        }
+    },
+    "sepsis, (syn.) sepse": {
+        "Descrições": {
+            "desc_pt": "Síndrome de disfunção orgânica causada por um comprometimento dos mecanismos reguladores fisiológicos por meio dos quais um hospedeiro responde à infecção. MEDICINA, Patologia",
+            "desc_en": "Organ dysfunction syndrome caused by an impairment of the physiological regulatory mechanisms via which a host responds to infection. MEDI, Pathology"
+        },
+        "Traduções": {
+            "en": "sepsis",
             "fr": "sepsis"
         }
     },
@@ -30410,10 +30439,10 @@
             "es": "secuela (en la s. de caída hace 2 semanas)"
         }
     },
-    "sequência nucleotídica": {
+    "sequência nucleotídica, (syn.) seqüência nucleotídica (pt-BR)": {
         "Descrições": {
-            "desc_pt": "Sequência das unidades repetidas de DNA ou RNA.",
-            "desc_en": "Sequence of the repeating units of DNA or RNA."
+            "desc_pt": "Sequência das unidades repetidas de DNA ou RNA. SCIE, Bioquímica",
+            "desc_en": "Sequence of the repeating units of DNA or RNA. SCIE, Biochemistry"
         },
         "Traduções": {
             "en": "nucleotide sequence",
@@ -30802,14 +30831,14 @@
             "es": "síndrome vertiginoso"
         }
     },
-    "síndrome da resposta inflamatória sistémica": {
+    "síndrome da resposta inflamatória sistémica, (syn.) SIRS": {
         "Descrições": {
-            "desc_pt": "Condição caracterizada por uma resposta inflamatória desproporcional a uma variedade de fenômenos clínicos graves, incluindo temperatura corporal (>38°C ou <36°C), frequência cardíaca (>90 batimentos por minuto), frequência respiratória (>20 respirações por minuto ou PaCO2 <32 mmHg) e contagem de leucócitos (>12.000/cu mm, <4.000/cu mm ou >10% de formas de bandas imaturas).",
-            "desc_en": "Condition characterized by a disproportionate inflammatory response to a variety of severe clinical phenomena, including relating to body temperature (>38°C or <36°C), heart rate (>90 beats per minute), respiratory rate (>20 breaths per minute or PaCO2 <32 mmHg), and white blood cell count (>12,000/cu mm, <4,000/cu mm, or >10% immature band forms)."
+            "desc_pt": "(sin.) SIRS Condição caracterizada por uma resposta inflamatória desproporcional a uma variedade de fenômenos clínicos graves, inclusive relacionados à temperatura corporal (>38°C ou <36°C), frequência cardíaca (>90 batimentos por minuto), frequência respiratória ( >20 respirações por minuto ou PaCO2 <32 mmHg) e contagem de leucócitos (>12.000/cu mm, <4.000/cu mm ou >10% de formas de bandas imaturas). MEDICINA, Patologia",
+            "desc_en": "(syn.) SIRS   Condition characterized by a disproportionate inflammatory response to a variety of severe clinical phenomena, including relating to body temperature (>38°C or <36°C), heart rate (>90 beats per minute), respiratory rate (>20 breaths per minute or PaCO2 <32 mmHg), and white blood cell count (>12,000/cu mm, <4,000/cu mm, or >10% immature band forms). MEDI, Pathology"
         },
         "Traduções": {
             "en": "systemic inflammatory response syndrome",
-            "fr": "syndrome de réponse inflammatoire systémique"
+            "fr": "syndrome de réponse inflammatoire systémique, (syn.) SIRS"
         }
     },
     "síndrome de imunodeficiência adquirida (SIDA)": {
@@ -30820,8 +30849,8 @@
     },
     "síndrome de liberação de citocinas": {
         "Descrições": {
-            "desc_pt": "Síndrome da resposta inflamatória sistêmica causada por uma grande e rápida liberação de citocinas no sangue, que pode ser desencadeada por diversos fatores, por exemplo, uma infecção viral ou o uso de certos medicamentos em imunoterapia.",
-            "desc_en": "Systemic inflammatory response syndrome caused by a large and rapid release of cytokines into the blood, which may be triggered by different factors, e.g. a viral infection or the use of certain drugs in immunotherapy."
+            "desc_pt": "(sin.) SRC Síndrome de resposta inflamatória sistêmica causada por uma grande e rápida liberação de citocinas no sangue, que pode ser desencadeada por diferentes fatores, por ex. uma infecção viral ou o uso de certos medicamentos em imunoterapia. MEDICINA, Patologia",
+            "desc_en": "(syn.) CRS     Systemic inflammatory response syndrome caused by a large and rapid release of cytokines into the blood, which may be triggered by different factors, e.g. a viral infection or the use of certain drugs in immunotherapy. MEDI, Pathology"
         },
         "Traduções": {
             "en": "cytokine release syndrome",
@@ -30834,24 +30863,24 @@
             "es": "síndrome demencial"
         }
     },
-    "síndrome do desconforto respiratório agudo": {
+    "síndrome do desconforto respiratório agudo, (syn.) SDRA": {
         "Descrições": {
-            "desc_pt": "Doença respiratória caracterizada pelo rápido início de inflamação generalizada nos pulmões.",
-            "desc_en": "Respiratory disease characterized by the rapid onset of widespread inflammation in the lungs."
+            "desc_pt": "(sin.) SDRA Doença respiratória caracterizada pelo início rápido de inflamação generalizada nos pulmões. MEDICINA, Patologia",
+            "desc_en": "(syn.) ARDS   Respiratory disease characterized by the rapid onset of widespread inflammation in the lungs. MEDI, Pathology"
         },
         "Traduções": {
             "en": "acute respiratory distress syndrome",
-            "fr": "syndrome de détresse respiratoire aiguë"
+            "fr": "syndrome de détresse respiratoire aiguë, (syn.) SDRA"
         }
     },
-    "síndrome respiratória aguda grave": {
+    "síndrome respiratória aguda grave, (syn.) síndrome respiratória aguda severa, SARS": {
         "Descrições": {
-            "desc_pt": "Doença infecciosa causada pelo SARS-CoV-1.",
-            "desc_en": "Infectious disease caused by SARS-CoV-1."
+            "desc_pt": "(sin.) SARS Doença infecciosa causada por SARS-CoV-1. MEDICINA, Patologia",
+            "desc_en": "(syn.) SARS   Infectious disease caused by SARS-CoV-1. MEDI, Pathology"
         },
         "Traduções": {
             "en": "severe acute respiratory syndrome",
-            "fr": "syndrome respiratoire aigu sévère"
+            "fr": "syndrome respiratoire aigu sévère, (syn.) SRAS"
         }
     },
     "sinéquia": {
@@ -30910,9 +30939,9 @@
     },
     "sintoma": {
         "Descrições": {
-            "desc_pt": "Manifestação de uma doença que é perceptível apenas para o paciente (sintoma subjetivo) ou para o paciente e outros (sintoma ou sinal objetivo).",
+            "desc_pt": "Manifestação de uma doença que é perceptível apenas para o paciente (sintoma subjetivo) ou para o paciente e outros (sinal ou sinal objetivo). MEDICINA, Patologia",
             "exp pop": "sinal",
-            "desc_en": "Manifestation of a disease that is perceptible to only the patient (subjective symptom) or to the patient and others (objective symptom or sign)."
+            "desc_en": "Manifestation of a disease that is perceptible to only the patient (subjective symptom) or to the patient and others (objective symptom or sign). MEDI, Pathology"
         },
         "Traduções": {
             "en": "symptom, sign",
@@ -30984,10 +31013,10 @@
             "es": "sistema inmune"
         }
     },
-    "sistema imunitário": {
+    "sistema imunitário, (syn.) sistema imunológico,    sistema imune": {
         "Descrições": {
-            "desc_pt": "Rede de células e anticorpos que defende o organismo contra o ataque de agentes percebidos como estranhos e potencialmente prejudiciais a ele, desencadeando uma resposta imune, que pode ser específica (adaptativa) ou não específica (inata).",
-            "desc_en": "Network of cells and antibodies that defends the body against the attack of agents perceived as extraneous and potentially harmful to it by triggering an immune response, which can be specific (adaptive) or not specific (innate)."
+            "desc_pt": "Rede de células e anticorpos que defende o organismo contra o ataque de agentes percebidos como estranhos e potencialmente prejudiciais a ele, desencadeando uma resposta imune, que pode ser específica (adaptativa) ou não específica (inata). MEDI, Anatomia e Fisiologia",
+            "desc_en": "Network of cells and antibodies that defends the body against the attack of agents perceived as extraneous and potentially harmful to it by triggering an immune response, which can be specific (adaptive) or not specific (innate). MEDI, Anatomy & physiology"
         },
         "Traduções": {
             "en": "immune system",
@@ -31492,8 +31521,8 @@
     },
     "supercontagiador": {
         "Descrições": {
-            "desc_pt": "Pessoa afetada por uma doença infecciosa que transmite a doença a um número significativamente maior de pessoas do que a média das pessoas infectadas.",
-            "desc_en": "Person affected by an infectious disease who transmits the disease to a significantly higher number of people than does the average infected person."
+            "desc_pt": "Pessoa afetada por uma doença infecciosa que transmite a doença a um número significativamente maior de pessoas do que a média das pessoas infectadas. MEDI, Saúde pública e higiene",
+            "desc_en": "Person affected by an infectious disease who transmits the disease to a significantly higher number of people than does the average infected person. MEDI, Public health & hygiene"
         },
         "Traduções": {
             "en": "super-spreader",
@@ -31629,8 +31658,8 @@
     },
     "surto": {
         "Descrições": {
-            "desc_pt": "Aglomerado de uma doença com uma causa comum e um número total de casos inferior ao de uma epidemia.",
-            "desc_en": "Cluster of a disease with a common cause and an overall number of cases that is inferior to that of an epidemic."
+            "desc_pt": "Aglomerado de uma doença com uma causa comum e um número total de casos inferior ao de uma epidemia. MEDI, Saúde pública e higiene",
+            "desc_en": "Cluster of a disease with a common cause and an overall number of cases that is inferior to that of an epidemic. MEDI, Public health & hygiene"
         },
         "Traduções": {
             "en": "discharge",
@@ -31818,8 +31847,8 @@
     },
     "taxa de ataque": {
         "Descrições": {
-            "desc_pt": "Proporção de pessoas que contraem uma doença em uma população inicialmente livre da doença, ou seja, durante um surto de doença.",
-            "desc_en": "Proportion of people that contract a disease in a population initially free of the disease, i.e. during a disease outbreak."
+            "desc_pt": "Proporção de pessoas que contraem uma doença em uma população inicialmente livre da doença, ou seja, durante um surto de doença. MEDI, Saúde pública e higiene",
+            "desc_en": "Proportion of people that contract a disease in a population initially free of the disease, i.e. during a disease outbreak.     MEDI, Public health & hygiene"
         },
         "Traduções": {
             "en": "attack rate",
@@ -31832,30 +31861,30 @@
             "es": "tasa de filtración glomerular"
         }
     },
-    "taxa de letalidade": {
+    "taxa de letalidade da infecção, (syn.) letalidade dos infectados": {
         "Descrições": {
-            "desc_pt": "Proporção de pessoas que morrem de uma determinada doença em relação ao total de casos confirmados.",
-            "desc_en": "Proportion of people who die of a given disease out of all the confirmed cases."
+            "desc_pt": "(sin.) IFR Proporção de pessoas que morrerão de uma determinada doença entre todas as que foram infectadas. MEDI, Saúde pública e higiene",
+            "desc_en": "(syn.) IFR Proportion of people who will die of a certain disease out of all those who have been infected.   MEDI, Public health & hygiene"
+        },
+        "Traduções": {
+            "en": "infection fatality rate",
+            "fr": "taux de mortalité par infection, (syn.) IFR"
+        }
+    },
+    "taxa de letalidade, (syn.) taxa de letalidade dos casos": {
+        "Descrições": {
+            "desc_pt": "(sin.) CFR Proporção de pessoas que morrem de uma determinada doença entre todos os casos confirmados. MEDI, Saúde pública e higiene",
+            "desc_en": "(syn.) CFR Proportion of people who die of a given disease out of all the confirmed cases. MEDI, Public health & hygiene"
         },
         "Traduções": {
             "en": "case fatality rate",
             "fr": "taux de létalité"
         }
     },
-    "taxa de letalidade da infecção": {
-        "Descrições": {
-            "desc_pt": "Proporção de pessoas que morrerão de uma determinada doença entre todas as que foram infectadas.",
-            "desc_en": "Proportion of people who will die of a certain disease out of all those who have been infected."
-        },
-        "Traduções": {
-            "en": "infection fatality rate",
-            "fr": "taux de mortalité par infection"
-        }
-    },
     "taxa de mortalidade": {
         "Descrições": {
-            "desc_pt": "Número de mortes atribuídas a uma determinada doença em um período especificado dividido pelo número de novos casos da doença identificados durante o mesmo período.",
-            "desc_en": "Number of deaths attributed to a particular disease in a specified period divided by the number of new cases of the disease identified during the same period."
+            "desc_pt": "Número de mortes atribuídas a uma determinada doença em um período especificado dividido pelo número de novos casos da doença identificados durante o mesmo período. MEDI, Saúde pública e higiene",
+            "desc_en": "Number of deaths attributed to a particular disease in a specified period divided by the number of new cases of the disease identified during the same period. MEDI, Public health & hygiene"
         },
         "Traduções": {
             "en": "death-to-case ratio",
@@ -31903,8 +31932,8 @@
     },
     "telessaúde": {
         "Descrições": {
-            "desc_pt": "Prestação remota de serviços clínicos e não clínicos usando tecnologias de informação e comunicação, como diagnóstico e tratamento de doenças e lesões, pesquisa e avaliação e educação de profissionais de saúde.",
-            "desc_en": "Remote provision of clinical and non-clinical services using information and communication technologies, such as diagnosis and treatment of diseases and   injuries, research and evaluation, and education of health professionals."
+            "desc_pt": "Prestação remota de serviços clínicos e não clínicos usando tecnologias de informação e comunicação, como diagnóstico e tratamento de doenças e lesões, pesquisa e avaliação e educação de profissionais de saúde. MEDI, cuidados médicos",
+            "desc_en": "Remote provision of clinical and non-clinical services using information and communication technologies, such as diagnosis and treatment of diseases and   injuries, research and evaluation, and education of health professionals. MEDI, Medical care"
         },
         "Traduções": {
             "en": "telehealth",
@@ -32112,10 +32141,10 @@
             "es": "terapéutica , terapia"
         }
     },
-    "terapia com plasma convalescente": {
+    "terapia com plasma convalescente, (syn.) tratamento com plasma convalescente": {
         "Descrições": {
-            "desc_pt": "Tratamento terapêutico pelo qual o plasma sanguíneo doado por indivíduos que se recuperaram de uma doença infecciosa é introduzido no sangue de pessoas que sofrem da mesma doença para ajudar a controlar os sintomas e limitar a progressão da doença.",
-            "desc_en": "Therapeutic treatment whereby the blood plasma donated by individuals who have recovered from an infectious disease is introduced into the blood of people who are suffering from the same disease in order to help control the symptoms and limit the progression of the disease."
+            "desc_pt": "Tratamento terapêutico pelo qual o plasma sanguíneo doado por indivíduos que se recuperaram de uma doença infecciosa é introduzido no sangue de pessoas que sofrem da mesma doença para ajudar a controlar os sintomas e limitar a progressão da doença. MEDI, Terapêutica",
+            "desc_en": "Therapeutic treatment whereby the blood plasma donated by individuals who have recovered from an infectious disease is introduced into the blood of people who are suffering from the same disease in order to help control the symptoms and limit the progression of the disease. MEDI, Therapeutics"
         },
         "Traduções": {
             "en": "convalescent plasma therapy",
@@ -32128,10 +32157,10 @@
             "es": "logopedia"
         }
     },
-    "terapia gênica": {
+    "terapia gênica, (syn.) terapia génica (pt-PT)": {
         "Descrições": {
-            "desc_pt": "Tratamento terapêutico pelo qual um ou mais genes estranhos são inseridos no genoma de um organismo por meio de um vetor, para compensar genes anormais ou para ajudar o organismo a produzir uma proteína que pode ser benéfica para ele.",
-            "desc_en": "Therapeutic treatment whereby one or more foreign genes are inserted into the genome of an organism by means of a vector, to compensate for abnormal genes or to help the organism produce a protein that can be beneficial for it."
+            "desc_pt": "Tratamento terapêutico pelo qual um ou mais genes estranhos são inseridos no genoma de um organismo por meio de um vetor, para compensar genes anormais ou para ajudar o organismo a produzir uma proteína que pode ser benéfica para ele. MEDI, Terapêutica",
+            "desc_en": "Therapeutic treatment whereby one or more foreign genes are inserted into the genome of an organism by means of a vector, to compensate for abnormal genes or to help the organism produce a protein that can be beneficial for it. MEDI, Therapeutics"
         },
         "Traduções": {
             "en": "gene therapy",
@@ -32229,28 +32258,28 @@
     },
     "teste laboratorial": {
         "Descrições": {
-            "desc_pt": "Teste de diagnóstico realizado em amostras do corpo de uma pessoa, por ex. sangue, urina, saliva, tecidos, geralmente em instalações especialmente equipadas.",
-            "desc_en": "Diagnostic test performed on samples of a person’s body, e.g. blood, urine, saliva, tissues, typically in specially equipped facilities."
+            "desc_pt": "Teste de diagnóstico realizado em amostras do corpo de uma pessoa, por ex. sangue, urina, saliva, tecidos, geralmente em instalações especialmente equipadas. MEDI, Equipamentos e procedimentos de diagnóstico",
+            "desc_en": "Diagnostic test performed on samples of a person’s body, e.g. blood, urine, saliva, tissues, typically in specially equipped facilities.   MEDI, Diagnostic equipment & procedures"
         },
         "Traduções": {
             "en": "laboratory test",
             "fr": "examen de laboratoire"
         }
     },
-    "teste laboratorial remoto": {
+    "teste laboratorial remoto, (syn.) teste de diagnóstico rápido, TLR, TDR": {
         "Descrições": {
-            "desc_pt": "Método de realização de um teste laboratorial no local de atendimento ao paciente ou próximo a ele.",
-            "desc_en": "Method of performing a laboratory test at or near the site of patient care."
+            "desc_pt": "(sin.) teste de ponto de coleta, POCT Método de realização de um teste de laboratório no local de atendimento ao paciente ou próximo a ele. MEDI, cuidados médicos",
+            "desc_en": "(syn.) point-of-collection testing, POCT   Method of performing a laboratory test at or near the site of patient care. MEDI, Medical care"
         },
         "Traduções": {
             "en": "point-of-care testing",
-            "fr": "analyses de biologie délocalisée"
+            "fr": "analyses de biologie délocalisée, (syn.) ADBD"
         }
     },
     "teste serológico": {
         "Descrições": {
-            "desc_pt": "Exame laboratorial que visa detectar no soro sanguíneo de um indivíduo a presença de anticorpos produzidos em resposta a determinada doença.",
-            "desc_en": "Laboratory test aimed at detecting in the blood serum of an individual the presence of antibodies produced in response to a given disease."
+            "desc_pt": "(sin.) teste sorológico, teste de anticorpos Teste laboratorial que visa detectar no soro sanguíneo de um indivíduo a presença de anticorpos produzidos em resposta a uma determinada doença. <b>MEDI, </b>Equipamentos e procedimentos de diagnóstico",
+            "desc_en": "(syn.) serological test, antibody test   Laboratory test aimed at detecting in the blood serum of an individual the presence of antibodies produced in response to a given disease. <b>MEDI, </b>Diagnostic equipment & procedures"
         },
         "Traduções": {
             "en": "serologic test",
@@ -32476,14 +32505,14 @@
             "es": "tomografía axial computerizada (TAC)"
         }
     },
-    "tomografia computadorizada": {
+    "tomografia computadorizada, (syn.) tomografia computorizada, TC": {
         "Descrições": {
-            "desc_pt": "Técnica de imagem médica pela qual imagens tridimensionais do corpo são obtidas direcionando um feixe de raios X para o paciente e girando-o rapidamente ao redor do corpo do paciente, produzindo imagens transversais que são empilhadas por um scanner de tomografia computadorizada.",
-            "desc_en": "Medical imaging technique by which three-dimensional images of the body are obtained by directing a beam of x-rays at the patient and quickly rotating them around the patient’s body, producing cross-sectional images that are then stacked together by a computed tomography scanner."
+            "desc_pt": "(sin.) tomografia assistida por computador, tomografia computadorizada, TC Técnica de imagem médica pela qual imagens tridimensionais do corpo são obtidas ao direcionar um feixe de raios X para o paciente e girá-los rapidamente ao redor do corpo do paciente, produzindo imagens cruzadas imagens seccionais que são empilhadas por um scanner de tomografia computadorizada. MEDI, Equipamentos e procedimentos de diagnóstico",
+            "desc_en": "(syn.) computer-assisted tomography, computerized tomography, CT   Medical imaging technique by which three-dimensional images of the body are obtained by directing a beam of x-rays at the patient and quickly rotating them around the patient’s body, producing cross-sectional images that are then stacked together by a computed tomography scanner. MEDI, Diagnostic equipment & procedures"
         },
         "Traduções": {
             "en": "computed tomography",
-            "fr": "tomographie assistée par ordinateur"
+            "fr": "tomographie assistée par ordinateur, (syn.) tomodensitométrie, TDM"
         }
     },
     "tónico": {
@@ -32877,8 +32906,8 @@
     },
     "transmissão assintomática": {
         "Descrições": {
-            "desc_pt": "Modo de transmissão de uma doença infecciosa para outra pessoa de uma pessoa infectada que não desenvolve sintomas.",
-            "desc_en": "Mode of transmission of an infectious disease to another person from an infected person who does not develop symptoms."
+            "desc_pt": "Modo de transmissão de uma doença infecciosa para outra pessoa de uma pessoa infectada que não desenvolve sintomas. MEDICINA, Patologia",
+            "desc_en": "Mode of transmission of an infectious disease to another person from an infected person who does not develop symptoms.   MEDI, Pathology"
         },
         "Traduções": {
             "en": "asymptomatic transmission",
@@ -32887,8 +32916,8 @@
     },
     "transmissão direta": {
         "Descrições": {
-            "desc_pt": "Modo de transmissão que ocorre quando um agente infeccioso é transferido de um reservatório para um hospedeiro por contato direto ou transmissão por gotículas.",
-            "desc_en": "Mode of transmission that occurs when an infectious agent is transferred from a reservoir to a host by direct contact or droplet transmission."
+            "desc_pt": "Modo de transmissão que ocorre quando um agente infeccioso é transferido de um reservatório para um hospedeiro por contato direto ou transmissão por gotículas. MEDICINA, Patologia",
+            "desc_en": "Mode of transmission that occurs when an infectious agent is transferred from a reservoir to a host by direct contact or droplet transmission. MEDI, Pathology"
         },
         "Traduções": {
             "en": "direct contact transmission",
@@ -32897,8 +32926,8 @@
     },
     "transmissão indireta": {
         "Descrições": {
-            "desc_pt": "Modo de transmissão que ocorre quando um agente infeccioso é transferido de um reservatório para um hospedeiro por meio de um veículo, ou seja, água, alimento ou ar, um vetor ou fômite.",
-            "desc_en": "Mode of transmission that occurs when an infectious agent is transferred from a reservoir to a host by means of a vehicle, i.e. water, food or air, a vector or a fomite."
+            "desc_pt": "Modo de transmissão que ocorre quando um agente infeccioso é transferido de um reservatório para um hospedeiro por meio de um veículo, ou seja, água, alimento ou ar, um vetor ou fômite. MEDICINA, Patologia",
+            "desc_en": "Mode of transmission that occurs when an infectious agent is transferred from a reservoir to a host by means of a vehicle, i.e. water, food or air, a vector or a fomite. MEDI, Pathology"
         },
         "Traduções": {
             "en": "indirect contact transmission",
@@ -32907,18 +32936,18 @@
     },
     "transmissão por aerossóis": {
         "Descrições": {
-            "desc_pt": "Modo de transmissão indireta de uma doença infecciosa que ocorre quando um agente infeccioso é transportado por poeira ou núcleos de gotículas suspensos no ar na forma de aerossóis.",
-            "desc_en": "Mode of indirect transmission of an infectious disease that occurs when an infectious agent is carried by dust or droplet nuclei suspended in the air in the form of aerosols."
+            "desc_pt": "(sin.) transmissão por aerossol Modo de transmissão indireta de uma doença infecciosa que ocorre quando um agente infeccioso é transportado por poeira ou núcleos de gotículas suspensos no ar na forma de aerossóis. MEDICINA, Patologia",
+            "desc_en": "(syn.) aerosol transmission   Mode of indirect transmission of an infectious disease that occurs when an infectious agent is carried by dust or droplet nuclei suspended in the air in the form of aerosols.     MEDI, Pathology"
         },
         "Traduções": {
             "en": "airborne transmission",
             "fr": "transmission par aérosol"
         }
     },
-    "transmissão por gotículas respiratórias": {
+    "transmissão por gotículas respiratórias, (syn.) transmissão por gotículas": {
         "Descrições": {
-            "desc_pt": "Modo de transmissão direta de uma doença infecciosa que ocorre quando uma pessoa está próxima de uma pessoa infectada que apresenta sintomas respiratórios, por exemplo, por meio de tosse, espirro, respiração ou fala.",
-            "desc_en": "Mode of direct transmission of an infectious disease that occurs when a person is in the proximity of an infected person who has respiratory symptoms, e.g., via coughing, sneezing, breathing, or talking."
+            "desc_pt": "(sin.) disseminação por gotículas Modo de transmissão direta de uma doença infecciosa que ocorre quando uma pessoa está próxima de uma pessoa infectada que apresenta sintomas respiratórios, por exemplo, por meio de tosse, espirro, respiração ou fala. MEDICINA, Patologia",
+            "desc_en": "(syn.) droplet spread   Mode of direct transmission of an infectious disease that occurs when a person is in the proximity of an infected person who has respiratory symptoms, e.g., via coughing, sneezing, breathing, or talking. MEDI, Pathology"
         },
         "Traduções": {
             "en": "droplet transmission",
@@ -32927,8 +32956,8 @@
     },
     "transmissão pré-sintomática": {
         "Descrições": {
-            "desc_pt": "Modo de transmissão de uma doença infecciosa para outra pessoa de uma pessoa infectada que ainda não desenvolveu sintomas.",
-            "desc_en": "Mode of transmission of an infectious disease to another person from an infected person who has not yet developed symptoms."
+            "desc_pt": "Modo de transmissão de uma doença infecciosa para outra pessoa de uma pessoa infectada que ainda não desenvolveu sintomas. MEDICINA, Patologia",
+            "desc_en": "Mode of transmission of an infectious disease to another person from an infected person who has not yet developed symptoms.   MEDI, Pathology"
         },
         "Traduções": {
             "en": "pre-symptomatic transmission",
@@ -32937,8 +32966,8 @@
     },
     "transmissão sintomática": {
         "Descrições": {
-            "desc_pt": "Modo de transmissão para outra pessoa de uma doença infecciosa de uma pessoa infectada que desenvolveu sintomas.",
-            "desc_en": "Mode of transmission to another person of an infectious disease from an infected person who has developed symptoms."
+            "desc_pt": "Modo de transmissão para outra pessoa de uma doença infecciosa de uma pessoa infectada que desenvolveu sintomas. MEDICINA, Patologia",
+            "desc_en": "Mode of transmission to another person of an infectious disease from an infected person who has developed symptoms. MEDI, Pathology"
         },
         "Traduções": {
             "en": "symptomatic transmission",
@@ -33127,8 +33156,8 @@
     },
     "triagem": {
         "Descrições": {
-            "desc_pt": "Processo de triagem de pacientes ou vítimas para determinar a prioridade da necessidade e o local adequado de tratamento.",
-            "desc_en": "Process of sorting patients or casualties to determine priority of need and proper place of treatment."
+            "desc_pt": "Processo de triagem de pacientes ou vítimas para determinar a prioridade da necessidade e o local adequado de tratamento. MEDI, cuidados médicos",
+            "desc_en": "Process of sorting patients or casualties to determine priority of need and proper place of treatment. MEDI, Medical care"
         },
         "Traduções": {
             "en": "triage",
@@ -33565,24 +33594,29 @@
         }
     },
     "unidade de cuidados intensivos": {
+        "Traduções": {
+            "en": "intensive care unit",
+            "es": "unidad de cuidados intensivos (UVI)"
+        }
+    },
+    "unidade de cuidados intensivos, (syn.) UCI": {
         "Descrições": {
-            "desc_pt": "Instalação hospitalar que fornece cuidados intensivos e suporte de vida para pacientes gravemente doentes ou feridos.",
-            "desc_en": "Hospital facility that provides critical care and life support for acutely ill or injured patients."
+            "desc_pt": "(sin.) unidade de cuidados intensivos, UTI, CCU Instalação hospitalar que fornece cuidados intensivos e suporte de vida para pacientes gravemente doentes ou feridos. MEDI, cuidados médicos",
+            "desc_en": "(syn.) critical care unit, ICU, CCU   Hospital facility that provides critical care and life support for acutely ill or injured patients. MEDI, Medical care"
         },
         "Traduções": {
             "en": "intensive care unit",
-            "es": "unidad de cuidados intensivos (UVI)",
-            "fr": "unité de soins intensifs"
+            "fr": "unité de soins intensifs, (syn.) USI"
         }
     },
-    "unidade de pronto atendimento": {
+    "unidade de pronto atendimento, (syn.) centro de saúde, UPA": {
         "Descrições": {
-            "desc_pt": "Cuidados médicos",
-            "desc_en": "Medical care"
+            "desc_pt": "(sin.) centro de atendimento de urgência Uma clínica ambulante dirigida por profissionais médicos qualificados, ou seja, médicos e enfermeiros, na qual são prestados cuidados de urgência. MEDI, cuidados médicos",
+            "desc_en": "(syn.) urgent care center   A walk-in clinic led by qualified medical professionals, i.e. doctors and nurses, in which urgent care is delivered. MEDI, Medical care"
         },
         "Traduções": {
             "en": "urgent care facility",
-            "fr": "centre de soins non programmés"
+            "fr": "centre de soins non programmés, (syn.) service d'accueil médical non programmé"
         }
     },
     "unidade motora": {
@@ -34194,18 +34228,18 @@
     },
     "ventilação mecânica": {
         "Descrições": {
-            "desc_pt": "Ventilação pulmonar fornecida pela condução de ar fresco para os pulmões por pressão positiva e/ou pelo bombeamento de ar expiratório para fora dos pulmões por pressão negativa.",
-            "desc_en": "Lung ventilation provided by driving fresh air into the lungs by positive pressure and/or by pumping expiratory air out of the lungs by negative pressure."
+            "desc_pt": "Ventilação pulmonar fornecida pela condução de ar fresco para os pulmões por pressão positiva e/ou pelo bombeamento de ar expiratório para fora dos pulmões por pressão negativa. MEDI, cuidados médicos",
+            "desc_en": "Lung ventilation provided by driving fresh air into the lungs by positive pressure and/or by pumping expiratory air out of the lungs by negative pressure. MEDI, Medical care"
         },
         "Traduções": {
             "en": "mechanical ventilation",
             "fr": "ventilation artificielle"
         }
     },
-    "ventilação não-invasiva": {
+    "ventilação não-invasiva, (syn.) VNI": {
         "Descrições": {
-            "desc_pt": "Ventilação com pressão positiva fornecida através das vias respiratórias superiores de uma pessoa usando uma máscara de oxigênio.",
-            "desc_en": "Positive pressure ventilation provided through a person’s upper respiratory airways using an oxygen mask."
+            "desc_pt": "(sin.) VNI Ventilação com pressão positiva fornecida através das vias respiratórias superiores de uma pessoa usando uma máscara de oxigênio. MEDI, cuidados médicos",
+            "desc_en": "(syn.) NIV   Positive pressure ventilation provided through a person’s upper respiratory airways using an oxygen mask. MEDI, Medical care"
         },
         "Traduções": {
             "en": "non-invasive ventilation",
@@ -34214,8 +34248,8 @@
     },
     "ventilador mecânico": {
         "Descrições": {
-            "desc_pt": "Máquina que ajuda os pacientes a respirar, introduzindo ar fresco nos pulmões por pressão positiva e/ou bombeando o ar expiratório para fora dos pulmões por pressão negativa, substituindo parte ou todo o esforço muscular necessário para a ventilação pulmonar.",
-            "desc_en": "Machine that helps patients to breathe by driving fresh air into the lungs by positive pressure and/or by pumping expiratory air out of the lungs by negative pressure, replacing some or all of the muscular effort required for lung ventilation."
+            "desc_pt": "(sin.) ventilador Máquina que ajuda os pacientes a respirar, introduzindo ar fresco nos pulmões por pressão positiva e/ou bombeando o ar expiratório para fora dos pulmões por pressão negativa, substituindo parte ou todo o esforço muscular necessário para a ventilação pulmonar. MEDI, equipamento médico",
+            "desc_en": "(syn.) ventilator   Machine that helps patients to breathe by driving fresh air into the lungs by positive pressure and/or by pumping expiratory air out of the lungs by negative pressure, replacing some or all of the muscular effort required for lung ventilation. MEDI, Medical equipment"
         },
         "Traduções": {
             "en": "mechanical ventilator",
@@ -34352,8 +34386,8 @@
     },
     "vetor": {
         "Descrições": {
-            "desc_pt": "Organismo vivo que transmite indiretamente uma doença infecciosa a um hospedeiro suscetível, seja por carregar o agente infeccioso em seu corpo (vetor mecânico) ou por fornecer um ambiente no qual o agente infeccioso possa se reproduzir e sobreviver (vetor biológico).",
-            "desc_en": "Living organism that indirectly transmits an infectious disease to a susceptible host either by carrying the infectious agent on its body (mechanical vector) or by providing an environment in which the infectious agent can reproduce and survive (biological vector)."
+            "desc_pt": "Organismo vivo que transmite indiretamente uma doença infecciosa a um hospedeiro suscetível, seja por carregar o agente infeccioso em seu corpo (vetor mecânico) ou por fornecer um ambiente no qual o agente infeccioso possa se reproduzir e sobreviver (vetor biológico). CIEE, Biologia",
+            "desc_en": "Living organism that indirectly transmits an infectious disease to a susceptible host either by carrying the infectious agent on its body (mechanical vector) or by providing an environment in which the infectious agent can reproduce and survive (biological vector). SCIE, Biology"
         },
         "Traduções": {
             "en": "vector",
@@ -34362,8 +34396,8 @@
     },
     "vetor viral": {
         "Descrições": {
-            "desc_pt": "Vírus geneticamente modificado para uso em terapia genética.",
-            "desc_en": "Virus that has been genetically modified for use in gene therapy."
+            "desc_pt": "Vírus geneticamente modificado para uso em terapia genética. SCIE, Genética",
+            "desc_en": "Virus that has been genetically modified for use in gene therapy. SCIE, Genetics"
         },
         "Traduções": {
             "en": "viral vector",
@@ -34438,14 +34472,14 @@
             "es": "vigilancia"
         }
     },
-    "vigilância sanitária pública": {
+    "vigilância sanitária pública, (syn.) vigilância em saúde pública": {
         "Descrições": {
-            "desc_pt": "Coleta, análise e disseminação sistemáticas e contínuas de dados de saúde para ajudar a orientar a tomada de decisões e ações de saúde pública.",
-            "desc_en": "Ongoing systematic collection, analysis, and dissemination of health data to help guide public health decision making and action."
+            "desc_pt": "Coleta, análise e disseminação sistemáticas e contínuas de dados de saúde para ajudar a orientar a tomada de decisões e ações de saúde pública. MEDI, Saúde pública e higiene",
+            "desc_en": "Ongoing systematic collection, analysis, and dissemination of health data to help guide public health decision making and action.     MEDI, Public health & hygiene"
         },
         "Traduções": {
             "en": "public health surveillance",
-            "fr": "surveillance épidémiologique"
+            "fr": "surveillance épidémiologique, (syn.) surveillance de santé publique"
         }
     },
     "vigília": {
@@ -34518,8 +34552,8 @@
     },
     "vírus": {
         "Descrições": {
-            "desc_pt": "Agente infeccioso microscópico que pode se multiplicar apenas em células vivas de animais, plantas ou bactérias, consistindo de material genético, seja DNA ou RNA, alojado dentro de um capsídeo.",
-            "desc_en": "Microscopic infectious agent that can multiply only in living cells of animals, plants, or bacteria, consisting of genetic material, either DNA or RNA, housed inside a capsid."
+            "desc_pt": "Agente infeccioso microscópico que pode se multiplicar apenas em células vivas de animais, plantas ou bactérias, consistindo de material genético, DNA ou RNA, alojado dentro de um capsídeo. CIEE, Biologia",
+            "desc_en": "Microscopic infectious agent that can multiply only in living cells of animals, plants, or bacteria, consisting of genetic material, either DNA or RNA, housed inside a capsid. SCIE, Biology"
         },
         "Traduções": {
             "en": "virus",
@@ -34562,8 +34596,8 @@
     },
     "viseira de proteção facial": {
         "Descrições": {
-            "desc_pt": "Equipamento de proteção individual que protege os olhos e o rosto do usuário de sprays, respingos e gotículas de partículas grandes e evita a propagação de gotículas respiratórias do usuário para outras pessoas.",
-            "desc_en": "Personal protective equipment that protects the wearer’s eyes and face from sprays, splashes, and large-particle droplets, and prevents the spread of respiratory droplets from the wearer to others."
+            "desc_pt": "(sin.) protetor facial (sin.) viseira de rosto inteiro (sin.) viseira Equipamento de proteção individual que protege os olhos e o rosto do usuário contra sprays, respingos e gotículas de partículas grandes e evita a propagação de gotículas respiratórias do usuário para outros. ENVR, equipamento de proteção individual",
+            "desc_en": "(syn.) face shield (syn.) full-face visor (syn.) visor   Personal protective equipment that protects the wearer’s eyes and face from sprays, splashes, and large-particle droplets, and prevents the spread of respiratory droplets from the wearer to others. ENVR, Personal protective equipment"
         },
         "Traduções": {
             "en": "full face shield",
@@ -34764,8 +34798,8 @@
     },
     "zaragatoa": {
         "Descrições": {
-            "desc_pt": "Pedaço de material macio usado por um profissional de saúde para limpar feridas ou colher amostras do corpo de uma pessoa para fins de teste.",
-            "desc_en": "Piece of soft material used by a healthcare professional for cleaning wounds or taking samples from a person’s body for testing purposes."
+            "desc_pt": "Pedaço de material macio usado por um profissional de saúde para limpar feridas ou colher amostras do corpo de uma pessoa para fins de teste. MEDI, Equipamentos e procedimentos de diagnóstico",
+            "desc_en": "Piece of soft material used by a healthcare professional for cleaning wounds or taking samples from a person’s body for testing purposes.  MEDI, Diagnostic equipment & procedures"
         },
         "Traduções": {
             "en": "swab",
@@ -34791,8 +34825,8 @@
     },
     "zoonose": {
         "Descrições": {
-            "desc_pt": "Doença infecciosa transmissível em condições naturais de animais vertebrados para humanos.",
-            "desc_en": "Infectious disease that is transmissible under natural conditions from vertebrate animals to humans."
+            "desc_pt": "Doença infecciosa transmissível em condições naturais de animais vertebrados para humanos. MEDICINA, Patologia",
+            "desc_en": "Infectious disease that is transmissible under natural conditions from vertebrate animals to humans. MEDI, Pathology"
         },
         "Traduções": {
             "en": "zoonosis",
