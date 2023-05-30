@@ -10,19 +10,18 @@ divs = soup.find_all("div", class_="tab-content")
 
 lista = []
 for div in divs:
-    terms = div.find_all("h2") # Obter todos os elementos h2 dentro da div
+    terms = div.find_all("h2") # Obter todos os elementos h2 que estão dentro da div
 
     for i, term in enumerate(terms):
-        if i == len(terms) - 1:  # Ignorar o último elemento
+        if i == len(terms) - 1:  # Ignorar o último elemento que era as referências
             continue
 
-        title = term.text.strip() # Título do termo
-        description = term.find_next("p").text.strip() # Descrição do termo
+        title = term.text.strip() # Termo
+        description = term.find_next("p").text.strip() # Descrição
 
         lista.append({title: description})
 
-# Imprimir a lista completa
-print(lista)
+#print(lista)
 
 file = open("url_cruzverde.json", "w",encoding="utf-8")
 json.dump(lista, file, ensure_ascii=False, indent=4)
