@@ -10,10 +10,8 @@
         {% block styles %}
         {% endblock %}
         <style>
-            .link:focus {
-                background-color: #67380861;
-            }
-            .btn-link:focus {
+            .btn-link:focus,
+            .item-form:focus {
                 box-shadow: none;
             }
             .item-link:focus {
@@ -35,9 +33,9 @@
                           Termos Médicos
                         </button>
                         <ul class="dropdown-menu" aria-labelledby="dropdownMenuButton1">
-                          <li><a class="link dropdown-item" href="/terms">Dicionário</a></li>
-                          <li><a class="link dropdown-item" href="/categories">Categorias</a></li>
-                          <li><a class="link dropdown-item" href="/table">Tabela</a></li>
+                          <li><a class="item-link dropdown-item" href="/terms">Dicionário</a></li>
+                          <li><a class="item-link dropdown-item" href="/categories">Categorias</a></li>
+                          <li><a class="item-link dropdown-item" href="/table">Tabela</a></li>
                         </ul>
                     </div>
                     <a class="nav-link" href="/terms/search">Pesquisar</a>
