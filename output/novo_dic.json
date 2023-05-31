@@ -2928,7 +2928,7 @@
             "es": "área (motora/ premotora)"
         }
     },
-    "área  eloquente": {
+    "área eloquente": {
         "Traduções": {
             "en": "speech region (nonspeech region)",
             "es": "área (no) elocuente"
@@ -3304,7 +3304,7 @@
             "exp pop": "Expressão Popular - união, acoplamento, coordenação"
         }
     },
-    "associado/-a": {
+    "associado": {
         "Traduções": {
             "en": "in connection (with…), connected (with…), associated (with...)",
             "es": "asociado/-a (a…)"
@@ -4522,7 +4522,7 @@
             "es": "bulbo"
         }
     },
-    "bulloso/-a": {
+    "bulloso": {
         "Traduções": {
             "en": "bullous, bloated, bullate",
             "es": "bulloso/-a"
@@ -4818,12 +4818,6 @@
             "exp pop": "Expressão Popular - conduto"
         }
     },
-    "canal  estreito": {
-        "Traduções": {
-            "en": "spinal stenosis (cervical/lumbar)",
-            "es": "canal (cervical/ lumbar) estrecho"
-        }
-    },
     "canal auditivo": {
         "Traduções": {
             "en": "auditory canal, acoustic meatus",
@@ -4840,6 +4834,12 @@
         "Traduções": {
             "en": "adductor canal",
             "es": "canal del aductor"
+        }
+    },
+    "canal estreito": {
+        "Traduções": {
+            "en": "spinal stenosis (cervical/lumbar)",
+            "es": "canal (cervical/ lumbar) estrecho"
         }
     },
     "canal lacrimal": {
@@ -4860,16 +4860,16 @@
             "es": "cáncer"
         }
     },
-    "cancro  do seio": {
-        "Traduções": {
-            "en": "breast cancer",
-            "es": "cáncer de mama"
-        }
-    },
     "cancro caseificação": {
         "Traduções": {
             "en": "caseation",
             "es": "caseificación"
+        }
+    },
+    "cancro do seio": {
+        "Traduções": {
+            "en": "breast cancer",
+            "es": "cáncer de mama"
         }
     },
     "candidíase": {
@@ -4974,7 +4974,7 @@
             "es": "cápsula suprarrenal"
         }
     },
-    "captação  de contraste": {
+    "captação de contraste": {
         "Traduções": {
             "en": "(circular) accumulation of contrast medium",
             "es": "captación (de producto) de contraste anular"
@@ -6138,7 +6138,7 @@
             "es": "quiste"
         }
     },
-    "cisto  de ovário": {
+    "cisto de ovário": {
         "Traduções": {
             "en": "ovarian cyst, oophoritic cyst",
             "es": "quiste del ovario"
@@ -7891,19 +7891,19 @@
             "es": "córnea"
         }
     },
-    "corno  frontal": {
+    "corno frontal": {
         "Traduções": {
             "en": "anterior horn",
             "es": "cuerno frontal"
         }
     },
-    "corno  occipital": {
+    "corno occipital": {
         "Traduções": {
             "en": "dorsal horn",
             "es": "cuerno occipital"
         }
     },
-    "corno  temporal": {
+    "corno temporal": {
         "Traduções": {
             "en": "lateral horn",
             "es": "cuerno temporal"
@@ -7918,9 +7918,7 @@
     "coronário": {
         "Descrições": {
             "exp pop": "Expressão Popular - relativo a artérias e veias do coração"
-        }
-    },
-    "coronário/-a": {
+        },
         "Traduções": {
             "en": "coronary",
             "es": "coronario/-a"
@@ -8227,9 +8225,7 @@
     "crise": {
         "Descrições": {
             "exp pop": "Expressão Popular - pioramento repentino, ataque"
-        }
-    },
-    "crise (o crisis (convulsiva/ tónicoclónica/ focal/ motora/ sintomática/ partial complexa / mioclónicoastática)": {
+        },
         "Traduções": {
             "en": "seizure (convulsive/tonic-clonic/focal/motor/symptomatic/complex partial/myoclonic astatic)",
             "es": "crisis (convulsiva/ tónicoclónica/ focal/ motora/ sintomática/ parcial compleja (CPC)/ mioclónicoastática)"
@@ -10529,12 +10525,6 @@
             "zh": "疾病"
         }
     },
-    "doença  multisistémica": {
-        "Traduções": {
-            "en": "multisystem disorder (degenerative)",
-            "es": "enfermedad (degenerativa) multisistémica"
-        }
-    },
     "doença associada": {
         "Traduções": {
             "en": "concomitant disorder",
@@ -10673,6 +10663,12 @@
         "Traduções": {
             "en": "mental disorder, mental illness",
             "es": "enfermedad mental"
+        }
+    },
+    "doença multisistémica": {
+        "Traduções": {
+            "en": "multisystem disorder (degenerative)",
+            "es": "enfermedad (degenerativa) multisistémica"
         }
     },
     "doença profissional": {
@@ -11802,7 +11798,7 @@
             "es": "enfermería"
         }
     },
-    "enfermeira /-o": {
+    "enfermeira": {
         "Traduções": {
             "en": "nurse",
             "es": "enfermera /-o"
@@ -12231,7 +12227,7 @@
             "es": "epiglotis"
         }
     },
-    "epígrafado/-a": {
+    "epígrafado": {
         "Traduções": {
             "en": "the person mentioned above",
             "es": "la/ el mencionado/a"
@@ -12440,7 +12436,7 @@
             "es": "eritema"
         }
     },
-    "eritemato-descamativo/-a": {
+    "eritemato-descamativo": {
         "Traduções": {
             "en": "erythematous scaling and shedding",
             "es": "eritemato-descamativo/-a"
@@ -12977,7 +12973,7 @@
             "exp pop": "Expressão Popular - que mata os espermatozóides"
         }
     },
-    "espessado/-a": {
+    "espessado": {
         "Traduções": {
             "en": "thickened",
             "es": "engrosado/-a"
@@ -13585,7 +13581,7 @@
             "exp pop": "Expressão Popular - estrutural"
         }
     },
-    "estudo (…para  estudo)": {
+    "estudo": {
         "Traduções": {
             "en": "study, trial, examination",
             "es": "estudio (…para (o en) estudio)"
@@ -13698,7 +13694,7 @@
             "es": "evolución (benigna/ maligna)"
         }
     },
-    "evolutivo/-a": {
+    "evolutivo": {
         "Traduções": {
             "en": "advancing, gradually (which has been  developing for about one year)",
             "es": "evolutivo/-a, progresivo/-a (progresando desde cerca un ano)"
@@ -17271,9 +17267,7 @@
     "hipertermia": {
         "Descrições": {
             "exp pop": "Expressão Popular - aumento da temperatura, acaloramento"
-        }
-    },
-    "hipertermia (maligna )": {
+        },
         "Traduções": {
             "en": "hyperthermia (malignant)",
             "es": "hipertermia (maligna (HM))"
@@ -17753,7 +17747,7 @@
             "desc_pt": "Cruz Verde - Designação das substâncias provenientes das glândulas endócrinas, que desempenham ações das mais importantes num organismo."
         }
     },
-    "hormona  de crescimento": {
+    "hormona de crescimento": {
         "Traduções": {
             "en": "growth hormone",
             "es": "hormona de crecimiento"
@@ -20310,9 +20304,7 @@
         "Descrições": {
             "exp pop": "Expressão Popular - doença que afecta os órgãos formadores do sangue, caracterizada peloaumento dos glóbulos brancos em circulação",
             "desc_pt": "Cruz Verde - Doença neoplásica aguda ou crónica caracterizada pela proliferação anormal e geralmente intensa dos leucócitos e das suas células de origem na medula óssea, por vezes associada à proliferação dos eritroblastos. É acompanhada habitualmente por alterações quantitativas e qualitativas dos leucócitos no sangue periférico."
-        }
-    },
-    "leucemia (linfóide  aguda/ crónica)": {
+        },
         "Traduções": {
             "en": "leukemia (acute/chronic lymphocytic) (AALL/CLL)",
             "es": "leucemia (linfoide (o linfática) aguda/ crónica)"
@@ -21618,7 +21610,7 @@
             "es": "médico de familia"
         }
     },
-    "médico/-a de urgência": {
+    "médico de urgência": {
         "Traduções": {
             "en": "emergency physician",
             "es": "médico/-a de urgencia"
@@ -22169,9 +22161,7 @@
     "micológico": {
         "Descrições": {
             "exp pop": "Expressão Popular - relativo à micologia (estudo dos cogumelos)"
-        }
-    },
-    "micológico/-a": {
+        },
         "Traduções": {
             "en": "fungi",
             "es": "micológico/-a"
@@ -22809,7 +22799,7 @@
             "es": "morfología"
         }
     },
-    "morfologia N.  auditivo": {
+    "morfologia N. auditivo": {
         "Traduções": {
             "en": "vestibulocochlear nerve (VIII)",
             "es": "N. (nervio ) auditivo (VIII)"
@@ -23072,109 +23062,109 @@
             "es": "mutismo"
         }
     },
-    "N.  ciático": {
+    "N. ciático": {
         "Traduções": {
             "en": "sciatic nerve",
             "es": "N. (nervio ) ciático"
         }
     },
-    "N.  cubital": {
+    "N. cubital": {
         "Traduções": {
             "en": "ulnar nerve",
             "es": "N. (nervio ) cubital"
         }
     },
-    "N.  espinhal": {
+    "N. espinhal": {
         "Traduções": {
             "en": "accessory nerve (XI)",
             "es": "N. (nervio ) espinal (XI)"
         }
     },
-    "N.  facial": {
+    "N. facial": {
         "Traduções": {
             "en": "facial nerve (VII)",
             "es": "N. (nervio ) facial (VII)"
         }
     },
-    "N.  femoral": {
+    "N. femoral": {
         "Traduções": {
             "en": "femoral nerve",
             "es": "N. (nervio ) femoral"
         }
     },
-    "N.  glossofaríngeo": {
+    "N. glossofaríngeo": {
         "Traduções": {
             "en": "glossopharyngeal nerve (IX)",
             "es": "N. (nervio ) glosofaríngeo (IX)"
         }
     },
-    "N.  hipoglosso": {
+    "N. hipoglosso": {
         "Traduções": {
             "en": "hypoglossal nerve (XII)",
             "es": "N. (nervio ) hipogloso (XII)"
         }
     },
-    "N.  mediano": {
+    "N. mediano": {
         "Traduções": {
             "en": "median nerve",
             "es": "N. (nervio ) mediano"
         }
     },
-    "N.  motor ocular  externo": {
-        "Traduções": {
-            "en": "abducent nerve (VI)",
-            "es": "N. (nervio ) motor ocular (u oculomotor) externo (abdutor) (VI)"
-        }
-    },
-    "N.  motor ocular comum": {
+    "N. motor ocular comum": {
         "Traduções": {
             "en": "oculomotor nerve (III)",
             "es": "N. (nervio ) motor ocular común (u oculomotor interno) (III)"
         }
     },
-    "N.  musculocutâneo": {
+    "N. motor ocular externo": {
+        "Traduções": {
+            "en": "abducent nerve (VI)",
+            "es": "N. (nervio ) motor ocular (u oculomotor) externo (abdutor) (VI)"
+        }
+    },
+    "N. musculocutâneo": {
         "Traduções": {
             "en": "musculocutaneous nerve",
             "es": "N. (nervio ) musculocutáneo"
         }
     },
-    "N.  olfactivo": {
+    "N. olfactivo": {
         "Traduções": {
             "en": "olfactory nerve (I)",
             "es": "N. (nervio ) olfativo (I)"
         }
     },
-    "N.  óptico": {
+    "N. óptico": {
         "Traduções": {
             "en": "optic nerve (II)",
             "es": "N. (nervio ) óptico (II)"
         }
     },
-    "N.  patético": {
+    "N. patético": {
         "Traduções": {
             "en": "trochlear nerve",
             "es": "N. (nervio ) patético (IV)"
         }
     },
-    "N.  radial": {
+    "N. radial": {
         "Traduções": {
             "en": "radial nerve",
             "es": "N. (nervio ) radial"
         }
     },
-    "N.  recurrente": {
+    "N. recurrente": {
         "Traduções": {
             "en": "recurrent nerve (X)",
             "es": "N. (nervio ) recurrente (X)"
         }
     },
-    "N.  trigémio": {
+    "N. trigémio": {
         "Traduções": {
             "en": "trigeminal nerve (V)",
             "es": "N. (nervio ) trigemio (V)"
         }
     },
-    "N.  vago": {
+    "N. vago": {
         "Traduções": {
             "en": "vagus nerve (X)",
             "es": "N. (nervio ) vago (o neumogástrico) (X)"
@@ -23559,7 +23549,7 @@
             "es": "neurógeno"
         }
     },
-    "neurogénico/-a": {
+    "neurogénico": {
         "Traduções": {
             "en": "neurogenic",
             "es": "neurogénico/-a"
@@ -24472,7 +24462,7 @@
             "exp pop": "Expressão Popular - parecido com o ópalo ou que tem cores como ele"
         }
     },
-    "operador/-a": {
+    "operador": {
         "Traduções": {
             "en": "operator, operating surgeon",
             "es": "operador/-a"
@@ -24621,7 +24611,7 @@
             "es": "orificio"
         }
     },
-    "orifício externo  colo": {
+    "orifício externo colo": {
         "Traduções": {
             "en": "external mouth of uterus",
             "es": "orificio externo del cuello (OEC)"
@@ -25706,16 +25696,16 @@
             "es": "parto"
         }
     },
-    "parto  eutócico": {
-        "Traduções": {
-            "en": "spontaneous delivery (at term)",
-            "es": "parto (a término) eutócico (PTE)"
-        }
-    },
     "parto com fórceps": {
         "Traduções": {
             "en": "forceps delivery",
             "es": "parto con fórceps"
+        }
+    },
+    "parto eutócico": {
+        "Traduções": {
+            "en": "spontaneous delivery (at term)",
+            "es": "parto (a término) eutócico (PTE)"
         }
     },
     "parto prétermo": {
@@ -26875,7 +26865,7 @@
             "es": "placenta previa"
         }
     },
-    "planeamento  familiar": {
+    "planeamento familiar": {
         "Traduções": {
             "en": "family planning",
             "es": "planificación familiar"
@@ -27840,7 +27830,7 @@
             "es": "prevenir"
         }
     },
-    "preventivo/-a": {
+    "preventivo": {
         "Traduções": {
             "en": "preventive, prophylactic",
             "es": "preventivo/-a"
@@ -28653,7 +28643,7 @@
             "es": "purgante"
         }
     },
-    "puro/-a": {
+    "puro": {
         "Traduções": {
             "en": "pure",
             "es": "puro/-a"
@@ -30019,7 +30009,7 @@
             "es": "reposo"
         }
     },
-    "repouso  no leito": {
+    "repouso no leito": {
         "Traduções": {
             "en": "bed rest (complete/relative)",
             "es": "reposo (absoluto, relativo) en el lecho"
@@ -30427,16 +30417,16 @@
             "es": "rigidez (en rueda dentada)"
         }
     },
-    "rigidez  da nuca": {
-        "Traduções": {
-            "en": "neck stiffness (end-stage)",
-            "es": "rigidez (terminal) de nuca"
-        }
-    },
     "rigidez cadavérica": {
         "Traduções": {
             "en": "death rigor, cadaveric rigidity",
             "es": "rigidez cadavérica"
+        }
+    },
+    "rigidez da nuca": {
+        "Traduções": {
+            "en": "neck stiffness (end-stage)",
+            "es": "rigidez (terminal) de nuca"
         }
     },
     "rígido": {
@@ -30627,7 +30617,7 @@
             "exp pop": "Expressão Popular - ruptura, fractura dos tecidos ou de um órgão"
         }
     },
-    "rotura  de membranas": {
+    "rotura de membranas": {
         "Traduções": {
             "en": "amnion rupture (premature)",
             "es": "ruptura (prematura) de las membranas"
@@ -31515,7 +31505,7 @@
             "exp pop": "Expressão Popular - substância que estimula o sistema nervoso simpático"
         }
     },
-    "simulador/-a": {
+    "simulador": {
         "Traduções": {
             "en": "simulator, malingerer",
             "es": "simulador/-a"
@@ -31818,7 +31808,7 @@
             "es": "sínfisis"
         }
     },
-    "sinistrado/-a": {
+    "sinistrado": {
         "Traduções": {
             "en": "the injured",
             "es": "herido/-a"

@@ -30,7 +30,9 @@ for key, value in covid_original.items():
 
 obg_new = {}
 for key, value in obg.items():
-    key = re.sub(r'\([^()]+\)', '', key)
+    key = re.sub(r'\s*\([^()]+\)', '', key)
+    key = re.sub(r'/(-[a-zA-Z])', r'(\1)', key)
+    key = re.sub(r'\(.*\)', '', key)
     obg_new[key.strip()] = value
 
 # print(covid)
