@@ -28,7 +28,12 @@ for word in dic.keys():
         for hypernym in hypernyms:
             print(hypernym.name())
 
-            hypernym_name = GoogleTranslator(source='en', target='pt').translate(hypernym.name().split('.')[0])
+            if "_" in hypernym.name():
+                hypernym_name = hypernym.name().split('.')[0].split('_')[0] + hypernym.name().split('.')[0].split('_')[1]
+                hypernym_name = GoogleTranslator(source='en', target='pt').translate(hypernym_name)
+            else:
+                hypernym_name = GoogleTranslator(source='en', target='pt').translate(hypernym.name().split('.')[0])
+
             if hypernym_name in new_dic:
                 # verifica se o termo já lá está para não duplicar
                 existing_words = [item for item in new_dic[hypernym_name] if word in item]

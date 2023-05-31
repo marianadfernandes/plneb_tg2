@@ -4,7 +4,7 @@ import re
 
 app = Flask(__name__)
 
-file = open("./input/terms.json", encoding='utf-8')
+file = open("./output/novo_dic.json", encoding='utf-8')
 db = json.load(file)
 print(len(db))
 file.close()
