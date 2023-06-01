@@ -14,9 +14,9 @@ dic_mulher = {}
 for key, value in acog.items():
     dic_mulher[key] = {'desc_pt':"ACOG - " + value}
 
-for key, value in dic_mulher.items():
-    if key not in elara.keys():
-        dic_mulher[key] = {'desc_pt':"ACOG - " + elara.get(key)}
+for key, value in elara.items():
+    if key not in dic_mulher.keys():
+        dic_mulher[key] = {'desc_pt':"Elara Care - " + elara.get(key)}
 
 
 
