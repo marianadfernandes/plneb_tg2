@@ -3,7 +3,7 @@ from bs4 import BeautifulSoup
 import json
 from deep_translator import GoogleTranslator
 import locale
-
+ 
 # definir localização/internacionalização 
 locale.setlocale(locale.LC_COLLATE, 'pt_PT.UTF-8')
 
