@@ -794,7 +794,7 @@
     },
     "adjuvantes": {
         "Descrições": {
-            "desc_pt": "Google Tradutor - Substâncias usadas em vacinas que ajudam o corpo a criar uma resposta imunológica mais forte à vacina.",
+            "desc_pt": "Google Tradutor - Substâncias usadas em vacinas que ajudam o corpo a criar uma resposta imune mais forte à vacina.",
             "desc_en": "ACOG - Substances used in vaccines that help the body create a stronger immune response to the vaccine."
         },
         "Traduções": {
@@ -2172,7 +2172,7 @@
         },
         "Descrições": {
             "desc_pt": "Google Tradutor - As drogas que param a dor em uma parte do corpo.",
-            "desc_en": "ACOG - The drugs that stop pain in a part of the body."
+            "desc_en": "ACOG - The drugs that stop pain in a part of the body.\n"
         }
     },
     "anestesia regional": {
@@ -3217,7 +3217,7 @@
     },
     "apnéia da prematuridade": {
         "Descrições": {
-            "desc_pt": "Google Tradutor - Condição de bebês prematuros que faz com que a respiração pare por períodos de 15 a 20 segundos ou mais.",
+            "desc_pt": "Google Tradutor - Uma condição de bebês prematuros que faz com que a respiração pare por períodos de 15 a 20 segundos ou mais.",
             "desc_en": "ACOG - A condition of preterm babies that causes breathing to stop for periods of 15 to 20 seconds or longer."
         },
         "Traduções": {
@@ -3357,7 +3357,7 @@
             "es": "presentación pélvica"
         },
         "Descrições": {
-            "desc_pt": "Google Tradutor - Uma posição em que os pés ou nádegas do feto aparecem primeiro durante o nascimento.",
+            "desc_pt": "Google Tradutor - Uma posição em que os pés ou nádegas do feto aparecem primeiro durante o parto.",
             "desc_en": "ACOG - A position in which the feet or buttocks of the fetus appear first during birth."
         }
     },
@@ -4315,7 +4315,7 @@
     "aura": {
         "Descrições": {
             "exp pop": "Expressão Popular - sensação no início de um acesso de doença",
-            "desc_pt": "Google Tradutor - Uma sensação ou sentimento experimentado imediatamente antes do início de certos distúrbios, como ataques de enxaqueca ou ataques epiléticos. Essas sensações podem ser luzes piscando, um cheiro específico, tontura ou pontos de visão.",
+            "desc_pt": "Google Tradutor - Uma sensação ou sentimento experimentado pouco antes do início de certos distúrbios, como ataques de enxaqueca ou ataques epiléticos. Essas sensações podem ser luzes piscando, um cheiro específico, tontura ou pontos de visão.",
             "desc_en": "ACOG - A sensation or feeling experienced just before the onset of certain disorders like migraine attacks or epileptic seizures. These sensations may be flashing lights, a particular smell, dizziness, or seeing spots."
         },
         "Traduções": {
@@ -5085,7 +5085,7 @@
     "blastocisto": {
         "Descrições": {
             "desc_pt": "Google Tradutor - O estágio de desenvolvimento do embrião que ocorre 4 a 5 dias após a fertilização.",
-            "desc_en": "ACOG - The stage of embryo development that occurs 4 to 5 days after fertilization."
+            "desc_en": "ACOG - The stage of embryo development that occurs 4 to 5 days after fertilization.\n"
         },
         "Traduções": {
             "en": "Blastocyst"
@@ -16436,7 +16436,7 @@
     },
     "exame de ultrassom doppler": {
         "Descrições": {
-            "desc_pt": "Google Tradutor - Um tipo de ultrassom no qual as ondas sonoras podem dizer a velocidade com que um objeto está se movendo. O ultrassom Doppler pode ser usado para encontrar os batimentos cardíacos de um feto ou a velocidade com que o sangue está se movendo por uma veia ou artéria.",
+            "desc_pt": "Google Tradutor - Um tipo de ultrassom no qual as ondas sonoras podem dizer a velocidade com que um objeto está se movendo. O ultrassom Doppler pode ser usado para encontrar o batimento cardíaco de um feto ou a velocidade com que o sangue está se movendo por uma veia ou artéria.",
             "desc_en": "ACOG - A type of ultrasound in which sound waves can tell how fast an object is moving. Doppler ultrasound can be used to find the heartbeat of a fetus or how fast blood is moving through a vein or artery."
         },
         "Traduções": {
@@ -22276,7 +22276,7 @@
     },
     "índice de massa corporal (imc)": {
         "Descrições": {
-            "desc_pt": "Google Tradutor - Um número calculado a partir da altura e do peso. O IMC é usado para determinar se uma pessoa está abaixo do peso, peso normal, sobrepeso ou obesidade.",
+            "desc_pt": "Google Tradutor - Um número calculado a partir da altura e do peso. O IMC é usado para determinar se uma pessoa está abaixo do peso, peso normal, sobrepeso ou obesa.",
             "desc_en": "ACOG - A number calculated from height and weight. BMI is used to determine whether a person is underweight, normal weight, overweight, or obese."
         },
         "Traduções": {
@@ -22459,7 +22459,7 @@
     "infecção por fungos": {
         "Descrições": {
             "desc_pt": "Google Tradutor - Uma infecção causada por um crescimento excessivo de um fungo. Os sintomas podem incluir coceira, queimação e irritação da vulva ou vagina e uma secreção branca e espessa.",
-            "desc_en": "ACOG - An infection caused by an overgrowth of a fungus. Symptoms may include itching, burning, and irritation of the vulva or vagina and a thick, white discharge."
+            "desc_en": "ACOG - An infection caused by an overgrowth of a fungus. Symptoms may include itching, burning, and irritation of the vulva or vagina and a thick, white discharge. "
         },
         "Traduções": {
             "en": "Yeast Infection"
@@ -22735,7 +22735,7 @@
             "desc_en": "ACOG - A type of medication used to treat depression."
         },
         "Traduções": {
-            "en": "Selective Serotonin Reuptake Inhibitors (SSRIs)"
+            "en": " Selective Serotonin Reuptake Inhibitors (SSRIs)"
         }
     },
     "inicial": {
@@ -26952,7 +26952,7 @@
     "moduladores seletivos de receptores de estrogênio (serms)": {
         "Descrições": {
             "desc_pt": "Google Tradutor - Drogas que estimulam certos tecidos que respondem ao estrogênio, mas não estimulam outros tecidos que respondem ao estrogênio",
-            "desc_en": "ACOG - Drugs that stimulate certain tissues that respond to estrogen while not stimulating other tissues that respond to estrogen"
+            "desc_en": "ACOG - Drugs that stimulate certain tissues that respond to estrogen while not stimulating other tissues that respond to estrogen\n"
         },
         "Traduções": {
             "en": "Selective Estrogen Receptor Modulators (SERMs)"
@@ -27014,7 +27014,7 @@
     "monitoramento fetal": {
         "Descrições": {
             "desc_pt": "Google Tradutor - Métodos usados ​​para avaliar o bem-estar do feto.",
-            "desc_en": "ACOG - Methods used to evaluate the well-being of the fetus."
+            "desc_en": "ACOG - Methods used to evaluate the well-being of the fetus. "
         },
         "Traduções": {
             "en": "Fetal Monitoring"
@@ -36199,7 +36199,7 @@
     "ruptura pré-trabalho de membranas (prom)": {
         "Descrições": {
             "desc_pt": "Google Tradutor - Ruptura das membranas amnióticas que ocorre antes do início do trabalho de parto. Também chamada de ruptura prematura de membranas.",
-            "desc_en": "ACOG - Rupture of the amniotic membranes that happens before labor begins. Also called premature rupture of membranes."
+            "desc_en": "ACOG - Rupture of the amniotic membranes that happens before labor begins. Also called premature rupture of membranes.\n"
         },
         "Traduções": {
             "en": "Prelabor Rupture of Membranes (PROM)"
@@ -36394,7 +36394,7 @@
     "sangramento de escape": {
         "Descrições": {
             "desc_pt": "Google Tradutor - Sangramento vaginal que ocorre entre os períodos regulares.",
-            "desc_en": "ACOG - Vaginal bleeding that happens in between regular periods."
+            "desc_en": "ACOG - Vaginal bleeding that happens in between regular periods.\n"
         },
         "Traduções": {
             "en": "Breakthrough Bleeding"
@@ -37465,7 +37465,7 @@
     "síndrome de cowden": {
         "Descrições": {
             "desc_pt": "Google Tradutor - Uma condição genética que aumenta o risco de uma pessoa ter câncer de mama, tireóide, útero, cólon, rim e pele.",
-            "desc_en": "ACOG - A genetic condition that increases a person’s risk of cancer of the breast, thyroid, uterus, colon, kidney, and skin."
+            "desc_en": "ACOG -  A genetic condition that increases a person’s risk of cancer of the breast, thyroid, uterus, colon, kidney, and skin."
         },
         "Traduções": {
             "en": "Cowden Syndrome"
@@ -37552,7 +37552,7 @@
     "síndrome de patau (trissomia 13)": {
         "Descrições": {
             "desc_pt": "Google Tradutor - Uma condição genética que causa sérios problemas. Envolve o coração e o cérebro, fenda labial e palatina e dedos extras das mãos e pés.",
-            "desc_en": "ACOG - A genetic condition that causes serious problems. It involves the heart and brain, cleft lip and palate, and extra fingers and toes."
+            "desc_en": "ACOG - A genetic condition that causes serious problems. It involves the heart and brain, cleft lip and palate, and extra fingers and toes.\n"
         },
         "Traduções": {
             "en": "Patau Syndrome (Trisomy 13)"
@@ -39230,7 +39230,7 @@
     },
     "terapia cognitiva comportamental (tcc)": {
         "Descrições": {
-            "desc_pt": "Google Tradutor - Uma espécie de psicoterapia. Durante a TCC, você aprende habilidades específicas que o ajudam a mudar a maneira como pensa e lida com os problemas.",
+            "desc_pt": "Google Tradutor - Um tipo de psicoterapia. Durante a TCC, você aprende habilidades específicas que o ajudam a mudar a maneira como pensa e lida com os problemas.",
             "desc_en": "ACOG - A type of psychotherapy. During CBT, you learn specific skills that help you change the way you think about and cope with problems."
         },
         "Traduções": {
@@ -40576,7 +40576,7 @@
     "transtorno de estresse pós-traumático (tept)": {
         "Descrições": {
             "desc_pt": "Google Tradutor - Um distúrbio de saúde mental que algumas pessoas desenvolvem após passar por um trauma, como exposição à violência, morte, ferimentos graves ou agressão sexual.",
-            "desc_en": "ACOG - A mental health disorder that some people develop after experiencing trauma, such as exposure to violence, death, serious injury, or sexual assault."
+            "desc_en": "ACOG -  A mental health disorder that some people develop after experiencing trauma, such as exposure to violence, death, serious injury, or sexual assault."
         },
         "Traduções": {
             "en": "Post-Traumatic Stress Disorder (PTSD)"
