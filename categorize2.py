@@ -71,7 +71,7 @@ for key, value in dic.items():
     sim_cat = []
     if value.get("Traduções") is not None:
         if value['Traduções'].get('en') is not None:
-            new_key = value['Traduções']['en']
+            new_key = value['Traduções']['en'].split(",")[0]
             print("Original:", new_key)
     else:
         new_key = GoogleTranslator(source='pt', target='en').translate(key)
