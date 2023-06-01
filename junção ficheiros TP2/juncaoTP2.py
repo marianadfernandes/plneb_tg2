@@ -3,11 +3,12 @@ import locale
 
 locale.setlocale(locale.LC_ALL, '')
 
-with open ("url_cruzverde.json", "r", encoding="UTF8") as file:
+with open ("junção ficheiros TP2/url_cruzverde.json", "r", encoding="UTF8") as file:
     cv = json.load(file)
 
 with open ("ficheiros_TP1/dicionario_final.json", "r", encoding="UTF8") as file:
     dic = json.load(file)
+
 
 count = 0
 for key, value in dic.items():
