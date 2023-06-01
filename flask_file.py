@@ -12,15 +12,15 @@ db = json.load(file)
 print("tamanho dicionário final: ", len(db))
 file.close()
 
-file_cat = open("./output/dic_categorias.json", encoding='utf-8')
+file_cat = open("./output/dic_categorias_final.json", encoding='utf-8')
 cat = json.load(file_cat)
 print("tamanho dicionário categorias: ", len(cat))
 file_cat.close()
 
-file_img = open("./output/img_elements.json", encoding='utf-8')
-imgs = json.load(file_img)
-print("tamanho dicionário imagens: ",  len(imgs))
-file_img.close()
+# file_img = open("./output/img_elements.json", encoding='utf-8')
+# imgs = json.load(file_img)
+# print("tamanho dicionário imagens: ",  len(imgs))
+# file_img.close()
 
 
 @app.route("/")
@@ -175,7 +175,8 @@ def term_woman(t):
     keys_list = list(mulher.keys())
     index = keys_list.index(t)
     
-    return render_template("term_woman.html", designation=t, value=mulher.get(t, "None"), images=imgs, index=index)
+    # images=imgs
+    return render_template("term_woman.html", designation=t, value=mulher.get(t, "None"), index=index)
 
 
 @app.route("/terms-woman/search")
