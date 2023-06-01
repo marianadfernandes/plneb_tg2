@@ -1,0 +1,1142 @@
+{
+    "aborto cirúrgico": {
+        "desc_pt": "Um procedimento que termina uma gravidez indesejada removendo o feto e a placenta do útero da mãe (útero).",
+        "en": "Surgical abortion",
+        "desc_en": " A procedure that ends an undesired pregnancy by removing the fetus and placenta from the mother’s womb (uterus)."
+    },
+    "Aborto espontâneo": {
+        "desc_pt": "Um evento que resultou na perda de um feto antes de 20 semanas de gravidez.",
+        "en": "Miscarriage",
+        "desc_en": " An event that resulted in the loss of a fetus before 20 weeks of pregnancy."
+    },
+    "Abscesso": {
+        "desc_pt": "Uma bolsa confinada de pus que é coletada nos tecidos, órgãos ou outras partes do corpo.",
+        "en": "Abscess",
+        "desc_en": " A confined pocket of pus that is collected in the tissues, organs, or other parts of the body."
+    },
+    "Ácido tranexâmico": {
+        "desc_pt": "Um medicamento usado para tratar ou prevenir a perda excessiva de sangue por trauma grave, sangramento pós-parto, cirurgia, remoção de dentes, hemorragias nasais e menstruação intensa.",
+        "en": "Tranexamic Acid",
+        "desc_en": " A medication used to treat or prevent excessive blood loss from major trauma, postpartum bleeding, surgery, tooth removal, nosebleeds, and heavy menstruation."
+    },
+    "Adenomiose": {
+        "desc_pt": "Uma condição na qual pedaços do tecido que reveste o útero (endométrio) existem dentro e crescem na parede uterina.",
+        "en": "Adenomyosis",
+        "desc_en": " A condition in which bits of the tissue that lines the uterus (endometrium) exist within and grows into the uterine wall."
+    },
+    "Amenorréia": {
+        "desc_pt": "A ausência de períodos durante os anos reprodutivos.",
+        "en": "Amenorrhoea",
+        "desc_en": " The absence of periods during the reproductive years."
+    },
+    "Amenorréia hipotalâmica (HA)": {
+        "desc_pt": "Quando a menstruação para porque o hipotálamo interrompe ou retarda a produção de GnRH",
+        "en": "Hypothalamic amenorrhoea (HA)",
+        "desc_en": " When the period stops because the hypothalamus gland stops or slows the production of GnRH"
+    },
+    "Andrógenos": {
+        "desc_pt": "Um grupo de hormônios tradicionalmente referido como “masculino”, mas que pessoas de todos os gêneros possuem. A testosterona é um exemplo de hormônio andrógeno.",
+        "en": "Androgens",
+        "desc_en": " A group of hormones traditionally referred to as ‘male’, but which people of all genders have. Testosterone is an example of an androgen hormone."
+    },
+    "Anemia": {
+        "desc_pt": "Baixo número de glóbulos vermelhos. Em um exame de sangue de rotina, a anemia é relatada como baixa hemoglobina ou hematócrito.",
+        "en": "Anemia",
+        "desc_en": " Low number of red blood cells. In a routine blood test, anemia is reported as low hemoglobin or hematocrit."
+    },
+    "antibióticos": {
+        "desc_pt": "Medicamentos que são usados ​​para combater infecções bacterianas.",
+        "en": "Antibiotics",
+        "desc_en": " Medicines that are used to fight bacterial infections."
+    },
+    "Ânus": {
+        "desc_pt": "A abertura no final do trato digestivo, por onde as fezes saem do corpo.",
+        "en": "Anus",
+        "desc_en": " The opening at the end of the digestive tract, where stool leaves the body."
+    },
+    "Apnéia do sono": {
+        "desc_pt": "Distúrbio do sono no qual a respiração para e recomeça repetidamente. Pode ser causada devido à idade e obesidade.",
+        "en": "Sleep apnea",
+        "desc_en": " A sleeping disorder in which breathing repeatedly stops and starts. It can be caused due to age and obesity."
+    },
+    "Atrofia Vaginal": {
+        "desc_pt": "Afinamento, ressecamento e inflamação das paredes vaginais causadas pela falta de estrogênio.",
+        "en": "Vaginal Atrophy",
+        "desc_en": " The thinning, drying, and inflammation of the vaginal walls caused due to the lack of estrogen."
+    },
+    "Baixo peso de nascimento": {
+        "desc_pt": "Um termo usado para descrever uma criança nascida com peso de 5,5 libras (2.500 gramas) ou menos. Baixo peso ao nascer pode ocorrer quando um bebê nasce muito cedo",
+        "en": "Low birth weight",
+        "desc_en": " A term used to describe an infant born weighing 5.5 pounds (2500 grams) or less. Low birth weight may occur when an infant is born too early"
+    },
+    "Barragem dental": {
+        "desc_pt": "Um pedaço quadrado de folha de látex de 6 polegadas colocado sobre os órgãos genitais das mulheres ao receber sexo oral.",
+        "en": "Dental dam",
+        "desc_en": " A square, 6-inch piece of latex sheet placed over women’s genitals when receiving oral sex."
+    },
+    "Bexiga": {
+        "desc_pt": "Um órgão encontrado na parte inferior do abdome que armazena a urina.",
+        "en": "Bladder",
+        "desc_en": " An organ found in the lower abdomen that stores urine."
+    },
+    "Biópsia": {
+        "desc_pt": "O processo de coleta de uma amostra de células do corpo para exame.",
+        "en": "Biopsy",
+        "desc_en": " The process of taking a sample of cells from the body for examination."
+    },
+    "Bisfenol A (BPA)": {
+        "desc_pt": "Um disruptor endócrino que imita o estrogênio. Está presente em muitos produtos, desde garrafas de água e recipientes de alimentos até recibos de papel térmico e impressos, e pode causar câncer de mama e outras doenças e anormalidades.",
+        "en": "Bisphenol A (BPA)",
+        "desc_en": " An endocrine disruptor that mimics estrogen. It’s present in lots of goods, from water bottles and food containers to thermal paper receipts and printed on, and it can cause breast cancer and other illnesses and abnormalities."
+    },
+    "Bissexual": {
+        "desc_pt": "Uma atração sexual ou romântica por mais de um sexo ou gênero.",
+        "en": "Bisexual",
+        "desc_en": " A sexual or romantic attraction towards more than one sex or gender."
+    },
+    "Bobina Jaydess": {
+        "desc_pt": "Um sistema de administração intrauterina (SIU) em forma de T que, após a colocação dentro do útero, libera lentamente uma pequena quantidade do hormônio levonorgestrel.",
+        "en": "Jaydess coil",
+        "desc_en": " A T-shaped intrauterine delivery system (IUS) which after placement inside the womb slowly releases a small amount of the hormone levonorgestrel."
+    },
+    "Caloria": {
+        "desc_pt": "Uma unidade de medida definida como a quantidade de calor necessária para elevar a temperatura de um grama de água em um grau Celsius.",
+        "en": "Calorie",
+        "desc_en": " A unit of measurement defined as the amount of heat needed to raise the temperature of one gram of water by one degree Celsius."
+    },
+    "Câncer": {
+        "desc_pt": "Uma doença causada quando as células se dividem incontrolavelmente e se espalham nos tecidos circundantes.",
+        "en": "Cancer",
+        "desc_en": " A disease caused when cells divide uncontrollably and spread into surrounding tissues."
+    },
+    "Câncer cervical": {
+        "desc_pt": "Um tipo de câncer que ocorre nas células da parte inferior do útero que se conecta à vagina.",
+        "en": "Cervical Cancer",
+        "desc_en": " A type of cancer that occurs in the cells of the lower part of the uterus that connects to the vagina."
+    },
+    "Cancer de colo": {
+        "desc_pt": "Um tipo de câncer localizado na extremidade inferior do trato digestivo.",
+        "en": "Colon cancer",
+        "desc_en": " A type of cancer that is located at the digestive tract’s lower end."
+    },
+    "Câncer do endométrio": {
+        "desc_pt": "Um tipo de câncer que começa no revestimento do útero e ocorre em mulheres após os 55 anos de idade.",
+        "en": "Endometrial Cancer",
+        "desc_en": " A type of cancer that begins in the lining of the uterus occurring in women after the age of 55."
+    },
+    "Candidíase": {
+        "desc_pt": "A candidíase é uma infecção fúngica causada por uma levedura (um tipo de fungo) chamada Candida",
+        "en": "Candidiasis",
+        "desc_en": " Candidiasis is a fungal infection caused by a yeast (a type of fungus) called Candida"
+    },
+    "Cateter": {
+        "desc_pt": "Um tubo oco macio, introduzido na bexiga para drenar a urina.",
+        "en": "Catheter",
+        "desc_en": " A soft hollow tube, passed into the bladder to drain urine."
+    },
+    "Células": {
+        "desc_pt": "Os blocos de construção básicos de todos os seres vivos. Todos os seres humanos são feitos de trilhões de células.",
+        "en": "Cells",
+        "desc_en": " The basic building blocks of all living things. All humans are made up of trillions of cells."
+    },
+    "Cerclagem": {
+        "desc_pt": "Um tratamento para fraqueza cervical que também é chamado de ponto cervical. Uma variedade de procedimentos usa pontos ou fita sintética para reforçar o colo do útero durante a gravidez em mulheres com histórico de colo do útero curto.",
+        "en": "Cerclage",
+        "desc_en": " A treatment for cervical weakness which is also called cervical stitch. A variety of procedures use stitches or synthetic tape to reinforce the cervix during pregnancy in women with a history of a short cervix."
+    },
+    "Cesáriana": {
+        "desc_pt": "A cesariana é o procedimento de entrega cirúrgica de um bebê através de incisões no abdômen e no útero.",
+        "en": "Cesarean section",
+        "desc_en": " C-section is the procedure of surgically delivering a baby through incisions in the abdomen and uterus."
+    },
+    "ciclo anovulatório": {
+        "desc_pt": "Um ciclo menstrual em que a ovulação não ocorreu e, portanto, nenhuma progesterona foi produzida pelo corpo lúteo.",
+        "en": "Anovulatory cycle",
+        "desc_en": " A menstrual cycle in which ovulation did not take place, and therefore no progesterone was produced by the corpus luteum."
+    },
+    "Ciclo menstrual": {
+        "desc_pt": "Isso começa no primeiro dia do seu período e termina quando o próximo período começa.",
+        "en": "Menstrual cycle",
+        "desc_en": " This starts on the first day of your period and ends when your next period begins."
+    },
+    "cisto de Bartholin": {
+        "desc_pt": "Um inchaço cheio de líquido encontrado na glândula de Bartholin.",
+        "en": "Bartholin’s cyst",
+        "desc_en": " A fluid-filled swelling found on the Bartholin gland."
+    },
+    "Cistocele": {
+        "desc_pt": "Uma condição protuberante da bexiga na vagina. Pode ser causada como resultado de parto, constipação, tosse violenta, levantamento de peso ou outra tensão muscular pélvica.",
+        "en": "Cystocele",
+        "desc_en": " A bulged condition of the bladder into the vagina. It can be caused as a result of childbirth, constipation, violent coughing, heavy lifting, or other pelvic muscle strain."
+    },
+    "Clamídia": {
+        "desc_pt": "Infecção sexualmente transmissível (IST) causada por uma bactéria chamada chlamydia trachomatis.",
+        "en": "Chlamydia",
+        "desc_en": " A sexually transmitted infection (STI) caused by a bacteria called chlamydia trachomatis."
+    },
+    "Colo do útero": {
+        "desc_pt": "Um tecido de formato cilíndrico na parte mais inferior do útero, que conecta a vagina e o útero.",
+        "en": "Cervix",
+        "desc_en": " A cylindrically shaped tissue at the lowermost part of the uterus, that connects the vagina and the uterus."
+    },
+    "Cólon": {
+        "desc_pt": "A parte mais longa do intestino grosso que remove água e alguns nutrientes e eletrólitos dos alimentos parcialmente digeridos.",
+        "en": "Colon",
+        "desc_en": " The longest part of the large intestine that removes water and some nutrients and electrolytes from partially digested food."
+    },
+    "Colostro": {
+        "desc_pt": "A primeira fase do leite materno. Desenvolve-se durante a gravidez e dura vários dias após o parto. Pode aparecer amarelo e grosso ou claro e escorrendo.",
+        "en": "Colostrum",
+        "desc_en": " The first stage of breast milk. It develops during pregnancy and lasts for several days after giving birth. It can appear yellow and thick or clear and runny."
+    },
+    "Constipação": {
+        "desc_pt": "Uma condição em que uma pessoa tem dificuldade em esvaziar o intestino grosso",
+        "en": "Constipation",
+        "desc_en": " A condition when a person has difficulty emptying the large bowel"
+    },
+    "contagem de chutes": {
+        "desc_pt": "Uma contagem dos chutes do bebê medida como o tempo necessário para sentir 10 movimentos. 10 chutes ou menos em uma hora é considerado normal.",
+        "en": "Kick Count",
+        "desc_en": " A count of the baby’s kicks measured as the time taken to feel 10 movements. 10 kicks or less in one hour is considered normal."
+    },
+    "contrações uterinas": {
+        "desc_pt": "Aperto das fibras musculares uterinas que ocorrem de forma breve e intermitente durante a gravidez e de forma mais regular e vigorosa durante o trabalho de parto ativo.",
+        "en": "Uterine contractions",
+        "desc_en": " Tightening of uterine muscle fibers that occur briefly and intermittently throughout pregnancy, and more regularly and forcefully during active labor."
+    },
+    "Controle de natalidade": {
+        "desc_pt": "Um método usado para prevenir a gravidez.",
+        "en": "Birth control",
+        "desc_en": " A method used to prevent pregnancy."
+    },
+    "Cordão umbilical": {
+        "desc_pt": "Um tubo que conecta a mãe ao bebê durante a gravidez. Possui uma veia que transporta alimentos e oxigênio da placenta para o bebê e duas artérias que transportam resíduos do bebê de volta à placenta.",
+        "en": "Umbilical cord",
+        "desc_en": " A tube that connects the mum to the baby during pregnancy. It has one vein that carries food and oxygen from the placenta to the baby and two arteries that carry waste from the baby back to the placenta."
+    },
+    "coroa vaginal": {
+        "desc_pt": "Também conhecido como hímen, consiste em dobras finas de tecido mucoso localizadas de 1 a 2 centímetros dentro da abertura vaginal. Cada corona parece diferente e difere em tamanho, cor e forma. É levemente rosado, quase transparente, podendo assemelhar-se às pétalas de uma flor, a uma peça de quebra-cabeça ou a uma meia-lua. Na grande maioria dos casos, é elástico e elástico.",
+        "en": "Vaginal corona",
+        "desc_en": " Also known as the hymen, consists of thin folds of mucous tissue located 1–2 centimeters just inside the vaginal opening. Every corona looks different and differs in size, color, and shape. It is slightly pink, almost transparent, and may resemble the petals of a flower, a jigsaw piece, or a half-moon. In the vast majority of cases, it is elastic and stretchy."
+    },
+    "corpo lúteo": {
+        "desc_pt": "Após a ovulação, o folículo que continha o óvulo daquele mês colapsa e forma o corpo lúteo, uma glândula temporária que produz e secreta progesterona na segunda metade do ciclo.",
+        "en": "Corpus luteum",
+        "desc_en": " Following ovulation, the follicle which contained the egg for that month collapses and forms the corpus luteum, a temporary gland that produces and secretes progesterone in the second half of the cycle."
+    },
+    "cortisol": {
+        "desc_pt": "Um hormônio produzido pelas glândulas supra-renais que regulam um grande número de processos no corpo, incluindo os níveis de açúcar no sangue e a resposta imune. Também é liberado em resposta ao estresse.",
+        "en": "Cortisol",
+        "desc_en": " A hormone that’s produced by the adrenal glands which regulate a large number of processes in the body, including blood sugar levels and the immune response. It’s also released in the response to stress."
+    },
+    "Cuidados pré-natais": {
+        "desc_pt": "Uma forma de check-up de um médico, enfermeira ou parteira durante a gravidez.",
+        "en": "Prenatal Care",
+        "desc_en": " A form of checkup from a doctor, nurse, or midwife throughout your pregnancy."
+    },
+    "Depressão pós-parto (DPP)": {
+        "desc_pt": "Uma depressão que ocorre após o parto. Pode causar insônia, perda de apetite, irritabilidade intensa e dificuldade de se relacionar com o bebê.",
+        "en": "Postpartum depression (PPD)",
+        "desc_en": " A depression that occurs after childbirth. It might cause insomnia, loss of appetite, intense irritability, and difficulty bonding with the baby."
+    },
+    "Descarga": {
+        "desc_pt": "Fluido liberado pelas glândulas da vagina e do colo do útero. É a maneira do corpo de limpar e proteger a vagina.",
+        "en": "Discharge",
+        "desc_en": " A fluid released by glands in the vagina and cervix. It’s the body’s way of cleaning and protecting the vagina."
+    },
+    "Descolamento da placenta": {
+        "desc_pt": "Condição em que a placenta se separa da parede interna do útero antes do nascimento.",
+        "en": "Placental abruption",
+        "desc_en": " A condition where the placenta separates from the inner wall of the uterus before birth."
+    },
+    "desintoxicação de estrogênio": {
+        "desc_pt": "As maneiras pelas quais você metaboliza (processa) o estrogênio.",
+        "en": "Estrogen detoxification",
+        "desc_en": " The ways that you metabolize (process) estrogen."
+    },
+    "Desreguladores endócrinos": {
+        "desc_pt": "Produtos químicos em alimentos, pesticidas, produtos de higiene pessoal, plásticos e solventes que interferem no funcionamento do sistema endócrino.",
+        "en": "Endocrine disruptors",
+        "desc_en": " Chemicals in food, pesticides, personal care products, plastics, and solvents that interfere with how the endocrine system functions."
+    },
+    "Diabetes gestacional": {
+        "desc_pt": "Uma condição de alto nível de açúcar no sangue que afeta mulheres grávidas. Esta condição pode implicar um risco de diabetes tipo 2, mais tarde na vida.",
+        "en": "Gestational Diabetes",
+        "desc_en": " A high blood sugar condition that affects pregnant women. This condition can implicate a risk of type 2 diabetes, later on in life."
+    },
+    "Diabetes Mellitus": {
+        "desc_pt": "Um grupo de doenças que afeta o açúcar no sangue em seu corpo.",
+        "en": "Diabetes Mellitus",
+        "desc_en": " A group of diseases that affects the blood sugar in your body."
+    },
+    "Diafragma": {
+        "desc_pt": "É uma forma de controle de natalidade que impede a gravidez criando uma barreira entre o útero da mulher e o esperma do homem. É reutilizável, tem formato de cúpula e se encaixa na abertura do colo do útero.",
+        "en": "Diaphragm",
+        "desc_en": " It is a form of birth control, that prevents pregnancy by creating a barrier between a woman’s uterus and a man’s sperm. It is reusable, shaped like a dome, and fits over the opening of the cervix."
+    },
+    "discariose": {
+        "desc_pt": "Quando o teste de triagem cervical é positivo para HPV e mostra alterações anormais nas células do colo do útero, isso é chamado de “discariose”. A maioria dos resultados anormais mostram pequenas alterações celulares. Estes são chamados de discariose limítrofe, leve ou de baixo grau.",
+        "en": "Dyskaryosis",
+        "desc_en": " When your cervical screening test is HPV positive and shows abnormal changes in the cells of the cervix this is called ‘dyskaryosis’. Most abnormal results show minor cell changes. These are called borderline, mild, or low-grade dyskaryosis."
+    },
+    "dispareunia": {
+        "desc_pt": "Dor consistente na área genital ou na pelve durante a relação sexual.",
+        "en": "Dyspareunia",
+        "desc_en": " A consistent pain in the genital area or within the pelvis during sexual intercourse."
+    },
+    "Dispositivo intra-uterino (DIU)": {
+        "desc_pt": "Um dispositivo em forma de T, ligeiramente maior que um quarto, que se encaixa dentro do útero usado para controle de natalidade.",
+        "en": "Intrauterine device (IUD)",
+        "desc_en": " A device shaped like a T, slightly bigger than a quarter, that fits inside the uterus used for birth control."
+    },
+    "Doença cardiovascular": {
+        "desc_pt": "Um grupo de distúrbios do coração ou dos vasos sanguíneos que incluem pressão alta, ataque cardíaco, derrame, insuficiência cardíaca e outras doenças cardíacas.",
+        "en": "Cardiovascular Disease",
+        "desc_en": " A group of heart or blood vessel disorders that include high blood pressure, heart attack, stroke, heart failure, and other heart diseases."
+    },
+    "Doença celíaca": {
+        "desc_pt": "Uma reação imune à ingestão de glúten, uma proteína encontrada no trigo, cevada e centeio.",
+        "en": "Celiac disease",
+        "desc_en": " An immune reaction to eating gluten, a protein found in wheat, barley, and rye."
+    },
+    "Doença inflamatória intestinal": {
+        "desc_pt": "Um grupo de distúrbios intestinais que causam inflamação prolongada do trato digestivo.",
+        "en": "Inflammatory bowel disease",
+        "desc_en": " A group of intestinal disorders that cause prolonged inflammation of the digestive tract."
+    },
+    "Doença inflamatória pélvica": {
+        "desc_pt": "Uma infecção de um ou mais dos órgãos reprodutivos superiores, incluindo o útero, as trompas de Falópio e os ovários.",
+        "en": "Pelvic Inflammatory Disease",
+        "desc_en": " An infection of one or more of the upper reproductive organs, including the uterus, fallopian tubes, and ovaries."
+    },
+    "Eczema": {
+        "desc_pt": "Um termo para vários tipos diferentes de inchaço da pele, também conhecido como dermatite. Geralmente se desenvolve na primeira infância e é mais comum em pessoas com histórico familiar da doença.",
+        "en": "Eczema",
+        "desc_en": " A term for several different types of skin swelling, also known as dermatitis. It usually develops in early childhood and is more common in people who have a family history of the condition."
+    },
+    "Eletrocautério": {
+        "desc_pt": "Um procedimento cirúrgico que usa eletricidade para aquecer o tecido do corpo.",
+        "en": "Electrocautery",
+        "desc_en": " A surgical procedure that uses electricity to heat the body tissue."
+    },
+    "Endométrio": {
+        "desc_pt": "O revestimento interno do útero. Em cada ciclo menstrual, ele bombeia em preparação para a possível implantação do óvulo fertilizado e é eliminado durante a menstruação se a concepção não ocorrer.",
+        "en": "Endometrium",
+        "desc_en": " The inner lining of the uterus. In each menstrual cycle, it pumps up in preparation for the potential implantation of the fertilized egg and is shed during menstruation if conception does not take place."
+    },
+    "Endometriose": {
+        "desc_pt": "Um distúrbio doloroso no qual tecido semelhante ao tecido que normalmente reveste o interior do útero - o endométrio - cresce fora do útero.",
+        "en": "Endometriosis",
+        "desc_en": " A painful disorder in which tissue similar to the tissue that normally lines the inside of your uterus — the endometrium — grows outside your uterus."
+    },
+    "Esclerose Múltipla (EM)": {
+        "desc_pt": "Uma doença do cérebro e do sistema nervoso central que pode potencialmente levar a deficiências",
+        "en": "Multiple sclerosis (MS)",
+        "desc_en": " A disease of the brain and central nervous system that can potentially lead to disabilities"
+    },
+    "Espéculo": {
+        "desc_pt": "Uma ferramenta médica usada para investigar os orifícios do corpo.",
+        "en": "Speculum",
+        "desc_en": " A medical tool used to investigate body orifices."
+    },
+    "Espermicidas": {
+        "desc_pt": "Uma substância que destrói o esperma e é inserida na vagina antes da relação sexual para evitar a gravidez.",
+        "en": "Spermicides",
+        "desc_en": " A substance that destroys sperm and is inserted vaginally prior to intercourse to prevent pregnancy."
+    },
+    "espinha bífida": {
+        "desc_pt": "Um tipo de condição de defeito do tubo neural (DTN) que afeta a coluna vertebral e geralmente é aparente no nascimento. Isso pode acontecer em qualquer lugar ao longo da coluna se o tubo neural não fechar completamente.",
+        "en": "Spina bifida",
+        "desc_en": " A type of neural tube defect (NTD) condition that affects the spine and is usually apparent at birth. It can happen anywhere along the spine if the neural tube does not close all the way."
+    },
+    "Esterilização pós-parto": {
+        "desc_pt": "Um procedimento de esterilização realizado após o nascimento de um bebê.",
+        "en": "Postpartum Sterilization",
+        "desc_en": " A sterilization procedure performed after the birth of a baby."
+    },
+    "Estria": {
+        "desc_pt": "um tipo de cicatriz que se forma quando a pele é puxada pelo rápido crescimento ou estiramento são conhecidas como estrias.",
+        "en": "Stretch mark",
+        "desc_en": " a type of scar that forms when the skin is pulled by rapid growth or stretching are known as stretch marks."
+    },
+    "Estrogênio": {
+        "desc_pt": "O termo abrangente para as três formas de estrogênio; estradiol, estrona e estriol. O estrogênio é responsável pelo desenvolvimento e regulação do sistema reprodutor feminino, mas também está presente nos homens.",
+        "en": "Estrogen",
+        "desc_en": " The umbrella term for the three forms of estrogen; oestradiol, oestrone, and oestriol. Oestrogen is responsible for the development and regulation of the female reproductive system, but it’s also present in males."
+    },
+    "exame de Papanicolau": {
+        "desc_pt": "Um exame de Papanicolau, também chamado de teste de Papanicolau, é um procedimento de triagem de rotina para o câncer cervical.",
+        "en": "Pap test",
+        "desc_en": " A Pap smear, also called a Pap test, is a routine screening procedure for cervical cancer."
+    },
+    "Exame pélvico": {
+        "desc_pt": "Exame visual e físico feito por um médico dos órgãos reprodutivos de uma mulher.",
+        "en": "Pelvic exam",
+        "desc_en": " A doctor’s visual and physical examination of a woman’s reproductive organs."
+    },
+    "Fase folicular": {
+        "desc_pt": "A primeira metade do ciclo menstrual, começando quando um período começa e terminando na ovulação, na qual os folículos ovarianos crescem e amadurecem até liberar um óvulo na ovulação. Durante esta fase, o revestimento do útero engrossa em preparação para a implantação do ovo fertilizado.",
+        "en": "Follicular phase",
+        "desc_en": " The first half of the menstrual cycle, beginning when a period starts and ending at ovulation, in which ovarian follicles grow and mature until one releases an egg at ovulation. During this phase, the lining of the uterus thickens in preparation for the implantation of the fertilized egg."
+    },
+    "Fase lútea": {
+        "desc_pt": "A segunda metade do ciclo – da ovulação ao início da menstruação – que normalmente dura de 12 a 16 dias.",
+        "en": "Luteal phase",
+        "desc_en": " The second half of the cycle – from ovulation to the start of your period – which is typically 12-16 days in length."
+    },
+    "Fenilcetonúria (PKU)": {
+        "desc_pt": "Uma condição genética rara que faz com que um aminoácido chamado fenilalanina se acumule no corpo.",
+        "en": "Phenylketonuria (PKU)",
+        "desc_en": " A rare genetic condition that causes an amino acid called phenylalanine to build up in the body."
+    },
+    "Fertilização In Vitro (FIV)": {
+        "desc_pt": "Uma série de procedimentos envolvendo a recuperação de óvulos dos ovários de uma mulher e sua fertilização com esperma. O óvulo fertilizado, também conhecido como embrião, pode ser congelado para armazenamento ou transferido para o feto de uma mulher.",
+        "en": "In Vitro Fertilization (IVF)",
+        "desc_en": " A series of procedures involving retrieving eggs from a woman’s ovaries and fertilizing them with sperm. The fertilized egg, also known as an embryo can then be frozen for storage or transferred to a woman’s fetus."
+    },
+    "Feto": {
+        "desc_pt": "Filho não nascido que se desenvolve a partir de um embrião.",
+        "en": "Fetus",
+        "desc_en": " An unborn offspring that develops from an embryo."
+    },
+    "Fibroadenoma": {
+        "desc_pt": "Um tipo de nódulo que se desenvolve na mama principalmente em mulheres jovens.",
+        "en": "Fibroadenoma",
+        "desc_en": " A type of lump that develops in the breast mostly in young women."
+    },
+    "Fibrose cística (FC)": {
+        "desc_pt": "Um distúrbio perigoso que danifica os pulmões e o sistema digestivo, que é principalmente herdado. Afeta as células que produzem muco, suor e sucos digestivos e faz com que esses fluidos fiquem espessos e pegajosos.",
+        "en": "Cystic fibrosis (CF)",
+        "desc_en": " A dangerous disorder that damages the lungs and the digestive system which is mostly inherited. It affects the cells that produce mucus, sweat, and digestive juices and causes these fluids to be thick and sticky."
+    },
+    "Flúido amniótico": {
+        "desc_pt": "O fluido protetor contido dentro do saco amniótico que suporta o crescimento do feto e a transferência de nutrição entre o feto e a mãe.",
+        "en": "Amniotic fluid",
+        "desc_en": " The protective fluid contained inside the amniotic sac that supports fetus growth and nutrition transfer between the fetus and the mother."
+    },
+    "Folículo": {
+        "desc_pt": "Um saco cheio de líquido que contém um ovo imaturo. Durante a ovulação, um óvulo maduro é liberado de seu folículo, o folículo então colapsa e forma o corpo lúteo.",
+        "en": "Follicle",
+        "desc_en": " A fluid-filled sac that contains an immature egg. During ovulation a mature egg is released from its follicle, the follicle then collapses and forms the corpus luteum."
+    },
+    "Folículos de Naboth": {
+        "desc_pt": "Um nódulo cheio de muco na superfície do colo do útero ou canal cervical.",
+        "en": "Nabothian Follicles",
+        "desc_en": " A lump filled with mucus on the surface of the cervix or cervical canal."
+    },
+    "Fórceps": {
+        "desc_pt": "Um instrumento usado em um parto vaginal assistido é chamado de parto a fórceps. O instrumento tem a forma de um par de colheres grandes ou pinças. É usado para puxar suavemente a cabeça do bebê para ajudar a guiá-lo para fora do canal de parto.",
+        "en": "Forceps",
+        "desc_en": " An instrument used in an assisted vaginal delivery is called forceps delivery. The instrument is shaped like a pair of large spoons or tongs. It is used to gently pull the baby’s head to help guide the baby out of the birth canal."
+    },
+    "Galactosemia": {
+        "desc_pt": "Uma condição genética rara que impede que os bebês processem a galactose, um açúcar importante no leite materno.",
+        "en": "Galactosemia",
+        "desc_en": " A rare genetic condition that prevents babies from processing galactose, an important sugar in breast milk."
+    },
+    "glândula de Bartholin": {
+        "desc_pt": "Duas glândulas alveolares de tamanho pequeno que se encontravam uma de cada lado da abertura vaginal.",
+        "en": "Bartholin gland",
+        "desc_en": " Two small-sized alveolar glands that ate found one on each side of the vaginal opening."
+    },
+    "Globulina ligadora de hormônios sexuais (SHBG)": {
+        "desc_pt": "Uma proteína produzida pelo fígado que se liga ao excesso de hormônios, como estrogênio e testosterona.",
+        "en": "Sex hormone-binding globulin (SHBG)",
+        "desc_en": " A protein that’s made by your liver that binds to excess hormones, such as estrogen and testosterone."
+    },
+    "Gonorréia": {
+        "desc_pt": "Uma condição bacteriana que pode afetar o ânus, a garganta ou a uretra.",
+        "en": "Gonorrhea",
+        "desc_en": " A bacterial condition that can affect the anus, throat, or urethra."
+    },
+    "Grandes lábios": {
+        "desc_pt": "Um par de dobras cutâneas que cobrem os pequenos lábios, clitóris, vestíbulo da vulva, bulbos vestibulares, glândulas de Bartholin, glândulas de Skene, uretra e abertura vaginal.",
+        "en": "Labia Majora",
+        "desc_en": " A pair of skin folds that cover the labia minora, clitoris, vulva vestibule, vestibular bulbs, Bartholin’s glands, Skene’s glands, urethra, and the vaginal opening."
+    },
+    "Gravidez ectópica": {
+        "desc_pt": "Uma condição em que um óvulo fertilizado cresce fora do útero de uma mulher, em algum outro lugar em sua barriga",
+        "en": "Ectopic Pregnancy",
+        "desc_en": " A condition when a fertilized egg grows outside a woman’s uterus, somewhere else in their belly"
+    },
+    "Hemólise": {
+        "desc_pt": "Uma quebra dos glóbulos vermelhos.",
+        "en": "Hemolysis",
+        "desc_en": " A breakdown of red blood cells."
+    },
+    "Hemorragia pós-parto": {
+        "desc_pt": "Uma condição de sangramento excessivo após o parto.",
+        "en": "Postpartum Hemorrhage",
+        "desc_en": " A condition of excessive bleeding after childbirth."
+    },
+    "Herpes": {
+        "desc_pt": "uma infecção sexualmente transmissível (DST) que causa bolhas e úlceras.",
+        "en": "Herpes",
+        "desc_en": " a sexually transmitted infection (STI) that causes blisters and ulcers."
+    },
+    "Herpes genital": {
+        "desc_pt": "Uma infecção sexualmente transmissível (DST) comum causada pelo vírus herpes simplex e marcada por dor e feridas genitais.",
+        "en": "Genital Herpes",
+        "desc_en": " A common sexually transmitted infection (STI) caused by the herpes simplex virus and marked by genital pain and sores."
+    },
+    "Hiperplasia Atípica": {
+        "desc_pt": "Uma condição não cancerígena em que as células da mama aumentam em número e também desenvolvem uma alteração incomum na forma.",
+        "en": "Atypical Hyperplasia",
+        "desc_en": " A non-cancerous condition where the cells in the breast increase in number and also develop an unusual change in shape."
+    },
+    "Hipertensão": {
+        "desc_pt": "Também conhecida como pressão alta, é uma condição na qual a força do sangue contra as paredes das artérias é muito alta.",
+        "en": "Hypertension",
+        "desc_en": " Also known as High blood pressure, is a condition in which the force of the blood against the artery walls is too high."
+    },
+    "Hipertensão Gestacional": {
+        "desc_pt": "Uma condição de pressão alta na gravidez.",
+        "en": "Gestational Hypertension",
+        "desc_en": " A condition of high blood pressure in pregnancy."
+    },
+    "hipertireoidismo": {
+        "desc_pt": "Quando a glândula tireoide está hiperativa e produz muitos hormônios tireoidianos.",
+        "en": "Hyperthyroidism",
+        "desc_en": " When the thyroid gland is overactive and produces too many thyroid hormones."
+    },
+    "hipotireoidismo": {
+        "desc_pt": "Quando a glândula tireoide está hipoativa e não produz hormônios tireoidianos suficientes.",
+        "en": "Hypothyroidism",
+        "desc_en": " When the thyroid gland is underactive and doesn’t produce enough thyroid hormones."
+    },
+    "hirsutismo": {
+        "desc_pt": "Crescimento excessivo de pelos no rosto e no corpo, muitas vezes causado pelo excesso de andrógenos.",
+        "en": "Hirsutism",
+        "desc_en": " Excess hair growth on the face and body, often caused by excess androgens."
+    },
+    "Histerectomia": {
+        "desc_pt": "A remoção cirúrgica do útero. Quando os ovários e o colo do útero também são removidos, é chamada de histerectomia total, mas quando os ovários e o colo do útero não são removidos, é chamada de histerectomia parcial.",
+        "en": "Hysterectomy",
+        "desc_en": " The surgical removal of the uterus. When the ovaries and cervix are also removed it is referred to as a total hysterectomy, but when the ovaries and cervix are not removed, it is called a partial hysterectomy."
+    },
+    "histeroscopia": {
+        "desc_pt": "Um procedimento que permite ao médico examinar o interior do útero para diagnosticar ou tratar problemas no útero. Envolve a transmissão da imagem do útero para uma tela.",
+        "en": "Hysteroscopy",
+        "desc_en": " A procedure that allows a doctor to look inside the uterus to diagnose or treat problems in the uterus. It involves transmitting the image of the uterus onto a screen."
+    },
+    "Histerossalpingografia": {
+        "desc_pt": "Um procedimento usado para avaliar a forma do útero e verificar se as trompas de falópio estão abertas.",
+        "en": "Hysterosalpingography",
+        "desc_en": " A procedure used to evaluate the shape of the uterus and to check if the fallopian tubes are open."
+    },
+    "Hormônio folículo-estimulante (FSH)": {
+        "desc_pt": "Um hormônio produzido pela glândula pituitária que estimula os folículos em seus ovários, instruindo-os a crescer e amadurecer.",
+        "en": "Follicle-stimulating hormone (FSH)",
+        "desc_en": " A hormone produced by the pituitary gland which stimulates the follicles in your ovaries, instructing them to grow and mature."
+    },
+    "Hormônio liberador de gonadotrofina (GnRH)": {
+        "desc_pt": "Hormônio liberado pelo hipotálamo que estimula a hipófise a liberar FSH e LH",
+        "en": "Gonadotropin-releasing hormone (GnRH)",
+        "desc_en": " A hormone released by the hypothalamus gland which stimulates the pituitary gland to release FSH and LH"
+    },
+    "Hormônio Luteinizante (LH)": {
+        "desc_pt": "Hormônio produzido pela glândula pituitária. O aumento agudo de LH no final da primeira metade do ciclo desencadeia a ovulação e o desenvolvimento do corpo lúteo.",
+        "en": "Luteinizing hormone (LH)",
+        "desc_en": " A hormone produced by the pituitary gland. The acute rise of LH towards the end of the first half of the cycle triggers ovulation and the development of the corpus luteum."
+    },
+    "hormônios": {
+        "desc_pt": "substâncias químicas secretadas por glândulas especiais que funcionam essencialmente como mensageiros do corpo.",
+        "en": "Hormones",
+        "desc_en": " chemicals secreted by special glands that essentially function as messengers of the body."
+    },
+    "Infecção do trato urinário": {
+        "desc_pt": "Infecção em qualquer parte do sistema urinário, incluindo rins, ureteres, bexiga e uretra.",
+        "en": "Urinary tract infection",
+        "desc_en": " An infection in any part of the urinary system which includes the kidneys, ureters, bladder, and urethra."
+    },
+    "infecções fúngicas": {
+        "desc_pt": "Uma infecção causada pelo fungo candida na abertura da vagina (vulva) e pode causar inflamação, coceira intensa e uma secreção branca e espessa da vagina.",
+        "en": "yeast infections",
+        "desc_en": " An infection caused by the fungus candida at the opening of the vagina (vulva)., and can cause inflammation, intense itchiness, and a thick, white discharge from the vagina."
+    },
+    "Infecções sexualmente transmissíveis (ISTs)": {
+        "desc_pt": "Um termo usado para se referir a uma condição que é passada de uma pessoa para outra através do contato sexual.",
+        "en": "Sexually transmitted infections (STIs)",
+        "desc_en": " A term used to refer to a condition that’s passed from one person to another through sexual contact."
+    },
+    "Infértil": {
+        "desc_pt": "A incapacidade de engravidar apesar de ter relações sexuais frequentes e desprotegidas por pelo menos um ano para a maioria dos casais",
+        "en": "Infertile",
+        "desc_en": " The inability to get pregnant despite having frequent, unprotected sex for at least a year for most couples"
+    },
+    "Inflamação": {
+        "desc_pt": "parte da resposta do sistema imunológico para curar uma lesão ou combater uma infecção. Ele ficará inchado, vermelho e quente ao toque.",
+        "en": "Inflammation",
+        "desc_en": " part of the immune system’s response to heal an injury or fight an infection. It will be swollen, red, and warm to the touch."
+    },
+    "Insônia": {
+        "desc_pt": "Um distúrbio do sono causado por maus hábitos de sono, depressão, ansiedade, falta de exercício, doença crônica ou certos medicamentos.",
+        "en": "Insomnia",
+        "desc_en": " A sleeping disorder caused by poor sleeping habits, depression, anxiety, lack of exercise, chronic illness, or certain medication."
+    },
+    "Insuficiência ovariana primária (POI)": {
+        "desc_pt": "Uma condição que ocorre quando os ovários param de funcionar normalmente antes dos 40 anos. Faz com que os ovários não produzam quantidades normais do hormônio estrogênio ou liberem óvulos regularmente. Esta condição geralmente leva à infertilidade.",
+        "en": "Primary ovarian insufficiency (POI)",
+        "desc_en": " A condition that occurs when the ovaries stop functioning normally before age 40. It causes the ovaries to not produce normal amounts of the hormone estrogen or release eggs regularly. This condition often leads to infertility."
+    },
+    "Insulina": {
+        "desc_pt": "Hormônio produzido pelas células beta do pâncreas, considerado o principal hormônio anabólico do organismo. Regula o metabolismo de carboidratos, gorduras e proteínas, promovendo a absorção de glicose do sangue para o fígado, gordura e células musculares esqueléticas.",
+        "en": "Insulin",
+        "desc_en": " A hormone produced by beta cells of the pancreas, considered to be the main anabolic hormone of the body. It regulates the metabolism of carbohydrates, fats, and protein by promoting the absorption of glucose from the blood into the liver, fat, and skeletal muscle cells."
+    },
+    "Kegel": {
+        "desc_pt": "A prática de contrair e relaxar os músculos do assoalho pélvico.",
+        "en": "Kegel",
+        "desc_en": " The practice of contracting and relaxing your pelvic floor muscles."
+    },
+    "Lábios Menores": {
+        "desc_pt": "Um par de pequenas dobras de pele que começam no clitóris e se estendem para baixo. Forma o capuz do clitóris e o frênulo do clitóris.",
+        "en": "Labia Minora",
+        "desc_en": " A pair of small skin folds that begin at the clitoris and extend downward. It forms the clitoral hood and the frenulum of the clitoris."
+    },
+    "Lágrima Perineal": {
+        "desc_pt": "Uma lesão causada no tecido ao redor da vagina e do reto que pode acontecer durante o parto. Também é conhecido como rasgo vaginal.",
+        "en": "Perineal Tear",
+        "desc_en": " An injury caused to the tissue around your vagina and rectum that can happen during childbirth. It is also known as a vaginal tear."
+    },
+    "Laparoscopia": {
+        "desc_pt": "uma operação realizada no abdômen ou na pelve usando pequenas incisões com o auxílio de um laparoscópio.",
+        "en": "Laparoscopy",
+        "desc_en": " an operation performed in the abdomen or pelvis using small incisions with the aid of a laparoscope."
+    },
+    "Laparoscópio": {
+        "desc_pt": "0Um telescópio fino e iluminado usado para realizar laparoscopia.",
+        "en": "Laparoscope",
+        "desc_en": " 0A slender, lighted telescope used to conduct laparoscopy."
+    },
+    "lésbica": {
+        "desc_pt": "Uma mulher que tem uma orientação romântica e/ou sexual em relação a mulheres.",
+        "en": "Lesbian",
+        "desc_en": " A woman who has a romantic and/or sexual orientation toward women."
+    },
+    "Libido": {
+        "desc_pt": "Outra palavra para desejo sexual ou desejo sexual por atividade sexual.",
+        "en": "Libido",
+        "desc_en": " Another word for sex drive or sexual desire for sexual activity."
+    },
+    "linfonodos": {
+        "desc_pt": "Glândulas do sistema imunológico que aumentam em resposta a infecções bacterianas ou virais. O inchaço repentino desses nódulos pode indicar câncer.",
+        "en": "Lymph nodes",
+        "desc_en": " Glands of the immune system that enlarge as a response to bacterial or viral infections. Sudden swelling of these nodes can indicate cancer."
+    },
+    "Listeriose": {
+        "desc_pt": "Infecção grave causada pelo germe Listeria monocytogenes, após a ingestão de alimentos contaminados. A doença afeta principalmente mulheres grávidas, recém-nascidos, idosos e pessoas com sistema imunológico enfraquecido.",
+        "en": "Listeriosis",
+        "desc_en": " A serious infection caused by the germ Listeria monocytogenes, after eating contaminated food. The disease primarily affects pregnant women, newborns, older adults, and people with weakened immune systems."
+    },
+    "Lúpus": {
+        "desc_pt": "Uma doença inflamatória causada quando o sistema imunológico ataca seus próprios tecidos. Afeta as articulações, pele, rins, células sanguíneas, cérebro, coração e pulmões.",
+        "en": "Lupus",
+        "desc_en": " An inflammatory disease caused when the immune system attacks its own tissues. It affects the joints, skin, kidneys, blood cells, brain, heart, and lungs."
+    },
+    "Lúpus eritematoso sistêmico": {
+        "desc_pt": "Uma doença inflamatória causada quando o sistema imunológico ataca seus próprios tecidos.",
+        "en": "Systemic lupus erythematosus",
+        "desc_en": " An inflammatory disease caused when the immune system attacks its own tissues."
+    },
+    "Macrossomia": {
+        "desc_pt": "Termo usado para descrever um recém-nascido maior que o tamanho médio de 8 libras e 13 onças (4.000 gramas), independentemente de sua idade gestacional.",
+        "en": "Macrosomia",
+        "desc_en": " A term used to describe a newborn larger than the average size of 8 pounds, 13 ounces (4,000 grams), regardless of his or her gestational age."
+    },
+    "Mamilo": {
+        "desc_pt": "As pequenas pontas da mama de onde o leite pode ser secretado.",
+        "en": "Nipple",
+        "desc_en": " The small tips of the breast from which milk can be secreted."
+    },
+    "Mamografia": {
+        "desc_pt": "Uma imagem de raio-X das mamas que é usada para procurar sinais precoces de câncer de mama.",
+        "en": "Mammography",
+        "desc_en": " A X-ray picture of the breasts that is used to look for early signs of breast cancer."
+    },
+    "Mastite": {
+        "desc_pt": "Uma inflamação do tecido mamário que às vezes envolve uma infecção. Pode ser causada devido a um duto de leite bloqueado ou bactérias que entram na mama. Pode causar dor nas mamas, inchaço, calor, febre e calafrios.",
+        "en": "Mastitis",
+        "desc_en": " An inflammation of breast tissue that sometimes involves an infection.Could be caused due to a blocked milk duct or bacteria entering the breast. It can cause breast pain, swelling, warmth, fever, and chills."
+    },
+    "Masturbação": {
+        "desc_pt": "Autoprocedimento que envolve tocar e esfregar partes do corpo para obter prazer sexual, como clitóris, vulva, seios e ânus.",
+        "en": "Masturbation",
+        "desc_en": " Self-procedure involving touching and rubbing parts of the body for sexual pleasure, such as the clitoris, vulva, breasts, and anus."
+    },
+    "Mecônio": {
+        "desc_pt": "O primeiro cocô, fezes ou fezes de um recém-nascido.",
+        "en": "Meconium",
+        "desc_en": " A newborn’s first poop, stool, or feces."
+    },
+    "Menarca": {
+        "desc_pt": "O primeiro período que você já teve.",
+        "en": "Menarche",
+        "desc_en": " The first period you ever have."
+    },
+    "Menopausa": {
+        "desc_pt": "O fim dos seus anos menstruais, oficialmente alcançado um ano após o seu último período.",
+        "en": "Menopause",
+        "desc_en": " The end of your menstruating years, officially reached one year after your last period."
+    },
+    "Menstruação": {
+        "desc_pt": "Seu período. Também é chamado de menstruação.",
+        "en": "Menstruation",
+        "desc_en": " Your period. It is also called menses."
+    },
+    "Metabolismo": {
+        "desc_pt": "Um processo pelo qual seu corpo converte o que você come e bebe em energia.",
+        "en": "Metabolism",
+        "desc_en": " A process by which your body converts what you eat and drink into energy."
+    },
+    "método de barreira": {
+        "desc_pt": "Métodos de controle de natalidade que incluem diafragma, capuz cervical, preservativo masculino e preservativo feminino e espuma, esponjas e filme espermicida",
+        "en": "Barrier method",
+        "desc_en": " Methods of birth control that include diaphragm, cervical cap, male condom, and female condom and spermicidal foam, sponges, and film"
+    },
+    "Método de percepção da fertilidade (FAM)": {
+        "desc_pt": "A conscientização da fertilidade é uma forma de identificar períodos férteis e não férteis no ciclo menstrual, incluindo o uso de gráficos BBT, e pode ser usado para evitar ou conseguir a gravidez.",
+        "en": "Fertility awareness method (FAM)",
+        "desc_en": " Fertility awareness is a way to identify fertile and non-fertile times in the menstrual cycle, including the use of BBT charting, and can be used to avoid or achieve pregnancy."
+    },
+    "Método sintotérmico": {
+        "desc_pt": "Um conjunto de práticas usadas para determinar as fases férteis e inférteis do ciclo menstrual de uma mulher.",
+        "en": "Symptothermal method",
+        "desc_en": " A set of practices used to determine the fertile and infertile phases of a woman’s menstrual cycle."
+    },
+    "microbicida": {
+        "desc_pt": "Compostos que podem ser aplicados dentro da vagina ou reto para proteger contra infecções sexualmente transmissíveis (DSTs), incluindo HIV.",
+        "en": "Microbicide",
+        "desc_en": " Compounds that can be applied inside the vagina or rectum to protect against sexually transmitted infections (STIs) including HIV."
+    },
+    "microbioma": {
+        "desc_pt": "A comunidade de microorganismos que povoam seu corpo, ou uma parte específica do corpo – como o intestino ou a vagina – e que realizam muitos processos corporais, incluindo a produção de hormônios.",
+        "en": "Microbiome",
+        "desc_en": " The community of microorganisms that populate your body, or a specific part of the body – such as the gut or vagina – and which carry out loads of body processes, including manufacturing hormones."
+    },
+    "Minilaparotomia": {
+        "desc_pt": "Uma cirurgia feita nas trompas de falópio por meio de uma incisão com menos de 5 cm de comprimento",
+        "en": "Minilaparotomy",
+        "desc_en": " A surgery done to the fallopian tubes by means of an incision less than 5 cm in length"
+    },
+    "Mioma": {
+        "desc_pt": "Nódulos e outros crescimentos não cancerosos no útero se desenvolveram durante os anos férteis da mulher.",
+        "en": "Fibroid",
+        "desc_en": " Lumps and other noncancerous growths in the uterus developed during a woman’s bearing years."
+    },
+    "Miomas uterinos": {
+        "desc_pt": "Crescimentos não cancerosos no útero que podem se desenvolver durante os anos férteis de uma mulher.",
+        "en": "Uterine fibroids",
+        "desc_en": " Non-cancerous growths in the uterus that can develop during a woman’s childbearing years."
+    },
+    "Miomectomia": {
+        "desc_pt": "Um tipo de cirurgia usada para remover miomas uterinos, também chamados de leiomiomas.",
+        "en": "Myomectomy",
+        "desc_en": " A type of surgery used to remove uterine fibroids also called leiomyomas."
+    },
+    "Mycoplasma genitalium": {
+        "desc_pt": "Bactéria pequena, patogênica e sexualmente transmissível que vive nas células da pele dos tratos urinário e genital em humanos.",
+        "en": "Mycoplasma genitalium",
+        "desc_en": " A sexually transmitted, small, and pathogenic bacterium that lives on the skin cells of the urinary and genital tracts in humans."
+    },
+    "não proliferativo": {
+        "desc_pt": "Uma condição na qual os vasos sanguíneos da retina são danificados e desenvolvem pequenos vazamentos no diabetes. Sangue e fluido podem penetrar no dano e um material gorduroso pode se depositar na retina.",
+        "en": "Nonproliferative",
+        "desc_en": " A condition in which the retinal blood vessels get damaged and develop tiny leaks in diabetes. Blood and fluid can seep through the damage and a fatty material can deposit in the retina."
+    },
+    "Nascimento prematuro": {
+        "desc_pt": "Um termo para bebês nascidos vivos antes de completar 37 semanas de gravidez.",
+        "en": "Preterm birth",
+        "desc_en": " A term for babies born alive before 37 weeks of pregnancy is completed."
+    },
+    "Natimorto": {
+        "desc_pt": "A morte ou perda de um bebê antes ou durante o parto.",
+        "en": "Stillbirth",
+        "desc_en": " The death or loss of a baby before or during delivery."
+    },
+    "noradrenalina": {
+        "desc_pt": "Hormônio liberado pela medula adrenal e pelos nervos simpáticos e que funciona como neurotransmissor. Também é usado como medicamento para aumentar a pressão arterial.",
+        "en": "Noradrenaline",
+        "desc_en": " A hormone that is released by the adrenal medulla and by the sympathetic nerves and functions as a neurotransmitter. It is also used as a drug to raise blood pressure."
+    },
+    "Nutrientes": {
+        "desc_pt": "substâncias alimentares que fornecem energia para ajudar na construção de tecidos.",
+        "en": "Nutrients",
+        "desc_en": " food substances that provide energy to help in building tissues."
+    },
+    "Obesidade": {
+        "desc_pt": "Um distúrbio envolvendo excesso de gordura corporal que aumenta o risco de problemas de saúde.",
+        "en": "Obesity",
+        "desc_en": " A disorder involving excessive body fat that increases the risk of health problems."
+    },
+    "Orientação sexual": {
+        "desc_pt": "Um padrão de atração romântica ou sexual por pessoas do sexo ou gênero oposto, do mesmo sexo ou gênero, ou por ambos os sexos ou mais de um gênero.",
+        "en": "Sexual Orientation",
+        "desc_en": " A pattern of romantic or sexual attraction to persons of the opposite sex or gender, the same sex or gender, or to both sexes or more than one gender."
+    },
+    "Osteoporose": {
+        "desc_pt": "Condição na qual os ossos se tornam fracos e quebradiços. Isso ocorre porque uma nova criação de osso não acompanha a remoção de osso antigo.",
+        "en": "Osteoporosis",
+        "desc_en": " A condition in which bones become weak and brittle. This is because a new bone creation doesn’t keep up with old bone removal."
+    },
+    "ovários": {
+        "desc_pt": "Glândulas femininas nas quais os óvulos se formam e os hormônios femininos estrogênio e progesterona são produzidos.",
+        "en": "Ovaries",
+        "desc_en": " Female glands in which the eggs form and the female hormones estrogen and progesterone are made."
+    },
+    "Ovo": {
+        "desc_pt": "Os ovários contêm a célula do gameta feminino, chamada oócito. Em termos não médicos, o oócito é chamado de “ovo”.",
+        "en": "Egg",
+        "desc_en": " The ovaries contain the female gamete cell, called the oocyte. In non-medical terms, the oocyte is called the “egg”."
+    },
+    "Ovulação": {
+        "desc_pt": "Ocorre quando um folículo ovariano libera um óvulo maduro.",
+        "en": "Ovulation",
+        "desc_en": " Occurs when an ovarian follicle releases a mature egg."
+    },
+    "Painel lipídico/teste de perfil lipídico": {
+        "desc_pt": "um tipo de exame de sangue usado para medir as anormalidades nos lipídios, ou seja, a concentração de colesterol e gorduras em nosso sangue.",
+        "en": "Lipid panel/Lipid profile test",
+        "desc_en": " a type of blood test used to measure the abnormalities in lipids, or in other words, the concentration of cholesterol and fats in our blood."
+    },
+    "Papilomavírus Humano (HPV)": {
+        "desc_pt": "Uma infecção sexualmente transmissível (DST) muito comum que causa verrugas em várias partes do corpo.",
+        "en": "Human Papillomavirus (HPV)",
+        "desc_en": " A very common sexually transmitted infection (STI) that causes warts in various parts of the body."
+    },
+    "Parto Vaginal Espontâneo": {
+        "desc_pt": "Nascimento da prole através da vagina.",
+        "en": "Spontaneous Vaginal Delivery",
+        "desc_en": " Birth of the offspring through the vagina."
+    },
+    "pedras nos rins": {
+        "desc_pt": "Um depósito duro de minerais e sal que se junta nos rins causando dor que sai na urina concentrada.",
+        "en": "kidney stones",
+        "desc_en": " A hard deposit of minerals and salt that sticks together in the kidneys causing pain that comes out in concentrated urine."
+    },
+    "Perimenopausa": {
+        "desc_pt": "O período de tempo em que ocorrem alterações hormonais antes da interrupção da menstruação, o que pode resultar em sintomas como ondas de calor e insônia.",
+        "en": "Perimenopause",
+        "desc_en": " The period of time when hormone changes occur prior to your periods stopping which can result in symptoms such as hot flashes and insomnia."
+    },
+    "Períneo": {
+        "desc_pt": "Uma área que protege os músculos do assoalho pélvico e os vasos sanguíneos que irrigam os órgãos genitais e o trato urinário.",
+        "en": "Perineum",
+        "desc_en": " An area that protects the pelvic floor muscles and the blood vessels that supply the genitals and urinary tract."
+    },
+    "Peso corporal basal (BBT)": {
+        "desc_pt": "A temperatura corporal mais baixa atingida durante o repouso. É tomada imediatamente após acordar pela manhã e, como as temperaturas são mais altas após a ovulação e durante a segunda metade do ciclo, pode ser usada para identificar quando ocorreu a ovulação.",
+        "en": "Basal body weight (BBT)",
+        "desc_en": " The lowest body temperature reached during rest. It is taken immediately after waking in the morning and because temperatures are higher after ovulation and throughout the second half of the cycle, it can be used to identify when ovulation has taken place."
+    },
+    "Placenta": {
+        "desc_pt": "Um órgão que se desenvolve no útero durante a gravidez. Ele fornece oxigênio e nutrientes para o bebê em crescimento e remove os resíduos do sangue do bebê. A placenta se liga à parede do útero e dela surge o cordão umbilical do bebê.",
+        "en": "Placenta",
+        "desc_en": " An organ that develops in the uterus during pregnancy. It provides oxygen and nutrients to the growing baby and removes waste products from the baby’s blood. The placenta attaches to the wall of the uterus, and the baby’s umbilical cord arises from it."
+    },
+    "pólipos": {
+        "desc_pt": "Crescimentos anormais de tecido que na maioria das vezes se parecem com pequenas protuberâncias planas ou pequenos caules semelhantes a cogumelos.",
+        "en": "Polyps",
+        "desc_en": " Abnormal tissue growths that most often look like small, flat bumps or tiny mushroom-like stalks."
+    },
+    "Pós-parto": {
+        "desc_pt": "O período de tempo que começa após o parto e nunca termina.",
+        "en": "Postpartum",
+        "desc_en": " The period of time which begins after giving birth and never ends."
+    },
+    "Pré-eclâmpsia": {
+        "desc_pt": "Uma complicação potencialmente perigosa da gravidez caracterizada por pressão alta.",
+        "en": "Preeclampsia",
+        "desc_en": " A potentially dangerous pregnancy complication characterized by high blood pressure."
+    },
+    "pregnenolona": {
+        "desc_pt": "Um hormônio produzido pelas glândulas supra-renais que é o precursor de vários outros hormônios, como cortisol, estrogênio, progesterona e testosterona.",
+        "en": "Pregnenolone",
+        "desc_en": " A hormone made by the adrenal glands which is the precursor to several other hormones, such as cortisol, estrogen, progesterone, and testosterone."
+    },
+    "pré-menstrual": {
+        "desc_pt": "Uma ou duas semanas antes da menstruação.",
+        "en": "Premenstruum",
+        "desc_en": " The week or two preceding menstruation."
+    },
+    "Progestágeno": {
+        "desc_pt": "Um hormônio sintético que é semelhante, mas não igual à progesterona.",
+        "en": "Progestin",
+        "desc_en": " A synthetic hormone that is similar to but not the same as progesterone."
+    },
+    "progesterona": {
+        "desc_pt": "O hormônio produzido pelo ovário após a ovulação que é necessário para sustentar uma gravidez.",
+        "en": "Progesterone",
+        "desc_en": " The hormone made by the ovary after ovulation that is necessary in order to sustain a pregnancy."
+    },
+    "Prolapso Vaginal": {
+        "desc_pt": "Uma condição em que os músculos e ligamentos do assoalho pélvico se esticam e enfraquecem e não são mais capazes de fornecer suporte suficiente para o útero. Como resultado disso, o útero escorrega ou se projeta para fora da vagina.",
+        "en": "Vaginal Prolapse",
+        "desc_en": " A condition where the pelvic floor muscles and ligaments stretch and weaken and are no longer able to provide enough support for the uterus. As a result of this, the uterus slips down or protrudes out of the vagina."
+    },
+    "Puberdade": {
+        "desc_pt": "Os primeiros anos da adolescência e se completam quando as meninas experimentam seu primeiro período menstrual.",
+        "en": "Puberty",
+        "desc_en": " The beginning years of adolescence, and is complete when girls experience their first menstrual period."
+    },
+    "Quimioterapia": {
+        "desc_pt": "Um tipo de procedimento de tratamento do câncer que usa um ou mais medicamentos anticâncer como parte de um regime de quimioterapia padronizado.",
+        "en": "Chemotherapy",
+        "desc_en": " A type of cancer treatment procedure that uses one or more anti-cancer drugs as part of a standardized chemotherapy regimen."
+    },
+    "Radioterapia": {
+        "desc_pt": "Um tipo de tratamento contra o câncer que usa feixes de energia intensa para matar as células cancerígenas.",
+        "en": "Radiation Therapy",
+        "desc_en": " A type of cancer treatment that uses beams of intense energy to kill cancer cells."
+    },
+    "Relações sexuais": {
+        "desc_pt": "Uma atividade sexual tipicamente envolvendo a inserção e a penetração do pênis na vagina para prazer sexual, reprodução ou ambos.",
+        "en": "Sexual Intercourse",
+        "desc_en": " A sexual activity typically involving the insertion and thrusting of the penis into the vagina for sexual pleasure, reproduction, or both."
+    },
+    "Ressectoscópio": {
+        "desc_pt": "Um instrumento fino, semelhante a um tubo, que possui uma luz e uma lente para visualização, usado para remover tecido de dentro do corpo.",
+        "en": "Resectoscope",
+        "desc_en": " A thin, tube-like instrument that has a light and a lens for viewing, used to remove tissue from inside the body."
+    },
+    "Ressonância Magnética (MRI)": {
+        "desc_pt": "Uma tecnologia de imagem que produz imagens anatômicas tridimensionais detalhadas. É usado em radiologia para formar imagens da anatomia e dos processos fisiológicos do corpo.",
+        "en": "Magnetic Resonance Imaging (MRI)",
+        "desc_en": " An imaging technology that produces 3 dimensional, detailed anatomical images. It is used in radiology to form pictures of the anatomy and the physiological processes of the body."
+    },
+    "Restrição de crescimento fetal": {
+        "desc_pt": "Também conhecida como restrição de crescimento intrauterino (IUGR), é uma condição na qual o bebê não cresce até o tamanho ou peso esperado durante a gravidez.",
+        "en": "Fetal Growth Restriction",
+        "desc_en": " Also known as Intrauterine growth restriction (IUGR), it is a condition in which the baby doesn’t grow to the expected size or weight during pregnancy."
+    },
+    "Reto": {
+        "desc_pt": "Os últimos centímetros do intestino grosso mais próximos do ânus.",
+        "en": "Rectum",
+        "desc_en": " The last several inches of the large intestine closest to the anus."
+    },
+    "Saco amniótico": {
+        "desc_pt": "Um saco cheio de líquido que contém e protege o feto no útero.",
+        "en": "Amniotic sac",
+        "desc_en": " A fluid-filled sac that contains and protects the fetus in the womb."
+    },
+    "Sangramento de privação": {
+        "desc_pt": "A menstruação produzida quando alguém que usa anticoncepcionais hormonais, como a pílula, experimenta uma queda (ou retirada) dos hormônios quando toma as pílulas de placebo em sua embalagem, fazendo com que seu endométrio se desprenda.",
+        "en": "Withdrawal bleed",
+        "desc_en": " The monthly bleeding produced when someone using hormonal birth control such as the pill experiences a drop (or withdrawal) of hormones when they take the placebo pills in their pack, causing their endometrium to shed."
+    },
+    "Saúde pré-concepcional": {
+        "desc_pt": "A saúde da mulher antes de engravidar.",
+        "en": "Preconception health",
+        "desc_en": " A woman’s health before she becomes pregnant."
+    },
+    "Sífilis": {
+        "desc_pt": "Uma infecção sexualmente transmissível (DST) causada por um tipo de bactéria conhecida como Treponema pallidum.",
+        "en": "Syphilis",
+        "desc_en": " A sexually transmitted infection (STI) caused by a type of bacteria known as Treponema pallidum."
+    },
+    "Síndrome da morte súbita infantil (SIDS)": {
+        "desc_pt": "A morte inexplicável, geralmente durante o sono, de um bebê aparentemente saudável com menos de um ano de idade. Também é conhecida como morte no berço.",
+        "en": "Sudden infant death syndrome (SIDS)",
+        "desc_en": " The unexplained death, usually during sleep, of a seemingly healthy baby less than a year old. It is also known as crib death."
+    },
+    "Síndrome da pós-maturidade": {
+        "desc_pt": "Refere-se a um feto cujo ganho de peso no útero após a data de vencimento parou, geralmente devido a um problema com a entrega de sangue ao feto através da placenta, levando à desnutrição.",
+        "en": "Postmaturity Syndrome",
+        "desc_en": " Refers to a fetus whose weight gain in the uterus after the due date has stopped, usually due to a problem with the delivery of blood to the fetus through the placenta, leading to malnourishment."
+    },
+    "Síndrome do Choque Tóxico (TSS)": {
+        "desc_pt": "É uma condição causada por bactérias que entram no corpo e liberam toxinas nocivas. Principalmente encontrado durante o uso de absorventes internos.",
+        "en": "Toxic Shock Syndrome (TSS)",
+        "desc_en": " It is a condition caused by bacteria getting into the body and releasing harmful toxins. Mostly found during tampon usage."
+    },
+    "Síndrome dos ovários policísticos (SOP)": {
+        "desc_pt": "Um distúrbio hormonal que causa ovários aumentados com pequenos cistos nas bordas externas e pode levar a períodos menstruais irregulares ou prolongados",
+        "en": "Polycystic ovary syndrome (PCOS)",
+        "desc_en": " A hormonal disorder causing enlarged ovaries with small cysts on the outer edges and can lead to irregular or prolonged menstrual periods"
+    },
+    "Síndrome geniturinária da menopausa": {
+        "desc_pt": "Um termo que descreve os vários sintomas e sinais da menopausa, incluindo sintomas genitais, sintomas sexuais e sintomas urinários",
+        "en": "Genitourinary Syndrome of Menopause",
+        "desc_en": " A term that describes the various menopausal symptoms and signs including genital symptoms, sexual symptoms, and urinary symptoms"
+    },
+    "Síndrome HELLP": {
+        "desc_pt": "Um grupo de sintomas devido à hipertensão arterial desenvolvido durante a gravidez. Geralmente se desenvolve antes da 37ª semana de gravidez, mas pode ocorrer logo após o parto. A síndrome HELLP é uma quebra de hemólise (H), enzimas hepáticas (EL) e baixa contagem de plaquetas (LP) que ocorre na gravidez.",
+        "en": "HELLP Syndrome",
+        "desc_en": " A group of symptoms due to high blood pressure developed during pregnancy. It usually develops before the 37th week of pregnancy but can occur shortly after delivery. HELLP syndrome is a breakdown of Hemolysis(H), Liver enzymes (EL), and Low platelet count (LP) occurring in pregnancy."
+    },
+    "Síndrome pré-menstrual (TPM)": {
+        "desc_pt": "O médico e os sintomas emocionais que podem ocorrer no período pré-menstrual.",
+        "en": "Premenstrual syndrome (PMS)",
+        "desc_en": " The physician and emotional symptoms that can occur in the premenstruum."
+    },
+    "Sistema endócrino": {
+        "desc_pt": "As glândulas produtoras de hormônios em seu corpo, como hipófise, hipotálamo, tireóide, supra-renais e ovários.",
+        "en": "Endocrine system",
+        "desc_en": " The hormone-producing glands in your body, such as your pituitary, hypothalamus, thyroid, adrenals, and ovaries."
+    },
+    "Sistema imunológico": {
+        "desc_pt": "Uma rede de células e proteínas que defende o corpo contra infecções.",
+        "en": "Immune system",
+        "desc_en": " A network of cells and proteins that defends the body against infection."
+    },
+    "Sonhos vívidos": {
+        "desc_pt": "Esse fenômeno pode ser positivo ou negativo, ocorrendo em imagens fantasiosas ou realistas durante o movimento rápido dos olhos (REM) do seu sono. Esse sono aparece a cada 90 minutos durante o ciclo do sono e dura de 20 a 25 minutos, o que significa que cerca de 25% do sono é gasto nesse ciclo.",
+        "en": "Vivid dreams",
+        "desc_en": " This phenomenon may be positive or negative, occurring in fantasy or realistic images during rapid eye movement (REM) of your sleep. This sleep appears every 90 minutes during the sleep cycle and is and lasts for 20-25 minutes, meaning that about 25% of sleep is spent in this cycle."
+    },
+    "Sonohisterografia": {
+        "desc_pt": "Uma aplicação da ultrassonografia médica aos órgãos pélvicos femininos, bem como à bexiga, aos anexos e à bolsa reto-uterina. O procedimento pode levar a outros achados clinicamente relevantes na pelve.",
+        "en": "Sonohysterography",
+        "desc_en": " An application of medical ultrasonography to the female pelvic organs as well as the bladder, the adnexa, and the recto-uterine pouch. The procedure may lead to other medically relevant findings in the pelvis."
+    },
+    "SOP": {
+        "desc_pt": "A síndrome dos ovários policísticos (SOP) é ​​um distúrbio hormonal comum entre mulheres em idade reprodutiva.",
+        "en": "PCOS",
+        "desc_en": " Polycystic ovary syndrome (PCOS) is a hormonal disorder common among women of reproductive age."
+    },
+    "Tecido mucoso": {
+        "desc_pt": "É a membrana que cobre e reveste várias cavidades no corpo de um organismo.",
+        "en": "Mucous tissue",
+        "desc_en": " It is the membrane that covers and lines various cavities in an organism's body."
+    },
+    "Terapia hormonal da menopausa (THM)": {
+        "desc_pt": "Uma forma de terapia hormonal usada para tratar os sintomas associados à menopausa feminina.",
+        "en": "Menopausal hormone therapy (MHT)",
+        "desc_en": " A form of hormone therapy used to treat symptoms associated with female menopause."
+    },
+    "Teste de prolactina (PRL)": {
+        "desc_pt": "Um teste usado para medir a quantidade de um hormônio chamado prolactina existe no sangue.",
+        "en": "Prolactin test (PRL)",
+        "desc_en": " A test used to measure how much of a hormone called prolactin there is in the blood."
+    },
+    "Teste de Triagem": {
+        "desc_pt": "Uma medida preventiva usada para detectar um possível problema de saúde ou doença em alguém que ainda não apresenta sinais ou sintomas.",
+        "en": "Screening Test",
+        "desc_en": " A preventative measure used to detect a potential health problem or disease in someone that doesn’t yet have signs or symptoms."
+    },
+    "Testosterona": {
+        "desc_pt": "Um hormônio conhecido como andrógeno. É produzido em pequenas quantidades pelas glândulas adrenais e pelos ovários nas mulheres e é encontrado em maior quantidade nos homens.",
+        "en": "Testosterone",
+        "desc_en": " A hormone known as androgen. It is produced in small amounts by the adrenal glands and the ovaries in females and is found in larger amounts in males."
+    },
+    "Tireoide": {
+        "desc_pt": "Uma glândula em forma de borboleta no pescoço que faz parte das glândulas endócrinas e produz hormônios.",
+        "en": "Thyroid",
+        "desc_en": " A butterfly-shaped gland in the neck that is part of the endocrine glands and makes hormones."
+    },
+    "Tordo": {
+        "desc_pt": "Uma infecção comum causada por um crescimento excessivo da levedura Candida albicans, que é naturalmente encontrada no intestino e em pequenas quantidades na vagina.",
+        "en": "Thrush",
+        "desc_en": " A common infection caused by an overgrowth of the yeast Candida albicans which is naturally found in the bowel and in small numbers in the vagina."
+    },
+    "toxoplasmose": {
+        "desc_pt": "Infecção causada por um parasita chamado Toxoplasma gondii. Este parasita pode ser encontrado em fezes de gatos e alimentos contaminados.",
+        "en": "Toxoplasmosis",
+        "desc_en": " An infection caused by a parasite called Toxoplasma gondii. This parasite can be found in cat feces and contaminated food."
+    },
+    "trabalho de parto prematuro": {
+        "desc_pt": "trabalho de parto que começa antes de 37 semanas de gravidez.",
+        "en": "Preterm labor",
+        "desc_en": " labor that starts before 37 weeks of pregnancy."
+    },
+    "Transtorno disfórico pré-menstrual (PMDD)": {
+        "desc_pt": "Uma forma muito grave de TPM que causa desconforto mental e físico no período pré-menstrual e que é aliviada alguns dias após o início da menstruação.",
+        "en": "Premenstrual dysphoric disorder (PMDD)",
+        "desc_en": " A very severe form of PMS that causes mental and physical distress in the premenstruum and which is relieved within a few days of a period starting."
+    },
+    "Trichomonas vaginalis": {
+        "desc_pt": "Trichomonas vaginalis, também conhecida como tricomoníase, é uma infecção sexualmente transmissível (DST) curável causada por um parasita, Trichomonas vaginalis.",
+        "en": "Trichomonas Vaginalis",
+        "desc_en": " Trichomonas vaginalis, also known as trichomoniasis, is a curable sexually transmitted infection (STI) caused by a parasite, Trichomonas vaginalis."
+    },
+    "Trimestre": {
+        "desc_pt": "A concepção até a 12ª semana de gravidez marca o primeiro trimestre. O segundo trimestre é das semanas 13 a 27, e o terceiro trimestre começa cerca de 28 semanas e dura até o nascimento.",
+        "en": "Trimester",
+        "desc_en": " Conception to about the 12th week of pregnancy marks the first trimester. The second trimester is weeks 13 to 27, and the third trimester starts about 28 weeks and lasts until birth."
+    },
+    "Trombofilia": {
+        "desc_pt": "Uma condição que faz com que o sangue forme coágulos facilmente. Aumenta o risco de trombose venosa profunda (TVP)",
+        "en": "Thrombophilia",
+        "desc_en": " A condition that causes the blood to form clots easily. It increases the risk of deep vein thrombosis (DVT)"
+    },
+    "Trombose Venosa Profunda (TVP)": {
+        "desc_pt": "Uma condição grave causada por coágulos sanguíneos nas veias localizadas no interior do corpo.",
+        "en": "Deep Vein Thrombosis (DVT)",
+        "desc_en": " A serious condition caused by blood clots in the veins located deep inside the body."
+    },
+    "Trompas de Falópio": {
+        "desc_pt": "Tubos em forma de J que conectam o útero aos ovários.",
+        "en": "Fallopian Tubes",
+        "desc_en": " J-shaped tubes that connect the uterus to the ovaries."
+    },
+    "Tuberculose (TB)": {
+        "desc_pt": "Uma infecção contagiosa que geralmente ataca os pulmões.",
+        "en": "Tuberculosis(TB)",
+        "desc_en": " A contagious infection that usually attacks your lungs."
+    },
+    "Tumor benigno": {
+        "desc_pt": "Um crescimento anormal de células que não representa nenhuma ameaça.",
+        "en": "Benign tumor",
+        "desc_en": " An abnormal growth of cells that poses no threat."
+    },
+    "ultrassom": {
+        "desc_pt": "Um exame médico que usa ondas sonoras de alta frequência para capturar imagens ao vivo de dentro do seu corpo. Também é conhecido como ultrassonografia.",
+        "en": "Ultrasound",
+        "desc_en": " A medical test that uses high-frequency sound waves to capture live images from the inside of your body. It’s also known as sonography."
+    },
+    "ultrassom transvaginal": {
+        "desc_pt": "Um tipo de ultrassom pélvico usado por médicos para examinar os órgãos reprodutivos femininos.",
+        "en": "Transvaginal ultrasound",
+        "desc_en": " A type of pelvic ultrasound used by doctors to examine female reproductive organs."
+    },
+    "ultrassonografia": {
+        "desc_pt": "Uma técnica que utiliza ecos de pulsos de ultrassom para detectar objetos ou áreas de diferentes densidades no corpo.",
+        "en": "Ultrasonography",
+        "desc_en": " A technique using echoes of ultrasound pulses to detect objects or areas of different densities in the body."
+    },
+    "Uretra": {
+        "desc_pt": "O tubo através do qual a urina sai do corpo.",
+        "en": "Urethra",
+        "desc_en": " The tube through which urine leaves the body."
+    },
+    "Útero": {
+        "desc_pt": "Área onde um feto (bebê em gestação) se desenvolve e cresce. Também é chamado de útero.",
+        "en": "Uterus",
+        "desc_en": " Area where a fetus (unborn baby) develops and grows. It is also called the womb."
+    },
+    "Vagina": {
+        "desc_pt": "O tubo interno que conecta sua vulva ao colo do útero (colo do útero).",
+        "en": "Vagina",
+        "desc_en": " The internal tube which connects your vulva to your cervix (neck of the uterus)."
+    },
+    "vaginite": {
+        "desc_pt": "Inflamação da vagina que pode resultar em corrimento, coceira e dor.",
+        "en": "Vaginitis",
+        "desc_en": " An inflammation of the vagina that can result in discharge, itching, and pain."
+    },
+    "Vaginose bacteriana": {
+        "desc_pt": "a causa mais comum de infecção vaginal em mulheres em idade reprodutiva. Frequentemente se desenvolve após a relação sexual com um novo parceiro, e é raro uma mulher tê-la sem nunca ter tido relações sexuais.",
+        "en": "Bacterial Vaginosis",
+        "desc_en": " a most common cause of vaginal infection for women of childbearing age. It frequently develops after sexual intercourse with a new partner, and it is rare for a woman to have it if she has never had sexual intercourse."
+    },
+    "Verrugas genitais": {
+        "desc_pt": "Uma verruga na pele úmida dos órgãos genitais ou ao redor do ânus.",
+        "en": "Genital Warts",
+        "desc_en": " A wart in the moist skin of the genitals or around the anus."
+    },
+    "Vestíbulo": {
+        "desc_pt": "Uma superfície lisa que começa logo abaixo do clitóris e termina na comissura posterior dos pequenos lábios. O vestíbulo da vulva contém a abertura para a uretra e a abertura vaginal.",
+        "en": "Vestibule",
+        "desc_en": " A smooth surface that begins just below the clitoris and ends at the posterior commissure of the labia minora. The vulva vestibule contains the opening to the urethra and the vaginal opening."
+    },
+    "Vírus da Imunodeficiência Humana (HIV)": {
+        "desc_pt": "Duas espécies de lentivírus que infectam humanos e causam a síndrome da imunodeficiência adquirida (AIDS). Esta condição causa uma falha progressiva do sistema imunológico levando a infecções com risco de vida e situações de câncer.",
+        "en": "Human Immunodeficiency Virus (HIV)",
+        "desc_en": " Two species of lentivirus that infect humans and cause acquired immunodeficiency syndrome (AIDS). This condition causes a progressive failure of the immune system leading to life-threatening infections and cancer situations."
+    },
+    "Vulva": {
+        "desc_pt": "Seus órgãos genitais externos, incluindo seu clitóris e lábios. Em outras palavras, todos os bits que você pode ver.",
+        "en": "Vulva",
+        "desc_en": " Your external genitals, including your clitoris and labia. In other words, all the bits you can see."
+    }
+}
