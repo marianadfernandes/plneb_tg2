@@ -314,9 +314,9 @@
     },
     "ácido desoxirribonucleico": {
         "Descrições": {
-            "desc_pt": "Google Translator - (sin.) DNA Ácido nucléico de fita dupla cujos nucleotídeos consistem em uma estrutura composta por um açúcar modificado, chamado desoxirribose, uma base nitrogenada, ou seja, adenina, guanina, citosina e timina, e um grupo fosfato. SCIE, Bioquímica",
-            "desc_en": "(syn.) DNA   Double-stranded nucleic acid whose nucleotides consist of a backbone made up by a modified sugar, called deoxyribose, a nitrogenous base, i.e. adenine, guanine, cytosine, and thymine, and a phosphate group. SCIE, Biochemistry",
-            "syn": ""
+            "desc_pt": "Google Translator - Ácido nucléico de fita dupla cujos nucleotídeos consistem em um esqueleto formado por um açúcar modificado, denominado desoxirribose, uma base nitrogenada, ou seja, adenina, guanina, citosina e timina, e um grupo fosfato. SCIE, Bioquímica",
+            "desc_en": "Double-stranded nucleic acid whose nucleotides consist of a backbone made up by a modified sugar, called deoxyribose, a nitrogenous base, i.e. adenine, guanine, cytosine, and thymine, and a phosphate group. SCIE, Biochemistry",
+            "syn": "(syn.) DNA"
         },
         "Traduções": {
             "en": "deoxyribonucleic acid",
@@ -344,9 +344,9 @@
     },
     "ácido ribonucléico": {
         "Descrições": {
-            "desc_pt": "Google Translator - (sin.) RNA Ácido nucléico de fita simples cujos nucleotídeos consistem em uma estrutura composta por um açúcar simples, chamado ribose, um grupo fosfato e uma base nitrogenada, ou seja, adenina, guanina, citosina e uracila. SCIE, Bioquímica",
-            "desc_en": "(syn.) RNA   Single-stranded nucleic acid whose nucleotides consist of a backbone made up by a simple sugar, called ribose, a phosphate group, and a nitrogenous base, i.e. adenine, guanine, cytosine, and uracil. SCIE, Biochemistry",
-            "syn": ""
+            "desc_pt": "Google Translator - Ácido nucléico de fita simples cujos nucleotídeos consistem em uma estrutura composta por um açúcar simples, chamado ribose, um grupo fosfato e uma base nitrogenada, ou seja, adenina, guanina, citosina e uracila. SCIE, Bioquímica",
+            "desc_en": "Single-stranded nucleic acid whose nucleotides consist of a backbone made up by a simple sugar, called ribose, a phosphate group, and a nitrogenous base, i.e. adenine, guanine, cytosine, and uracil. SCIE, Biochemistry",
+            "syn": "(syn.) RNA"
         },
         "Traduções": {
             "en": "ribonucleic acid (RNA)",
@@ -676,11 +676,6 @@
         "Traduções": {
             "en": "juvenile",
             "es": "adolescente"
-        }
-    },
-    "adolescente ": {
-        "Descrições": {
-            "exp pop": "Expressão Popular - jovem"
         }
     },
     "adormecer": {
@@ -2278,10 +2273,10 @@
     },
     "anticorpo": {
         "Descrições": {
-            "desc_pt": "Google Translator - (sin.) imunoglobulina Proteína produzida por linfócitos B que pode reconhecer e neutralizar um antígeno. CIEE, Biologia",
+            "desc_pt": "Google Translator - Proteína produzida por linfócitos B que podem reconhecer e neutralizar um antígeno. CIEE, Biologia",
             "exp pop": "Expressão Popular - anti-soma, anti-substância, corpo imune, antítropo",
-            "desc_en": "(syn.) immunoglobulin   Protein produced by B lymphocytes that can recognize and neutralize an antigen. SCIE, Biology",
-            "syn": ""
+            "desc_en": "Protein produced by B lymphocytes that can recognize and neutralize an antigen. SCIE, Biology",
+            "syn": "(syn.) immunoglobulin"
         },
         "Traduções": {
             "en": "antibody",
@@ -2574,11 +2569,6 @@
         }
     },
     "anxiolítico": {
-        "Descrições": {
-            "exp pop": "Expressão Popular - que combate a ansiedade, tranquilizante"
-        }
-    },
-    "anxiolítico ": {
         "Descrições": {
             "exp pop": "Expressão Popular - que combate a ansiedade, tranquilizante"
         }
@@ -5216,9 +5206,9 @@
     },
     "caso índice": {
         "Descrições": {
-            "desc_pt": "Google Translator - (sin.) paciente índice O primeiro caso conhecido do surto de uma doença em um cluster. MEDI, Saúde pública e higiene",
-            "desc_en": "(syn.) index patient   The first known case of the outbreak of a disease in a cluster. MEDI, Public health & hygiene",
-            "syn": ""
+            "desc_pt": "Google Translator - O primeiro caso conhecido do surto de uma doença em um cluster. MEDI, Saúde pública e higiene",
+            "desc_en": "The first known case of the outbreak of a disease in a cluster. MEDI, Public health & hygiene",
+            "syn": "(syn.) index patient"
         },
         "Traduções": {
             "en": "index case",
@@ -7089,9 +7079,9 @@
     },
     "confinamento": {
         "Descrições": {
-            "desc_pt": "Google Translator - (sin.) confinamento Estratégia adotada por um órgão público em caso de emergência que obrigue a permanência de pessoas em determinado local do qual não podem sair a não ser por motivos excepcionais. MEDI, Saúde pública e higiene",
-            "desc_en": "(syn.) confinement   Strategy adopted by a public body because of an emergency that requires people to remain in a certain location which they may not leave other than for exceptional reasons.   MEDI, Public health & hygiene",
-            "syn": ""
+            "desc_pt": "Google Translator - Estratégia adotada por um órgão público em caso de emergência que obrigue a permanência de pessoas em determinado local, do qual não podem sair a não ser por motivos excepcionais. MEDI, Saúde pública e higiene",
+            "desc_en": "Strategy adopted by a public body because of an emergency that requires people to remain in a certain location which they may not leave other than for exceptional reasons.   MEDI, Public health & hygiene",
+            "syn": "(syn.) confinement"
         },
         "Traduções": {
             "en": "lockdown",
@@ -7160,9 +7150,9 @@
     },
     "conglomerado": {
         "Descrições": {
-            "desc_pt": "Google Translator - (sin.) disease cluster Agregação de casos de uma doença em um determinado local e tempo. MEDI, Saúde pública e higiene",
-            "desc_en": "(syn.) disease cluster   Aggregation of cases of a disease within a given place and time.   MEDI, Public health & hygiene",
-            "syn": ""
+            "desc_pt": "Google Translator - Agregação de casos de uma doença em um determinado local e tempo. MEDI, Saúde pública e higiene",
+            "desc_en": "Aggregation of cases of a disease within a given place and time.   MEDI, Public health & hygiene",
+            "syn": "(syn.) disease cluster"
         },
         "Traduções": {
             "en": "cluster",
@@ -7423,12 +7413,12 @@
     },
     "contato casual": {
         "Descrições": {
-            "desc_pt": "Google Translator - AR</b>لدعم ةتامإ ةلاحلا، (syn.) لدعم تايفو ةلاحلا <b>DE</b> Fall-Verstorbenen-Anteil <b>ES</b> tasa de letalidad <b>FR</b> taux de letalidade <b>JA</b> 致死率, (sin.) CFR <b>KO</b> 치사율, (sin.) 치명률 <b>PT</b> taxa de letalidade, (sin.) taxa de letalidade dos casos <b>RU</b> показатель летальности <b>ZH </b>病死率 <b>contato casual </b>Pessoa que esteve nas proximidades de uma pessoa afetada por uma doença infecciosa, mas não viver ou cuidar da pessoa infectada. MEDI, Saúde pública e higiene",
-            "desc_en": "AR</b>لدعم ةتامإ ةلاحلا، (syn.) لدعم تايفو ةلاحلا <b>DE</b>    Fall-Verstorbenen-Anteil   <b>ES</b>    tasa de letalidad   <b>FR</b>    taux de létalité   <b>JA</b>   致死率, (syn.) CFR <b>KO</b>   치사율, (syn.) 치명률  <b>PT</b>    taxa de letalidade, (syn.) taxa de letalidade dos casos   <b>RU</b>   показатель летальности   <b>ZH   </b>病死率    <b>casual contact   </b>Person who has been in the proximity of a person affected by an infectious disease but does not live with or care for the infected person. MEDI, Public health & hygiene",
-            "syn": "(syn.) CFR Proportion of people who die of a given disease out of all the confirmed cases. MEDI, Public health & hygiene  <b>"
+            "desc_pt": "Google Translator - Pessoa que esteve na proximidade de uma pessoa afetada por uma doença infecciosa, mas não vive ou cuida da pessoa infectada. MEDI, Saúde pública e higiene",
+            "desc_en": "Person who has been in the proximity of a person affected by an infectious disease but does not live with or care for the infected person. MEDI, Public health & hygiene",
+            "syn": ""
         },
         "Traduções": {
-            "en": "case fatality rate",
+            "en": "casual contact",
             "fr": "contact occasionnel",
             "ar": "طلاخم رباع",
             "de": "Kontaktperson der Kategorie II",
@@ -7834,9 +7824,9 @@
     },
     "coronavírus": {
         "Descrições": {
-            "desc_pt": "Google Translator - (sin.) CoV Família de vírus que consiste em um núcleo que compreende um RNA de fita simples de sentido positivo, um envelope, um capsídeo e picos. CIEE, Biologia",
-            "desc_en": "(syn.) CoV   Family of viruses that consist of a core comprising a positive-sense single-stranded RNA, an envelope, a capsid, and spikes. SCIE, Biology",
-            "syn": ""
+            "desc_pt": "Google Translator - Família de vírus que consiste em um núcleo que compreende um RNA de fita simples de sentido positivo, um envelope, um capsídeo e picos. CIEE, Biologia",
+            "desc_en": "Family of viruses that consist of a core comprising a positive-sense single-stranded RNA, an envelope, a capsid, and spikes. SCIE, Biology",
+            "syn": "(syn.) CoV"
         },
         "Traduções": {
             "en": "coronavirus",
@@ -7852,9 +7842,9 @@
     },
     "coronavírus da síndrome respiratória aguda grave 2": {
         "Descrições": {
-            "desc_pt": "Google Translator - (sin.) SARS-CoV-2 Coronavírus que causa a COVID-19. CIEE, Biologia",
-            "desc_en": "(syn.) SARS-CoV-2   Coronavirus that causes COVID-19. SCIE, Biology",
-            "syn": ""
+            "desc_pt": "Google Translator - Coronavírus que causa o COVID-19. CIEE, Biologia",
+            "desc_en": "Coronavirus that causes COVID-19. SCIE, Biology",
+            "syn": "(syn.) SARS-CoV-2"
         },
         "Traduções": {
             "en": "severe acute respiratory syndrome coronavirus 2",
@@ -10476,9 +10466,9 @@
     },
     "doença do coronavírus 2019": {
         "Descrições": {
-            "desc_pt": "Google Translator - (sin.) COVID-19 Doença infecciosa causada por SARS-CoV-2. MEDICINA, Patologia",
-            "desc_en": "(syn.) COVID-19   Infectious disease caused by SARS-CoV-2.   MEDI, Pathology",
-            "syn": ""
+            "desc_pt": "Google Translator - Doença infecciosa causada pelo SARS-CoV-2. MEDICINA, Patologia",
+            "desc_en": "Infectious disease caused by SARS-CoV-2.   MEDI, Pathology",
+            "syn": "(syn.) COVID-19"
         },
         "Traduções": {
             "en": "coronavirus disease 2019",
@@ -11137,9 +11127,9 @@
     },
     "eliminação": {
         "Descrições": {
-            "desc_pt": "Google Translator - (sin.) estratégia de supressão, eliminação Estratégia adotada por um órgão público para reduzir a zero a incidência de uma doença em uma determinada área geográfica. MEDI, Saúde pública e higiene",
-            "desc_en": "(syn.) suppression, elimination strategy   Strategy adopted by a public body to reduce to zero the incidence of a disease in a given geographical area. MEDI, Public health & hygiene",
-            "syn": ""
+            "desc_pt": "Google Translator - Estratégia adotada por um órgão público para reduzir a zero a incidência de uma doença em uma determinada área geográfica. MEDI, Saúde pública e higiene",
+            "desc_en": "Strategy adopted by a public body to reduce to zero the incidence of a disease in a given geographical area. MEDI, Public health & hygiene",
+            "syn": "(syn.) suppression, elimination strategy"
         },
         "Traduções": {
             "en": "elimination",
@@ -12266,6 +12256,24 @@
             "ko": "개인보호장비",
             "ru": "средство индивидуальной защиты, (syn.) СИЗ",
             "zh": "个人防护装备, (syn.) PPE"
+        }
+    },
+    "equipamento de proteção respiratória": {
+        "Descrições": {
+            "desc_pt": "Google Translator - RPE Equipamento de proteção individual que protege o usuário contra a inalação de substâncias perigosas no ar, como poeira, fumaça, gases ou substâncias biológicas. ENVR, equipamento de proteção individual",
+            "desc_en": "RPE Personal protective equipment that protects the wearer against inhalation of hazardous substances in the air, such as dust, fumes, gases, or biological substances. ENVR, Personal protective equipment",
+            "syn": "(syn.) respirator (en-US),"
+        },
+        "Traduções": {
+            "en": "respiratory protective equipment",
+            "fr": "appareil de protection respiratoire, (syn.) APR",
+            "ar": "تادعم ةيامح ةيسفنت، (syn.) زاهج سفنت قاو",
+            "de": "Atemschutzgerät",
+            "es": "equipo de protección respiratoria",
+            "ja": "呼吸用保護具",
+            "ko": "호흡용  보호구",
+            "ru": "респиратор, (syn.) средство индивидуальной защиты органов дыхания, СИЗОД",
+            "zh": "呼吸防护装备"
         }
     },
     "equivalente": {
@@ -14113,9 +14121,9 @@
     },
     "falência multiorgânica": {
         "Descrições": {
-            "desc_pt": "Google Translator - Incapacidade de dois ou mais órgãos ou sistemas de órgãos desempenharem suas funções. MEDICINA, Patologia",
-            "desc_en": "Inability of two or more organs or organ systems to perform their function. MEDI, Pathology",
-            "syn": "(syn.) multiorgan failure, MOF"
+            "desc_pt": "Google Translator - MOF Incapacidade de dois ou mais órgãos ou sistemas de órgãos desempenharem suas funções. MEDICINA, Patologia",
+            "desc_en": "MOF   Inability of two or more organs or organ systems to perform their function. MEDI, Pathology",
+            "syn": "(syn.) multiorgan failure,"
         },
         "Traduções": {
             "en": "multiple organ failure",
@@ -14261,12 +14269,12 @@
     },
     "fator de risco": {
         "Descrições": {
-            "desc_pt": "Google Translator - AR</b>تادعم ةيامح ةيسفنت، (sin.) زاهج سفنت قاو <b>DE </b> Atemschutzgerät <b>ES </b>equipo de proteção respiratória <b>FR </b>aparelho de proteção respiratória, (syn.) APR <b>JA </b>呼吸用保護具 <b>KO </b>호흡용 보호구 <b>PT </b>equipamento de proteção respiratória, (syn.) EPR, respirador <b >RU </b>респиратор, (syn.) средство индивидуальной защиты органов дыхания, СИЗОД <b>ZH </b>呼吸防护装备 <b>risco fator </b>Característica, condição ou comportamento que aumenta a probabilidade de uma pessoa contrairá uma doença ou sofrerá uma lesão. MEDI, Saúde pública e higiene",
-            "desc_en": "AR</b>تادعم ةيامح ةيسفنت، (syn.) زاهج سفنت قاو  <b>DE </b>  Atemschutzgerät   <b>ES   </b>equipo de protección respiratoria   <b>FR   </b>appareil de protection respiratoire, (syn.) APR   <b>JA   </b>呼吸用保護具  <b>KO   </b>호흡용  보호구   <b>PT   </b>equipamento de proteção respiratória, (syn.) EPR, respirador   <b>RU   </b>респиратор, (syn.) средство индивидуальной защиты органов дыхания, СИЗОД   <b>ZH   </b>呼吸防护装备   <b>risk factor   </b>Characteristic, condition, or behaviour that increases the likelihood that a person will contract a disease or sustain an injury. MEDI, Public health & hygiene",
-            "syn": "(syn.) respirator (en-US), RPE Personal protective equipment that protects the wearer against inhalation of hazardous substances in the air, such as dust, fumes, gases, or biological substances. ENVR, Personal protective equipment <b>"
+            "desc_pt": "Google Translator - Característica, condição ou comportamento que aumenta a probabilidade de uma pessoa contrair uma doença ou sofrer uma lesão. MEDI, Saúde pública e higiene",
+            "desc_en": "Characteristic, condition, or behaviour that increases the likelihood that a person will contract a disease or sustain an injury. MEDI, Public health & hygiene",
+            "syn": ""
         },
         "Traduções": {
-            "en": "respiratory protective equipment",
+            "en": "risk factor",
             "fr": "facteur de risque",
             "ar": "لماع رطخ، (syn.) لماع ةروطخ",
             "de": "Risikofaktor",
@@ -14297,9 +14305,9 @@
     },
     "febre": {
         "Descrições": {
-            "desc_pt": "Google Translator - (sin.) pirexia Mecanismo de resposta imune inata que aumenta a temperatura corporal de uma pessoa acima do nível normal. MEDI, Anatomia e Fisiologia",
-            "desc_en": "(syn.) pyrexia   Innate immune response mechanism that increases a person’s body temperature above the normal level.   MEDI, Anatomy & physiology",
-            "syn": ""
+            "desc_pt": "Google Translator - Mecanismo de resposta imune inata que aumenta a temperatura corporal de uma pessoa acima do nível normal. MEDI, Anatomia e Fisiologia",
+            "desc_en": "Innate immune response mechanism that increases a person’s body temperature above the normal level.   MEDI, Anatomy & physiology",
+            "syn": "(syn.) pyrexia"
         },
         "Traduções": {
             "en": "fever",
@@ -17845,9 +17853,9 @@
     },
     "imagiologia por ressonância magnética": {
         "Descrições": {
-            "desc_pt": "Google Translator - Técnica de imagiologia médica pela qual são obtidas imagens tridimensionais do corpo pela excitação de prótons presentes na água de tecidos vivos e pela detecção da mudança na direção de seu eixo de rotação por meio de um scanner de ressonância magnética. <b>MEDI, </b>Equipamentos e procedimentos de diagnóstico",
-            "desc_en": "Medical imaging technique by which three-dimensional images of the body are obtained by exciting protons present in the water of living tissues and detecting the change in the direction of their rotational axis by means of a magnetic resonance imaging scanner. <b>MEDI, </b>Diagnostic equipment & procedures",
-            "syn": "(syn.) magnetic resonance tomography, nuclear magnetic resonance imaging, MRI, MRT, NMRI"
+            "desc_pt": "Google Translator - MRI, MRT, NMRI Técnica de imagem médica pela qual imagens tridimensionais do corpo são obtidas por prótons excitantes presentes na água de tecidos vivos e detectando a mudança na direção de seu eixo de rotação por meio de um scanner de ressonância magnética. <b>MEDI, </b>Equipamentos e procedimentos de diagnóstico",
+            "desc_en": "MRI, MRT, NMRI   Medical imaging technique by which three-dimensional images of the body are obtained by exciting protons present in the water of living tissues and detecting the change in the direction of their rotational axis by means of a magnetic resonance imaging scanner. <b>MEDI, </b>Diagnostic equipment & procedures",
+            "syn": "(syn.) magnetic resonance tomography, nuclear magnetic resonance imaging,"
         },
         "Traduções": {
             "en": "magnetic resonance imaging",
@@ -18056,9 +18064,9 @@
     },
     "imunidade de grupo": {
         "Descrições": {
-            "desc_pt": "Google Translator - (sin.) imunidade da comunidade Proteção indireta contra um agente infeccioso alcançada em uma população em risco quando uma proporção suficientemente grande de indivíduos na população mostra uma imunidade adquirida a esse agente infeccioso. MEDI, Saúde pública e higiene",
-            "desc_en": "(syn.) community immunity   Indirect protection from an infectious agent achieved in a population at risk when a sufficiently large proportion of individuals in the population show an acquired immunity to that infectious agent. MEDI, Public health & hygiene",
-            "syn": ""
+            "desc_pt": "Google Translator - A proteção indireta contra um agente infeccioso é alcançada em uma população em risco quando uma proporção suficientemente grande de indivíduos na população mostra uma imunidade adquirida a esse agente infeccioso. MEDI, Saúde pública e higiene",
+            "desc_en": "Indirect protection from an infectious agent achieved in a population at risk when a sufficiently large proportion of individuals in the population show an acquired immunity to that infectious agent. MEDI, Public health & hygiene",
+            "syn": "(syn.) community immunity"
         },
         "Traduções": {
             "en": "herd immunity",
@@ -19286,10 +19294,10 @@
     },
     "intubação": {
         "Descrições": {
-            "desc_pt": "Google Translator - (sin.) intubação endotraqueal Método de ventilação pulmonar invasiva no qual um tubo é inserido na traqueia do paciente pela boca ou nariz. MEDICINA, CIRURGIA",
+            "desc_pt": "Google Translator - Método de ventilação pulmonar invasiva no qual um tubo é inserido na traquéia do paciente pela boca ou nariz. MEDICINA, CIRURGIA",
             "exp pop": "Expressão Popular - introdução de um tubo num órgão oco",
-            "desc_en": "(syn.) endotracheal intubation   Invasive lung ventilation method in which a tube is inserted into the patient’s trachea through the mouth or nose. MEDI, Surgery",
-            "syn": ""
+            "desc_en": "Invasive lung ventilation method in which a tube is inserted into the patient’s trachea through the mouth or nose. MEDI, Surgery",
+            "syn": "(syn.) endotracheal intubation"
         },
         "Traduções": {
             "en": "intubation",
@@ -21065,9 +21073,9 @@
     },
     "máscara autofiltrante": {
         "Descrições": {
-            "desc_pt": "Google Translator - (sin.) máscara facial com filtro, FFR Equipamento de proteção respiratória que usa filtros para remover substâncias perigosas do ar respirado pelo usuário. ENVR, equipamento de proteção individual",
-            "desc_en": "(syn.) filtering face-piece respirator, FFR Respiratory protective equipment that uses filters to remove hazardous substances from the air being breathed by the wearer. ENVR, Personal protective equipment",
-            "syn": ""
+            "desc_pt": "Google Translator - FFR Equipamento de proteção respiratória que utiliza filtros para remover substâncias perigosas do ar respirado pelo usuário. ENVR, equipamento de proteção individual",
+            "desc_en": "FFR Respiratory protective equipment that uses filters to remove hazardous substances from the air being breathed by the wearer. ENVR, Personal protective equipment",
+            "syn": "(syn.) filtering face-piece respirator,"
         },
         "Traduções": {
             "en": "filtering facepiece respirator",
@@ -23654,9 +23662,9 @@
     },
     "número básico de reprodução": {
         "Descrições": {
-            "desc_pt": "Google Translator - (sin.) taxa de reprodução básica, taxa de reprodução básica, 𝑅₀ Número médio de casos secundários que um caso produz em uma população em risco. MEDI, Saúde pública e higiene",
-            "desc_en": "(syn.) basic reproduction ratio, basic reproductive ratio, 𝑅₀   Average number of secondary cases that one case produces in a population at risk. MEDI, Public health & hygiene",
-            "syn": ""
+            "desc_pt": "Google Translator - Número médio de casos secundários que um caso produz em uma população de risco. MEDI, Saúde pública e higiene",
+            "desc_en": "Average number of secondary cases that one case produces in a population at risk. MEDI, Public health & hygiene",
+            "syn": "(syn.) basic reproduction ratio, basic reproductive ratio, 𝑅₀"
         },
         "Traduções": {
             "en": "basic reproduction number",
@@ -25419,7 +25427,7 @@
             "fr": "agent pathogène",
             "ar": "رممض",
             "de": "Pathogen",
-            "es": "microorganismo patógeno<b>, </b>(syn.) patógeno",
+            "es": "microorganismo patógeno (syn.) patógeno",
             "ja": "病原体",
             "ko": "병원체",
             "ru": "патоген, (syn.) патогенный возбудитель",
@@ -26263,11 +26271,6 @@
         }
     },
     "pico do débito": {
-        "Descrições": {
-            "exp pop": "Expressão Popular - auge ou pico do fluxo, do débito"
-        }
-    },
-    "pico do débito ": {
         "Descrições": {
             "exp pop": "Expressão Popular - auge ou pico do fluxo, do débito"
         }
@@ -28833,9 +28836,9 @@
     },
     "reação em cadeia da polimerase da transcrição reversa em tempo real": {
         "Descrições": {
-            "desc_pt": "Google Translator - (sin.) RT-PCR em tempo real, rRT-PCR Reação em cadeia da polimerase com transcrição reversa na qual a detecção e quantificação de sequências de DNA amplificadas são realizadas após cada ciclo de PCR. MEDI, Equipamentos e procedimentos de diagnóstico",
-            "desc_en": "(syn.) real-time RT-PCR, rRT-PCR   Reverse transcription polymerase chain reaction in which detection and quantification of amplified DNA sequences are performed after each PCR cycle. MEDI, Diagnostic equipment & procedures",
-            "syn": ""
+            "desc_pt": "Google Translator - RT-PCR, rRT-PCR Reação em cadeia da polimerase com transcrição reversa na qual a detecção e quantificação de sequências de DNA amplificadas são realizadas após cada ciclo de PCR. MEDI, Equipamentos e procedimentos de diagnóstico",
+            "desc_en": "RT-PCR, rRT-PCR   Reverse transcription polymerase chain reaction in which detection and quantification of amplified DNA sequences are performed after each PCR cycle. MEDI, Diagnostic equipment & procedures",
+            "syn": "(syn.) real-time"
         },
         "Traduções": {
             "en": "real-time reverse transcription-polymerase chain reaction",
@@ -29005,11 +29008,6 @@
         "Traduções": {
             "en": "receiver, recipient, (blood) donee, receptor",
             "es": "receptor"
-        }
-    },
-    "receptor ": {
-        "Descrições": {
-            "exp pop": "Expressão Popular - receptor"
         }
     },
     "recessivo": {
@@ -31318,9 +31316,9 @@
     },
     "síndrome de liberação de citocinas": {
         "Descrições": {
-            "desc_pt": "Google Translator - (sin.) SRC Síndrome de resposta inflamatória sistêmica causada por uma grande e rápida liberação de citocinas no sangue, que pode ser desencadeada por diferentes fatores, por ex. uma infecção viral ou o uso de certos medicamentos em imunoterapia. MEDICINA, Patologia",
-            "desc_en": "(syn.) CRS     Systemic inflammatory response syndrome caused by a large and rapid release of cytokines into the blood, which may be triggered by different factors, e.g. a viral infection or the use of certain drugs in immunotherapy. MEDI, Pathology",
-            "syn": ""
+            "desc_pt": "Google Translator - Síndrome da resposta inflamatória sistêmica causada por uma grande e rápida liberação de citocinas no sangue, que pode ser desencadeada por diversos fatores, por exemplo, uma infecção viral ou o uso de certos medicamentos em imunoterapia. MEDICINA, Patologia",
+            "desc_en": "Systemic inflammatory response syndrome caused by a large and rapid release of cytokines into the blood, which may be triggered by different factors, e.g. a viral infection or the use of certain drugs in immunotherapy. MEDI, Pathology",
+            "syn": "(syn.) CRS"
         },
         "Traduções": {
             "en": "cytokine release syndrome",
@@ -32380,11 +32378,29 @@
             "es": "tasa de filtración glomerular"
         }
     },
+    "taxa de letalidade": {
+        "Descrições": {
+            "desc_pt": "Google Translator - Proporção de pessoas que morrem de uma determinada doença em relação ao total de casos confirmados. MEDI, Saúde pública e higiene",
+            "desc_en": "Proportion of people who die of a given disease out of all the confirmed cases. MEDI, Public health & hygiene",
+            "syn": "(syn.) CFR"
+        },
+        "Traduções": {
+            "en": "case fatality rate",
+            "fr": "taux de létalité",
+            "ar": "لدعم ةتامإ ةلاحلا، (syn.) لدعم تايفو ةلاحلا",
+            "de": "Fall-Verstorbenen-Anteil",
+            "es": "tasa de letalidad",
+            "ja": "致死率, (syn.) CFR",
+            "ko": "치사율, (syn.) 치명률",
+            "ru": "показатель летальности",
+            "zh": "病死率"
+        }
+    },
     "taxa de letalidade da infecção": {
         "Descrições": {
-            "desc_pt": "Google Translator - (sin.) IFR Proporção de pessoas que morrerão de uma determinada doença entre todas as que foram infectadas. MEDI, Saúde pública e higiene",
-            "desc_en": "(syn.) IFR Proportion of people who will die of a certain disease out of all those who have been infected.   MEDI, Public health & hygiene",
-            "syn": ""
+            "desc_pt": "Google Translator - Proporção de pessoas que morrerão de uma determinada doença entre todas as que foram infectadas. MEDI, Saúde pública e higiene",
+            "desc_en": "Proportion of people who will die of a certain disease out of all those who have been infected.   MEDI, Public health & hygiene",
+            "syn": "(syn.) IFR"
         },
         "Traduções": {
             "en": "infection fatality rate",
@@ -32823,9 +32839,9 @@
     },
     "teste laboratorial remoto": {
         "Descrições": {
-            "desc_pt": "Google Translator - (sin.) teste de ponto de coleta, POCT Método de realização de um teste de laboratório no local de atendimento ao paciente ou próximo a ele. MEDI, cuidados médicos",
-            "desc_en": "(syn.) point-of-collection testing, POCT   Method of performing a laboratory test at or near the site of patient care. MEDI, Medical care",
-            "syn": ""
+            "desc_pt": "Google Translator - POCT Método de realização de um teste de laboratório no local de atendimento ao paciente ou próximo a ele. MEDI, cuidados médicos",
+            "desc_en": "POCT   Method of performing a laboratory test at or near the site of patient care. MEDI, Medical care",
+            "syn": "(syn.) point-of-collection testing,"
         },
         "Traduções": {
             "en": "point-of-care testing",
@@ -33076,9 +33092,9 @@
     },
     "tomografia computadorizada": {
         "Descrições": {
-            "desc_pt": "Google Translator - (sin.) tomografia assistida por computador, tomografia computadorizada, TC Técnica de imagem médica pela qual imagens tridimensionais do corpo são obtidas ao direcionar um feixe de raios X para o paciente e girá-los rapidamente ao redor do corpo do paciente, produzindo imagens cruzadas imagens seccionais que são empilhadas por um scanner de tomografia computadorizada. MEDI, Equipamentos e procedimentos de diagnóstico",
-            "desc_en": "(syn.) computer-assisted tomography, computerized tomography, CT   Medical imaging technique by which three-dimensional images of the body are obtained by directing a beam of x-rays at the patient and quickly rotating them around the patient’s body, producing cross-sectional images that are then stacked together by a computed tomography scanner. MEDI, Diagnostic equipment & procedures",
-            "syn": ""
+            "desc_pt": "Google Translator - CT Técnica de imagem médica pela qual imagens tridimensionais do corpo são obtidas direcionando um feixe de raios X para o paciente e girando-o rapidamente ao redor do corpo do paciente, produzindo imagens transversais que são empilhadas por um scanner de tomografia computadorizada . MEDI, Equipamentos e procedimentos de diagnóstico",
+            "desc_en": "CT   Medical imaging technique by which three-dimensional images of the body are obtained by directing a beam of x-rays at the patient and quickly rotating them around the patient’s body, producing cross-sectional images that are then stacked together by a computed tomography scanner. MEDI, Diagnostic equipment & procedures",
+            "syn": "(syn.) computer-assisted tomography, computerized tomography,"
         },
         "Traduções": {
             "en": "computed tomography",
@@ -33551,9 +33567,9 @@
     },
     "transmissão por gotículas respiratórias": {
         "Descrições": {
-            "desc_pt": "Google Translator - (sin.) disseminação por gotículas Modo de transmissão direta de uma doença infecciosa que ocorre quando uma pessoa está próxima de uma pessoa infectada que apresenta sintomas respiratórios, por exemplo, por meio de tosse, espirro, respiração ou fala. MEDICINA, Patologia",
-            "desc_en": "(syn.) droplet spread   Mode of direct transmission of an infectious disease that occurs when a person is in the proximity of an infected person who has respiratory symptoms, e.g., via coughing, sneezing, breathing, or talking. MEDI, Pathology",
-            "syn": ""
+            "desc_pt": "Google Translator - Modo de transmissão direta de uma doença infecciosa que ocorre quando uma pessoa está próxima de uma pessoa infectada que apresenta sintomas respiratórios, por exemplo, por meio de tosse, espirro, respiração ou fala. MEDICINA, Patologia",
+            "desc_en": "Mode of direct transmission of an infectious disease that occurs when a person is in the proximity of an infected person who has respiratory symptoms, e.g., via coughing, sneezing, breathing, or talking. MEDI, Pathology",
+            "syn": "(syn.) droplet spread"
         },
         "Traduções": {
             "en": "droplet transmission",
@@ -34236,9 +34252,9 @@
     },
     "unidade de cuidados intensivos": {
         "Descrições": {
-            "desc_pt": "Google Translator - Instalação hospitalar que fornece cuidados intensivos e suporte de vida para pacientes gravemente doentes ou feridos. MEDI, cuidados médicos",
-            "desc_en": "Hospital facility that provides critical care and life support for acutely ill or injured patients. MEDI, Medical care",
-            "syn": "(syn.) critical care unit, ICU, CCU"
+            "desc_pt": "Google Translator - UTI, CCU Instalação hospitalar que fornece cuidados intensivos e suporte de vida para pacientes gravemente doentes ou feridos. MEDI, cuidados médicos",
+            "desc_en": "ICU, CCU   Hospital facility that provides critical care and life support for acutely ill or injured patients. MEDI, Medical care",
+            "syn": "(syn.) critical care unit,"
         },
         "Traduções": {
             "en": "intensive care unit",
@@ -34900,9 +34916,9 @@
     },
     "ventilação não-invasiva": {
         "Descrições": {
-            "desc_pt": "Google Translator - (sin.) VNI Ventilação com pressão positiva fornecida através das vias respiratórias superiores de uma pessoa usando uma máscara de oxigênio. MEDI, cuidados médicos",
-            "desc_en": "(syn.) NIV   Positive pressure ventilation provided through a person’s upper respiratory airways using an oxygen mask. MEDI, Medical care",
-            "syn": ""
+            "desc_pt": "Google Translator - Ventilação com pressão positiva fornecida através das vias respiratórias superiores de uma pessoa usando uma máscara de oxigênio. MEDI, cuidados médicos",
+            "desc_en": "Positive pressure ventilation provided through a person’s upper respiratory airways using an oxygen mask. MEDI, Medical care",
+            "syn": "(syn.) NIV"
         },
         "Traduções": {
             "en": "non-invasive ventilation",
@@ -35303,9 +35319,9 @@
     },
     "viseira de proteção facial": {
         "Descrições": {
-            "desc_pt": "Google Translator - (sin.) protetor facial (sin.) viseira de rosto inteiro (sin.) viseira Equipamento de proteção pessoal que protege os olhos e o rosto do usuário contra sprays, respingos e gotículas de partículas grandes e evita a propagação de gotículas respiratórias do usuário para outros. ENVR, equipamento de proteção individual",
-            "desc_en": "(syn.) face shield (syn.) full-face visor (syn.) visor   Personal protective equipment that protects the wearer’s eyes and face from sprays, splashes, and large-particle droplets, and prevents the spread of respiratory droplets from the wearer to others. ENVR, Personal protective equipment",
-            "syn": ""
+            "desc_pt": "Google Translator - Equipamento de proteção individual que protege os olhos e o rosto do usuário de sprays, respingos e gotículas de partículas grandes e evita a propagação de gotículas respiratórias do usuário para outras pessoas. ENVR, equipamento de proteção individual",
+            "desc_en": "Personal protective equipment that protects the wearer’s eyes and face from sprays, splashes, and large-particle droplets, and prevents the spread of respiratory droplets from the wearer to others. ENVR, Personal protective equipment",
+            "syn": "(syn.) face shield (syn.) full-face visor (syn.) visor"
         },
         "Traduções": {
             "en": "full face shield",

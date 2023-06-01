@@ -95,8 +95,8 @@
             {% if value['Traduções']['ar'] %}
             <hr>
             <div class="d-flex align-items-baseline">
-                <h6 style="text-align: right;">{{ value['Traduções']['ar'] }}</h6>
                 <img class="rounded m-2 border border-secondary" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Egypt.svg/1280px-Flag_of_Egypt.svg.png" style="width: 2rem;">
+                <h6>{{ value['Traduções']['ar'] }}</h6>
             </div>
             {% endif %}
 
@@ -163,6 +163,11 @@
             <h6>-</h6>
         {% endif %}
     </div>
+
+    {% if images %}
+        {{ images[index] }}
+    {% endif %}
+
 </div>
     
 {% endblock %}

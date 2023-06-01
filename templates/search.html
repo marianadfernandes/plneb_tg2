@@ -9,9 +9,7 @@
     <h3>Pesquisar Termo/Traduções/Exp. popular/Descrições</h3>
     <label class="form-label">Inserir texto:</label>
     <input type="text" class="item-form form-control" name="text">
-  </div>
-  <div class="container w-50">
-    <button type="submit" class="btn btn-outline-secondary">Pesquisar</button>
+    <button type="submit" class="btn btn-outline-secondary mt-2">Pesquisar</button>
   </div>
 </form>
 
@@ -20,7 +18,12 @@
     <h3>Resultados:</h3>
     <ul>
     {% for designation, description in matched %}
-      <li> <b><a href="/term/{{designation}}" class="list-group-item list-group-item-action btn-outline-light rounded m-2" style="background-color: #67380827;">{{designation}}</a></b> </li>
+    <li class="item-table list-group-item d-flex align-items-center">
+      <a href="/term/{{designation}}" class="list-group-item list-group-item-action btn-outline-light" style="width: 80%; margin-right: 0.7rem; background-color: #67380827;">{{designation}}</a> 
+      <div>
+      <button type="button" class="btn btn-outline-danger" onclick="deleteTerm('{{designation}}')"> <i class="material-icons">delete</i> </button> 
+      </div>
+    </li>
     {% endfor %}
     </ul>
   {% endif %}
@@ -34,9 +37,7 @@
     <h3>Pesquisar Categoria</h3>
     <label class="form-label">Inserir texto:</label>
     <input type="text" class="item-form form-control" name="category">
-  </div>
-  <div class="container w-50">
-    <button type="submit" class="btn btn-outline-secondary">Pesquisar</button>
+    <button type="submit" class="btn btn-outline-secondary mt-2">Pesquisar</button>
   </div>
 </form>
 
@@ -51,7 +52,8 @@
           <p><ul class="dropdown-menu" aria-labelledby="dropdownMenuButton1" style="width: 45%;">
           {% for term in matched_cat.get(category) %}
             {% for key in term.keys() %}
-                <li><a class="item-link dropdown-item" style="text-align: center;" href="/term/{{key}}">{{ key }}</a></li>
+                <li><a class="item-link dropdown-item" style="text-align: center;" href="/term/{{key}}">{{ key }}</a>
+                </li>
             {% endfor %}
           {% endfor %}
           </ul></p>

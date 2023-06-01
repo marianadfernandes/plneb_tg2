@@ -17,3 +17,17 @@ function deleteTerm(designation){
 }
 
 
+function deleteTerm_woman(designation){ 
+    $.ajax("/term-woman/" + designation, {
+        type:"DELETE",
+        success: function(data) {
+            window.location.href = '/terms-woman';
+        },
+        error: function(error) {
+            console.error('Error:', error);
+        }
+    })
+
+}
+
+
