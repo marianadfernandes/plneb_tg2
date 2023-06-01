@@ -43,7 +43,7 @@ for div in divs:
 
 
 # Ordenar o dicionário por ordem alfabética
-final_dic = dict(sorted(dic.items(), key=lambda x: locale.strxfrm(x[0])))
+final_dic = dict(sorted(final_dic.items(), key=lambda x: locale.strxfrm(x[0])))
 
       
 file = open("acog.json", "w",encoding="utf-8")
