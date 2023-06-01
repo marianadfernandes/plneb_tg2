@@ -7,28 +7,19 @@
 
     <form action="/term" method="POST">
         <div class="mb-3">
-          <label class="form-label">Designação:</label>
+          <label class="form-label">Designação (PT):</label>
           <input type="text" class="form-control" name="designation" required>
         </div>
         <div class="mb-3">
-            <label class="form-label">Tradução em inglês:</label>
-            <input type="text" class="form-control" name="en" required>
+            <label class="form-label">Descrição (PT):</label>
+            <input type="text" class="form-control" name="desc_pt" required>
         </div>
-        <div class="mb-3">
-          <label class="form-label">Tradução em espanhol:</label>
-          <input type="text" class="form-control" name="es" required>
-        </div>
-        <div class="mb-3">
-            <label class="form-label">Expressão popular portuguesa:</label>
-            <input type="text" class="form-control" name="exp pop" required>
-        </div>
-        <button type="submit" class="btn btn-success">Adicionar</button>
+        <button type="submit" class="btn btn-outline-secondary">Adicionar</button>
       </form>
     
     {% if message %}
     {{message}}
     {% endif %}   
-    <hr> 
 </div>
 
 {% endblock %}
