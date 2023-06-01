@@ -41,7 +41,7 @@ for key, value in dic.items():
 
 dic = dict(sorted(dic.items(), key=lambda x: locale.strxfrm(x[0])))
 
-print(dic.keys())
+print(len(dic))
 
 file = open("output/novo_dic.json", "w",encoding="utf-8")
 json.dump(dic, file, ensure_ascii=False, indent=4)
