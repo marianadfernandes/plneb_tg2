@@ -1,8 +1,12 @@
 from flask import Flask, render_template, request, redirect
 import json
 import re
+import requests
+from bs4 import BeautifulSoup
+
 
 app = Flask(__name__)
+
 
 file = open("./output/novo_dic.json", encoding='utf-8')
 db = json.load(file)
@@ -13,6 +17,11 @@ file_cat = open("./output/dic_categorias.json", encoding='utf-8')
 cat = json.load(file_cat)
 print(len(cat))
 file_cat.close()
+
+file_img = open("./output/img_elements.json", encoding='utf-8')
+imgs = json.load(file_img)
+print(len(imgs))
+file_img.close()
 
 
 @app.route("/")
@@ -27,7 +36,10 @@ def terms():
 
 @app.route("/term/<t>")
 def term(t):
-    return render_template("term.html", designation=t, value=db.get(t, "None"))
+    keys_list = list(db.keys())
+    index = keys_list.index(t)
+    
+    return render_template("term.html", designation=t, value=db.get(t, "None"), images=imgs, index=index)
 
 
 @app.route("/add-term")
