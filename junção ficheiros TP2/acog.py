@@ -3,8 +3,8 @@ from bs4 import BeautifulSoup
 import json
 from deep_translator import GoogleTranslator
 import locale
+import re
  
-# definir localização/internacionalização 
 locale.setlocale(locale.LC_COLLATE, 'pt_PT.UTF-8')
 
 url = "https://www.acog.org/womens-health/dictionary"
@@ -25,6 +25,7 @@ for div in divs:
         termo = p.find("span", class_="section-term")
         if termo:
             t = termo.text
+            t = re.sub('/', ',', t)
             descricao = p.find("span", class_="section-term-definition")
             if descricao:
                 desc = descricao.text

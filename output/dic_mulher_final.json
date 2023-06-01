@@ -2143,7 +2143,7 @@
     },
     "cuidados paliativos": {
         "Descrições": {
-            "desc_pt": "Google Tradutor - Cuidados que focam no conforto de pessoas que têm uma doença que vai levar à morte.",
+            "desc_pt": "Google Tradutor - Cuidados que focam no conforto para pessoas que têm uma doença que vai levar à morte.",
             "desc_en": "ACOG - Care that focuses on comfort for people who have an illness that will lead to death."
         },
         "Traduções": {
@@ -2440,7 +2440,7 @@
     },
     "disfunção erétil": {
         "Descrições": {
-            "desc_pt": "Google Tradutor - A incapacidade de um homem ter ou manter uma ereção até que ocorra a ejaculação ou a relação sexual.",
+            "desc_pt": "Google Tradutor - A incapacidade de um homem de ter ou manter uma ereção até que ocorra a ejaculação ou a relação sexual.",
             "desc_en": "ACOG - The inability of a man to have or keep an erection until ejaculation or sexual intercourse takes place."
         },
         "Traduções": {
@@ -2458,8 +2458,8 @@
     },
     "dispareunia": {
         "Descrições": {
-            "desc_pt": "Google Tradutor - Dor com relação sexual.",
-            "desc_en": "ACOG - Pain with intercourse."
+            "desc_pt": "Google Tradutor - Dor consistente na área genital ou na pelve durante a relação sexual.",
+            "desc_en": "Elara Care -  A consistent pain in the genital area or within the pelvis during sexual intercourse."
         },
         "Traduções": {
             "en": "Dyspareunia"
@@ -2476,7 +2476,7 @@
     },
     "dispositivo de vácuo": {
         "Descrições": {
-            "desc_pt": "Google Tradutor - Uma ventosa que é aplicada na cabeça do feto para ajudar no nascimento.",
+            "desc_pt": "Google Tradutor - Uma ventosa que é aplicada na cabeça do feto para ajudar no parto.",
             "desc_en": "ACOG - A suction cup that is applied to the fetus’s head to help with birth."
         },
         "Traduções": {
@@ -2737,7 +2737,7 @@
     },
     "doença de huntington": {
         "Descrições": {
-            "desc_pt": "Google Tradutor - Distúrbio que causa perda de controle dos movimentos do corpo e da função mental.",
+            "desc_pt": "Google Tradutor - Um distúrbio que causa perda de controle dos movimentos do corpo e da função mental.",
             "desc_en": "ACOG - A disorder that causes loss of control of body movements and mental function."
         },
         "Traduções": {
@@ -2791,7 +2791,7 @@
     },
     "doença inflamatória intestinal (dii)": {
         "Descrições": {
-            "desc_pt": "Google Tradutor - O nome de um grupo de doenças que causam inflamação dos intestinos. Exemplos incluem a doença de Crohn e a colite ulcerosa.",
+            "desc_pt": "Google Tradutor - O nome de um grupo de doenças que causam inflamação dos intestinos. Exemplos incluem doença de Crohn e colite ulcerosa.",
             "desc_en": "ACOG - The name for a group of diseases that cause inflammation of the intestines. Examples include Crohn’s disease and ulcerative colitis."
         },
         "Traduções": {
@@ -3007,7 +3007,7 @@
     },
     "endocrinologista reprodutivo": {
         "Descrições": {
-            "desc_pt": "Google Tradutor - Um obstetra-ginecologista com treinamento especial para lidar com distúrbios relacionados aos hormônios do sistema reprodutivo. Esses especialistas também tratam a infertilidade.",
+            "desc_pt": "Google Tradutor - Um obstetra-ginecologista com treinamento especial para gerenciar distúrbios relacionados a hormônios do sistema reprodutivo. Esses especialistas também tratam a infertilidade.",
             "desc_en": "ACOG - An obstetrician–gynecologist with special training to manage disorders related to hormones of the reproductive system. These specialists also treat infertility."
         },
         "Traduções": {
@@ -4141,7 +4141,7 @@
     },
     "hiperplasia endometrial": {
         "Descrições": {
-            "desc_pt": "Google Tradutor - Condição em que o revestimento do útero fica muito espesso.",
+            "desc_pt": "Google Tradutor - Uma condição na qual o revestimento do útero fica muito espesso.",
             "desc_en": "ACOG - A condition in which the lining of the uterus grows too thick."
         },
         "Traduções": {
@@ -4609,7 +4609,7 @@
     },
     "infertilidade": {
         "Descrições": {
-            "desc_pt": "Google Tradutor - A incapacidade de engravidar após 1 ano de relações sexuais regulares sem o uso de controle de natalidade.",
+            "desc_pt": "Google Tradutor - A incapacidade de engravidar após 1 ano de relações sexuais regulares sem o uso de anticoncepcionais.",
             "desc_en": "ACOG - The inability to get pregnant after 1 year of having regular sexual intercourse without the use of birth control."
         },
         "Traduções": {
@@ -4762,7 +4762,7 @@
     },
     "lábio leporino": {
         "Descrições": {
-            "desc_pt": "Google Tradutor - Um defeito congênito que causa uma abertura ou divisão no lábio superior ou no céu da boca.",
+            "desc_pt": "Google Tradutor - Um defeito congênito que causa uma abertura ou fenda no lábio superior ou no céu da boca.",
             "desc_en": "ACOG - A birth defect that causes an opening or split in the upper lip or roof of the mouth."
         },
         "Traduções": {
@@ -5264,7 +5264,7 @@
             "en": "Metastasize"
         }
     },
-    "método de amenorréia lactacional (lam)": {
+    "método de amenorreia lactacional (lam)": {
         "Descrições": {
             "desc_pt": "Google Tradutor - Um método temporário de controle de natalidade baseado na maneira natural como o corpo impede a ovulação quando a mulher está amamentando.",
             "desc_en": "ACOG - A temporary method of birth control that is based on the natural way the body prevents ovulation when a woman is breastfeeding."
@@ -5500,7 +5500,7 @@
     },
     "mulher transgênero": {
         "Descrições": {
-            "desc_pt": "Google Tradutor - Indivíduos que receberam um sexo masculino no nascimento, mas têm uma identidade de gênero feminina.",
+            "desc_pt": "Google Tradutor - Indivíduos que receberam o sexo masculino no nascimento, mas têm uma identidade de gênero feminina.",
             "desc_en": "ACOG - Individuals who were assigned a male sex at birth but have a female gender identity."
         },
         "Traduções": {
@@ -5878,7 +5878,7 @@
     },
     "óxido nitroso": {
         "Descrições": {
-            "desc_pt": "Google Tradutor - Um gás inodoro que ao ser inalado faz com que você se sinta relaxado e tranquilo. Também conhecido como gás hilariante.",
+            "desc_pt": "Google Tradutor - Um gás inodoro que, ao ser inalado, faz com que você se sinta relaxado e tranquilo. Também conhecido como gás hilariante.",
             "desc_en": "ACOG - A gas with no odor that when inhaled causes you to feel relaxed and calm. Also known as laughing gas."
         },
         "Traduções": {
@@ -5894,13 +5894,13 @@
             "en": "Oxygen"
         }
     },
-    "painel lipídico/teste de perfil lipídico": {
+    "painel lipídico, teste de perfil lipídico": {
         "Descrições": {
             "desc_pt": "Google Tradutor - um tipo de exame de sangue usado para medir as anormalidades nos lipídios, ou seja, a concentração de colesterol e gorduras em nosso sangue.",
             "desc_en": "Elara Care -  a type of blood test used to measure the abnormalities in lipids, or in other words, the concentration of cholesterol and fats in our blood."
         },
         "Traduções": {
-            "en": "Lipid panel/Lipid profile test"
+            "en": "Lipid panel,Lipid profile test"
         }
     },
     "papilomavírus humano (hpv)": {
@@ -5986,7 +5986,7 @@
     },
     "pasteurizado": {
         "Descrições": {
-            "desc_pt": "Google Tradutor - Quando certos alimentos, como leite, são aquecidos a uma temperatura específica por um determinado período de tempo para matar bactérias nocivas, como as bactérias que causam listeriose.",
+            "desc_pt": "Google Tradutor - Quando certos alimentos, como leite, foram aquecidos a uma temperatura específica por um determinado período de tempo para matar bactérias nocivas, como as bactérias que causam listeriose.",
             "desc_en": "ACOG - When certain foods, such as milk, have been heated to a specific temperature for a set period of time to kill harmful bacteria, such as the bacteria that cause listeriosis."
         },
         "Traduções": {
@@ -6144,6 +6144,15 @@
         },
         "Traduções": {
             "en": "Perineum"
+        }
+    },
+    "período atrasado": {
+        "Descrições": {
+            "desc_pt": "Google Tradutor - Na gravidez, o período de 41 semanas e 0 dias até 41 semanas e 6 dias.",
+            "desc_en": "ACOG - In pregnancy, the period from 41 weeks and 0 days through 41 weeks and 6 days."
+        },
+        "Traduções": {
+            "en": "Late Term"
         }
     },
     "período menstrual": {
@@ -6360,15 +6369,6 @@
         },
         "Traduções": {
             "en": "Early Term"
-        }
-    },
-    "prazo atrasado": {
-        "Descrições": {
-            "desc_pt": "Google Tradutor - Na gravidez, o período de 41 semanas e 0 dias até 41 semanas e 6 dias.",
-            "desc_en": "ACOG - In pregnancy, the period from 41 weeks and 0 days through 41 weeks and 6 days."
-        },
-        "Traduções": {
-            "en": "Late Term"
         }
     },
     "pré-diabetes": {
@@ -6776,13 +6776,13 @@
             "en": "Screening Mammography"
         }
     },
-    "razão lecitina/esfingomielina (l/s)": {
+    "razão lecitina, esfingomielina (l,s)": {
         "Descrições": {
             "desc_pt": "Google Tradutor - Medição de substâncias no líquido amniótico para determinar se os pulmões do feto estão maduros.",
             "desc_en": "ACOG - Measurement of substances in the amniotic fluid to determine whether the fetus’s lungs are mature."
         },
         "Traduções": {
-            "en": "Lecithin/Sphingomyelin (L/S) Ratio"
+            "en": "Lecithin,Sphingomyelin (L,S) Ratio"
         }
     },
     "reabsorção": {
@@ -7012,7 +7012,7 @@
     },
     "salpingo-ooforectomia": {
         "Descrições": {
-            "desc_pt": "Google Tradutor - Cirurgia para remover um ovário e trompa de falópio.",
+            "desc_pt": "Google Tradutor - Cirurgia para remover um ovário e trompa de Falópio.",
             "desc_en": "ACOG - Surgery to remove an ovary and fallopian tube."
         },
         "Traduções": {
@@ -7426,7 +7426,7 @@
     },
     "síndrome varicela congênita": {
         "Descrições": {
-            "desc_pt": "Google Tradutor - Uma condição que pode ser encontrada em um recém-nascido após um feto ter sido infectado com varicela (catapora), geralmente durante o primeiro ou segundo trimestre da gravidez. Complicações a longo prazo podem incluir problemas oculares, danos cerebrais e membros deformados.",
+            "desc_pt": "Google Tradutor - Uma condição que pode ser encontrada em um recém-nascido depois que um feto foi infectado com varicela (catapora), geralmente durante o primeiro ou segundo trimestre da gravidez. As complicações a longo prazo podem incluir problemas oculares, danos cerebrais e membros deformados.",
             "desc_en": "ACOG - A condition that can be found in a newborn after a fetus has been infected with varicella (chickenpox), usually during the first or second trimester of pregnancy. Long-term complications can include eye problems, brain damage, and misshaped limbs."
         },
         "Traduções": {
@@ -7750,7 +7750,7 @@
     },
     "teste sem estresse": {
         "Descrições": {
-            "desc_pt": "Google Tradutor - Um teste no qual as mudanças na frequência cardíaca fetal são registradas usando um monitor fetal eletrônico.",
+            "desc_pt": "Google Tradutor - Um teste no qual as alterações na frequência cardíaca fetal são registradas usando um monitor fetal eletrônico.",
             "desc_en": "ACOG - A test in which changes in the fetal heart rate are recorded using an electronic fetal monitor."
         },
         "Traduções": {
@@ -7768,7 +7768,7 @@
     },
     "testículos": {
         "Descrições": {
-            "desc_pt": "Google Tradutor - Órgãos masculinos emparelhados que produzem esperma e o hormônio sexual masculino testosterona. Também chamados de “testículos”.",
+            "desc_pt": "Google Tradutor - Órgãos masculinos pareados que produzem esperma e o hormônio sexual masculino testosterona. Também chamados de “testículos”.",
             "desc_en": "ACOG - Paired male organs that make sperm and the male sex hormone testosterone. Also called “testes.”"
         },
         "Traduções": {
@@ -8704,7 +8704,7 @@
     },
     "zika": {
         "Descrições": {
-            "desc_pt": "Google Tradutor - Uma doença causada pelo vírus Zika, que é transmitida por picadas de mosquito.",
+            "desc_pt": "Google Tradutor - Doença causada pelo vírus Zika, transmitida por picadas de mosquito.",
             "desc_en": "ACOG - A disease caused by the Zika virus, which is spread through mosquito bites."
         },
         "Traduções": {

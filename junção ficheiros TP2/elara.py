@@ -3,8 +3,8 @@ from bs4 import BeautifulSoup
 from deep_translator import GoogleTranslator
 import locale
 import json
+import re
 
-# definir localização/internacionalização 
 locale.setlocale(locale.LC_COLLATE, 'pt_PT.UTF-8')
 
 url = "https://elara.care/culture/female-health-glossary/"
@@ -20,6 +20,7 @@ dic = {}
 # Iterar sobre os elementos <li> e extrair os termos e descrições
 for li in li_elements:
     title, description = li.text.split(":")
+    title = re.sub('/', ',', title)
 
     translator = GoogleTranslator(source='en', target='pt')
     translated_title = translator.translate(title)

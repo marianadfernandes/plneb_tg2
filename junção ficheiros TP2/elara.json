@@ -279,7 +279,7 @@
         "en": "Dyskaryosis",
         "desc_en": " When your cervical screening test is HPV positive and shows abnormal changes in the cells of the cervix this is called ‘dyskaryosis’. Most abnormal results show minor cell changes. These are called borderline, mild, or low-grade dyskaryosis."
     },
-    "dispareunia": {
+    "Dispareunia": {
         "desc_pt": "Dor consistente na área genital ou na pelve durante a relação sexual.",
         "en": "Dyspareunia",
         "desc_en": " A consistent pain in the genital area or within the pelvis during sexual intercourse."
@@ -794,9 +794,9 @@
         "en": "Ovulation",
         "desc_en": " Occurs when an ovarian follicle releases a mature egg."
     },
-    "Painel lipídico/teste de perfil lipídico": {
+    "Painel lipídico, teste de perfil lipídico": {
         "desc_pt": "um tipo de exame de sangue usado para medir as anormalidades nos lipídios, ou seja, a concentração de colesterol e gorduras em nosso sangue.",
-        "en": "Lipid panel/Lipid profile test",
+        "en": "Lipid panel,Lipid profile test",
         "desc_en": " a type of blood test used to measure the abnormalities in lipids, or in other words, the concentration of cholesterol and fats in our blood."
     },
     "Papilomavírus Humano (HPV)": {

@@ -569,7 +569,7 @@
         "en": "Excisional Biopsy",
         "desc_en": "A biopsy that is done by a surgeon using a scalpel or other surgical tools."
     },
-    "Biópsia testicular": {
+    "Biópsia Testicular": {
         "desc_pt": "Um procedimento para obter uma amostra de tecido dos testículos.",
         "en": "Testicular Biopsy",
         "desc_en": "A procedure to obtain a sample of tissue from the testicles."
@@ -1115,7 +1115,7 @@
         "desc_en": "The chromosomes that determine a person’s sex. In humans, there are two sex chromosomes, X and Y. Females have two X chromosomes and males have an X and a Y chromosome."
     },
     "Cuidados paliativos": {
-        "desc_pt": "Cuidados que focam no conforto de pessoas que têm uma doença que vai levar à morte.",
+        "desc_pt": "Cuidados que focam no conforto para pessoas que têm uma doença que vai levar à morte.",
         "en": "Hospice Care",
         "desc_en": "Care that focuses on comfort for people who have an illness that will lead to death."
     },
@@ -1245,7 +1245,7 @@
         "desc_en": "A large difference in the size of fetuses in a multiple pregnancy."
     },
     "Disfunção erétil": {
-        "desc_pt": "A incapacidade de um homem ter ou manter uma ereção até que ocorra a ejaculação ou a relação sexual.",
+        "desc_pt": "A incapacidade de um homem de ter ou manter uma ereção até que ocorra a ejaculação ou a relação sexual.",
         "en": "Erectile Dysfunction",
         "desc_en": "The inability of a man to have or keep an erection until ejaculation or sexual intercourse takes place."
     },
@@ -1254,7 +1254,7 @@
         "en": "Dysmenorrhea",
         "desc_en": "Discomfort and pain during the menstrual period."
     },
-    "dispareunia": {
+    "Dispareunia": {
         "desc_pt": "Dor com relação sexual.",
         "en": "Dyspareunia",
         "desc_en": "Pain with intercourse."
@@ -1265,7 +1265,7 @@
         "desc_en": "A noncancerous condition that happens when normal cells are replaced by a layer of abnormal cells."
     },
     "Dispositivo de Vácuo": {
-        "desc_pt": "Uma ventosa que é aplicada na cabeça do feto para ajudar no nascimento.",
+        "desc_pt": "Uma ventosa que é aplicada na cabeça do feto para ajudar no parto.",
         "en": "Vacuum Device",
         "desc_en": "A suction cup that is applied to the fetus’s head to help with birth."
     },
@@ -1400,7 +1400,7 @@
         "desc_en": "An inherited disorder in which a substance called glucosylceramidase builds up in the liver, spleen, lymph nodes, lungs, and bone marrow. This buildup causes problems with the liver and the nervous system."
     },
     "Doença de Huntington": {
-        "desc_pt": "Distúrbio que causa perda de controle dos movimentos do corpo e da função mental.",
+        "desc_pt": "Um distúrbio que causa perda de controle dos movimentos do corpo e da função mental.",
         "en": "Huntington Disease",
         "desc_en": "A disorder that causes loss of control of body movements and mental function."
     },
@@ -1419,13 +1419,13 @@
         "en": "Von Willebrand Disease",
         "desc_en": "A disorder in which the blood does not clot well."
     },
-    "Doença Hemolítica do Recém-Nascido (HDN)": {
+    "Doença hemolítica do recém-nascido (HDN)": {
         "desc_pt": "Um tipo de anemia que pode afetar um feto ou recém-nascido. HDN é causada pela degradação dos glóbulos vermelhos do feto por anticorpos no sangue de uma mulher.",
         "en": "Hemolytic Disease of the Newborn (HDN)",
         "desc_en": "A type of anemia that can affect a fetus or newborn. HDN is caused by the breakdown of the fetus’s red blood cells by antibodies in a woman’s blood."
     },
     "Doença Inflamatória Intestinal (DII)": {
-        "desc_pt": "O nome de um grupo de doenças que causam inflamação dos intestinos. Exemplos incluem a doença de Crohn e a colite ulcerosa.",
+        "desc_pt": "O nome de um grupo de doenças que causam inflamação dos intestinos. Exemplos incluem doença de Crohn e colite ulcerosa.",
         "en": "Inflammatory Bowel Disease (IBD)",
         "desc_en": "The name for a group of diseases that cause inflammation of the intestines. Examples include Crohn’s disease and ulcerative colitis."
     },
@@ -1535,7 +1535,7 @@
         "desc_en": "Related to stage of development that starts at fertilization (joining of an egg and sperm) and lasts up to 8 weeks."
     },
     "Endocrinologista Reprodutivo": {
-        "desc_pt": "Um obstetra-ginecologista com treinamento especial para lidar com distúrbios relacionados aos hormônios do sistema reprodutivo. Esses especialistas também tratam a infertilidade.",
+        "desc_pt": "Um obstetra-ginecologista com treinamento especial para gerenciar distúrbios relacionados a hormônios do sistema reprodutivo. Esses especialistas também tratam a infertilidade.",
         "en": "Reproductive Endocrinologist",
         "desc_en": "An obstetrician–gynecologist with special training to manage disorders related to hormones of the reproductive system. These specialists also treat infertility."
     },
@@ -2120,7 +2120,7 @@
         "desc_en": "A condition in which cells in the breast ducts or lobes are increasing in number and do not look normal under a microscope."
     },
     "Hiperplasia endometrial": {
-        "desc_pt": "Condição em que o revestimento do útero fica muito espesso.",
+        "desc_pt": "Uma condição na qual o revestimento do útero fica muito espesso.",
         "en": "Endometrial Hyperplasia",
         "desc_en": "A condition in which the lining of the uterus grows too thick."
     },
@@ -2294,7 +2294,7 @@
         "en": "Anal Incontinence",
         "desc_en": "Involuntary loss of solid stool, liquid stool, mucus, or gas through the anus. Also called accidental bowel leakage."
     },
-    "Incontinência fecal": {
+    "Incontinência Fecal": {
         "desc_pt": "Perda involuntária do controle dos intestinos. Essa condição pode levar ao vazamento de fezes sólidas, fezes líquidas, muco ou gases. Também chamado de vazamento intestinal acidental.",
         "en": "Fecal Incontinence",
         "desc_en": "Involuntary loss of control of the bowels. This condition can lead to leakage of solid stool, liquid stool, mucus, or gas. Also called accidental bowel leakage."
@@ -2355,7 +2355,7 @@
         "desc_en": "Infections that occur more than once."
     },
     "Infertilidade": {
-        "desc_pt": "A incapacidade de engravidar após 1 ano de relações sexuais regulares sem o uso de controle de natalidade.",
+        "desc_pt": "A incapacidade de engravidar após 1 ano de relações sexuais regulares sem o uso de anticoncepcionais.",
         "en": "Infertility",
         "desc_en": "The inability to get pregnant after 1 year of having regular sexual intercourse without the use of birth control."
     },
@@ -2425,7 +2425,7 @@
         "desc_en": "An eating disorder that causes a person to severely restrict food so they lose weight. People with this disorder fear weight gain and have a distorted body image."
     },
     "Lábio leporino": {
-        "desc_pt": "Um defeito congênito que causa uma abertura ou divisão no lábio superior ou no céu da boca.",
+        "desc_pt": "Um defeito congênito que causa uma abertura ou fenda no lábio superior ou no céu da boca.",
         "en": "Cleft Lip",
         "desc_en": "A birth defect that causes an opening or split in the upper lip or roof of the mouth."
     },
@@ -2579,7 +2579,7 @@
         "en": "Lupus",
         "desc_en": "An autoimmune disorder that affects the connective tissues in the body. The disorder can cause arthritis, kidney disease, heart disease, blood disorders, and complications during pregnancy. Also called systemic lupus erythematosus or SLE."
     },
-    "Luz ultravioleta (UV)": {
+    "Luz Ultravioleta (UV)": {
         "desc_pt": "Um tipo de luz que não é visível a olho nu. A luz ultravioleta está na luz solar. Expor a pele à luz ultravioleta pode aumentar o risco de câncer de pele.",
         "en": "Ultraviolet (UV) Light",
         "desc_en": "A type of light that is not visible to the naked eye. UV light is in sunlight. Exposing the skin to ultraviolet light can increase the risk of skin cancer."
@@ -2660,7 +2660,7 @@
         "desc_en": "A common skin problem that causes brown to gray-brown patches on the face. Also known as the “mask of pregnancy.”"
     },
     "Menarca": {
-        "desc_pt": "Momento na vida de uma jovem em que começam os períodos menstruais.",
+        "desc_pt": "A época na vida de uma jovem em que começam os períodos menstruais.",
         "en": "Menarche",
         "desc_en": "The time in a young woman’s life when menstrual periods begin."
     },
@@ -2694,7 +2694,7 @@
         "en": "Metastasize",
         "desc_en": "Spreading of cancer to other parts of the body."
     },
-    "Método de Amenorréia Lactacional (LAM)": {
+    "Método de Amenorreia Lactacional (LAM)": {
         "desc_pt": "Um método temporário de controle de natalidade baseado na maneira natural como o corpo impede a ovulação quando a mulher está amamentando.",
         "en": "Lactational Amenorrhea Method (LAM)",
         "desc_en": "A temporary method of birth control that is based on the natural way the body prevents ovulation when a woman is breastfeeding."
@@ -2734,7 +2734,7 @@
         "en": "Minilaparotomy",
         "desc_en": "A small abdominal cut used for a surgery in which the fallopian tubes are closed off as a form of permanent birth control."
     },
-    "Minoria sexual": {
+    "Minoria Sexual": {
         "desc_pt": "Aqueles que se identificam como gays, lésbicas ou bissexuais ou que têm contato sexual com pessoas do mesmo sexo ou de ambos os sexos.",
         "en": "Sexual Minority",
         "desc_en": "Those who identify as gay, lesbian, or bisexual or who have sexual contact with people of the same or both sexes."
@@ -2795,7 +2795,7 @@
         "desc_en": "An inherited disorder that can affect the bones and skeletal development and also causes vision problems. Also known as Morquio syndrome."
     },
     "Mulher Transgênero": {
-        "desc_pt": "Indivíduos que receberam um sexo masculino no nascimento, mas têm uma identidade de gênero feminina.",
+        "desc_pt": "Indivíduos que receberam o sexo masculino no nascimento, mas têm uma identidade de gênero feminina.",
         "en": "Transgender Female",
         "desc_en": "Individuals who were assigned a male sex at birth but have a female gender identity."
     },
@@ -2985,7 +2985,7 @@
         "desc_en": "The act of an ovary releasing an egg."
     },
     "Óxido nitroso": {
-        "desc_pt": "Um gás inodoro que ao ser inalado faz com que você se sinta relaxado e tranquilo. Também conhecido como gás hilariante.",
+        "desc_pt": "Um gás inodoro que, ao ser inalado, faz com que você se sinta relaxado e tranquilo. Também conhecido como gás hilariante.",
         "en": "Nitrous Oxide",
         "desc_en": "A gas with no odor that when inhaled causes you to feel relaxed and calm. Also known as laughing gas."
     },
@@ -3040,7 +3040,7 @@
         "desc_en": "The process of heating certain foods to a specific temperature for a set period of time to kill harmful bacteria."
     },
     "Pasteurizado": {
-        "desc_pt": "Quando certos alimentos, como leite, são aquecidos a uma temperatura específica por um determinado período de tempo para matar bactérias nocivas, como as bactérias que causam listeriose.",
+        "desc_pt": "Quando certos alimentos, como leite, foram aquecidos a uma temperatura específica por um determinado período de tempo para matar bactérias nocivas, como as bactérias que causam listeriose.",
         "en": "Pasteurized",
         "desc_en": "When certain foods, such as milk, have been heated to a specific temperature for a set period of time to kill harmful bacteria, such as the bacteria that cause listeriosis."
     },
@@ -3123,6 +3123,11 @@
         "desc_pt": "A área entre a vagina e o ânus.",
         "en": "Perineum",
         "desc_en": "The area between the vagina and the anus."
+    },
+    "Período Atrasado": {
+        "desc_pt": "Na gravidez, o período de 41 semanas e 0 dias até 41 semanas e 6 dias.",
+        "en": "Late Term",
+        "desc_en": "In pregnancy, the period from 41 weeks and 0 days through 41 weeks and 6 days."
     },
     "Período menstrual": {
         "desc_pt": "O derramamento mensal de sangue e tecido do útero.",
@@ -3234,22 +3239,17 @@
         "en": "Early Term",
         "desc_en": "In pregnancy, the period from 37 weeks and 0 days through 38 weeks and 6 days."
     },
-    "Prazo Atrasado": {
-        "desc_pt": "Na gravidez, o período de 41 semanas e 0 dias até 41 semanas e 6 dias.",
-        "en": "Late Term",
-        "desc_en": "In pregnancy, the period from 41 weeks and 0 days through 41 weeks and 6 days."
-    },
     "Pré-diabetes": {
         "desc_pt": "Uma condição na qual o açúcar no sangue é alto, mas não alto o suficiente para ser diabetes tipo 2.",
         "en": "Prediabetes",
         "desc_en": "A condition in which blood sugar is high, but not high enough to be type 2 diabetes."
     },
     "Pré-eclâmpsia": {
-        "desc_pt": "Distúrbio que pode ocorrer durante a gravidez ou após o parto, no qual há hipertensão arterial e outros sinais de lesão de órgãos. Esses sinais incluem uma quantidade anormal de proteína na urina, baixo número de plaquetas, função renal ou hepática anormal, dor na parte superior do abdome, líquido nos pulmões ou dor de cabeça intensa ou alterações na visão.",
+        "desc_pt": "Distúrbio que pode ocorrer durante a gravidez ou após o parto, no qual há pressão alta e outros sinais de lesão de órgão. Esses sinais incluem uma quantidade anormal de proteína na urina, baixo número de plaquetas, função renal ou hepática anormal, dor na parte superior do abdome, líquido nos pulmões ou dor de cabeça intensa ou alterações na visão.",
         "en": "Preeclampsia",
         "desc_en": "A disorder that can occur during pregnancy or after childbirth in which there is high blood pressure and other signs of organ injury. These signs include an abnormal amount of protein in the urine, a low number of platelets, abnormal kidney or liver function, pain over the upper abdomen, fluid in the lungs, or a severe headache or changes in vision."
     },
-    "Pré-gravidez": {
+    "pré-gravidez": {
         "desc_pt": "Antes da gravidez.",
         "en": "Prepregnancy",
         "desc_en": "Before pregnancy."
@@ -3449,9 +3449,9 @@
         "en": "Screening Mammography",
         "desc_en": "Mammography that is done to screen for breast cancer."
     },
-    "Razão Lecitina/Esfingomielina (L/S)": {
+    "Razão Lecitina, Esfingomielina (L,S)": {
         "desc_pt": "Medição de substâncias no líquido amniótico para determinar se os pulmões do feto estão maduros.",
-        "en": "Lecithin/Sphingomyelin (L/S) Ratio",
+        "en": "Lecithin,Sphingomyelin (L,S) Ratio",
         "desc_en": "Measurement of substances in the amniotic fluid to determine whether the fetus’s lungs are mature."
     },
     "Reabsorção": {
@@ -3580,7 +3580,7 @@
         "desc_en": "Inflammation of the fallopian tube."
     },
     "Salpingo-ooforectomia": {
-        "desc_pt": "Cirurgia para remover um ovário e trompa de falópio.",
+        "desc_pt": "Cirurgia para remover um ovário e trompa de Falópio.",
         "en": "Salpingo-oophorectomy",
         "desc_en": "Surgery to remove an ovary and fallopian tube."
     },
@@ -3599,7 +3599,7 @@
         "en": "Breakthrough Bleeding",
         "desc_en": "Vaginal bleeding that happens in between regular periods.\n"
     },
-    "Sangramento de implantação": {
+    "Sangramento de Implantação": {
         "desc_pt": "Uma pequena quantidade de manchas ou sangramento que ocorre no início da gravidez, cerca de 2 semanas após a ovulação. Isso pode ser um sinal de que um óvulo fertilizado se prendeu ao revestimento do útero.",
         "en": "Implantation Bleeding",
         "desc_en": "A small amount of spotting or bleeding that happens early in pregnancy, about 2 weeks after ovulation. This may be a sign that a fertilized egg has attached to the lining of the uterus."
@@ -3679,7 +3679,7 @@
         "en": "Cowden Syndrome",
         "desc_en": " A genetic condition that increases a person’s risk of cancer of the breast, thyroid, uterus, colon, kidney, and skin."
     },
-    "Síndrome de Down (trissomia 21)": {
+    "Síndrome de Down (Trissomia 21)": {
         "desc_pt": "Um distúrbio genético que causa características anormais do rosto e do corpo, problemas médicos como defeitos cardíacos e deficiência mental. A maioria dos casos de síndrome de Down é causada por um cromossomo 21 extra (trissomia 21).",
         "en": "Down Syndrome (Trisomy 21)",
         "desc_en": "A genetic disorder that causes abnormal features of the face and body, medical problems such as heart defects, and mental disability. Most cases of Down syndrome are caused by an extra chromosome 21 (trisomy 21)."
@@ -3785,7 +3785,7 @@
         "desc_en": "A term used to describe a group of physical and behavioral changes that some women experience before their menstrual periods every month.\n"
     },
     "Síndrome Varicela Congênita": {
-        "desc_pt": "Uma condição que pode ser encontrada em um recém-nascido após um feto ter sido infectado com varicela (catapora), geralmente durante o primeiro ou segundo trimestre da gravidez. Complicações a longo prazo podem incluir problemas oculares, danos cerebrais e membros deformados.",
+        "desc_pt": "Uma condição que pode ser encontrada em um recém-nascido depois que um feto foi infectado com varicela (catapora), geralmente durante o primeiro ou segundo trimestre da gravidez. As complicações a longo prazo podem incluir problemas oculares, danos cerebrais e membros deformados.",
         "en": "Congenital Varicella Syndrome",
         "desc_en": "A condition that can be found in a newborn after a fetus has been infected with varicella (chickenpox), usually during the first or second trimester of pregnancy. Long-term complications can include eye problems, brain damage, and misshaped limbs."
     },
@@ -3930,7 +3930,7 @@
         "desc_en": "A test to examine how sperm and mucus from the cervix affect one another."
     },
     "Teste sem estresse": {
-        "desc_pt": "Um teste no qual as mudanças na frequência cardíaca fetal são registradas usando um monitor fetal eletrônico.",
+        "desc_pt": "Um teste no qual as alterações na frequência cardíaca fetal são registradas usando um monitor fetal eletrônico.",
         "en": "Nonstress Test",
         "desc_en": "A test in which changes in the fetal heart rate are recorded using an electronic fetal monitor."
     },
@@ -3940,7 +3940,7 @@
         "desc_en": "Tests that look for a disease or cause of a disease."
     },
     "Testículos": {
-        "desc_pt": "Órgãos masculinos emparelhados que produzem esperma e o hormônio sexual masculino testosterona. Também chamados de “testículos”.",
+        "desc_pt": "Órgãos masculinos pareados que produzem esperma e o hormônio sexual masculino testosterona. Também chamados de “testículos”.",
         "en": "Testicles",
         "desc_en": "Paired male organs that make sperm and the male sex hormone testosterone. Also called “testes.”"
     },
@@ -4269,7 +4269,7 @@
         "en": "Vaginitis",
         "desc_en": "A range of conditions that cause vaginal itching, burning, irritation, dryness, inflammation, and/or discharge."
     },
-    "Vaginite atrófica": {
+    "Vaginite Atrófica": {
         "desc_pt": "Uma condição não infecciosa ligada à falta de estrogênio. Os sintomas vaginais podem incluir alterações nos tecidos, coceira, queimação, irritação, corrimento, ressecamento ou inflamação.",
         "en": "Atrophic Vaginitis",
         "desc_en": "A noninfectious condition linked to a lack of estrogen. Vaginal symptoms may include tissue changes, itching, burning, irritation, discharge, dryness, or inflammation."
@@ -4410,7 +4410,7 @@
         "desc_en": "The single cell formed from the joining of the egg and sperm."
     },
     "zika": {
-        "desc_pt": "Uma doença causada pelo vírus Zika, que é transmitida por picadas de mosquito.",
+        "desc_pt": "Doença causada pelo vírus Zika, transmitida por picadas de mosquito.",
         "en": "Zika",
         "desc_en": "A disease caused by the Zika virus, which is spread through mosquito bites."
     }

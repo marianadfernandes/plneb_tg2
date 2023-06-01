@@ -31,14 +31,6 @@
             }
         },
         {
-            "cara": {
-                "Traduções": {
-                    "en": "face, facies",
-                    "es": "rostro , cara"
-                }
-            }
-        },
-        {
             "cheiro": {
                 "Traduções": {
                     "en": "smell, scent (of…)",
@@ -78,22 +70,6 @@
             }
         },
         {
-            "face": {
-                "Traduções": {
-                    "en": "face, cheek",
-                    "es": "cara"
-                }
-            }
-        },
-        {
-            "impedir": {
-                "Traduções": {
-                    "en": "avoid",
-                    "es": "impedir"
-                }
-            }
-        },
-        {
             "inicial": {
                 "Descrições": {
                     "exp pop": "Expressão Popular - inicial"
@@ -120,14 +96,6 @@
             "pulverizador": {
                 "Descrições": {
                     "exp pop": "Expressão Popular - atomizador, vaporizador, aparelho de pulverizar"
-                }
-            }
-        },
-        {
-            "rosto": {
-                "Traduções": {
-                    "en": "face, facies",
-                    "es": "rostro , cara"
                 }
             }
         }
@@ -1840,6 +1808,17 @@
             }
         },
         {
+            "razão lecitina, esfingomielina (l,s)": {
+                "Descrições": {
+                    "desc_pt": "Google Tradutor - Medição de substâncias no líquido amniótico para determinar se os pulmões do feto estão maduros.",
+                    "desc_en": "ACOG - Measurement of substances in the amniotic fluid to determine whether the fetus’s lungs are mature."
+                },
+                "Traduções": {
+                    "en": "Lecithin,Sphingomyelin (L,S) Ratio"
+                }
+            }
+        },
+        {
             "reactivo": {
                 "Traduções": {
                     "en": "reactive",
@@ -2688,13 +2667,6 @@
             }
         },
         {
-            "condução": {
-                "Descrições": {
-                    "exp pop": "Expressão Popular - transmissão"
-                }
-            }
-        },
-        {
             "consciente": {
                 "Traduções": {
                     "en": "conscious, awake",
@@ -2809,18 +2781,6 @@
             }
         },
         {
-            "lésbica": {
-                "Traduções": {
-                    "en": "lesbian",
-                    "es": "lésbica "
-                },
-                "Descrições": {
-                    "desc_pt": "Google Tradutor - Uma mulher que tem uma orientação romântica e/ou sexual em relação a mulheres.",
-                    "desc_en": "Elara Care -  A woman who has a romantic and/or sexual orientation toward women."
-                }
-            }
-        },
-        {
             "massagem": {
                 "Descrições": {
                     "exp pop": "Expressão Popular - massagem"
@@ -2847,14 +2807,6 @@
                 "Traduções": {
                     "en": "opportunity, opportunistic",
                     "es": "ocasional"
-                }
-            }
-        },
-        {
-            "operador": {
-                "Traduções": {
-                    "en": "operator, operating surgeon",
-                    "es": "operador/-a"
                 }
             }
         },
@@ -3658,14 +3610,6 @@
             }
         },
         {
-            "ultrapassar": {
-                "Traduções": {
-                    "en": "cross",
-                    "es": "exceder"
-                }
-            }
-        },
-        {
             "urinálise": {
                 "Descrições": {
                     "desc_pt": "Google Tradutor - Um teste para verificar uma amostra de urina.",
@@ -4039,14 +3983,6 @@
                 },
                 "Traduções": {
                     "en": "Biopsy"
-                }
-            }
-        },
-        {
-            "bochecha": {
-                "Traduções": {
-                    "en": "cheek",
-                    "es": "mejilla"
                 }
             }
         },
@@ -4461,14 +4397,6 @@
             }
         },
         {
-            "de novo": {
-                "Traduções": {
-                    "en": "again",
-                    "es": "de nuevo"
-                }
-            }
-        },
-        {
             "dedo": {
                 "Traduções": {
                     "en": "finger, toe",
@@ -4794,14 +4722,6 @@
                 "Traduções": {
                     "en": "facial",
                     "es": "facial"
-                }
-            }
-        },
-        {
-            "fecundado": {
-                "Traduções": {
-                    "en": "impregnated",
-                    "es": "fecundado"
                 }
             }
         },
@@ -5709,14 +5629,6 @@
             }
         },
         {
-            "picada": {
-                "Traduções": {
-                    "en": "stab",
-                    "es": "picada"
-                }
-            }
-        },
-        {
             "picar": {
                 "Traduções": {
                     "en": "puncture",
@@ -6089,13 +6001,6 @@
                 },
                 "Traduções": {
                     "en": "Sigmoidoscopy"
-                }
-            }
-        },
-        {
-            "spotting": {
-                "Descrições": {
-                    "exp pop": "Expressão Popular - perda de sangue pela vagina"
                 }
             }
         },
@@ -6620,14 +6525,6 @@
                 "Traduções": {
                     "en": "creatinine",
                     "es": "creatinina"
-                }
-            }
-        },
-        {
-            "deitado": {
-                "Traduções": {
-                    "en": "lying",
-                    "es": "tumbado, echado"
                 }
             }
         },
@@ -7398,14 +7295,6 @@
             }
         },
         {
-            "deteção": {
-                "Traduções": {
-                    "en": "recognition",
-                    "es": "detección"
-                }
-            }
-        },
-        {
             "espectro": {
                 "Descrições": {
                     "exp pop": "Expressão Popular - zona de actividade de um antibiótico"
@@ -8055,17 +7944,6 @@
             }
         },
         {
-            "maciço": {
-                "Descrições": {
-                    "exp pop": "Expressão Popular - grande, amplo"
-                },
-                "Traduções": {
-                    "en": "massive, compact",
-                    "es": "macizo"
-                }
-            }
-        },
-        {
             "mania": {
                 "Descrições": {
                     "exp pop": "Expressão Popular - delírio maníaco, delírio furioso"
@@ -8249,14 +8127,6 @@
             }
         },
         {
-            "pulga": {
-                "Traduções": {
-                    "en": "flea, pulex",
-                    "es": "pulga"
-                }
-            }
-        },
-        {
             "raquítico": {
                 "Traduções": {
                     "en": "rickety, rachitic",
@@ -8322,14 +8192,6 @@
                 },
                 "Traduções": {
                     "en": "Stroke"
-                }
-            }
-        },
-        {
-            "cego": {
-                "Traduções": {
-                    "en": "blind",
-                    "es": "ciego"
                 }
             }
         },
@@ -8450,14 +8312,6 @@
                 "Traduções": {
                     "en": "hypoglycemia",
                     "es": "hipoglucemia"
-                }
-            }
-        },
-        {
-            "ofuscar": {
-                "Traduções": {
-                    "en": "blind, dazzle",
-                    "es": "ofuscar"
                 }
             }
         },
@@ -8666,22 +8520,6 @@
                 "Traduções": {
                     "en": "pore, porosity",
                     "es": "poro"
-                }
-            }
-        },
-        {
-            "precedido": {
-                "Traduções": {
-                    "en": "previous",
-                    "es": "precedido"
-                }
-            }
-        },
-        {
-            "prévio": {
-                "Traduções": {
-                    "en": "previous",
-                    "es": "previo"
                 }
             }
         },
@@ -9026,14 +8864,6 @@
                 "Traduções": {
                     "en": "dress, bandage (up)",
                     "es": "pensar"
-                }
-            }
-        },
-        {
-            "porção": {
-                "Traduções": {
-                    "en": "section, part, portion",
-                    "es": "porción"
                 }
             }
         },
@@ -9487,14 +9317,6 @@
                 },
                 "Traduções": {
                     "en": "Kegel"
-                }
-            }
-        },
-        {
-            "lado": {
-                "Traduções": {
-                    "en": "side",
-                    "es": "lado"
                 }
             }
         },
@@ -10362,14 +10184,6 @@
             }
         },
         {
-            "martelo": {
-                "Traduções": {
-                    "en": "hammer",
-                    "es": "martillo"
-                }
-            }
-        },
-        {
             "masturbação": {
                 "Descrições": {
                     "desc_pt": "Google Tradutor - Autoprocedimento que envolve tocar e esfregar partes do corpo para obter prazer sexual, como clitóris, vulva, seios e ânus.",
@@ -10728,22 +10542,6 @@
             }
         },
         {
-            "ardente": {
-                "Traduções": {
-                    "en": "burning, burny",
-                    "es": "ardiente"
-                }
-            }
-        },
-        {
-            "ardor": {
-                "Traduções": {
-                    "en": "burning",
-                    "es": "ardor"
-                }
-            }
-        },
-        {
             "atitude": {
                 "Traduções": {
                     "en": "posture, habitus",
@@ -11082,14 +10880,6 @@
             }
         },
         {
-            "nu": {
-                "Traduções": {
-                    "en": "naked, nude",
-                    "es": "desnudo"
-                }
-            }
-        },
-        {
             "organismo": {
                 "Descrições": {
                     "exp pop": "Expressão Popular - qualquer coisa viva individual",
@@ -11347,14 +11137,6 @@
             }
         },
         {
-            "coroa": {
-                "Traduções": {
-                    "en": "crown",
-                    "es": "corona"
-                }
-            }
-        },
-        {
             "coroação": {
                 "Descrições": {
                     "desc_pt": "Google Tradutor - Uma das últimas fases do parto, quando grande parte do couro cabeludo do feto é visível na abertura vaginal.",
@@ -11424,14 +11206,6 @@
                 "Descrições": {
                     "exp pop": "Expressão Popular - que tem febre, pirético",
                     "desc_pt": "Cruz Verde - Caracterizado pela presença de febre."
-                }
-            }
-        },
-        {
-            "feminino": {
-                "Traduções": {
-                    "en": "female, womanish, woman",
-                    "es": "femenino"
                 }
             }
         },
@@ -11950,13 +11724,6 @@
             }
         },
         {
-            "múltiplo": {
-                "Descrições": {
-                    "exp pop": "Expressão Popular - variado"
-                }
-            }
-        },
-        {
             "nomeadamente": {
                 "Traduções": {
                     "en": "especially",
@@ -12056,13 +11823,6 @@
                 "Traduções": {
                     "en": "stiff",
                     "es": "rígido"
-                }
-            }
-        },
-        {
-            "rotineiramente": {
-                "Descrições": {
-                    "exp pop": "Expressão Popular - por rotina, por hábito"
                 }
             }
         },
@@ -12559,14 +12319,6 @@
             "normalização": {
                 "Descrições": {
                     "exp pop": "Expressão Popular - estandardização, padronização, unificação"
-                }
-            }
-        },
-        {
-            "ocultar": {
-                "Traduções": {
-                    "en": "hide, mask",
-                    "es": "ocultar"
                 }
             }
         },
@@ -13841,22 +13593,6 @@
             }
         },
         {
-            "macho": {
-                "Traduções": {
-                    "en": "male, masculine",
-                    "es": "macho, masculino"
-                }
-            }
-        },
-        {
-            "masculino": {
-                "Traduções": {
-                    "en": "male, masculine",
-                    "es": "masculino, macho"
-                }
-            }
-        },
-        {
             "mastite": {
                 "Descrições": {
                     "exp pop": "Expressão Popular - mamite, inflamação dos peitos",
@@ -14550,17 +14286,6 @@
         }
     ],
     "Inflamação": [
-        {
-            "abdómen": {
-                "Descrições": {
-                    "exp pop": "Expressão Popular - barriga, ventre"
-                },
-                "Traduções": {
-                    "en": "belly, abdomen",
-                    "es": "abdomen"
-                }
-            }
-        },
         {
             "aberrante": {
                 "Descrições": {
@@ -20862,6 +20587,406 @@
             }
         }
     ],
+    "Mulher": [
+        {
+            "abdómen": {
+                "Descrições": {
+                    "exp pop": "Expressão Popular - barriga, ventre"
+                },
+                "Traduções": {
+                    "en": "belly, abdomen",
+                    "es": "abdomen"
+                }
+            }
+        },
+        {
+            "após": {
+                "Traduções": {
+                    "en": "after",
+                    "es": "después"
+                }
+            }
+        },
+        {
+            "ardente": {
+                "Traduções": {
+                    "en": "burning, burny",
+                    "es": "ardiente"
+                }
+            }
+        },
+        {
+            "ardor": {
+                "Traduções": {
+                    "en": "burning",
+                    "es": "ardor"
+                }
+            }
+        },
+        {
+            "bochecha": {
+                "Traduções": {
+                    "en": "cheek",
+                    "es": "mejilla"
+                }
+            }
+        },
+        {
+            "cara": {
+                "Traduções": {
+                    "en": "face, facies",
+                    "es": "rostro , cara"
+                }
+            }
+        },
+        {
+            "cego": {
+                "Traduções": {
+                    "en": "blind",
+                    "es": "ciego"
+                }
+            }
+        },
+        {
+            "condução": {
+                "Descrições": {
+                    "exp pop": "Expressão Popular - transmissão"
+                }
+            }
+        },
+        {
+            "consequência": {
+                "Traduções": {
+                    "en": "result, consequence (of…)",
+                    "es": "consecuencia (de…)"
+                }
+            }
+        },
+        {
+            "coroa": {
+                "Traduções": {
+                    "en": "crown",
+                    "es": "corona"
+                }
+            }
+        },
+        {
+            "de novo": {
+                "Traduções": {
+                    "en": "again",
+                    "es": "de nuevo"
+                }
+            }
+        },
+        {
+            "deitado": {
+                "Traduções": {
+                    "en": "lying",
+                    "es": "tumbado, echado"
+                }
+            }
+        },
+        {
+            "deteção": {
+                "Traduções": {
+                    "en": "recognition",
+                    "es": "detección"
+                }
+            }
+        },
+        {
+            "enfermeira": {
+                "Traduções": {
+                    "en": "nurse",
+                    "es": "enfermera /-o"
+                }
+            }
+        },
+        {
+            "face": {
+                "Traduções": {
+                    "en": "face, cheek",
+                    "es": "cara"
+                }
+            }
+        },
+        {
+            "fecundado": {
+                "Traduções": {
+                    "en": "impregnated",
+                    "es": "fecundado"
+                }
+            }
+        },
+        {
+            "feminino": {
+                "Traduções": {
+                    "en": "female, womanish, woman",
+                    "es": "femenino"
+                }
+            }
+        },
+        {
+            "impedir": {
+                "Traduções": {
+                    "en": "avoid",
+                    "es": "impedir"
+                }
+            }
+        },
+        {
+            "lactante": {
+                "Traduções": {
+                    "en": "newborn, nursling",
+                    "es": "lactante"
+                }
+            }
+        },
+        {
+            "lado": {
+                "Traduções": {
+                    "en": "side",
+                    "es": "lado"
+                }
+            }
+        },
+        {
+            "lésbica": {
+                "Traduções": {
+                    "en": "lesbian",
+                    "es": "lésbica "
+                },
+                "Descrições": {
+                    "desc_pt": "Google Tradutor - Uma mulher que tem uma orientação romântica e/ou sexual em relação a mulheres.",
+                    "desc_en": "Elara Care -  A woman who has a romantic and/or sexual orientation toward women."
+                }
+            }
+        },
+        {
+            "macho": {
+                "Traduções": {
+                    "en": "male, masculine",
+                    "es": "macho, masculino"
+                }
+            }
+        },
+        {
+            "maciço": {
+                "Descrições": {
+                    "exp pop": "Expressão Popular - grande, amplo"
+                },
+                "Traduções": {
+                    "en": "massive, compact",
+                    "es": "macizo"
+                }
+            }
+        },
+        {
+            "martelo": {
+                "Traduções": {
+                    "en": "hammer",
+                    "es": "martillo"
+                }
+            }
+        },
+        {
+            "masculino": {
+                "Traduções": {
+                    "en": "male, masculine",
+                    "es": "masculino, macho"
+                }
+            }
+        },
+        {
+            "mecânico": {
+                "Traduções": {
+                    "en": "mechanic(al)",
+                    "es": "mecánico"
+                }
+            }
+        },
+        {
+            "múltiplo": {
+                "Descrições": {
+                    "exp pop": "Expressão Popular - variado"
+                }
+            }
+        },
+        {
+            "nu": {
+                "Traduções": {
+                    "en": "naked, nude",
+                    "es": "desnudo"
+                }
+            }
+        },
+        {
+            "ocultar": {
+                "Traduções": {
+                    "en": "hide, mask",
+                    "es": "ocultar"
+                }
+            }
+        },
+        {
+            "ofuscar": {
+                "Traduções": {
+                    "en": "blind, dazzle",
+                    "es": "ofuscar"
+                }
+            }
+        },
+        {
+            "operador": {
+                "Traduções": {
+                    "en": "operator, operating surgeon",
+                    "es": "operador/-a"
+                }
+            }
+        },
+        {
+            "órgãos genitais": {
+                "Descrições": {
+                    "desc_pt": "Google Tradutor - Os órgãos sexuais ou reprodutivos.",
+                    "desc_en": "ACOG - The sexual or reproductive organs."
+                },
+                "Traduções": {
+                    "en": "Genitals"
+                }
+            }
+        },
+        {
+            "participação": {
+                "Traduções": {
+                    "en": "involvement",
+                    "es": "participación"
+                }
+            }
+        },
+        {
+            "pertosse": {
+                "Descrições": {
+                    "exp pop": "Expressão Popular - esgana, coqueluche, tosse convuls(iv)a"
+                }
+            }
+        },
+        {
+            "picada": {
+                "Traduções": {
+                    "en": "stab",
+                    "es": "picada"
+                }
+            }
+        },
+        {
+            "porção": {
+                "Traduções": {
+                    "en": "section, part, portion",
+                    "es": "porción"
+                }
+            }
+        },
+        {
+            "precedido": {
+                "Traduções": {
+                    "en": "previous",
+                    "es": "precedido"
+                }
+            }
+        },
+        {
+            "prévio": {
+                "Traduções": {
+                    "en": "previous",
+                    "es": "previo"
+                }
+            }
+        },
+        {
+            "pulga": {
+                "Traduções": {
+                    "en": "flea, pulex",
+                    "es": "pulga"
+                }
+            }
+        },
+        {
+            "ramo": {
+                "Traduções": {
+                    "en": "branch",
+                    "es": "rama"
+                }
+            }
+        },
+        {
+            "repetido": {
+                "Traduções": {
+                    "en": "repeatedly",
+                    "es": "repetido"
+                }
+            }
+        },
+        {
+            "rosto": {
+                "Traduções": {
+                    "en": "face, facies",
+                    "es": "rostro , cara"
+                }
+            }
+        },
+        {
+            "rotineiramente": {
+                "Descrições": {
+                    "exp pop": "Expressão Popular - por rotina, por hábito"
+                }
+            }
+        },
+        {
+            "sequência": {
+                "Traduções": {
+                    "en": "result, consequence (as a result of a fall two weeks ago)",
+                    "es": "secuela (en la s. de caída hace 2 semanas)"
+                }
+            }
+        },
+        {
+            "simultâneo": {
+                "Descrições": {
+                    "exp pop": "Expressão Popular - contemporâneo"
+                }
+            }
+        },
+        {
+            "spotting": {
+                "Descrições": {
+                    "exp pop": "Expressão Popular - perda de sangue pela vagina"
+                }
+            }
+        },
+        {
+            "ultrapassar": {
+                "Traduções": {
+                    "en": "cross",
+                    "es": "exceder"
+                }
+            }
+        },
+        {
+            "veículo": {
+                "Descrições": {
+                    "exp pop": "Expressão Popular - transportador; excipiente"
+                }
+            }
+        },
+        {
+            "víctima": {
+                "Traduções": {
+                    "en": "victim",
+                    "es": "víctima"
+                }
+            }
+        }
+    ],
     "Nutrição": [
         {
             "alimentação": {
@@ -20952,7 +21077,7 @@
         {
             "pasteurizado": {
                 "Descrições": {
-                    "desc_pt": "Google Tradutor - Quando certos alimentos, como leite, são aquecidos a uma temperatura específica por um determinado período de tempo para matar bactérias nocivas, como as bactérias que causam listeriose.",
+                    "desc_pt": "Google Tradutor - Quando certos alimentos, como leite, foram aquecidos a uma temperatura específica por um determinado período de tempo para matar bactérias nocivas, como as bactérias que causam listeriose.",
                     "desc_en": "ACOG - When certain foods, such as milk, have been heated to a specific temperature for a set period of time to kill harmful bacteria, such as the bacteria that cause listeriosis."
                 },
                 "Traduções": {
@@ -21175,7 +21300,7 @@
                     "es": "infertilidad"
                 },
                 "Descrições": {
-                    "desc_pt": "Google Tradutor - A incapacidade de engravidar após 1 ano de relações sexuais regulares sem o uso de controle de natalidade.",
+                    "desc_pt": "Google Tradutor - A incapacidade de engravidar após 1 ano de relações sexuais regulares sem o uso de anticoncepcionais.",
                     "desc_en": "ACOG - The inability to get pregnant after 1 year of having regular sexual intercourse without the use of birth control."
                 }
             }
@@ -21712,14 +21837,6 @@
             }
         },
         {
-            "lactante": {
-                "Traduções": {
-                    "en": "newborn, nursling",
-                    "es": "lactante"
-                }
-            }
-        },
-        {
             "lipotímia": {
                 "Traduções": {
                     "en": "unconsciousness, faint, swoon",
@@ -22049,14 +22166,6 @@
             }
         },
         {
-            "víctima": {
-                "Traduções": {
-                    "en": "victim",
-                    "es": "víctima"
-                }
-            }
-        },
-        {
             "vomitar": {
                 "Traduções": {
                     "en": "vomit",
@@ -22356,13 +22465,6 @@
             }
         },
         {
-            "veículo": {
-                "Descrições": {
-                    "exp pop": "Expressão Popular - transportador; excipiente"
-                }
-            }
-        },
-        {
             "vial": {
                 "Descrições": {
                     "exp pop": "Expressão Popular - pequena ampola, frasco"
@@ -22398,14 +22500,6 @@
                 "Traduções": {
                     "en": "juvenile",
                     "es": "adolescente"
-                }
-            }
-        },
-        {
-            "após": {
-                "Traduções": {
-                    "en": "after",
-                    "es": "después"
                 }
             }
         },
@@ -22585,14 +22679,6 @@
             }
         },
         {
-            "enfermeira": {
-                "Traduções": {
-                    "en": "nurse",
-                    "es": "enfermera /-o"
-                }
-            }
-        },
-        {
             "fonação": {
                 "Traduções": {
                     "en": "phonation, voice production",
@@ -22668,14 +22754,6 @@
             }
         },
         {
-            "mecânico": {
-                "Traduções": {
-                    "en": "mechanic(al)",
-                    "es": "mecánico"
-                }
-            }
-        },
-        {
             "neuropsicologia": {
                 "Traduções": {
                     "en": "neuropsychology",
@@ -22726,13 +22804,6 @@
             }
         },
         {
-            "pertosse": {
-                "Descrições": {
-                    "exp pop": "Expressão Popular - esgana, coqueluche, tosse convuls(iv)a"
-                }
-            }
-        },
-        {
             "pessoa com deficiência grave": {
                 "Traduções": {
                     "en": "handicapped, disabled",
@@ -22756,14 +22827,6 @@
                 "Traduções": {
                     "en": "psychiatric",
                     "es": "psiquiátrico"
-                }
-            }
-        },
-        {
-            "ramo": {
-                "Traduções": {
-                    "en": "branch",
-                    "es": "rama"
                 }
             }
         },
@@ -23045,14 +23108,6 @@
                 "Traduções": {
                     "en": "cylinder",
                     "es": "cilindro"
-                }
-            }
-        },
-        {
-            "consequência": {
-                "Traduções": {
-                    "en": "result, consequence (of…)",
-                    "es": "consecuencia (de…)"
                 }
             }
         },
@@ -23372,14 +23427,6 @@
                 },
                 "Traduções": {
                     "en": "Resuscitation"
-                }
-            }
-        },
-        {
-            "sequência": {
-                "Traduções": {
-                    "en": "result, consequence (as a result of a fall two weeks ago)",
-                    "es": "secuela (en la s. de caída hace 2 semanas)"
                 }
             }
         },
@@ -25522,17 +25569,6 @@
             }
         },
         {
-            "órgãos genitais": {
-                "Descrições": {
-                    "desc_pt": "Google Tradutor - Os órgãos sexuais ou reprodutivos.",
-                    "desc_en": "ACOG - The sexual or reproductive organs."
-                },
-                "Traduções": {
-                    "en": "Genitals"
-                }
-            }
-        },
-        {
             "ortostático": {
                 "Descrições": {
                     "exp pop": "Expressão Popular - relativo à posição do pé ou causado por ele"
@@ -26210,7 +26246,7 @@
         {
             "testículos": {
                 "Descrições": {
-                    "desc_pt": "Google Tradutor - Órgãos masculinos emparelhados que produzem esperma e o hormônio sexual masculino testosterona. Também chamados de “testículos”.",
+                    "desc_pt": "Google Tradutor - Órgãos masculinos pareados que produzem esperma e o hormônio sexual masculino testosterona. Também chamados de “testículos”.",
                     "desc_en": "ACOG - Paired male organs that make sperm and the male sex hormone testosterone. Also called “testes.”"
                 },
                 "Traduções": {
@@ -26745,14 +26781,6 @@
                 "Traduções": {
                     "en": "ovulation, follicular rupture",
                     "es": "ovulación"
-                }
-            }
-        },
-        {
-            "participação": {
-                "Traduções": {
-                    "en": "involvement",
-                    "es": "participación"
                 }
             }
         },
@@ -27346,13 +27374,6 @@
             }
         },
         {
-            "simultâneo": {
-                "Descrições": {
-                    "exp pop": "Expressão Popular - contemporâneo"
-                }
-            }
-        },
-        {
             "solícito": {
                 "Traduções": {
                     "en": "usefull",
@@ -27457,7 +27478,7 @@
         {
             "zika": {
                 "Descrições": {
-                    "desc_pt": "Google Tradutor - Uma doença causada pelo vírus Zika, que é transmitida por picadas de mosquito.",
+                    "desc_pt": "Google Tradutor - Doença causada pelo vírus Zika, transmitida por picadas de mosquito.",
                     "desc_en": "ACOG - A disease caused by the Zika virus, which is spread through mosquito bites."
                 },
                 "Traduções": {

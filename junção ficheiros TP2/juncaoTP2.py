@@ -2,7 +2,7 @@ import json
 import locale
 from unidecode import unidecode
 
-locale.setlocale(locale.LC_ALL, '')
+locale.setlocale(locale.LC_COLLATE, 'pt_PT.UTF-8')
 
 with open ("junção ficheiros TP2/url_cruzverde.json", "r", encoding="UTF8") as file:
     cv = json.load(file)
@@ -13,6 +13,7 @@ with open ("ficheiros_TP1/dicionario_final.json", "r", encoding="UTF8") as file:
 with open ("output/dic_mulher_final.json", "r", encoding="UTF8") as file:
     dic_mulher = json.load(file)
 
+# dicionário c/ chave unidecode e lower para posterior correta comparação
 cv_new = {unidecode(key.lower()): value for key, value in cv.items()}
 dic_mulher_new = {unidecode(key.lower()): value for key, value in dic_mulher.items()}
 dic_new = {unidecode(key.lower()): value for key, value in dic.items()}
@@ -40,8 +41,6 @@ for key, value in dic.items():
         value['Traduções'] = {'en':dic_mulher_new[unidecode(key.lower())]['Traduções']['en']}
 
 dic = dict(sorted(dic.items(), key=lambda x: locale.strxfrm(x[0])))
-
-print(len(dic))
 
 file = open("output/novo_dic.json", "w",encoding="utf-8")
 json.dump(dic, file, ensure_ascii=False, indent=4)
