@@ -2,7 +2,7 @@ import re
 import json
 from deep_translator import GoogleTranslator
 
-with open ("Glossário Covid/WIPOPearl_COVID-19_Glossary.xml","r", encoding="UTF8") as file:
+with open ("ficheiros_TP1/Glossário Covid/WIPOPearl_COVID-19_Glossary.xml","r", encoding="UTF8") as file:
     lines = file.read()
 
 # Remover
@@ -38,7 +38,7 @@ lines = re.sub(r'COVID-19 Glossary\s+\d+', "", lines)
 # fica-se com: termo, descrição, tradução FR e tradução PT
 
 # eliminar lixo que permanece no documento original, como <b> </b> a separar frases
-lines = re.sub(r'<b> </b>', r' ', lines)
+lines = re.sub(r'<b>,?\s</b>', r' ', lines)
 lines = re.sub(r'</b><b>', r'', lines)
 
 # eliminar os sinónimos quer nos termos quer nas descrições/traduções
@@ -55,7 +55,7 @@ lines = re.sub(r'&lt;', r'<', lines)
 lines = re.sub(r'&amp;', r'&', lines)
 
 
-alt = open("Glossário Covid/alterado.xml", "w", encoding="UTF8")
+alt = open("ficheiros_TP1/Glossário Covid/alterado.xml", "w", encoding="UTF8")
 alt.write(lines)
 alt.close()
 
@@ -63,7 +63,7 @@ alt.close()
 # obtenção dos tuplos para posterior criação do dicionário
 # <b>\s*(.*?)\s*<\/b>(\s\(syn\.\)\s.*?\s{3})?(.*?)<b>\s*AR\s*<\/b>\s*(.*?)\s*<b>DE\s*<\/b>\s*(.*?)<b>ES\s*<\/b>\s*(.*?)<b>FR\s*<\/b>\s*(.*?)<b>JA\s*<\/b>\s*(.*?)<b>KO\s*<\/b>\s*(.*?)<b>PT\s*<\/b>\s*(.*?)<b>RU\s*<\/b>\s*(.*?)<b>ZH\s*<\/b>\s*(.*?)(?=<b>|\Z)
 # solução sem syn: <b>\s*(.*?)\s*<\/b>(.*?)<b>\s*AR\s*<\/b>\s*(.*?)\s*<b>DE\s*<\/b>\s*(.*?)<b>ES\s*<\/b>\s*(.*?)<b>FR\s*<\/b>\s*(.*?)<b>JA\s*<\/b>\s*(.*?)<b>KO\s*<\/b>\s*(.*?)<b>PT\s*<\/b>\s*(.*?)<b>RU\s*<\/b>\s*(.*?)<b>ZH\s*<\/b>\s*(.*?)(?=<b>|\Z)
-entries = re.findall(r"<b>\s*(.*?)\s*<\/b>(\s\(syn\.\)\s.*?\s{3})?(.*?)<b>\s*AR\s*<\/b>\s*(.*?)\s*<b>DE\s*<\/b>\s*(.*?)<b>ES\s*<\/b>\s*(.*?)<b>FR\s*<\/b>\s*(.*?)<b>JA\s*<\/b>\s*(.*?)<b>KO\s*<\/b>\s*(.*?)<b>PT\s*<\/b>\s*(.*?)<b>RU\s*<\/b>\s*(.*?)<b>ZH\s*<\/b>\s*(.*?)(?=<b>|\Z)", lines, re.DOTALL)
+entries = re.findall(r"<b>\s*(.*?)\s*<\/b>(\s*\(syn\.\)\s.*?\s{1,3})?(\s*[A-Z][a-z]?.*?)<b>\s*AR\s*<\/b>\s*(.*?)\s*<b>DE\s*<\/b>\s*(.*?)<b>ES\s*<\/b>\s*(.*?)<b>FR\s*<\/b>\s*(.*?)<b>JA\s*<\/b>\s*(.*?)<b>KO\s*<\/b>\s*(.*?)<b>PT\s*<\/b>\s*(.*?)<b>RU\s*<\/b>\s*(.*?)<b>ZH\s*<\/b>\s*(.*?)(?=<b>|\Z)", lines, re.DOTALL)
 
 entries = [(term.strip(), syn.strip(), desc.strip(), ar.strip().rstrip(), de.strip().rstrip(), es.strip().rstrip(), fr.strip().rstrip(), ja.strip().rstrip(), ko.strip().rstrip(), pt.strip().rstrip(), ru.strip().rstrip(), zh.strip().rstrip(),) for term, syn, desc, ar, de, es, fr, ja, ko, pt, ru, zh in entries]
 
