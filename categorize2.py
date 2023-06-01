@@ -14,7 +14,7 @@ from deep_translator import GoogleTranslator
 import gensim.downloader as api
 # print(list(gensim.downloader.info()['models'].keys()))´
 
-wv = api.load('glove-twitter-50')
+#wv = api.load('glove-twitter-50')
 
 file = open("./output/novo_dic.json", encoding='utf-8')
 dic = dict(json.load(file))
@@ -63,9 +63,15 @@ health_terms = [
 
 sim = {}
 
-for key in dic.keys():
+for key, value in dic.items():
     sim_cat = []
-    new_key = GoogleTranslator(source='en', target='pt').translate(key)
+    if value.get("Traduções") is not None:
+        if value['Traduções'].get('en') is not None:
+            new_key = value['Traduções']['en']
+            print("Original:", new_key)
+    else:
+        new_key = GoogleTranslator(source='pt', target='en').translate(key)
+        print("Traduzida:", new_key)
     for entry in health_terms:
         if new_key in wv and entry in wv:
             similarity = float(wv.similarity(new_key, entry))
