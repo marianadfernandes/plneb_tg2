@@ -20,7 +20,7 @@ def get_google_image(query):
 
     # Find the first image result
     image_element = soup.find('img')
-    # print(image_element)
+    print(image_element)
 
 
     # # Extract the image URL
@@ -41,13 +41,16 @@ file = open("./output/novo_dic.json", encoding="utf-8")
 db = json.load(file)
 file.close()
 
-images = []
+# images = []
 
-for key in db.keys():
-    image_element = get_google_image(key)
-    images.append(image_element)
+# for key in db.keys():
+#     image_element = get_google_image(key)
+#     images.append(image_element)
 
+# print(images)
 
-file = open("./output/img_elements.json","w", encoding="utf8")
-json.dump(images,file, ensure_ascii=False, indent = 4)
+get_google_image("cats")
+
+file = open("./output/img_elements.txt","w", encoding="utf8")
+file.write(images)
 file.close()

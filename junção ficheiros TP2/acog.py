@@ -15,31 +15,37 @@ soup = BeautifulSoup(html, "html.parser")
 divs = soup.find_all("div", class_="wysiwyg-content section-terms")
 
 dic = {}
+final_dic = {}
 
 for div in divs:
-    terms = div.find_all("span", class_="section-term")
-    for term in terms:
 
-        title = term.text.strip() # Termo
+    ps = div.find_all("p")
 
-        description = term.find_next("span").text.strip() #Descrição
-       
+    for p in ps:
+        termo = p.find("span", class_="section-term")
+        if termo:
+            t = termo.text
+            descricao = p.find("span", class_="section-term-definition")
+            if descricao:
+                desc = descricao.text
 
-        translator = GoogleTranslator(source='en', target='pt')
-        translated_title = translator.translate(title)
-        translated_description = translator.translate(description)
+                dic[t] = desc
+    
+                translator = GoogleTranslator(source='en', target='pt')
+                translated_title = translator.translate(t)
+                translated_description = translator.translate(desc)
 
-        dic[translated_title] = {
-            "desc_pt": translated_description,
-            "en": title,
-            "desc_en": description
-        }
-        print(dic)
+                final_dic[translated_title] = {
+                    "desc_pt": translated_description,
+                    "en": t,
+                    "desc_en": desc
+                }
+
 
 # Ordenar o dicionário por ordem alfabética
-#dic = sorted(dic.items())
-dic = dict(sorted(dic.items(), key=lambda x: locale.strxfrm(x[0])))
+final_dic = dict(sorted(dic.items(), key=lambda x: locale.strxfrm(x[0])))
+
       
 file = open("acog.json", "w",encoding="utf-8")
-json.dump(dic, file, ensure_ascii=False, indent=4)
+json.dump(final_dic, file, ensure_ascii=False, indent=4)
 file.close()
