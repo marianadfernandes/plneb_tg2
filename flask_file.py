@@ -33,19 +33,34 @@ def terms():
     return render_template("terms.html", designations=db.keys())
 
 
+@app.route("/term/<designation>", methods=["DELETE"])
+def deleteTerm(designation):
+    desc = db[designation]
+    if designation in db:
+        print(designation)
+        del db[designation] 
+        print(db.get(designation))
+        file_save = open("./output/terms_changed.json","w", encoding="utf-8")
+        json.dump(db, file_save, ensure_ascii=False, indent=4)
+        file_save.close()
+        
+    return {designation: {"desc": desc}}
+
+
 @app.route("/term/<t>")
 def term(t):
     return render_template("term.html", designation=t, value=db.get(t, "None"))
 
 
-@app.route("/add-term")
-def add():
-    return render_template("add_term.html", designations=db.keys())
+@app.route("/categories")
+def categories():
+    return render_template("categories.html", categories=cat.items())
 
 
 @app.route("/table")
 def table():
     return render_template("table.html", designations=db.items())
+
 
 
 @app.route("/terms/search")
@@ -58,15 +73,15 @@ def search():
     if text:
         for designation, description in db.items():
             if re.search(text, designation, flags=re.I):
-                lista.append((designation, description))
-            
+                    lista.append((designation, description))
+                
             else:
                 # percorre as chaves do dicionário grande, ou seja Descrições / Traduções
                 for value in description.values():
-                    for item in list(value.values()):
-                        if re.search(text, item, flags=re.I):
-                            lista.append((designation, description))
-    
+                        for item in list(value.values()):
+                            if re.search(text, item, flags=re.I):
+                                lista.append((designation, description))
+        
     category = request.args.get("category")
     cat_dic = {}
 
@@ -81,6 +96,11 @@ def search():
     
     return render_template("search.html", matched = lista, matched_cat = cat_dic, message = msg)
 
+
+
+@app.route("/add-term")
+def add():
+    return render_template("add_term.html", designations=db.keys())
 
 
 @app.route("/term", methods=["POST"])
@@ -139,27 +159,10 @@ def addTerm():
 
 
 
-@app.route("/term/<designation>", methods=["DELETE"])
-def deleteTerm(designation):
-    desc = db[designation]
-    if designation in db:
-        print(designation)
-        del db[designation] 
-        print(db.get(designation))
-        file_save = open("./output/terms_changed.json","w", encoding="utf-8")
-        json.dump(db, file_save, ensure_ascii=False, indent=4)
-        file_save.close()
-        
-    return {designation: {"desc": desc}}
 
 
+#--------------------- Case study: Saúde da Mulher ---------------------
 
-@app.route("/categories")
-def categories():
-    return render_template("categories.html", categories=cat.items())
-
-
-#--------------------- Case study: Saúde da Mulher
 file = open("./output/dic_mulher_final.json", encoding='utf-8')
 mulher = json.load(file)
 print("tamanho dicionário mulher: ", len(mulher))
@@ -189,14 +192,16 @@ def search_woman():
     if text:
         for designation, description in mulher.items():
             if re.search(text, designation, flags=re.I):
-                lista.append((designation, description))
+                if designation not in lista:
+                    lista.append((designation, description))
             
             else:
                 # percorre as chaves do dicionário grande, ou seja Descrições / Traduções
                 for value in description.values():
                     for item in list(value.values()):
                         if re.search(text, item, flags=re.I):
-                            lista.append((designation, description))
+                            if designation not in lista:
+                                lista.append((designation, description))
     
     
     if len(lista) == 0 and text:

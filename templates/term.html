@@ -3,6 +3,14 @@
 {% block body %}
 
 <h3 style="margin-left: 15rem; margin-top: 2rem;">Termo: {{ designation }}</h3>
+{% if value['Descrições'] %}
+    {% if value['Descrições']['syn'] %}
+        <hr>
+        <h6 style="margin-left: 15rem; margin-top: 2rem;">Syn (EN): {{ value['Descrições']['desc_pt'] }}</h6>
+    {% else %}
+        <h6 style="margin-left: 15rem; margin-top: 2rem;">Syn (EN): -</h6>
+    {% endif %}
+{% endif %}
 <div class="container w-75 p-4" style="display: flex; justify-content: space-between;"">
     
     <!-- ------------TRADUÇÕES------------ -->
