@@ -1,14 +1,4 @@
 {
-    "(d)escamação": {
-        "Descrições": {
-            "exp pop": "Expressão Popular - formação excessiva de escamas na pele"
-        }
-    },
-    "(herpes) zóster": {
-        "Descrições": {
-            "exp pop": "Expressão Popular - vírus instalado à volta das células sensitivas"
-        }
-    },
     "à morte": {
         "Traduções": {
             "en": "mortally ill, dying",
@@ -5113,11 +5103,6 @@
         }
     },
     "blister": {
-        "Descrições": {
-            "exp pop": "Expressão Popular - frasco de X comprimidos recobertos de plástico"
-        }
-    },
-    "'blister'": {
         "Descrições": {
             "exp pop": "Expressão Popular - frasco de X comprimidos recobertos de plástico"
         }
@@ -10384,16 +10369,6 @@
             "es": "de término"
         }
     },
-    "de(s)compensação": {
-        "Descrições": {
-            "exp pop": "Expressão Popular - desengano (do doente da gravidade do seu mal)"
-        }
-    },
-    "de(s)polarização": {
-        "Descrições": {
-            "exp pop": "Expressão Popular - despolarização"
-        }
-    },
     "deambular": {
         "Traduções": {
             "en": "walk around",
@@ -11042,6 +11017,9 @@
         }
     },
     "descamação": {
+        "Descrições": {
+            "exp pop": "Expressão Popular - formação excessiva de escamas na pele"
+        },
         "Traduções": {
             "en": "desquamation (of the palms/soles)",
             "es": "descamación (palmar/ plantar)"
@@ -11100,6 +11078,9 @@
         }
     },
     "descompensação": {
+        "Descrições": {
+            "exp pop": "Expressão Popular - desengano (do doente da gravidade do seu mal)"
+        },
         "Traduções": {
             "en": "decompensation",
             "es": "descompensación"
@@ -11411,6 +11392,11 @@
         "Traduções": {
             "en": "take off, remove (take off your clothes!)",
             "es": "desnudarse (!desnúdese!)"
+        }
+    },
+    "despolarização": {
+        "Descrições": {
+            "exp pop": "Expressão Popular - despolarização"
         }
     },
     "desregulação": {
@@ -16239,7 +16225,7 @@
             "es": "estruma"
         }
     },
-    "estruma(s)": {
+    "estrumas": {
         "Descrições": {
             "exp pop": "Expressão Popular - escrófula(s), bócio, engrossamento dos tiróides"
         }
@@ -25593,12 +25579,12 @@
             "es": "maxilar superior"
         }
     },
-    "máximo (adj)": {
+    "máximo adj": {
         "Descrições": {
             "exp pop": "Expressão Popular - máximo"
         }
     },
-    "máximo (subst)": {
+    "máximo subst": {
         "Descrições": {
             "exp pop": "Expressão Popular - máximo, limite superior"
         }
@@ -26655,12 +26641,12 @@
             "exp pop": "Expressão Popular - reduzir (ao mínimo), limitar"
         }
     },
-    "mínimo (adj)": {
+    "mínimo adj": {
         "Descrições": {
             "exp pop": "Expressão Popular - mínimo, ínfimo"
         }
     },
-    "mínimo (subst)": {
+    "mínimo subst": {
         "Descrições": {
             "exp pop": "Expressão Popular - mínimo, limite inferior"
         }
@@ -27107,7 +27093,7 @@
             "zh": "罹病率"
         }
     },
-    "morbidez(a)": {
+    "morbideza": {
         "Descrições": {
             "exp pop": "Expressão Popular - taxa de doentes numa população"
         }
@@ -33441,13 +33427,9 @@
             "exp pop": "Expressão Popular - motor"
         }
     },
-    "prostaglandina(s)": {
-        "Descrições": {
-            "exp pop": "Expressão Popular - substâncias derivadas de ácidos gordos"
-        }
-    },
     "prostaglandinas": {
         "Descrições": {
+            "exp pop": "Expressão Popular - substâncias derivadas de ácidos gordos",
             "desc_pt": "Google Tradutor - Substâncias químicas produzidas pelo corpo que têm muitos efeitos, inclusive fazendo com que os músculos do útero se contraiam, geralmente causando cãibras.",
             "desc_en": "ACOG - Chemicals that are made by the body that have many effects, including causing the muscles of the uterus to contract, usually causing cramps."
         },
@@ -39697,7 +39679,7 @@
             "es": "tinnitus"
         }
     },
-    "tinitus (aurium)": {
+    "tinitus aurium": {
         "Descrições": {
             "exp pop": "Expressão Popular - zumbido do ouvido"
         }
@@ -40205,7 +40187,7 @@
             "es": "tracoma"
         }
     },
-    "tracto (gastrintestinal)": {
+    "tracto gastrintestinal": {
         "Descrições": {
             "exp pop": "Expressão Popular - tubo digestivo, incluindo a boca, esófago, estômago, intestinosdelgado e grosso, recto, ânos e glândulas anexas (vesícula biliar e pâncreas)"
         }

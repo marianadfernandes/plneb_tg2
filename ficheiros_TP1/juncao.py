@@ -7,7 +7,7 @@ import re
 locale.setlocale(locale.LC_COLLATE, 'pt_PT.UTF-8')
 
 with open('ficheiros_TP1/glossario_exppop.json', 'r', encoding="utf8") as file:
-    exps = dict(json.load(file))
+    exp = dict(json.load(file))
 
 with open('ficheiros_TP1/glos_covid.json', 'r', encoding="utf8") as file:
     covid_original = dict(json.load(file))
@@ -15,8 +15,11 @@ with open('ficheiros_TP1/glos_covid.json', 'r', encoding="utf8") as file:
 with open('ficheiros_TP1/dicionario_obrigatorio.json', 'r', encoding="utf8") as file:
     obg = dict(json.load(file))
     
+exps = {}
 # formatação do dicionário glossário de expressões de populares
-for key, value in exps.items():
+for key, value in exp.items():
+    key = re.sub(r'\(', r'', key)
+    key = re.sub(r'\)', r'', key)
     exps[key] = {"Descrições": {"exp pop" : value}}
 
 # formatação do dicionário de covid - chave em pt

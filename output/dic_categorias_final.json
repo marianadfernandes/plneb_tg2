@@ -534,6 +534,13 @@
             }
         },
         {
+            "estrumas": {
+                "Descrições": {
+                    "exp pop": "Expressão Popular - escrófula(s), bócio, engrossamento dos tiróides"
+                }
+            }
+        },
+        {
             "expectorante": {
                 "Descrições": {
                     "exp pop": "Expressão Popular - remédio para desprender o muco dos pulmões e facilitar a tosse"
@@ -13690,7 +13697,7 @@
             }
         },
         {
-            "morbidez(a)": {
+            "morbideza": {
                 "Descrições": {
                     "exp pop": "Expressão Popular - taxa de doentes numa população"
                 }
@@ -15764,6 +15771,13 @@
             "despigmentação": {
                 "Descrições": {
                     "exp pop": "Expressão Popular - escassez ou carência total de pigmentação da pele"
+                }
+            }
+        },
+        {
+            "despolarização": {
+                "Descrições": {
+                    "exp pop": "Expressão Popular - despolarização"
                 }
             }
         },
@@ -18970,6 +18984,7 @@
         {
             "prostaglandinas": {
                 "Descrições": {
+                    "exp pop": "Expressão Popular - substâncias derivadas de ácidos gordos",
                     "desc_pt": "Google Tradutor - Substâncias químicas produzidas pelo corpo que têm muitos efeitos, inclusive fazendo com que os músculos do útero se contraiam, geralmente causando cãibras.",
                     "desc_en": "ACOG - Chemicals that are made by the body that have many effects, including causing the muscles of the uterus to contract, usually causing cramps."
                 },
@@ -24148,13 +24163,6 @@
             }
         },
         {
-            "de(s)compensação": {
-                "Descrições": {
-                    "exp pop": "Expressão Popular - desengano (do doente da gravidade do seu mal)"
-                }
-            }
-        },
-        {
             "demente": {
                 "Traduções": {
                     "en": "demented",
@@ -24191,6 +24199,9 @@
         },
         {
             "descompensação": {
+                "Descrições": {
+                    "exp pop": "Expressão Popular - desengano (do doente da gravidade do seu mal)"
+                },
                 "Traduções": {
                     "en": "decompensation",
                     "es": "descompensación"
